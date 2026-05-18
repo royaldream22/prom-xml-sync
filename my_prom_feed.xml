@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-18 18:20">
+<yml_catalog date="2026-05-18 18:44">
     <shop>
         <categories>
             <category id="10">Рюкзаки</category>
@@ -17,6 +17,7 @@
                 <categoryId>100</categoryId>
                 <portal_category_id>380601.0</portal_category_id>
                 <price>4146</price>
+                <oldprice>4995</oldprice>
                 <currencyId>UAH</currencyId>
                 <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/18/82182667556088_+385f6ee71f.jpg</picture>
@@ -49,6 +50,7 @@
                 <categoryId>150</categoryId>
                 <portal_category_id>380650.0</portal_category_id>
                 <price>1277</price>
+                <oldprice>1824</oldprice>
                 <currencyId>UAH</currencyId>
                 <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/32/37779166924301_+26f9bfe4d5.jpeg</picture>
@@ -83,6 +85,7 @@
                 <categoryId>151</categoryId>
                 <portal_category_id>380650.0</portal_category_id>
                 <price>2782</price>
+                <oldprice>3613</oldprice>
                 <currencyId>UAH</currencyId>
                 <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/44821557224410_+5064e54c93.jpeg</picture>
@@ -112,19 +115,315 @@
                 <param name="Можно носить">На запястье </param>
                 <param name="Формат">Горизонтальный</param>
             </offer>
-            <offer id="1004" available="true">
+            <offer id="49719" available="false">
                 <url />
-                <name>nan</name>
-                <name_ua>nan</name_ua>
-                <categoryId>120</categoryId>
+                <name>Рюкзак Vintage 14481 Бежевый</name>
+                <name_ua>Рюкзак Vintage 14481 Бежевий</name_ua>
+                <categoryId>80</categoryId>
                 <portal_category_id>nan</portal_category_id>
-                <price>1275</price>
+                <price>1627</price>
+                <oldprice>2711</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
-                <vendorCode>14602</vendorCode>
-                <vendor>nan</vendor>
-                <description><![CDATA[nan]]></description>
-                <description_ua><![CDATA[nan]]></description_ua>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/20/99078183470077_+8a9ac133c5.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/52520197766772_+029cee73e0.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/25704432233179_+35154fa1fd.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/ryukzak-vintage-14481-bezhevyj.html-98001323310894_+abbd8b4ff9.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/ryukzak-vintage-14481-bezhevyj.html-52755323690751_+bd83be650e.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/72379815963967_+44dbffd362.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/20525790198320_+170133aa77.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/41196265492090_+6cbf976f61.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/56424019434565_+44e7839c86.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/76230309549428_+02f17a5800.jpeg</picture>
+                <vendorCode>14481</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Материал: текстиль;<br />  Цвет: бежевый;<br />  Размеры (ШхВхГ, см): 24х32х9.</p>    <p>Стильный рюкзак с качественного текстиля, с надежной фурнитурой, станет неотъемлемым помощником, как в повседневной жизни, так и в путешествиях.<br />  <strong><span style="font-size:20px;">Характеристики:</span></strong><br />  - один основной отдел на замке с двумя бегунками;<br />  - внутри тайничок на молнии и открытый карманчик для планшета, а также карманчик для телефона;<br />  - клапан на магнитах с прорезным карманчиком на молнии;<br />  - под клапаном два нашивных кармана, один из которых на молнии;<br />  - сбоку маленький карман на кнопке;<br />  - регулируемые текстильные шлейки;<br />  - ручка для ношения в руке;<br />  - мягкая спинка.<br />  Аксессуар великолепно комбинируется со стилем кэжуал, спортивным или винтажным.<br />  Если Вы искали надежный рюкзак на множество сезонов, то он перед Вами.&nbsp;</p>    <p>&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: текстиль;<br />  Колір: бежевий;<br />  Розміри (ШхВхГ, см): 24х32х9.</p>    <p>Стильний рюкзак з якісного текстилю, з надійною фурнітурою, стане невід&#39;ємним помічником, як у повсякденному житті, так і в подорожах.</p>    <p><strong>Особливості</strong>:</p>    <p>- один основний відділ на замку з двома бігунками;<br />  - всередині потайна кишеня на блискавці і відкрита кишенька для планшета, а також кишеня для телефону;<br />  - клапан на магнітах з прорізною кишенею на блискавці;<br />  - під клапаном дві нашивні кишені, одина з яких на блискавці;<br />  - збоку маленька кишеня на кнопці;<br />  - регульовані текстильні шлейки;<br />  - ручка для носіння в руці;<br />  - м&#39;яка спинка.</p>    <p>Аксесуар чудово комбінується зі стилем кежуал, спортивним або вінтажним.<br />  Якщо Ви шукали надійний рюкзак на безліч сезонів, то він перед Вами.</p>    <p><strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Бежевий</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Ткань</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">24х32х9</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Страна производитель">Китай</param>
+                <param name="Иконки">BESTSELLER|TopPrice</param>
+            </offer>
+            <offer id="49720" available="false">
+                <url />
+                <name>Рюкзак Vintage 14482 Синий</name>
+                <name_ua>Рюкзак Vintage 14482 Синій</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>2422</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/21/36459251866982_+5def90e7a2.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/17220539420850_+76616bd647.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/ryukzak-vintage-14482-sinij.html-61858841230919_+c9cebb0be6.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/ryukzak-vintage-14482-sinij.html-64926315087592_+7186eb8bb0.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/72758774016511_+4bb47f7a91.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/27238830065113_+6c7841d701.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/86149554020822_+b6bc7910a0.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/64342421023301_+88f079dc82.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/19763903619781_+c02d1ecaf6.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/35338966326370_+9e5f728e6f.jpeg</picture>
+                <vendorCode>14482</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>&nbsp;</p>    <p>Материал: текстиль;<br />  Цвет: синий;<br />  Размеры (ШхВхГ, см): 24х32х9см.</p>    <p><span style="font-size:14px;"><span style="line-height:115%">Удобный рюкзак с качественного текстиля, с надежной фурнитурой, станет неотъемлемым помощником, как в повседневной жизни, так и в путешествиях.</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%"><strong>Характеристики:</strong></span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- один основной отдел на замке с двумя бегунками;</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- внутри тайничок на молнии и открытый карманчик для планшета, а также карманчик для телефона;</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- клапан на магнитах с карманчиком на молнии;</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- под клапаном два нашивных кармана, один из которых на молнии;</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- сбоку маленький карман на кнопке;</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- регулируемые текстильные шлейки;</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- ручка для ношения в руке;</span></span></p>    <p><span style="font-size:14px;"><span style="line-height:115%">- мягкая спинка.</span></span></p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: текстиль;<br />  Колір: синій;<br />  Розміри (ШхВхГ, см): 24х32х9см.</p>    <p>Зручний рюкзак з якісного текстилю, з надійною фурнітурою, стане невід&#39;ємним помічником, як у повсякденному житті, так і в подорожах.</p>    <p><span style="font-size: 14px;"><span style="line-height: 115%"><strong>Особливості</strong>:</span></span></p>    <p><span style="font-size: 14px;"><span style="line-height: 115%">- один основний відділ на блискавці з двома бігунками;<br />  - всередині потайна кишеня на блискавці і відкрита кишенька для планшета, а також кишеня&nbsp;для телефону;<br />  - клапан на магнітах з кишенькою на блискавці;<br />  - під клапаном дві нашивні кишені, одина з яких на блискавці;<br />  - збоку маленька кишеня на кнопці;<br />  - регульовані текстильні шлейки;<br />  - ручка для носіння в руці;<br />  - м&#39;яка спинка.&nbsp;</span></span><br />  <strong><span style="font-size: 14px;"><span style="line-height: 115%"><!-- p--></span></span></strong></p>]]></description_ua>
+                <param name="Цвет">Синій</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Ткань</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">24х32х9</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Страна производитель">Китай</param>
+                <param name="Иконки">TopPrice</param>
+            </offer>
+            <offer id="49748" available="false">
+                <url />
+                <name>Рюкзак женский нейлоновый Vintage 14805 Черный</name>
+                <name_ua>Рюкзак жіночий нейлоновий Vintage 14805 Чорний</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>1432</price>
+                <oldprice>2169</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/49/11484598966364_+7c27e5cbf9.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/94424907085827_+323d07071b.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/ryukzak-zhenskij-nejlonovyj-vintage-14805-chernyj.html-26928647625518_+b5512442b1.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/ryukzak-zhenskij-nejlonovyj-vintage-14805-chernyj.html-68366546314072_+9fa893f1fb.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/53483081586292_+2674ab98ac.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/63198425834921_+b121a91d79.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/75189775932070_+3f24d549f0.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/52134035095845_+520ff5aedb.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/96931678652386_+81d77a0a25.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/49/53983178732454_+7d02bf2d84.jpeg</picture>
+                <vendorCode>14805</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Материал: водонепроницаемый нейлон;<br />  Цвет: черный;<br />  Размеры (ШхВхГ, см): 27,5х28,5х10.</p>    <p><strong>Особенности:</strong><br />  - два основных отделения на молнии;<br />  - в дальнем уплотненный карман для ноутбука, 2 открытых кармана;<br />  - накладной карман на молнии;<br />  - встроенный карман на молнии на лицевой стороне;<br />  - карман на молнии на тыльной стороне.&nbsp;</p>    <p>Современный женский рюкзак компактного размера на каждый день. Аксессуар имеет оригинальный классический дизайн, который не привязывает вас к определенному стилю. Модель дополнена блестящей золотистой фурнитурой и очень приятная на ощупь. В аксессуар легко поместится косметичка, деньги, ежедневник или любимая книга, а также другие необходимые женские мелочи. Очень хорошая модель на каждый день. Рюкзак выполнен из плотного нейлона и прослужит вам сравнительно долго. Несмотря на свой небольшой размер аксессуар очень вместительный и удобный. Рюкзак будет идеальным подарком для любой девушки.&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: водонепроникний нейлон;<br />  Колір: чорний;<br />  Розміри (ШхВхГ, см): 27,5х28,5х10.</p>    <p><strong>Особливості</strong>:&nbsp;</p>    <p>- два основних відділення на блискавці;<br />  - в дальньому ущільнена кишеня, дві відкритих кишені;<br />  - накладна кишеня на блискавці;<br />  - вбудована кишеня на блискавці на лицевій стороні;<br />  - кишеня на блискавці на тильній стороні.</p>    <p>Сучасний жіночий рюкзак компактного розміру на кожен день. Аксесуар має оригінальний класичний дизайн, який не прив&#39;язує вас до певного стилю. Модель доповнена блискучою золотистою фурнітурою і дуже приємна на дотик. В аксесуар легко поміститься косметичка, гроші, щоденник або улюблена книга, а також інші необхідні жіночі дрібниці. Дуже хороша модель на кожен день. Рюкзак виконаний з щільного нейлону і прослужить вам порівняно довго. Незважаючи на свій невеликий розмір аксесуар дуже вмісткий і зручний. Рюкзак буде ідеальним подарунком для будь-якої дівчини.&nbsp;</p>    <p><strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Ткань</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">27,5х28,5х10</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Женский</param>
+                <param name="Страна производитель">Китай</param>
+            </offer>
+            <offer id="49750" available="false">
+                <url />
+                <name>Рюкзак женский нейлоновый Vintage 14862 Красный</name>
+                <name_ua>Рюкзак жіночий нейлоновий Vintage 14862 Червоний</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>2157</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/1/99637813371944_+93ac9d0cf4.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/1/69496411579580_+8314780bcd.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/1/ryukzak-zhenskij-nejlonovyj-vintage-14862-krasnyj.html-24962930500479_+7ca1820150.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/1/ryukzak-zhenskij-nejlonovyj-vintage-14862-krasnyj.html-70648125222047_+ebfc234b1d.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/1/52350126967637_+e08b02d0eb.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/1/56119070942504_+7154919f6a.jpeg</picture>
+                <vendorCode>14862</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Материал: водонепроницаемый нейлон;<br />  Цвет: красный;<br />  Размеры (ШхВхГ, см): 35х33х10.</p>    <p><br />  <strong>Особенности:</strong><br />  - два основных отделения на молнии;<br />  - в дальнем уплотненный карман для ноутбука, 2 открытых кармана;<br />  - накладной карман на молнии;<br />  - встроенный карман на молнии на лицевой стороне;<br />  - карман на молнии на тыльной стороне.&nbsp;</p>    <p>Современный женский рюкзак компактного размера на каждый день. Аксессуар имеет оригинальный классический дизайн, который не привязывает вас к определенному стилю. Модель дополнена блестящей золотистой фурнитурой и очень приятная на ощупь. В аксессуар легко поместится косметичка, деньги, ежедневник или любимая книга, а также другие необходимые женские мелочи. Очень хорошая модель на каждый день. Рюкзак выполнен из плотного нейлона и прослужит вам сравнительно долго. Несмотря на свой небольшой размер аксессуар очень вместительный и удобный. Рюкзак будет идеальным подарком для любой девушки.&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: водонепроникний нейлон;<br />  Колір: червоний;<br />  Розміри (ШхВхГ, см): 35х33х10.</p>    <p><strong>Особливості</strong>:&nbsp;</p>    <p>- два основних відділення на блискавці;<br />  - в дальньому: ущільнена кишеня для ноутбука, 2 відкриті кишені;<br />  - накладна кишеня на блискавці;<br />  - вбудована кишеня на блискавці на лицевій стороні;<br />  - кишеня на блискавці на тильній стороні.&nbsp;</p>    <p>Сучасний жіночий рюкзак компактного розміру на кожен день. Аксесуар має оригінальний класичний дизайн, який не прив&#39;язує вас до певного стилю. Модель доповнена блискучою золотистою фурнітурою і дуже приємна на дотик. В аксесуар легко поміститься косметичка, гроші, щоденник або улюблена книга, а також інші необхідні жіночі дрібниці. Дуже хороша модель на кожен день. Рюкзак виконаний з щільного нейлону і прослужить вам порівняно довго. Незважаючи на свій невеликий розмір рюкзак дуже вмісткий і зручний. Буде ідеальним подарунком для будь-якої дівчини.&nbsp;</p>    <p><strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Червоний</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Маленькие</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">35х33х10</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Женский</param>
+                <param name="Страна производитель">Китай</param>
+            </offer>
+            <offer id="49770" available="false">
+                <url />
+                <name>Рюкзак нейлоновый Vintage 14821 Синий</name>
+                <name_ua>Рюкзак нейлоновий Vintage 14821 Синій</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>2074</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/21/80977891726650_+c53dbd35d5.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/13145567631079_+c7e0ae6124.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/ryukzak-nejlonovyj-vintage-14821-sinij.html-29196423848127_+17c495086d.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/ryukzak-nejlonovyj-vintage-14821-sinij.html-35594508209041_+672341c146.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/18566957998960_+77f0d9fc07.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/21/25259770094585_+8773113611.jpeg</picture>
+                <vendorCode>14821</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Материал: водонепроницаемый нейлон;<br />  Цвет: синий;<br />  Размеры (ШхВхГ, см): 36х41х5.</p>    <p><br />  <strong>Особенности:</strong><br />  - основное отделение на молнии;<br />  - 2 открытых накладных кармана для телефона;<br />  - потайной карман на молнии;<br />  - карман на молнии на тыльной стороне аксессуара;<br />  - 2 открытых накладных кармана по бокам рюкзака;<br />  - 2 накладных кармана на молнии на лицевой стороне;<br />  - внизу аксессуара вставка ткани в стиле милитари;<br />  - уплотненная спинка;<br />  - регулируемые текстильные ручки.&nbsp;</p>    <p>Крепкий нейлоновый рюкзак унисекс. Аксессуар очень легкий и носится без проблем. Модель имеет оптимальный размер и универсальный классический синий цвет. Рюкзак подойдет под любой гардероб и вам не придется носить все в руках. Аксессуар имеет крепкую, качественную фурнитуру в дизайн изделия. На задней стенке аксессуара уплотнительная спинка, что побережет вашу спину от тяжестей. Удобный вариант, как для города, так и для недлительных поездок.&nbsp;<br />  Рюкзак идеально подойдет для стандартного ноутбука. Может быть использован в качестве ручной клади в аэропорту. Если вы не любите носить все в руках &ndash; то рюкзак это отличное решение освободить ваши руки. Модель будет идеальным подарком для близкого человека.&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: водонепроникний нейлон;<br />  Колір: синій;<br />  Розміри (ШхВхГ, см): 36х41х5.</p>    <p><strong>Особливості</strong>:&nbsp;</p>    <p>- основне відділення на блискавці;<br />  - дві відкриті накладні кишені для телефону;<br />  - потайна кишеня на блискавці;<br />  - кишеня на блискавці на тильній стороні аксесуара;<br />  - дві відкриті накладні кишені з боків рюкзака;<br />  - дві накладні кишені на блискавці на лицевій стороні;<br />  - знизу аксесуару вставка тканини в стилі мілітарі;<br />  - щільна спинка;<br />  - регульовані текстильні лямки.&nbsp;</p>    <p>Міцний нейлоновий рюкзак унісекс. Аксесуар дуже легкий і носиться без проблем. Модель має оптимальний розмір і універсальний класичний синій колір. Рюкзак підійде під будь-який гардероб і вам не доведеться носити все в руках. Аксесуар має міцну, якісну фурнітуру в дизайн виробу. На задній стінці аксесуара ущільнена спинка, що побереже вашу спину від тягарів. Зручний варіант, як для міста, так і для нетривалих поїздок.&nbsp;<br />  Рюкзак ідеально підійде для стандартного ноутбука. Може бути використаний в якості ручної поклажі в аеропорту. Якщо ви не любите носити все в руках то рюкзак - це відмінне рішення звільнити ваші руки. Модель буде ідеальним подарунком для близької людини.</p>    <p><strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Синій</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">36х41х5</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Страна производитель">Китай</param>
+            </offer>
+            <offer id="51058" available="false">
+                <url />
+                <name>Мужской рюкзак из текстиля Vintage 20492 Черный</name>
+                <name_ua>Чоловічий рюкзак з текстилю Vintage 20492 Чорний</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>2000</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/9/71879173411372_+e94f33336c.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/20020302443967_+0c500b4ecd.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/muzhskoj-ryukzak-iz-tekstilya-vintage-20492-chernyj.html-97951757604958_+f3edf28d5a.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/muzhskoj-ryukzak-iz-tekstilya-vintage-20492-chernyj.html-78994798075833_+8319e2d380.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/42804605960747_+a9185ab4b2.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/67486495530962_+cab5b908e0.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/86230505921449_+0569c61015.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/19107025545899_+420c04499c.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/95797465082791_+d3c50b36f1.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/56519805647072_+b7f776ec02.jpeg</picture>
+                <vendorCode>20492</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Цвет: черный;<br />  Материал: текстиль;<br />  Размеры (ШхВхГ, см): 26х43х13см<br />  Страна производитель: Китай.<br />  Бренд: Vintage.</p>    <p>Описание:<br />  - основное отделение на молнии накрывается клапаном на кнопках;<br />  - внутри 2 кармана для телефона и ручек;<br />  - карман на липучке для планшета;<br />  - USB-разъём для зарядки;<br />  - на внешней стороне карман на кнопке и молнии;<br />  - два кармана по бокам на кнопках;<br />  - удобная ручка для переноса рюкзака в руках.</p>    <p>Замечательный и практичный мужской рюкзак высокого качества. Выполнен из прочного и износоустойчивого текстиля. Цвет &ndash; универсальный черный, поэтому подойдет под любую одежду. Такой рюкзак станет отличным подарком.</p>]]></description>
+                <description_ua><![CDATA[<p>Колір чорний;<br />  Матеріал: текстиль;<br />  Розміри (ШхВхГ, см): 26х43х13см<br />  Країна виробник: Китай.<br />  Бренд: Vintage.</p>    <p>Опис:<br />  - основне відділення на блискавці накривається клапаном на кнопках;<br />  - всередині 2 кишені для телефону та ручок;<br />  - кишеня на липучці для планшета;<br />  - USB-роз&#39;єм для зарядки;<br />  - на зовнішній стороні кишеня на кнопці та блискавці;<br />  - дві кишені з боків на кнопках;<br />  - зручна ручка для перенесення рюкзака в руках.</p>    <p>Чудовий та практичний чоловічий рюкзак високої якості. Виконаний із міцного та зносостійкого текстилю. Колір - універсальний чорний, тому підійде під будь-який одяг. Такий рюкзак стане чудовим подарунком.</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">26х43х13</param>
+            </offer>
+            <offer id="49769" available="true">
+                <url />
+                <name>Рюкзак нейлоновый Vintage 14813 Серый</name>
+                <name_ua>Рюкзак нейлоновий Vintage 14813 Сірий</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>1797</price>
+                <oldprice>2165</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/20/20158524827780_+05efe1c226.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/84571189747764_+e8f4c90043.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/ryukzak-nejlonovyj-vintage-14813-seryj.html-79288804035267_+237038b038.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/ryukzak-nejlonovyj-vintage-14813-seryj.html-96368733334164_+070e08be46.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/81585386706832_+6aed1fa6e4.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/20/11283427697368_+2fd5c59cb4.jpeg</picture>
+                <vendorCode>14813</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Материал: водонепроницаемый нейлон;<br />  Цвет: серый;<br />  Размеры (ШхВхГ, см): 36х32,5х11,5.</p>    <p><br />  <strong>Особенности:</strong><br />  - основное отделение на молнии;<br />  - 2 открытых накладных кармана для телефона;<br />  - потайной карман на молнии;<br />  - открытый карман на задней стенке;<br />  - карман на молнии на тыльной стороне аксессуара;<br />  - 2 открытых накладных кармана по бокам рюкзака;<br />  - 2 накладных кармана на молнии на лицевой стороне;<br />  - встроенный карман на молнии на лицевой стороне аксессуара;<br />  - крепкие регулируемые текстильные лямки;<br />  - ручка для носки в руках;<br />  - уплотненная спинка.</p>    <p>Современный городской рюкзак из качественного нейлона. Аксессуар дополнен крепкой фурнитурой серебристого цвета в дизайн рюкзака. По краям модель прошита серой ровной строчкой. Рюкзак не имеет тяжелого веса и отлично подойдет как для ноутбука так и для учебы или работы. С рюкзаком вы можете отправиться в недлительное путешествие или на пикник. Аксессуар имеет отличный функционал с разнообразием карманов, в которые вы можете поместить кошелек, телефон, сигареты, воду, зонт и другие необходимые вещи для повседневной жизни. Аксессуар достаточно долго носится и не прихотлив в уходе. Может быть прекрасным подарком для близкого человека. Рюкзак упакован в тканевый защитный чехол.&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: водонепроникний нейлон;<br />  Колір: сірий;<br />  Розміри (ШхВхГ, см): 36х32.5х11.5.</p>    <p><strong>Особливості</strong>:&nbsp;</p>    <p>- основне відділення на блискавці;<br />  - дві відкриті накладні кишені для телефону;<br />  - потайна кишеня на блискавці;<br />  - відкрита кишеня на задній стінці;<br />  - кишеня на блискавці на тильній стороні аксесуара;<br />  - дві відкриті накладні кишені з боків рюкзака;<br />  - дві накладні кишені на блискавці на лицевій стороні;<br />  - вбудована кишеня на блискавці на лицевій стороні аксесуара;<br />  - міцні регульовані текстильні лямки;<br />  - ручка для носіння в руках;<br />  - щільна спинка.</p>    <p>Сучасний міський рюкзак з якісного нейлону. Аксесуар доповнено міцною фурнітурою сріблястого кольору в дизайн рюкзака. По краях модель прошита сірою&nbsp;ниткою. Рюкзак не має важкої ваги і відмінно підійде як для ноутбука так і для навчання або роботи. З рюкзаком ви можете відправитися в нетривалу подорож або на пікнік. Аксесуар має відмінний функціонал з різноманітністю кишень, в які ви можете помістити гаманець, телефон, сигарети, воду, парасольку і інші необхідні речі для повсякденного життя. Аксесуар досить довго носиться і не вибагливий у догляді. Може бути прекрасним подарунком для близької людини. Упакований в тканинний захисний чохол.&nbsp;<br />  &nbsp;</p>    <p><strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Сірий</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Маленькие</param>
+                <param name="Материал">Ткань</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">36х32,5х11,5</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Страна производитель">Китай</param>
+            </offer>
+            <offer id="49751" available="true">
+                <url />
+                <name>Рюкзак женский нейлоновый Vintage 14871 Черный</name>
+                <name_ua>Рюкзак жіночий нейлоновий Vintage 14871 Чорний</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>1463</price>
+                <oldprice>1763</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/2/40386142894299_+4eccf6d550.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/92006559459192_+8f921f1771.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/ryukzak-zhenskij-nejlonovyj-vintage-14871-chernyj.html-92534635356598_+d7817abec5.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/ryukzak-zhenskij-nejlonovyj-vintage-14871-chernyj.html-14661188528541_+5a322b5d15.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/65977948193440_+7647994448.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/29138764668755_+716780bdb8.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/17047211503769_+07017623bd.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/63567351245607_+238d08210a.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/2/26497574072262_+6f1d8f4a7a.jpeg</picture>
+                <vendorCode>14871</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Материал: водонепроницаемый нейлон;<br />  Цвет: черный;<br />  Размеры (ШхВхГ, см): 27,5х28,5х10.</p>    <p><br />  <strong>Особенности:</strong><br />  - основное отделение на регуляторе;<br />  - закрывается на шнурок под затяжку;<br />  - потайной карман на молнии;<br />  - накладной карман на лицевой стороне аксессуара;<br />  - съемные лямки с регуляторами длины.</p>    <p>Современный женский рюкзак компактного размера на каждый день. Аксессуар имеет оригинальный классический дизайн, который не привязывает вас к определенному стилю. Модель дополнена блестящей золотистой фурнитурой и очень приятная на ощупь. В аксессуар легко поместится косметичка, деньги, ежедневник или любимая книга, а также другие необходимые женские мелочи. Очень хорошая модель на каждый день. Рюкзак выполнен из плотного нейлона и прослужит вам сравнительно долго. Несмотря на свой небольшой размер аксессуар очень вместительный и удобный. Рюкзак будет идеальным подарком для любой девушки.&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: водонепроникний нейлон;<br />  Колір: чорний;<br />  Розміри (ШхВхГ, см): 27.5х28.5х10.</p>    <p><strong>Особливості</strong>:&nbsp;<br />  - основне відділення на регуляторі;<br />  - закривається на шнурок під затяжку;<br />  - потайна кишеня на блискавці;<br />  - накладна кишеня на лицевій стороні аксесуару;<br />  - лямки з регуляторами довжини, які знімаються.</p>    <p>Сучасний жіночий рюкзак компактного розміру на кожен день. Аксесуар має оригінальний класичний дизайн, який не прив&#39;язує вас до певного стилю. Модель доповнена блискучою золотистою фурнітурою і дуже приємна на дотик. В аксесуар легко поміститься косметичка, гроші, щоденник або улюблена книга, а також інші необхідні жіночі дрібниці. Дуже хороша модель на кожен день. Рюкзак виконаний з щільного нейлону і прослужить вам порівняно довго. Незважаючи на свій невеликий розмір аксесуар дуже вмісткий і зручний. Рюкзак буде ідеальним подарунком для будь-якої дівчини.</p>    <p><strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Маленькие</param>
+                <param name="Материал">Ткань</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">27,5х28,5х10</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Женский</param>
+                <param name="Страна производитель">Китай</param>
+            </offer>
+            <offer id="51056" available="true">
+                <url />
+                <name>Добротный мужской рюкзак из текстиля Vintage 20490 Черный</name>
+                <name_ua>Добротний чоловічий рюкзак із текстилю Vintage 20490 Чорний</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>1693</price>
+                <oldprice>2040</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/7/86006465518750_+1e559df2f1.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/59887717612677_+d784ba65ec.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/dobrotnyj-muzhskoj-ryukzak-iz-tekstilya-vintage-20490-chernyj.html-18331584553029_+41ce933fe5.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/dobrotnyj-muzhskoj-ryukzak-iz-tekstilya-vintage-20490-chernyj.html-18014201139842_+9e18d751f4.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/51082620718496_+af87ba824b.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/13093685990238_+a3f7b71dcc.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/72568078576562_+b810a23d8f.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/66760385412733_+6925536d78.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/69401535334786_+492a63e900.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/7/91326914416752_+188c422e3b.jpeg</picture>
+                <vendorCode>20490</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Цвет: черный;<br />  Материал: текстиль;<br />  Размеры (ШхВхГ, см): 25х42х12см<br />  Страна производитель: Китай.<br />  Бренд: Vintage.</p>    <p>Описание:<br />  - основное отделение на молнии;<br />  - внутри 2 кармана для телефона и ручек;<br />  - карман на липучке для ноутбука;<br />  - ремешки для фиксации содержимого;<br />  - дополнительное отделение на молнии, а внутри его еще два кармана на молниях;<br />  - на внешней стороне карман на молнии;<br />  - удобная металлическая ручка для переноса рюкзака в руках.</p>    <p>Текстильный мужской рюкзак в городском стиле с очень практичным наполнением, которое представлено в виде двух вместительных отделений, кармана для ноутбука, для телефонов, ручки, сетчатого кармана и пр. А для того, чтобы содержимое рюкзака не болталось и было аккуратно сложено, предусмотрены специальные ремешки с фиксатором. Изделие имеет красивое сочетание черного и темно-серого цветов.<br />  &nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Колір чорний;<br />  Матеріал: текстиль;<br />  Розміри (ШхВхГ, см): 25х42х12см<br />  Країна виробник: Китай.<br />  Бренд: Vintage.</p>    <p>Опис:<br />  - основне відділення на блискавці;<br />  - всередині 2 кишені для телефону та ручок;<br />  - кишеня на липучці для ноутбука;<br />  - ремінці для фіксації вмісту;<br />  - додаткове відділення на блискавці, а всередині його ще дві кишені на блискавках;<br />  - на зовнішньому боці кишеня на блискавці;<br />  - зручна металева ручка для перенесення рюкзака в руках.</p>    <p>Текстильний чоловічий рюкзак у міському стилі з дуже практичним наповненням, яке представлене у вигляді двох містких відділень, кишені для ноутбука, для телефонів, ручки, сітчастої кишені та ін. із фіксатором. Виріб має гарне поєднання чорного та темно-сірого кольорів.</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Наличие колес">4 колеса</param>
+                <param name="Размер">Средние</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">25х42х12</param>
+            </offer>
+            <offer id="49768" available="true">
+                <url />
+                <name>Рюкзак нейлоновый Vintage 14808 Черный</name>
+                <name_ua>Рюкзак нейлоновий Vintage 14808 Чорний</name_ua>
+                <categoryId>80</categoryId>
+                <portal_category_id>nan</portal_category_id>
+                <price>1949</price>
+                <oldprice>2165</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>11</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/19/62858592201180_+8363fdf686.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/19/43472987991322_+7acbb20e27.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/19/91230658062720_+d3b4fe84c8.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/19/ryukzak-nejlonovyj-vintage-14808-chernyj.html-33605969715443_+b687c026ed.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/19/ryukzak-nejlonovyj-vintage-14808-chernyj.html-77110069107454_+1d052d027e.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/19/60706687366418_+e83aac5222.jpeg</picture>
+                <vendorCode>14808</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[<p>Материал: водонепроницаемый нейлон;<br />  Цвет: черный;<br />  Размеры (ШхВхГ, см): 36х35,5х11.</p>    <p><br />  <strong>Особенности:</strong><br />  - основное отделение на молнии;<br />  - 2 открытых накладных кармана для телефона;<br />  - потайной карман на молнии;<br />  - открытый карман на задней стенке;<br />  - карман на молнии на тыльной стороне аксессуара;<br />  - 2 открытых накладных кармана по бокам рюкзака;<br />  - 2 накладных кармана на молнии на лицевой стороне;<br />  - встроенный карман на молнии на лицевой стороне аксессуара;<br />  - крепкие регулируемые текстильные ручки;<br />  - ручка для носки в руках;<br />  - уплотненная спинка.</p>    <p>Удобный городской рюкзак из качественного нейлона. Аксессуар дополнен крепкой фурнитурой серебристого цвета в дизайн аксессуара. По краям модель прошита черной ровной строчкой. Рюкзак не имеет тяжелого веса и отлично подойдет как для ноутбука так и для учебы или работы. С рюкзаком вы можете отправиться в недлительное путешествие или на пикник. Аксессуар имеет отличный функционал с разнообразием карманов, в которые вы можете поместить кошелек, телефон, сигареты, воду, зонт и другие необходимые вещи для повседневной жизни. Аксессуар достаточно долго носится и не прихотлив в уходе. Может быть прекрасным подарком для близкого человека. Рюкзак упакован в тканевый защитный чехол.&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: водонепроникний нейлон;<br />  Колір: чорний;<br />  Розміри (ШхВхГ, см): 36х35.5х11.</p>    <p><strong>Особливості</strong>:&nbsp;</p>    <p>- основне відділення на блискавці;<br />  - дві відкриті накладні кишені для телефону;<br />  - потайна кишеня на блискавці;<br />  - відкрита кишеня на задній стінці;<br />  - кишеня на блискавці на тильній стороні аксесуара;<br />  - дві відкриті накладні кишені з боків рюкзака;<br />  - 2дві накладні кишені на блискавці на лицевій стороні;<br />  - вбудована кишеня на блискавки на лицевій стороні аксесуара;<br />  - міцні регульовані текстильні лямки;<br />  - ручка для носіння в руках;<br />  - щільна спинка.</p>    <p>Зручний міський рюкзак з якісного нейлону. Аксесуар доповнено міцною фурнітурою сріблястого кольору в дизайн аксесуару. По краях модель прошита чорною ниткою. Рюкзак не має важкої ваги і відмінно підійде як для ноутбука так і для навчання або роботи. З рюкзаком ви можете відправитися в нетривалу подорож або на пікнік. Аксесуар має відмінний функціонал з різноманітністю кишень, в які ви можете помістити гаманець, телефон, сигарети, воду, парасольку і інші необхідні речі для повсякденного життя. Рюкзак досить довго носиться і не вибагливий у догляді. Може бути прекрасним подарунком для близької людини. Упакований в тканинний захисний чохол.&nbsp;</p>    <p><strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Ткань</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">36х35,5х11</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Страна производитель">Китай</param>
             </offer>
         </offers>
     </shop>
