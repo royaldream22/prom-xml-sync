@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <shop>
+    <currencies>
+        <currency id="UAH" rate="1" />
+    </currencies>
     <categories>
         <category id="10">Рюкзаки</category>
+        <category id="15">Барсетки</category>
         <category id="100" parentId="10" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki-gorodskie">Чоловічі рюкзаки</category>
+        <category id="150" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі бананки</category>
+        <category id="151" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі барсетки</category>
     </categories>
     <offers>
         <offer id="1001" available="true">
