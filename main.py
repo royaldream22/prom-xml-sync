@@ -94,13 +94,16 @@ for index, row in df.iterrows():
                 param_tag = ET.SubElement(offer, "param", name=param_name)
                 param_tag.text = str(param_val)
 
+# === ДОБАВЛЯЕМ КРАСИВЫЕ ОТСТУПЫ ===
+ET.indent(shop, space="    ")
+
 # Сохраняем итоговый файл
 xml_str = ET.tostring(shop, encoding='utf-8')
-# Делаем красивое форматирование и исправляем CDATA
+# Восстанавливаем CDATA
 xml_str = xml_str.decode('utf-8').replace('&lt;![CDATA[', '<![CDATA[').replace(']]&gt;', ']]>')
 
 with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     f.write(xml_str)
 
-print("Файл my_prom_feed.xml успешно создан!")
+print("Файл my_prom_feed.xml успешно создан с разметкой!")
