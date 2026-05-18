@@ -65,7 +65,20 @@ for index, row in df.iterrows():
         continue
         
     sup_info = supplier_data[vc]
-    is_available = "true" if int(sup_info['quantity_in_stock']) > 0 else "false"
+    
+    # === НАША НОВАЯ ЛОГИКА ЗАГЛУШКИ ===
+    # Проверяем, что написано в колонке available вашей таблицы
+    sheet_available = str(row.get('available', 'TRUE')).strip().upper()
+    
+    # Если вы вручную выключили товар в таблице (написали FALSE)
+    if sheet_available == "FALSE":
+        is_available = "false"
+        final_qty = "0"
+    else:
+        # Если в таблице TRUE, то берем реальные остатки у поставщика
+        is_available = "true" if int(sup_info['quantity_in_stock']) > 0 else "false"
+        final_qty = sup_info['quantity_in_stock']
+    # ==================================
     
     offer = ET.SubElement(offers, "offer", id=str(row.get('id', '')), available=is_available)
     
@@ -75,13 +88,15 @@ for index, row in df.iterrows():
     ET.SubElement(offer, "categoryId").text = str(row.get('categoryId', ''))
     ET.SubElement(offer, "portal_category_id").text = str(row.get('portal_category_id', ''))
     
-    # СИНХРОНИЗАЦИЯ ЦЕНЫ, СТАРOЙ ЦЕНЫ И ОСТАТКОВ
+    # Цены всегда обновляем от поставщика
     ET.SubElement(offer, "price").text = sup_info['price']
     if sup_info['oldprice']:
         ET.SubElement(offer, "oldprice").text = sup_info['oldprice']
         
     ET.SubElement(offer, "currencyId").text = "UAH"
-    ET.SubElement(offer, "quantity_in_stock").text = sup_info['quantity_in_stock']
+    
+    # Записываем количество (реальное или обнуленное заглушкой)
+    ET.SubElement(offer, "quantity_in_stock").text = final_qty
     
     for i in range(1, 11):
         pic_col = f'picture{i}'
@@ -114,4 +129,4 @@ with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<!DOCTYPE yml_catalog SYSTEM "shops.dtd">\n')
     f.write(xml_str)
 
-print("Новый эталонный файл с ценами и скидками успешно создан!")
+print("Файл успешно обновлен с учетом мастер-выключателей available!")
