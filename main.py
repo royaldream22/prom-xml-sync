@@ -83,8 +83,10 @@ for index, row in df.iterrows():
 
 # === КРАСИВЫЕ ОТСТУПЫ И СОХРАНЕНИЕ С ИДЕАЛЬНОЙ ШАПКОЙ ===
 ET.indent(root_node, space="    ")
-xml_str = ET.tostring(root_node, encoding='utf-8')
-xml_str = xml_str.decode('utf-8').replace('&lt;![CDATA[', '<![CDATA[').replace(']]&gt;', ']]>')
+
+# Важно: используем encoding='unicode', чтобы Питон не ломал шапку
+xml_str = ET.tostring(root_node, encoding='unicode')
+xml_str = xml_str.replace('&lt;![CDATA[', '<![CDATA[').replace(']]&gt;', ']]>')
 
 with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
