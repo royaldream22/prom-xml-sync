@@ -8,7 +8,6 @@ GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/10hXxId0pOiSP48f9
 SUPPLIER_XML_URL = "https://sumkioptom.com.ua/content/export/8f6bb4d4540177fa4d1590cf7e6677ba.xml"
 # ======================
 
-# Буфер для безопасного сохранения HTML внутри CDATA
 cdata_table = {}
 cdata_counter = 0
 
@@ -33,6 +32,7 @@ for offer in supplier_root.findall('.//offer'):
         vc = str(vendor_code.text).strip()
         supplier_data[vc] = {
             'price': offer.find('price').text if offer.find('price') is not None else "0",
+            'oldprice': offer.find('oldprice').text if offer.find('oldprice') is not None else "",
             'quantity_in_stock': offer.find('quantity_in_stock').text if offer.find('quantity_in_stock') is not None else "0"
         }
 
@@ -46,17 +46,15 @@ template_tree = ET.parse('template.xml')
 template_root = template_tree.getroot()
 categories_template = template_root.find('.//categories')
 
-# 4. Создаем КРИСТАЛЬНО ЧИСТУЮ структуру по эталону Prom.ua
+# 4. Создаем структуру по эталону Prom.ua
 yml_catalog = ET.Element('yml_catalog', date=datetime.now().strftime('%Y-%m-%d %H:%M'))
 shop = ET.SubElement(yml_catalog, 'shop')
 
-# Переносим блок категорий из шаблона
 if categories_template is not None:
     shop.append(categories_template)
 else:
-    ET.SubElement(shop, 'categories') # Создаем пустой, если шаблона нет
+    ET.SubElement(shop, 'categories')
 
-# Создаем чистый блок для товаров
 offers = ET.SubElement(shop, 'offers')
 
 # 5. Заполняем товары из таблицы
@@ -77,7 +75,11 @@ for index, row in df.iterrows():
     ET.SubElement(offer, "categoryId").text = str(row.get('categoryId', ''))
     ET.SubElement(offer, "portal_category_id").text = str(row.get('portal_category_id', ''))
     
+    # СИНХРОНИЗАЦИЯ ЦЕНЫ, СТАРOЙ ЦЕНЫ И ОСТАТКОВ
     ET.SubElement(offer, "price").text = sup_info['price']
+    if sup_info['oldprice']:
+        ET.SubElement(offer, "oldprice").text = sup_info['oldprice']
+        
     ET.SubElement(offer, "currencyId").text = "UAH"
     ET.SubElement(offer, "quantity_in_stock").text = sup_info['quantity_in_stock']
     
@@ -100,18 +102,16 @@ for index, row in df.iterrows():
                 param_tag = ET.SubElement(offer, "param", name=param_name)
                 param_tag.text = str(param_val)
 
-# === КРАСИВЫЕ ОТСТУПЫ И ЖЕСТКАЯ ЗАПИСЬ ХЕДЕРОВ ===
+# === КРАСИВЫЕ ОТСТУПЫ И ЗАПИСЬ ===
 ET.indent(yml_catalog, space="    ")
 xml_str = ET.tostring(yml_catalog, encoding='unicode')
 
-# Возвращаем HTML-теги в описания товаров
 for placeholder, raw_html in cdata_table.items():
     xml_str = xml_str.replace(placeholder, f"<![CDATA[{raw_html}]]>")
 
-# Записываем финальный файл. Теперь он ГАРАНТИРОВАННО начнется с нужных строк
 with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     f.write('<!DOCTYPE yml_catalog SYSTEM "shops.dtd">\n')
     f.write(xml_str)
 
-print("Новый эталонный файл успешно создан!")
+print("Новый эталонный файл с ценами и скидками успешно создан!")
