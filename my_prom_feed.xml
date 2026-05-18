@@ -1,118 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<shop>
-    <currencies>
-        <currency id="UAH" rate="1" />
-    </currencies>
-    <categories>
-        <category id="10">Рюкзаки</category>
-        <category id="15">Барсетки</category>
-        <category id="100" parentId="10" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki-gorodskie">Чоловічі рюкзаки</category>
-        <category id="150" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі бананки</category>
-        <category id="151" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі барсетки</category>
-    </categories>
-    <offers>
-        <offer id="1001" available="true">
-            <url />
-            <name>Мужской рюкзак из натуральной кожи Vintage 23052 Черный</name>
-            <name_ua>Мужской рюкзак из натуральной кожи Vintage 23052 Черный</name_ua>
-            <categoryId>100</categoryId>
-            <portal_category_id>380601</portal_category_id>
-            <price>4146</price>
-            <currencyId>UAH</currencyId>
-            <quantity_in_stock>2</quantity_in_stock>
-            <picture>https://sumkioptom.com.ua/content/images/18/82182667556088_+385f6ee71f.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/90468306567586_+0fcfb9e7f8.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/32781833451362_+9d397c45fa.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/34373228078483_+3cd5de6b63.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/15677715040273_+9c03025cff.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/59827101838470_+952b88d18b.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/26295183634581_+276c5635e4.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/13056445375036_+d15acc6a15.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/85359434622931_+157f2da11b.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/18/98694284996319_+530ebe8157.jpg</picture>
-            <vendorCode>23052</vendorCode>
-            <vendor>Vintage</vendor>
-            <description><![CDATA[ 
-&lt;p&gt;Цвет: черный;&lt;br /&gt; Материал: натуральная кожа высокого качества;&lt;br /&gt; Размер (ШхВхГ, см): 30х41х11см;&lt;br /&gt; Страна производитель: Китай.&lt;br /&gt; Бренд: Vintage.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;br /&gt; - &amp;nbsp;одно основное отделения на молнии с двумя бегунками;&lt;br /&gt; - два кармана открытого типа внутри;&lt;br /&gt; - карман на молнии внутри;&lt;br /&gt; - накладной и встроенный карман, что закрываются на молнию, на лицевой стороне;&lt;br /&gt; - два боковых кармана;&lt;br /&gt; - кожаная ручка для переноса;&lt;br /&gt; - мягкие регулируемые лямки;&lt;br /&gt; - ортопедическая спинка.&lt;/p&gt; &lt;p&gt;Большой кожаный рюкзак создан для тех, кто ценит комфорт и функциональность. Он оснащён одним просторным основным отделением на молнии с двумя бегунками, внутри которого находятся два кармана открытого типа и один карман на молнии для удобной организации мелких вещей. На лицевой стороне расположены накладной и встроенный карманы, закрывающиеся на молнию, а по бокам &amp;mdash; два дополнительных кармана для аксессуаров и бутылки воды.&lt;/p&gt; &lt;p&gt;Для удобства переноски предусмотрена прочная кожаная ручка, а мягкие регулируемые лямки позволяют настроить рюкзак под индивидуальные параметры. Ортопедическая спинка обеспечивает поддержку и комфорт при длительном ношении, снижая нагрузку на спину. Этот рюкзак &amp;mdash; отличный выбор для активного образа жизни и повседневного использования.&lt;/p&gt;  ]]></description>
-            <description_ua><![CDATA[
-             &lt;p&gt;Колір: чорний;&lt;br /&gt; Матеріал: натуральна шкіра високої якості;&lt;br /&gt; Розмір (ШхВхГ, см): 30х41х11см;&lt;br /&gt; Країна виробник: Китай.&lt;br /&gt; Бренд: Vintage.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особливості:&lt;/strong&gt;&lt;br /&gt; - одне основне відділення на блискавці з двома бігунками;&lt;br /&gt; - дві кишені відкритого типу всередині;&lt;br /&gt; - кишеню на блискавці всередині;&lt;br /&gt; - накладна та вбудована кишеня, що закриваються на блискавку, на лицьовій стороні;&lt;br /&gt; - дві бічні кишені;&lt;br /&gt; - шкіряна ручка для перенесення;&lt;br /&gt; - м&amp;#39;які регульовані лямки;&lt;br /&gt; - ортопедична спинка.&lt;/p&gt; &lt;p&gt;Великий шкіряний рюкзак створений для тих, хто цінує комфорт та функціональність. Він оснащений одним просторим основним відділенням на блискавці з двома бігунками, всередині якого знаходяться дві кишені відкритого типу і одна кишеня на блискавці для зручної організації дрібних речей. На лицьовій стороні розташовані накладна і вбудована кишені, що закриваються на блискавку, а з боків &amp;mdash; дві додаткові кишені для аксесуарів та пляшки води.&lt;/p&gt; &lt;p&gt;Для зручності перенесення передбачена міцна шкіряна ручка, а м&amp;#39;які лямки, що регулюються, дозволяють налаштувати рюкзак під індивідуальні параметри. Ортопедична спинка забезпечує підтримку та комфорт при тривалому носінні, знижуючи навантаження на спину. Цей рюкзак &amp;mdash; чудовий вибір для активного способу життя та повсякденного використання.&lt;/p&gt; ]]></description_ua>
-            <param name="Цвет">Чорний</param>
-            <param name="Наличие колес">Нет колес</param>
-            <param name="Размер">Большие</param>
-            <param name="Материал">Натуральная кожа</param>
-            <param name="Бренд">Vintage</param>
-            <param name="Размеры (см)">30х41х11</param>
-        </offer>
-        <offer id="1002" available="true">
-            <url />
-            <name>Бананка текстильная на пояс Vintage 20081 Хаки</name>
-            <name_ua>Бананка текстильна на пояс Vintage 20081 Хакі</name_ua>
-            <categoryId>150</categoryId>
-            <portal_category_id>380650</portal_category_id>
-            <price>1277</price>
-            <currencyId>UAH</currencyId>
-            <quantity_in_stock>3</quantity_in_stock>
-            <picture>https://sumkioptom.com.ua/content/images/32/37779166924301_+26f9bfe4d5.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/32/34458874254906_+ad39112069.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/32/bananka-tekstilnaya-na-poyas-vintage-20081-haki.html-33459406763975_+3c42e144ec.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/32/bananka-tekstilnaya-na-poyas-vintage-20081-haki.html-36429646586038_+871c8f2578.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/32/87307226536787_+57e0110559.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/32/77602226556023_+c6c8db7a21.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/32/54053622717285_+cafd4480d3.jpeg</picture>
-            <vendorCode>20081</vendorCode>
-            <vendor>Vintage</vendor>
-            <description><![CDATA[ &lt;p&gt;Материал: текстиль;&lt;br /&gt; Цвет: песочный;&lt;br /&gt; Размеры (ШхВхГ, см): 22х15х4,5.&lt;br /&gt; Страна производитель: Китай.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;br /&gt; - два основных отделения на молниях;&lt;br /&gt; В дальнем: потайной карман на молнии;&lt;br /&gt; - три накладных кармана на молнии на лицевой стороне аксессуара;&lt;br /&gt; - карман на молнии на тыльной стороне;&lt;/p&gt; &lt;p&gt;Текстильная компактная бананка станет находкой для водителей и путешественников. Аксессуар выполнен из ткани &amp;ndash; полиэстера. Изделие легко стирается и не прихотливо в уходе. С таким аксессуаром все ваши личные вещи всегда будут под рукой и перед глазами. Текстильная бананка сэкономит ваши деньги и оставит хорошие впечатления о покупке.&lt;/p&gt; ]]></description>
-            <description_ua><![CDATA[
-             &lt;p&gt;Матеріал: текстиль;&lt;br /&gt; Колір: пісочний;&lt;br /&gt; Розміри (ШхВхГ, см): 22х15х4,5.&lt;br /&gt; Країна виробник: Китай.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особливості:&lt;/strong&gt;&lt;br /&gt; - два основних відділення на блискавках;&lt;br /&gt; У далекому: потайна кишеня на блискавці;&lt;br /&gt; - три накладні кишені на блискавці на лицьовій стороні аксесуара;&lt;br /&gt; - кишеня на блискавці на тильній стороні;&lt;/p&gt; &lt;p&gt;Текстильна компактна бананка стане знахідкою для водіїв і мандрівників. Аксесуар виконаний з тканини - поліестеру. Виріб легко преться і не примхливий в догляді. З таким аксесуаром всі ваші особисті речі завжди будуть під рукою і перед очима. Текстильна бананка заощадить ваші гроші і залишить хороші враження про покупку.&lt;/p&gt; ]]></description_ua>
-            <param name="Цвет">Коричневий</param>
-            <param name="Размер">Маленькие</param>
-            <param name="Материал">Ткань</param>
-            <param name="Бренд">Vintage</param>
-            <param name="Размеры (см)">22х15х4,5</param>
-            <param name="Страна происхождения ТМ">Китай</param>
-            <param name="Пол">Мужской</param>
-            <param name="Страна производитель">Китай</param>
-            <param name="Особенности сумки">В дорогу</param>
-            <param name="Можно носить">Через плечо|На поясе</param>
-            <param name="Формат">Горизонтальный</param>
-            <param name="Иконки">TopPrice</param>
-        </offer>
-        <offer id="1003" available="true">
-            <url />
-            <name>Барсетка мужская в гладкой коже Vintage 14970 Черная</name>
-            <name_ua>Барсетка чоловіча в гладку шкіру Vintage 14970 Чорна</name_ua>
-            <categoryId>151</categoryId>
-            <portal_category_id>380650</portal_category_id>
-            <price>2782</price>
-            <currencyId>UAH</currencyId>
-            <quantity_in_stock>3</quantity_in_stock>
-            <picture>https://sumkioptom.com.ua/content/images/26/44821557224410_+5064e54c93.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/26512765353259_+d9300b2f8b.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/barsetka-muzhskaya-v-gladkoj-kozhe-vintage-14970-chernaya.html-17455226307968_+378ef3ceb8.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/barsetka-muzhskaya-v-gladkoj-kozhe-vintage-14970-chernaya.html-63983653312366_+e40a4688f4.jpg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/33904336318889_+b37b739382.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/77470323117863_+e462b950f5.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/27524379446648_+a47a13df19.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/56014011561086_+1f98915a8a.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/56758387163445_+a5f5b67b4b.jpeg</picture>
-            <picture>https://sumkioptom.com.ua/content/images/26/99243926270176_+6d7ce37552.jpeg</picture>
-            <vendorCode>14970</vendorCode>
-            <vendor>Vintage</vendor>
-            <description><![CDATA[ &lt;p&gt;Цвет: черный;&lt;br /&gt; Материал: натуральная кожа;&lt;br /&gt; Размер (ШхВхГ, см): 25,5х17х6.&lt;br /&gt; Страна производитель: Китай.&lt;br /&gt; Бренд: Vintage.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;br /&gt; - основное отделение на молнии;&lt;br /&gt; - внутри: 2 открытых накладных кармана и 8 слотов для карточек;&lt;br /&gt; - вместительный карман на молнии на внешней стороне;&lt;br /&gt; - карман на молнии на тыльной стороне;&lt;br /&gt; - съемный кожаный ремешок на запястье.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Классическая и вместительная мужская барсетка сделанная из натуральной гладкой кожи. Аксессуары из натуральной кожи отличаются своей неприхотливостью в уходе. Кожаная барсетка прослужит вам намного дольше, чем из заменителя. С такой барсеткой ваш образ будет более завершенным и дополненным. Аксессуар будет прекрасным подарком для близкого человека.&amp;nbsp;&lt;/p&gt; ]]></description>
-            <description_ua><![CDATA[
-             &lt;p&gt;Колір: чорний;&lt;br /&gt; Матеріал: натуральна шкіра;&lt;br /&gt; Розмір (ШхВхГ, см): 25,5х17х6.&lt;br /&gt; Країна виробник: Китай.&lt;br /&gt; Бренд: Vintage.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Особливості:&amp;nbsp;&lt;/strong&gt;&lt;br /&gt; - основне відділення на змійці;&lt;br /&gt; - всередині: 2 відкритих накладних кишені і 8 слотів для карток;&lt;br /&gt; - містка кишеня на змійці на зовнішній стороні;&lt;br /&gt; - кишеня на змійці на зворотній стороні;&lt;br /&gt; - зйомний шкіряний ремінь на зап&amp;#39;ястя.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Класична та містка чоловіча барсетка зроблена з натуральної гладкої шкіри. Аксесуари з натуральної шкіри відрізняються своєю невибагливістю у догляді. Шкіряна барсетка прослужить вам набагато довше, ніж із замінника. З такою барсеткою ваш образ буде більш завершеним і доповненим. Аксесуар буде прекрасним подарунком для близької людини.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;!-- p--&gt;&lt;/strong&gt;&lt;/p&gt; ]]></description_ua>
-            <param name="Цвет">Чорний</param>
-            <param name="Размер">Маленькие</param>
-            <param name="Материал">Натуральная кожа</param>
-            <param name="Бренд">Vintage</param>
-            <param name="Размеры (см)">25,5х17х6</param>
-            <param name="Страна происхождения ТМ">Китай</param>
-            <param name="Пол">Мужской</param>
-            <param name="Страна производитель">Китай</param>
-            <param name="Особенности сумки">Для документов</param>
-            <param name="Можно носить">На запястье </param>
-            <param name="Формат">Горизонтальный</param>
-        </offer>
-    </offers>
-</shop>
+<yml_catalog date="2026-05-18 18:13">
+    <shop>
+        <categories>
+            <category id="10">Рюкзаки</category>
+            <category id="15">Барсетки</category>
+            <category id="100" parentId="10" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki-gorodskie">Чоловічі рюкзаки</category>
+            <category id="150" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі бананки</category>
+            <category id="151" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі барсетки</category>
+        </categories>
+        <offers>
+            <offer id="1001" available="true">
+                <url />
+                <name>Мужской рюкзак из натуральной кожи Vintage 23052 Черный</name>
+                <name_ua>Мужской рюкзак из натуральной кожи Vintage 23052 Черный</name_ua>
+                <categoryId>100</categoryId>
+                <portal_category_id>380601</portal_category_id>
+                <price>4146</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>2</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/18/82182667556088_+385f6ee71f.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/90468306567586_+0fcfb9e7f8.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/32781833451362_+9d397c45fa.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/34373228078483_+3cd5de6b63.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/15677715040273_+9c03025cff.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/59827101838470_+952b88d18b.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/26295183634581_+276c5635e4.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/13056445375036_+d15acc6a15.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/85359434622931_+157f2da11b.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/18/98694284996319_+530ebe8157.jpg</picture>
+                <vendorCode>23052</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[ 
+<p>Цвет: черный;<br /> Материал: натуральная кожа высокого качества;<br /> Размер (ШхВхГ, см): 30х41х11см;<br /> Страна производитель: Китай.<br /> Бренд: Vintage.</p> <p><strong>Особенности:</strong><br /> - &nbsp;одно основное отделения на молнии с двумя бегунками;<br /> - два кармана открытого типа внутри;<br /> - карман на молнии внутри;<br /> - накладной и встроенный карман, что закрываются на молнию, на лицевой стороне;<br /> - два боковых кармана;<br /> - кожаная ручка для переноса;<br /> - мягкие регулируемые лямки;<br /> - ортопедическая спинка.</p> <p>Большой кожаный рюкзак создан для тех, кто ценит комфорт и функциональность. Он оснащён одним просторным основным отделением на молнии с двумя бегунками, внутри которого находятся два кармана открытого типа и один карман на молнии для удобной организации мелких вещей. На лицевой стороне расположены накладной и встроенный карманы, закрывающиеся на молнию, а по бокам &mdash; два дополнительных кармана для аксессуаров и бутылки воды.</p> <p>Для удобства переноски предусмотрена прочная кожаная ручка, а мягкие регулируемые лямки позволяют настроить рюкзак под индивидуальные параметры. Ортопедическая спинка обеспечивает поддержку и комфорт при длительном ношении, снижая нагрузку на спину. Этот рюкзак &mdash; отличный выбор для активного образа жизни и повседневного использования.</p>  ]]></description>
+                <description_ua><![CDATA[
+             <p>Колір: чорний;<br /> Матеріал: натуральна шкіра високої якості;<br /> Розмір (ШхВхГ, см): 30х41х11см;<br /> Країна виробник: Китай.<br /> Бренд: Vintage.</p> <p><strong>Особливості:</strong><br /> - одне основне відділення на блискавці з двома бігунками;<br /> - дві кишені відкритого типу всередині;<br /> - кишеню на блискавці всередині;<br /> - накладна та вбудована кишеня, що закриваються на блискавку, на лицьовій стороні;<br /> - дві бічні кишені;<br /> - шкіряна ручка для перенесення;<br /> - м&#39;які регульовані лямки;<br /> - ортопедична спинка.</p> <p>Великий шкіряний рюкзак створений для тих, хто цінує комфорт та функціональність. Він оснащений одним просторим основним відділенням на блискавці з двома бігунками, всередині якого знаходяться дві кишені відкритого типу і одна кишеня на блискавці для зручної організації дрібних речей. На лицьовій стороні розташовані накладна і вбудована кишені, що закриваються на блискавку, а з боків &mdash; дві додаткові кишені для аксесуарів та пляшки води.</p> <p>Для зручності перенесення передбачена міцна шкіряна ручка, а м&#39;які лямки, що регулюються, дозволяють налаштувати рюкзак під індивідуальні параметри. Ортопедична спинка забезпечує підтримку та комфорт при тривалому носінні, знижуючи навантаження на спину. Цей рюкзак &mdash; чудовий вибір для активного способу життя та повсякденного використання.</p> ]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Наличие колес">Нет колес</param>
+                <param name="Размер">Большие</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">30х41х11</param>
+            </offer>
+            <offer id="1002" available="true">
+                <url />
+                <name>Бананка текстильная на пояс Vintage 20081 Хаки</name>
+                <name_ua>Бананка текстильна на пояс Vintage 20081 Хакі</name_ua>
+                <categoryId>150</categoryId>
+                <portal_category_id>380650</portal_category_id>
+                <price>1277</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/32/37779166924301_+26f9bfe4d5.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/32/34458874254906_+ad39112069.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/32/bananka-tekstilnaya-na-poyas-vintage-20081-haki.html-33459406763975_+3c42e144ec.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/32/bananka-tekstilnaya-na-poyas-vintage-20081-haki.html-36429646586038_+871c8f2578.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/32/87307226536787_+57e0110559.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/32/77602226556023_+c6c8db7a21.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/32/54053622717285_+cafd4480d3.jpeg</picture>
+                <vendorCode>20081</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[ <p>Материал: текстиль;<br /> Цвет: песочный;<br /> Размеры (ШхВхГ, см): 22х15х4,5.<br /> Страна производитель: Китай.</p> <p><strong>Особенности:</strong><br /> - два основных отделения на молниях;<br /> В дальнем: потайной карман на молнии;<br /> - три накладных кармана на молнии на лицевой стороне аксессуара;<br /> - карман на молнии на тыльной стороне;</p> <p>Текстильная компактная бананка станет находкой для водителей и путешественников. Аксессуар выполнен из ткани &ndash; полиэстера. Изделие легко стирается и не прихотливо в уходе. С таким аксессуаром все ваши личные вещи всегда будут под рукой и перед глазами. Текстильная бананка сэкономит ваши деньги и оставит хорошие впечатления о покупке.</p> ]]></description>
+                <description_ua><![CDATA[
+             <p>Матеріал: текстиль;<br /> Колір: пісочний;<br /> Розміри (ШхВхГ, см): 22х15х4,5.<br /> Країна виробник: Китай.</p> <p><strong>Особливості:</strong><br /> - два основних відділення на блискавках;<br /> У далекому: потайна кишеня на блискавці;<br /> - три накладні кишені на блискавці на лицьовій стороні аксесуара;<br /> - кишеня на блискавці на тильній стороні;</p> <p>Текстильна компактна бананка стане знахідкою для водіїв і мандрівників. Аксесуар виконаний з тканини - поліестеру. Виріб легко преться і не примхливий в догляді. З таким аксесуаром всі ваші особисті речі завжди будуть під рукою і перед очима. Текстильна бананка заощадить ваші гроші і залишить хороші враження про покупку.</p> ]]></description_ua>
+                <param name="Цвет">Коричневий</param>
+                <param name="Размер">Маленькие</param>
+                <param name="Материал">Ткань</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">22х15х4,5</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Китай</param>
+                <param name="Особенности сумки">В дорогу</param>
+                <param name="Можно носить">Через плечо|На поясе</param>
+                <param name="Формат">Горизонтальный</param>
+                <param name="Иконки">TopPrice</param>
+            </offer>
+            <offer id="1003" available="true">
+                <url />
+                <name>Барсетка мужская в гладкой коже Vintage 14970 Черная</name>
+                <name_ua>Барсетка чоловіча в гладку шкіру Vintage 14970 Чорна</name_ua>
+                <categoryId>151</categoryId>
+                <portal_category_id>380650</portal_category_id>
+                <price>2782</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/26/44821557224410_+5064e54c93.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/26512765353259_+d9300b2f8b.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/barsetka-muzhskaya-v-gladkoj-kozhe-vintage-14970-chernaya.html-17455226307968_+378ef3ceb8.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/barsetka-muzhskaya-v-gladkoj-kozhe-vintage-14970-chernaya.html-63983653312366_+e40a4688f4.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/33904336318889_+b37b739382.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/77470323117863_+e462b950f5.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/27524379446648_+a47a13df19.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/56014011561086_+1f98915a8a.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/56758387163445_+a5f5b67b4b.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/26/99243926270176_+6d7ce37552.jpeg</picture>
+                <vendorCode>14970</vendorCode>
+                <vendor>Vintage</vendor>
+                <description><![CDATA[ <p>Цвет: черный;<br /> Материал: натуральная кожа;<br /> Размер (ШхВхГ, см): 25,5х17х6.<br /> Страна производитель: Китай.<br /> Бренд: Vintage.</p> <p><strong>Особенности:</strong><br /> - основное отделение на молнии;<br /> - внутри: 2 открытых накладных кармана и 8 слотов для карточек;<br /> - вместительный карман на молнии на внешней стороне;<br /> - карман на молнии на тыльной стороне;<br /> - съемный кожаный ремешок на запястье.&nbsp;</p> <p>Классическая и вместительная мужская барсетка сделанная из натуральной гладкой кожи. Аксессуары из натуральной кожи отличаются своей неприхотливостью в уходе. Кожаная барсетка прослужит вам намного дольше, чем из заменителя. С такой барсеткой ваш образ будет более завершенным и дополненным. Аксессуар будет прекрасным подарком для близкого человека.&nbsp;</p> ]]></description>
+                <description_ua><![CDATA[
+             <p>Колір: чорний;<br /> Матеріал: натуральна шкіра;<br /> Розмір (ШхВхГ, см): 25,5х17х6.<br /> Країна виробник: Китай.<br /> Бренд: Vintage.</p> <p><strong>Особливості:&nbsp;</strong><br /> - основне відділення на змійці;<br /> - всередині: 2 відкритих накладних кишені і 8 слотів для карток;<br /> - містка кишеня на змійці на зовнішній стороні;<br /> - кишеня на змійці на зворотній стороні;<br /> - зйомний шкіряний ремінь на зап&#39;ястя.&nbsp;</p> <p>Класична та містка чоловіча барсетка зроблена з натуральної гладкої шкіри. Аксесуари з натуральної шкіри відрізняються своєю невибагливістю у догляді. Шкіряна барсетка прослужить вам набагато довше, ніж із замінника. З такою барсеткою ваш образ буде більш завершеним і доповненим. Аксесуар буде прекрасним подарунком для близької людини.&nbsp;</p> <p><strong><!-- p--></strong></p> ]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">Маленькие</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">Vintage</param>
+                <param name="Размеры (см)">25,5х17х6</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Китай</param>
+                <param name="Особенности сумки">Для документов</param>
+                <param name="Можно носить">На запястье </param>
+                <param name="Формат">Горизонтальный</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
