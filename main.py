@@ -1,18 +1,28 @@
 import pandas as pd
 import requests
 import xml.etree.ElementTree as ET
+from datetime import datetime
 
 # === ВАШИ НАСТРОЙКИ ===
 GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/10hXxId0pOiSP48f9__FjhhFTsmipeIMipJbKUSWNxMI/export?format=csv"
 SUPPLIER_XML_URL = "https://sumkioptom.com.ua/content/export/8f6bb4d4540177fa4d1590cf7e6677ba.xml"
 # ======================
 
+# Буфер для безопасного сохранения HTML внутри CDATA
+cdata_table = {}
+cdata_counter = 0
+
 def create_cdata_element(parent, tag, text):
+    global cdata_counter
     elem = ET.SubElement(parent, tag)
-    elem.text = f"<![CDATA[{text}]]>" if text else ""
+    placeholder = f"##CDATA_BLOB_{cdata_counter}##"
+    cdata_table[placeholder] = text if text and pd.notna(text) else ""
+    elem.text = placeholder
+    cdata_counter += 1
     return elem
 
 # 1. Скачиваем данные поставщика
+print("Скачиваем XML поставщика...")
 response = requests.get(SUPPLIER_XML_URL)
 supplier_root = ET.fromstring(response.content)
 
@@ -26,22 +36,31 @@ for offer in supplier_root.findall('.//offer'):
             'quantity_in_stock': offer.find('quantity_in_stock').text if offer.find('quantity_in_stock') is not None else "0"
         }
 
-# 2. Скачиваем вашу таблицу
+# 2. Загружаем вашу Google Таблицу
+print("Загружаем Google Таблицу...")
 df = pd.read_csv(GOOGLE_SHEET_CSV_URL)
 
-# 3. Открываем ваш ШАБЛОН с правильными категориями
-tree = ET.parse('template.xml')
-root_node = tree.getroot()
-shop = root_node if root_node.tag == 'shop' else root_node.find('.//shop')
+# 3. Читаем категории из вашего шаблона template.xml
+print("Импортируем структуру категорий...")
+template_tree = ET.parse('template.xml')
+template_root = template_tree.getroot()
+categories_template = template_root.find('.//categories')
 
-# Находим или создаем блок offers
-offers = shop.find('offers')
-if offers is None:
-    offers = ET.SubElement(shop, 'offers')
+# 4. Создаем КРИСТАЛЬНО ЧИСТУЮ структуру по эталону Prom.ua
+yml_catalog = ET.Element('yml_catalog', date=datetime.now().strftime('%Y-%m-%d %H:%M'))
+shop = ET.SubElement(yml_catalog, 'shop')
+
+# Переносим блок категорий из шаблона
+if categories_template is not None:
+    shop.append(categories_template)
 else:
-    offers.clear() # Очищаем, чтобы залить свежие данные из таблицы
+    ET.SubElement(shop, 'categories') # Создаем пустой, если шаблона нет
 
-# 4. Формируем товары
+# Создаем чистый блок для товаров
+offers = ET.SubElement(shop, 'offers')
+
+# 5. Заполняем товары из таблицы
+print("Сопоставляем товары по vendorCode и обновляем цены...")
 for index, row in df.iterrows():
     vc = str(row.get('vendorCode', '')).strip()
     if not vc or vc not in supplier_data:
@@ -81,14 +100,18 @@ for index, row in df.iterrows():
                 param_tag = ET.SubElement(offer, "param", name=param_name)
                 param_tag.text = str(param_val)
 
-# === КРАСИВЫЕ ОТСТУПЫ И СОХРАНЕНИЕ С ИДЕАЛЬНОЙ ШАПКОЙ ===
-ET.indent(root_node, space="    ")
+# === КРАСИВЫЕ ОТСТУПЫ И ЖЕСТКАЯ ЗАПИСЬ ХЕДЕРОВ ===
+ET.indent(yml_catalog, space="    ")
+xml_str = ET.tostring(yml_catalog, encoding='unicode')
 
-# Важно: используем encoding='unicode', чтобы Питон не ломал шапку
-xml_str = ET.tostring(root_node, encoding='unicode')
-xml_str = xml_str.replace('&lt;![CDATA[', '<![CDATA[').replace(']]&gt;', ']]>')
+# Возвращаем HTML-теги в описания товаров
+for placeholder, raw_html in cdata_table.items():
+    xml_str = xml_str.replace(placeholder, f"<![CDATA[{raw_html}]]>")
 
+# Записываем финальный файл. Теперь он ГАРАНТИРОВАННО начнется с нужных строк
 with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     f.write('<!DOCTYPE yml_catalog SYSTEM "shops.dtd">\n')
     f.write(xml_str)
+
+print("Новый эталонный файл успешно создан!")
