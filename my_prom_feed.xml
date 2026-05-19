@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-19 06:19">
+<yml_catalog date="2026-05-19 06:43">
     <shop>
         <categories>
             <category id="10">Рюкзаки</category>
@@ -16,8 +16,8 @@
                 <name_ua>Мужской рюкзак из натуральной кожи Vintage 23052 Черный</name_ua>
                 <categoryId>100</categoryId>
                 <portal_category_id>380601.0</portal_category_id>
-                <price>4146</price>
-                <oldprice>4995</oldprice>
+                <price>4561</price>
+                <oldprice>5494</oldprice>
                 <currencyId>UAH</currencyId>
                 <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/18/82182667556088_+385f6ee71f.jpg</picture>
@@ -49,8 +49,8 @@
                 <name_ua>Бананка текстильна на пояс Vintage 20081 Хакі</name_ua>
                 <categoryId>150</categoryId>
                 <portal_category_id>380650.0</portal_category_id>
-                <price>1277</price>
-                <oldprice>1824</oldprice>
+                <price>1510</price>
+                <oldprice>2057</oldprice>
                 <currencyId>UAH</currencyId>
                 <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/32/37779166924301_+26f9bfe4d5.jpeg</picture>
