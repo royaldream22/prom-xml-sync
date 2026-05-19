@@ -36,17 +36,16 @@ for offer in supplier_root.findall('.//offer'):
             'quantity_in_stock': offer.find('quantity_in_stock').text if offer.find('quantity_in_stock') is not None else "0"
         }
 
-# 2. Загружаем вашу Google Таблицу
+# 2. Загружаем Google Таблицу
 print("Загружаем Google Таблицу...")
 df = pd.read_csv(GOOGLE_SHEET_CSV_URL)
 
-# 3. Читаем категории из вашего шаблона template.xml
+# 3. Читаем категории из шаблона template.xml
 print("Импортируем структуру категорий...")
 template_tree = ET.parse('template.xml')
 template_root = template_tree.getroot()
 categories_template = template_root.find('.//categories')
 
-# 4. Создаем структуру по эталону Prom.ua
 yml_catalog = ET.Element('yml_catalog', date=datetime.now().strftime('%Y-%m-%d %H:%M'))
 shop = ET.SubElement(yml_catalog, 'shop')
 
@@ -57,8 +56,8 @@ else:
 
 offers = ET.SubElement(shop, 'offers')
 
-# 5. Заполняем товары из таблицы
-print("Сопоставляем товары по vendorCode и обновляем цены...")
+# 4. Сопоставляем товары и применяем наценки
+print("Рассчитываем итоговые цены...")
 for index, row in df.iterrows():
     vc = str(row.get('vendorCode', '')).strip()
     if not vc or vc not in supplier_data:
@@ -66,19 +65,14 @@ for index, row in df.iterrows():
         
     sup_info = supplier_data[vc]
     
-    # === НАША НОВАЯ ЛОГИКА ЗАГЛУШКИ ===
-    # Проверяем, что написано в колонке available вашей таблицы
+    # Проверка доступности (заглушка)
     sheet_available = str(row.get('available', 'TRUE')).strip().upper()
-    
-    # Если вы вручную выключили товар в таблице (написали FALSE)
     if sheet_available == "FALSE":
         is_available = "false"
         final_qty = "0"
     else:
-        # Если в таблице TRUE, то берем реальные остатки у поставщика
         is_available = "true" if int(sup_info['quantity_in_stock']) > 0 else "false"
         final_qty = sup_info['quantity_in_stock']
-    # ==================================
     
     offer = ET.SubElement(offers, "offer", id=str(row.get('id', '')), available=is_available)
     
@@ -88,14 +82,48 @@ for index, row in df.iterrows():
     ET.SubElement(offer, "categoryId").text = str(row.get('categoryId', ''))
     ET.SubElement(offer, "portal_category_id").text = str(row.get('portal_category_id', ''))
     
-    # Цены всегда обновляем от поставщика
-    ET.SubElement(offer, "price").text = sup_info['price']
-    if sup_info['oldprice']:
-        ET.SubElement(offer, "oldprice").text = sup_info['oldprice']
+    # === НОВАЯ ЛОГИКА НАЦЕНКИ ===
+    base_price = float(sup_info['price']) if sup_info['price'] else 0.0
+    base_oldprice = float(sup_info['oldprice']) if sup_info['oldprice'] else 0.0
+    
+    # Считываем данные из новой колонки markup
+    markup_val = str(row.get('markup', '0')).strip()
+    if markup_val.lower() == 'nan' or markup_val == '':
+        markup_val = '0'
+        
+    final_price = base_price
+    final_oldprice = base_oldprice
+    
+    if markup_val != '0':
+        if markup_val.endswith('%'):
+            try:
+                # Расчет процентов
+                percent = float(markup_val.replace('%', '').replace(',', '.')) / 100.0
+                final_price = base_price * (1 + percent)
+                if base_oldprice:
+                    final_oldprice = base_oldprice * (1 + percent)
+            except ValueError:
+                pass
+        else:
+            try:
+                # Фиксированная прибавка
+                fixed_markup = float(markup_val.replace(',', '.'))
+                final_price = base_price + fixed_markup
+                if base_oldprice:
+                    final_oldprice = base_oldprice + fixed_markup
+            except ValueError:
+                pass
+    
+    # Округляем до целых чисел и записываем
+    final_price_str = str(int(round(final_price)))
+    ET.SubElement(offer, "price").text = final_price_str
+    
+    if base_oldprice:
+        final_oldprice_str = str(int(round(final_oldprice)))
+        ET.SubElement(offer, "oldprice").text = final_oldprice_str
+    # ============================
         
     ET.SubElement(offer, "currencyId").text = "UAH"
-    
-    # Записываем количество (реальное или обнуленное заглушкой)
     ET.SubElement(offer, "quantity_in_stock").text = final_qty
     
     for i in range(1, 11):
@@ -109,6 +137,7 @@ for index, row in df.iterrows():
     create_cdata_element(offer, "description", str(row.get('description', '')))
     create_cdata_element(offer, "description_ua", str(row.get('description_ua', '')))
     
+    # Подтягиваем все кастомные характеристики
     for col in df.columns:
         if str(col).startswith('param:'):
             param_name = col.split('param:')[1]
@@ -117,7 +146,7 @@ for index, row in df.iterrows():
                 param_tag = ET.SubElement(offer, "param", name=param_name)
                 param_tag.text = str(param_val)
 
-# === КРАСИВЫЕ ОТСТУПЫ И ЗАПИСЬ ===
+# === ЗАВЕРШЕНИЕ СБОРКИ ФАЙЛА ===
 ET.indent(yml_catalog, space="    ")
 xml_str = ET.tostring(yml_catalog, encoding='unicode')
 
@@ -129,4 +158,4 @@ with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<!DOCTYPE yml_catalog SYSTEM "shops.dtd">\n')
     f.write(xml_str)
 
-print("Файл успешно обновлен с учетом мастер-выключателей available!")
+print("Файл успешно собран с учетом вашей гибкой наценки!")
