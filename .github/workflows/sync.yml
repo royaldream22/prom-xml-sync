@@ -29,4 +29,5 @@ jobs:
           git config --global user.email 'action@github.com'
           git add my_prom_feed.xml
           git commit -m "Автоматическое обновление прайса" || exit 0
+          git pull --rebase origin main
           git push
