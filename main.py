@@ -69,17 +69,28 @@ for index, row in df.iterrows():
         
     sup_info = supplier_data[vc]
     
-    # Модуль "Заглушка"
+    # === МОДУЛЬ "ЗАГЛУШКА" И "ГОТОВО К ОТПРАВКЕ" ===
     sheet_available = str(row.get('available', 'TRUE')).strip().upper()
+    sheet_ready = str(row.get('ready_to_ship', 'TRUE')).strip().upper()
+    
     if sheet_available == "FALSE":
         is_available = "false"
         final_qty = "0"
+        is_ready = "false"
     else:
-        is_available = "true" if int(sup_info['quantity_in_stock']) > 0 else "false"
+        if int(sup_info['quantity_in_stock']) > 0:
+            is_available = "true"
+            # Устанавливаем готовность к отправке по умолчанию (если нет жесткого запрета FALSE в таблице)
+            is_ready = "true" if sheet_ready != "FALSE" else "false"
+        else:
+            is_available = "false"
+            is_ready = "false"
         final_qty = sup_info['quantity_in_stock']
     
-    offer = ET.SubElement(offers, "offer", id=clean_id(row.get('id', '')), available=is_available)
-    
+    # Создаем тег offer с нужными атрибутами
+    offer = ET.SubElement(offers, "offer", id=clean_id(row.get('id', '')), available=is_available, in_stock=is_ready)
+    # ===============================================
+
     ET.SubElement(offer, "url").text = "" 
     ET.SubElement(offer, "name").text = str(row.get('name', '')).strip()
     ET.SubElement(offer, "name_ua").text = str(row.get('name_ua', '')).strip()
@@ -125,11 +136,10 @@ for index, row in df.iterrows():
     ET.SubElement(offer, "vendorCode").text = vc
     ET.SubElement(offer, "vendor").text = str(row.get('vendor', '')).strip()
     
-    # === МОДУЛЬ ТЕГОВ (KEYWORDS) ===
+    # Модуль тегов (Keywords)
     keywords_val = str(row.get('keywords', '')).strip()
     if keywords_val and keywords_val.lower() != 'nan':
         ET.SubElement(offer, "keywords").text = keywords_val
-    # ===============================
     
     create_cdata_element(offer, "description", str(row.get('description', '')).strip())
     create_cdata_element(offer, "description_ua", str(row.get('description_ua', '')).strip())
@@ -153,4 +163,4 @@ with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<!DOCTYPE yml_catalog SYSTEM "shops.dtd">\n')
     f.write(xml_str)
 
-print("Файл успешно собран! Теги добавлены.")
+print("Файл успешно собран! Теги и статус отправки добавлены.")
