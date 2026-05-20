@@ -20,6 +20,11 @@ def create_cdata_element(parent, tag, text):
     cdata_counter += 1
     return elem
 
+def clean_id(val):
+    val_str = str(val).strip()
+    if val_str.endswith('.0'): return val_str[:-2]
+    return val_str
+
 # 1. Скачиваем данные поставщика
 print("Скачиваем XML поставщика...")
 response = requests.get(SUPPLIER_XML_URL)
@@ -36,7 +41,7 @@ for offer in supplier_root.findall('.//offer'):
             'quantity_in_stock': offer.find('quantity_in_stock').text if offer.find('quantity_in_stock') is not None else "0"
         }
 
-# 2. Загружаем Google Таблицу (Указываем жестко читать как текст)
+# 2. Загружаем Google Таблицу
 print("Загружаем Google Таблицу...")
 df = pd.read_csv(GOOGLE_SHEET_CSV_URL, dtype=str).fillna("")
 
@@ -56,25 +61,15 @@ else:
 
 offers = ET.SubElement(shop, 'offers')
 
-# === ФУНКЦИЯ-ОЧИСТИТЕЛЬ ОТ ".0" ===
-def clean_id(val):
-    val_str = str(val).strip()
-    if val_str.endswith('.0'):
-        return val_str[:-2]
-    return val_str
-# ==================================
-
 # 4. Сопоставляем товары
-print("Рассчитываем итоговые цены...")
+print("Сборка товаров...")
 for index, row in df.iterrows():
-    # Очищаем vendorCode
     vc = clean_id(row.get('vendorCode', ''))
-    
-    if not vc or vc not in supplier_data:
-        continue
+    if not vc or vc not in supplier_data: continue
         
     sup_info = supplier_data[vc]
     
+    # Модуль "Заглушка"
     sheet_available = str(row.get('available', 'TRUE')).strip().upper()
     if sheet_available == "FALSE":
         is_available = "false"
@@ -83,24 +78,19 @@ for index, row in df.iterrows():
         is_available = "true" if int(sup_info['quantity_in_stock']) > 0 else "false"
         final_qty = sup_info['quantity_in_stock']
     
-    # Очищаем ID товара
     offer = ET.SubElement(offers, "offer", id=clean_id(row.get('id', '')), available=is_available)
     
     ET.SubElement(offer, "url").text = "" 
     ET.SubElement(offer, "name").text = str(row.get('name', '')).strip()
     ET.SubElement(offer, "name_ua").text = str(row.get('name_ua', '')).strip()
-    
-    # Очищаем ID категорий и портала
     ET.SubElement(offer, "categoryId").text = clean_id(row.get('categoryId', ''))
     ET.SubElement(offer, "portal_category_id").text = clean_id(row.get('portal_category_id', ''))
     
-    # === НАЦЕНКА ===
+    # Модуль "Наценка"
     base_price = float(sup_info['price']) if sup_info['price'] else 0.0
     base_oldprice = float(sup_info['oldprice']) if sup_info['oldprice'] else 0.0
-    
     markup_val = str(row.get('markup', '0')).strip()
-    if markup_val.lower() == 'nan' or markup_val == '':
-        markup_val = '0'
+    if markup_val.lower() == 'nan' or markup_val == '': markup_val = '0'
         
     final_price = base_price
     final_oldprice = base_oldprice
@@ -110,22 +100,17 @@ for index, row in df.iterrows():
             try:
                 percent = float(markup_val.replace('%', '').replace(',', '.')) / 100.0
                 final_price = base_price * (1 + percent)
-                if base_oldprice:
-                    final_oldprice = base_oldprice * (1 + percent)
-            except ValueError:
-                pass
+                if base_oldprice: final_oldprice = base_oldprice * (1 + percent)
+            except ValueError: pass
         else:
             try:
                 fixed_markup = float(markup_val.replace(',', '.'))
                 final_price = base_price + fixed_markup
-                if base_oldprice:
-                    final_oldprice = base_oldprice + fixed_markup
-            except ValueError:
-                pass
+                if base_oldprice: final_oldprice = base_oldprice + fixed_markup
+            except ValueError: pass
     
     ET.SubElement(offer, "price").text = str(int(round(final_price)))
-    if base_oldprice:
-        ET.SubElement(offer, "oldprice").text = str(int(round(final_oldprice)))
+    if base_oldprice: ET.SubElement(offer, "oldprice").text = str(int(round(final_oldprice)))
         
     ET.SubElement(offer, "currencyId").text = "UAH"
     ET.SubElement(offer, "quantity_in_stock").text = final_qty
@@ -140,6 +125,12 @@ for index, row in df.iterrows():
     ET.SubElement(offer, "vendorCode").text = vc
     ET.SubElement(offer, "vendor").text = str(row.get('vendor', '')).strip()
     
+    # === МОДУЛЬ ТЕГОВ (KEYWORDS) ===
+    keywords_val = str(row.get('keywords', '')).strip()
+    if keywords_val and keywords_val.lower() != 'nan':
+        ET.SubElement(offer, "keywords").text = keywords_val
+    # ===============================
+    
     create_cdata_element(offer, "description", str(row.get('description', '')).strip())
     create_cdata_element(offer, "description_ua", str(row.get('description_ua', '')).strip())
     
@@ -151,7 +142,6 @@ for index, row in df.iterrows():
                 param_tag = ET.SubElement(offer, "param", name=param_name)
                 param_tag.text = param_val
 
-# === ЗАВЕРШЕНИЕ СБОРКИ ФАЙЛА ===
 ET.indent(yml_catalog, space="    ")
 xml_str = ET.tostring(yml_catalog, encoding='unicode')
 
@@ -163,4 +153,4 @@ with open('my_prom_feed.xml', 'w', encoding='utf-8') as f:
     f.write('<!DOCTYPE yml_catalog SYSTEM "shops.dtd">\n')
     f.write(xml_str)
 
-print("Файл успешно собран! Все ID очищены от '.0'.")
+print("Файл успешно собран! Теги добавлены.")
