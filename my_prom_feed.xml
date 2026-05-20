@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-20 13:43">
+<yml_catalog date="2026-05-20 13:44">
     <shop>
         <categories>
             <category id="10">Рюкзаки</category>
@@ -10,7 +10,7 @@
             <category id="151" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі барсетки</category>
         </categories>
         <offers>
-            <offer id="1001" available="true">
+            <offer id="1001" available="true" in_stock="true">
                 <url />
                 <name>Мужской рюкзак из натуральной кожи Vintage 23052 Черный</name>
                 <name_ua>Мужской рюкзак из натуральной кожи Vintage 23052 Черный</name_ua>
@@ -42,7 +42,7 @@
                 <param name="Бренд">Vintage</param>
                 <param name="Размеры (см)">30х41х11</param>
             </offer>
-            <offer id="1002" available="true">
+            <offer id="1002" available="true" in_stock="true">
                 <url />
                 <name>Бананка текстильная на пояс Vintage 20081 Хаки</name>
                 <name_ua>Бананка текстильна на пояс Vintage 20081 Хакі</name_ua>
@@ -76,7 +76,7 @@
                 <param name="Формат">Горизонтальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="1003" available="true">
+            <offer id="1003" available="true" in_stock="true">
                 <url />
                 <name>Барсетка мужская в гладкой коже Vintage 14970 Черная</name>
                 <name_ua>Барсетка чоловіча в гладку шкіру Vintage 14970 Чорна</name_ua>
@@ -112,7 +112,7 @@
                 <param name="Можно носить">На запястье</param>
                 <param name="Формат">Горизонтальный</param>
             </offer>
-            <offer id="49719" available="false">
+            <offer id="49719" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак Vintage 14481 Бежевый</name>
                 <name_ua>Рюкзак Vintage 14481 Бежевий</name_ua>
@@ -145,7 +145,7 @@
                 <param name="Страна производитель">Китай</param>
                 <param name="Иконки">BESTSELLER|TopPrice</param>
             </offer>
-            <offer id="49720" available="false">
+            <offer id="49720" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак Vintage 14482 Синий</name>
                 <name_ua>Рюкзак Vintage 14482 Синій</name_ua>
@@ -177,7 +177,7 @@
                 <param name="Страна производитель">Китай</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="49748" available="false">
+            <offer id="49748" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак женский нейлоновый Vintage 14805 Черный</name>
                 <name_ua>Рюкзак жіночий нейлоновий Vintage 14805 Чорний</name_ua>
@@ -211,7 +211,7 @@
                 <param name="Пол">Женский</param>
                 <param name="Страна производитель">Китай</param>
             </offer>
-            <offer id="49750" available="false">
+            <offer id="49750" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак женский нейлоновый Vintage 14862 Красный</name>
                 <name_ua>Рюкзак жіночий нейлоновий Vintage 14862 Червоний</name_ua>
@@ -240,7 +240,7 @@
                 <param name="Пол">Женский</param>
                 <param name="Страна производитель">Китай</param>
             </offer>
-            <offer id="49770" available="false">
+            <offer id="49770" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак нейлоновый Vintage 14821 Синий</name>
                 <name_ua>Рюкзак нейлоновий Vintage 14821 Синій</name_ua>
@@ -269,7 +269,7 @@
                 <param name="Пол">Унисекс</param>
                 <param name="Страна производитель">Китай</param>
             </offer>
-            <offer id="51058" available="false">
+            <offer id="51058" available="false" in_stock="false">
                 <url />
                 <name>Мужской рюкзак из текстиля Vintage 20492 Черный</name>
                 <name_ua>Чоловічий рюкзак з текстилю Vintage 20492 Чорний</name_ua>
@@ -299,7 +299,7 @@
                 <param name="Бренд">Vintage</param>
                 <param name="Размеры (см)">26х43х13</param>
             </offer>
-            <offer id="49769" available="true">
+            <offer id="49769" available="true" in_stock="true">
                 <url />
                 <name>Рюкзак нейлоновый Vintage 14813 Серый</name>
                 <name_ua>Рюкзак нейлоновий Vintage 14813 Сірий</name_ua>
@@ -329,7 +329,7 @@
                 <param name="Пол">Унисекс</param>
                 <param name="Страна производитель">Китай</param>
             </offer>
-            <offer id="49751" available="true">
+            <offer id="49751" available="true" in_stock="true">
                 <url />
                 <name>Рюкзак женский нейлоновый Vintage 14871 Черный</name>
                 <name_ua>Рюкзак жіночий нейлоновий Vintage 14871 Чорний</name_ua>
@@ -362,7 +362,7 @@
                 <param name="Пол">Женский</param>
                 <param name="Страна производитель">Китай</param>
             </offer>
-            <offer id="51056" available="true">
+            <offer id="51056" available="true" in_stock="true">
                 <url />
                 <name>Добротный мужской рюкзак из текстиля Vintage 20490 Черный</name>
                 <name_ua>Добротний чоловічий рюкзак із текстилю Vintage 20490 Чорний</name_ua>
@@ -392,7 +392,7 @@
                 <param name="Бренд">Vintage</param>
                 <param name="Размеры (см)">25х42х12</param>
             </offer>
-            <offer id="49768" available="true">
+            <offer id="49768" available="true" in_stock="true">
                 <url />
                 <name>Рюкзак нейлоновый Vintage 14808 Черный</name>
                 <name_ua>Рюкзак нейлоновий Vintage 14808 Чорний</name_ua>
