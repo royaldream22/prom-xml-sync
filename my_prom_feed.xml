@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-25 17:09">
+<yml_catalog date="2026-05-26 06:11">
     <shop>
         <categories>
             <category id="10">Рюкзаки</category>
@@ -116,7 +116,7 @@
                 <url />
                 <name>Рюкзак Vintage 14481 Бежевый</name>
                 <name_ua>Рюкзак Vintage 14481 Бежевий</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>1627</price>
                 <oldprice>2711</oldprice>
@@ -149,7 +149,7 @@
                 <url />
                 <name>Рюкзак Vintage 14482 Синий</name>
                 <name_ua>Рюкзак Vintage 14482 Синій</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>2422</price>
                 <currencyId>UAH</currencyId>
@@ -181,7 +181,7 @@
                 <url />
                 <name>Рюкзак женский нейлоновый Vintage 14805 Черный</name>
                 <name_ua>Рюкзак жіночий нейлоновий Vintage 14805 Чорний</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>1432</price>
                 <oldprice>2169</oldprice>
@@ -215,7 +215,7 @@
                 <url />
                 <name>Рюкзак женский нейлоновый Vintage 14862 Красный</name>
                 <name_ua>Рюкзак жіночий нейлоновий Vintage 14862 Червоний</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>2157</price>
                 <currencyId>UAH</currencyId>
@@ -244,7 +244,7 @@
                 <url />
                 <name>Рюкзак нейлоновый Vintage 14821 Синий</name>
                 <name_ua>Рюкзак нейлоновий Vintage 14821 Синій</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>2074</price>
                 <currencyId>UAH</currencyId>
@@ -273,7 +273,7 @@
                 <url />
                 <name>Мужской рюкзак из текстиля Vintage 20492 Черный</name>
                 <name_ua>Чоловічий рюкзак з текстилю Vintage 20492 Чорний</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>2000</price>
                 <currencyId>UAH</currencyId>
@@ -303,7 +303,7 @@
                 <url />
                 <name>Рюкзак нейлоновый Vintage 14813 Серый</name>
                 <name_ua>Рюкзак нейлоновий Vintage 14813 Сірий</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>1797</price>
                 <oldprice>2165</oldprice>
@@ -333,7 +333,7 @@
                 <url />
                 <name>Рюкзак женский нейлоновый Vintage 14871 Черный</name>
                 <name_ua>Рюкзак жіночий нейлоновий Vintage 14871 Чорний</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>1463</price>
                 <oldprice>1763</oldprice>
@@ -366,7 +366,7 @@
                 <url />
                 <name>Добротный мужской рюкзак из текстиля Vintage 20490 Черный</name>
                 <name_ua>Добротний чоловічий рюкзак із текстилю Vintage 20490 Чорний</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>1693</price>
                 <oldprice>2040</oldprice>
@@ -396,7 +396,7 @@
                 <url />
                 <name>Рюкзак нейлоновый Vintage 14808 Черный</name>
                 <name_ua>Рюкзак нейлоновий Vintage 14808 Чорний</name_ua>
-                <categoryId>80</categoryId>
+                <categoryId />
                 <portal_category_id />
                 <price>1949</price>
                 <oldprice>2165</oldprice>
