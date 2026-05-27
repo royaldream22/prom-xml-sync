@@ -8,16 +8,45 @@
     <!-- БЛОК КАТЕГОРІЙ                             -->
     <!-- ========================================== -->
     <categories>
-        <!-- Головна категорія -->
-        <category id="10">Рюкзаки</category>
-        <category id="15">Барсетки</category>
-        
-        <!-- Розширені варіанти з батьківською категорією та прив'язкою до порталу Prom.ua -->
-        <category id="100" parentId="10" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki-gorodskie">Чоловічі рюкзаки</category>
-        <category id="150" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі бананки</category>
-        <category id="151" parentId="15" portal_id="380650" portal_url="https://prom.ua/ua/Poyasnye-sumki">Чоловічі барсетки</category>
+    <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
+    <category id="1100" parentId="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki-gorodskie">Рюкзаки міські</category>
+    <category id="1200" parentId="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki-gorodskie">Рюкзаки шкіряні</category>
 
-    </categories>
+    <category id="2000" portal_id="380603" portal_url="https://prom.ua/ua/Gorodskie-sumki">Сумки чоловічі</category>
+    <category id="2100" parentId="2000" portal_id="380603" portal_url="https://prom.ua/ua/Gorodskie-sumki">Сумки чоловічі шкіряні</category>
+    <category id="2200" parentId="2000" portal_id="152402" portal_url="https://prom.ua/ua/Kozhanye-portfeli">Портфелі чоловічі</category>
+    <category id="2300" parentId="2000" portal_id="152405" portal_url="https://prom.ua/ua/Koshelki-portmone">Клатчі чоловічі</category>
+    <category id="2400" parentId="2000" portal_id="152411" portal_url="https://prom.ua/ua/Muzhskie-sumki">Барсетки чоловічі</category>
+    <category id="2500" parentId="2000" portal_id="380110" portal_url="https://prom.ua/ua/Sumki-dlya-noutbukov">Сумки шкіряні для ноутбуків</category>
+
+    <category id="3000" portal_id="152403" portal_url="https://prom.ua/ua/Zhenskie-sumochki">Сумки жіночі</category>
+    <category id="3100" parentId="3000" portal_id="152403" portal_url="https://prom.ua/ua/Zhenskie-sumochki">Сумки жіночі шкіряні</category> 
+
+    <category id="4000" portal_id="152405" portal_url="https://prom.ua/ua/Koshelki-portmone">Гаманці та затискачі</category>
+    <category id="4100" parentId="4000" portal_id="152405" portal_url="https://prom.ua/ua/Koshelki-portmone">Гаманці чоловічі</category>
+    <category id="4200" parentId="4000" portal_id="152405" portal_url="https://prom.ua/ua/Koshelki-portmone">Гаманці жіночі</category>
+    <category id="4300" parentId="4000" portal_id="152405" portal_url="https://prom.ua/ua/Koshelki-portmone">Затискачі для грошей</category>
+
+    <category id="5000" portal_id="32801" portal_url="https://prom.ua/ua/Remni-poyasa">Ремені</category>
+    <category id="5100" parentId="5000" portal_id="32801" portal_url="https://prom.ua/ua/Remni-poyasa">Ремені чоловічі</category>
+    <category id="5200" parentId="5000" portal_id="32801" portal_url="https://prom.ua/ua/Remni-poyasa">Ремені жіночі</category>
+
+    <category id="6000" portal_id="152404" portal_url="https://prom.ua/ua/Dorozhnye-sumki-chemodany">Дорожні сумки</category>
+    <category id="6100" parentId="6000" portal_id="152404" portal_url="https://prom.ua/ua/Dorozhnye-sumki-chemodany">Дорожні сумки шкіряні</category>
+    <category id="6200" parentId="6000" portal_id="152404" portal_url="https://prom.ua/ua/Trevel-kejsy">Тревел-кейси</category>
+
+    <category id="7000" portal_id="152413" portal_url="https://prom.ua/ua/Oblozhki-dlya-dokumentov">Аксесуари та обкладинки</category>
+    <category id="7100" parentId="7000" portal_id="152413" portal_url="https://prom.ua/ua/Oblozhki-dlya-dokumentov">Обкладинки на паспорт</category>
+    <category id="7200" parentId="7000" portal_id="152413" portal_url="https://prom.ua/ua/Oblozhki-dlya-dokumentov">Обкладинки для прав</category>
+    <category id="7300" parentId="7000" portal_id="152413" portal_url="https://prom.ua/ua/Oblozhki-dlya-dokumentov">Обкладинки на документи</category>
+    <category id="7400" parentId="7000" portal_id="211115" portal_url="https://prom.ua/ua/Vizitnitsy">Візитниці</category>
+    <category id="7500" parentId="7000" portal_id="371013" portal_url="https://prom.ua/ua/Klyuchnitsy-nastennye">Ключниці</category>
+    <category id="7700" parentId="7000" portal_id="371013" portal_url="https://prom.ua/ua/Klyuchnitsy-nastennye"">Футляри шкіряні</category>
+
+    <category id="8000" portal_id="152407" portal_url="https://prom.ua/ua/Kosmetichki">Косметички</category>
+
+    <category id="9000" portal_id="230716" portal_url="https://prom.ua/ua/Klipsatory">Подарункове пакування</category>
+</categories>
     <offers>
 
     </offers>
