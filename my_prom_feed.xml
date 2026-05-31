@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-05-31 06:23">
+<yml_catalog date="2026-05-31 12:13">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -21407,7 +21407,7 @@
                 <price>2957</price>
                 <oldprice>3479</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/12/14602942090498_+b1dce0bf59.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/17927766061168_+cb0440751d.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/muzhskaya-kozhanaya-sumka-koshelek-grande-pelle-11440-chernyj.html-86925691622352_+dc6db8140c.jpg</picture>
@@ -34099,7 +34099,7 @@
                 <price>558</price>
                 <oldprice>620</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/15/91224748513878_+f00dd13c78.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/73566042304773_+665e8c19f4.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/vertikalnaya-poyasnaya-sumka-dlya-muzhchin-iz-naturalnoj-kozhi-21487-vintage-chernaya.html-37540488890385_+d5d5e7d5cf.jpg</picture>
