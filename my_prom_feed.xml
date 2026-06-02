@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-02 14:57">
+<yml_catalog date="2026-06-02 18:49">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -18929,7 +18929,7 @@
                 <price>1241</price>
                 <oldprice>1880</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/53224982134689_+61593d10d6.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/72902893365552_+1ba64161d6.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/praktichnyj-muzhskoj-messendzher-iz-naturalnoj-kozhi-vintage-21950-chernyj.html-65183726939770_+b843848bfb.jpg</picture>
