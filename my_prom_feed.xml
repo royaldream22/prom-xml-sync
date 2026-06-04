@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-04 14:06">
+<yml_catalog date="2026-06-04 17:47">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -17117,7 +17117,7 @@
                 <price>3302</price>
                 <oldprice>3669</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/52069108336755_+f37fa700cc.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/33866225575791_+45d173013f.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/sumka-muzhskaya-pod-noutbuk-vintage-14750-korichnevaya.html-46114943721976_+f8403db757.jpg</picture>
@@ -21234,7 +21234,7 @@
                 <price>1084</price>
                 <oldprice>1902</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/15/26484707064552_+196be80e0f.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/38583137105663_+474b478241.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/23665899270972_+27777d621c.jpeg</picture>
@@ -31228,7 +31228,7 @@
                 <price>2186</price>
                 <oldprice>2429</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/48/60744673032688_+5fd5dbfdde.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/48/78184882766259_+e96a2a73f1.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/48/vintazhnaya-muzhskaya-sumka-iz-naturalnoj-kozhi-21293-vintage-korichnevaya.html-79042414260166_+4ecc73792b.jpg</picture>
