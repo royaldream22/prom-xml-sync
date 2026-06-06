@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-06 12:08">
+<yml_catalog date="2026-06-06 16:10">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -17046,7 +17046,7 @@
                 <price>2615</price>
                 <oldprice>2906</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/17/40537232902406_+5ab050e1ea.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/84715691932578_+cb841bb216.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/sumka-muzhskaya-gladkaya-vintage-14700-korichnevaya.html-21181215087504_+b805112cb0.jpg</picture>
@@ -25625,7 +25625,7 @@
                 <price>1834</price>
                 <oldprice>2038</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/43/52358328025493_+5e9aa14c53.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/17343581004774_+fc59ba9569.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/modnaya-kozhanaya-muzhskaya-sumka-cherez-plecho-vintage-20673-chernyj.html-64674086265814_+12dda460f0.jpg</picture>
@@ -30832,7 +30832,7 @@
                 <price>1782</price>
                 <oldprice>2148</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/47/20482342547089_+a1c13e3c0c.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/69111623319468_+f077c086e5.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/vmestitelnaya-muzhskaya-sumka-kozhanaya-21271-vintage-chernaya.html-88571663844242_+9bbb1db065.jpg</picture>
