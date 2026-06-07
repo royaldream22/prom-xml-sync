@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-07 12:22">
+<yml_catalog date="2026-06-07 16:20">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -28423,7 +28423,7 @@
                 <price>2122</price>
                 <oldprice>3032</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/24/74352080094598_+471d5c0694.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/88922251414512_+22bafb0e0a.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/sumka-na-plecho-tekstilnaya-vintage-20076-chernaya.html-86908776986168_+b774b27c11.jpg</picture>
@@ -31691,7 +31691,7 @@
                 <price>1101</price>
                 <oldprice>1932</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/74918313854145_+26ea176294.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/15781624214622_+220239a8bd.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/otlichnaya-vertikalnaya-sumka-dlya-muzhchin-iz-tekstilya-vintage-22236-korichnevyj.html-26487148814857_+f582d7056f.jpg</picture>
