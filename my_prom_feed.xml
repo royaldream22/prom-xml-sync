@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-07 16:20">
+<yml_catalog date="2026-06-08 06:49">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -28423,7 +28423,7 @@
                 <price>2122</price>
                 <oldprice>3032</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/24/74352080094598_+471d5c0694.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/88922251414512_+22bafb0e0a.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/sumka-na-plecho-tekstilnaya-vintage-20076-chernaya.html-86908776986168_+b774b27c11.jpg</picture>
