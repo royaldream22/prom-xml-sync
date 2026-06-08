@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-08 14:50">
+<yml_catalog date="2026-06-08 17:58">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -10584,7 +10584,7 @@
                 <price>2922</price>
                 <oldprice>3795</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/42/78713181892313_+22f37b890c.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/42/78950307947046_+c0f511985a.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/42/sumka-muzhskaya-kozhanaya-vintage-14852-chernaya.html-48385092527499_+9dee92c743.jpg</picture>
@@ -17187,7 +17187,7 @@
                 <price>1568</price>
                 <oldprice>2750</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/33515551041342_+8eeac25547.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/92235695467590_+1d635b3ed6.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/sumka-na-plecho-tekstilnaya-vintage-20148-sinyaya.html-95984720112336_+551a3426d9.jpg</picture>
@@ -18371,7 +18371,7 @@
                 <price>3740</price>
                 <oldprice>4400</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/45/99023759842428_+93451ae295.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/45/44917721092577_+9064b3b338.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/45/bananka-v-vintazhnoj-kozhe-grande-pelle-11154-korichnevaya.html-11131239573140_+30ecf67b4e.jpg</picture>
@@ -34099,7 +34099,7 @@
                 <price>558</price>
                 <oldprice>620</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>8</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/15/91224748513878_+f00dd13c78.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/73566042304773_+665e8c19f4.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/vertikalnaya-poyasnaya-sumka-dlya-muzhchin-iz-naturalnoj-kozhi-21487-vintage-chernaya.html-37540488890385_+d5d5e7d5cf.jpg</picture>
