@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-08 17:58">
+<yml_catalog date="2026-06-09 06:13">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -4410,7 +4410,7 @@
                 <param name="Можно носить">Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="47465" available="false" in_stock="false">
+            <offer id="47465" available="true" in_stock="true">
                 <url />
                 <name>Сумка мужская SHVIGEL 11104 кожаная Коричневая</name>
                 <name_ua>Сумка чоловіча SHVIGEL 11104 шкіряна Коричнева</name_ua>
@@ -4419,7 +4419,7 @@
                 <price>4909</price>
                 <oldprice>6375</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/36629741776207_+f9ed83a4ba.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/61846644093921_+0a0afa36ac.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/sumka-muzhskaya-shvigel-11104-kozhanaya-korichnevaya.html-92847905831797_+be005f99b3.jpg</picture>
