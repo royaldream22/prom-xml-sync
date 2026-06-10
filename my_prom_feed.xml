@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-10 14:26">
+<yml_catalog date="2026-06-10 18:06">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -381,7 +381,7 @@
                 <param name="Формат">Горизонтальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="47127" available="true" in_stock="true">
+            <offer id="47127" available="false" in_stock="false">
                 <url />
                 <name>Сумка мужская Vintage 14088 Коричневая</name>
                 <name_ua>Сумка чоловіча Vintage 14088 Коричнева</name_ua>
@@ -390,7 +390,7 @@
                 <price>5163</price>
                 <oldprice>6221</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/28/65898115417981_+967683a670.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/95797396239136_+466d54ba89.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/sumka-muzhskaya-vintage-14088-korichnevaya.html-71885662066074_+9f3c0d4a84.jpg</picture>
@@ -12038,7 +12038,7 @@
                 <price>2440</price>
                 <oldprice>2940</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/30/35355296212821_+407d705df6.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/67262847466952_+15b83a1a46.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/sumka-muzhskaya-flotar-cherez-plecho-vintage-20444-chernaya.html-63335542757468_+bd7e9b3e48.jpg</picture>
@@ -24558,7 +24558,7 @@
                 <price>2449</price>
                 <oldprice>2721</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/41739009551918_+1ccfcbeb12.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/91060275715109_+59481f5fe3.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/vertikalnaya-muzhskaya-sumka-v-myagkoj-kozhe-vintage-20367-chernaya.html-85443404564228_+0de5636672.jpg</picture>
@@ -30760,7 +30760,7 @@
                 <price>1138</price>
                 <oldprice>1997</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/11/68540534948838_+b178208498.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/95348460090597_+8c0d61a639.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/udobnaya-muzhskaya-sumka-cherez-plecho-vintage-20388-seryj.html-71209311377898_+25f9de4057.jpg</picture>
@@ -30796,7 +30796,7 @@
                 <price>984</price>
                 <oldprice>1726</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/12/60463750558370_+81e2e1ff1e.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/92148969145883_+4d48b1a6ea.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/praktichnaya-muzhskaya-sumka-cherez-plecho-vintage-20389-korichnevyj.html-92644402812290_+5179222fc1.jpg</picture>
