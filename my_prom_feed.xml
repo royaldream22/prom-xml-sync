@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-14 13:00">
+<yml_catalog date="2026-06-14 16:26">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -26722,7 +26722,7 @@
                 <price>420</price>
                 <oldprice>933</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/3/39442748422151_+253bea8718.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/29832945012619_+52e18a8fc0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/52631396908862_+7eff1190ce.jpg</picture>
