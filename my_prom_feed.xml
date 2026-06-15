@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-14 16:26">
+<yml_catalog date="2026-06-15 07:25">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -5665,7 +5665,7 @@
                 <param name="Можно носить">В руке|Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="52974" available="true" in_stock="true">
+            <offer id="52974" available="false" in_stock="false">
                 <url />
                 <name>Практичная сумка-чехол на пояс с металлическим карабином из текстиля Vintage 22226 Синий</name>
                 <name_ua>Практична сумка-чохол на пояс із металевим карабіном із текстилю Vintage 22226 Синій</name_ua>
@@ -5674,7 +5674,7 @@
                 <price>776</price>
                 <oldprice>1108</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/92617881479069_+451799d78b.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/72035138241385_+e0be4cc425.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/praktichnaya-sumka-chehol-na-poyas-s-metallicheskim-karabinom-iz-tekstilya-vintage-22226-sinij.html-55174617229642_+41207beafd.jpg</picture>
@@ -14300,7 +14300,7 @@
                 <price>1334</price>
                 <oldprice>1905</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/18/36015966547049_+4be86d4428.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/21033149707893_+fdb29ef035.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/interesnaya-gorizontalnaya-muzhskaya-sumka-iz-tekstilya-21250-vintage-sinyaya.html-79115824205574_+4bc8922b46.jpg</picture>
@@ -15046,7 +15046,7 @@
                 <price>1491</price>
                 <oldprice>2130</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/36/77674166522196_+12ddfe9c7e.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/36/87606414110501_+aee481cea9.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/36/funktsionalnaya-vertikalnaya-sumka-dlya-muzhchin-iz-tekstilya-vintage-22237-chernyj.html-41804791528711_+f0aca69838.jpg</picture>
@@ -23275,7 +23275,7 @@
                 <price>984</price>
                 <oldprice>1726</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>15</quantity_in_stock>
+                <quantity_in_stock>14</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/12/60463750558370_+81e2e1ff1e.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/92148969145883_+4d48b1a6ea.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/praktichnaya-muzhskaya-sumka-cherez-plecho-vintage-20389-korichnevyj.html-92644402812290_+5179222fc1.jpg</picture>
@@ -26722,7 +26722,7 @@
                 <price>420</price>
                 <oldprice>933</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/3/39442748422151_+253bea8718.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/29832945012619_+52e18a8fc0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/52631396908862_+7eff1190ce.jpg</picture>
