@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-18 14:13">
+<yml_catalog date="2026-06-18 18:07">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -11300,7 +11300,7 @@
                 <price>1138</price>
                 <oldprice>1997</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/11/89484396715301_+8fdbcdd2a7.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/72288357520036_+a017a92f76.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/81640749190178_+bf00d67e6f.jpg</picture>
@@ -15741,7 +15741,7 @@
                 <price>1319</price>
                 <oldprice>1758</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>15</quantity_in_stock>
+                <quantity_in_stock>14</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/9/79032232445108_+4e64aedc4c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/79854957754743_+c47e1144a5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/74208787344157_+c4a64ab515.jpg</picture>
