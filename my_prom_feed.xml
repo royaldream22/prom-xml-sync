@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-19 14:15">
+<yml_catalog date="2026-06-19 17:21">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -5451,7 +5451,7 @@
                 <price>1890</price>
                 <oldprice>2277</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/32/94562599432821_+0a5e20eba1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/32/61270096175313_+f1e28d0247.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/32/21909105071484_+ccbda0ad29.jpg</picture>
@@ -11905,7 +11905,7 @@
                 <price>553</price>
                 <oldprice>666</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>8</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/11/42945130298146_+a01d6c4767.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/82974158815362_+dc37010bcd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/30296017036799_+a297ac1d28.jpg</picture>
@@ -16388,7 +16388,7 @@
                 <price>1148</price>
                 <oldprice>1594</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/24/65509347917454_+5c854e3f4a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/82642914964010_+de3e7c133c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/96454047672304_+06b9451e8e.jpg</picture>
@@ -22158,7 +22158,7 @@
                 <price>385</price>
                 <oldprice>700</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/1/15306133596283_+fdcb2baf23.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/72264779581217_+be60c77de7.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/eksklyuzivnaya-oblozhka-dlya-pasporta-iz-vintazhnoj-kozhi-shvigel-13792-krasnaya.html-42170357387674_+df4261d324.jpg</picture>
