@@ -65,10 +65,23 @@ offers = ET.SubElement(shop, 'offers')
 print("Сборка товаров...")
 for index, row in df.iterrows():
     vc = clean_id(row.get('vendorCode', ''))
-    if not vc or vc not in supplier_data: continue
+    if not vc: continue 
         
-    sup_info = supplier_data[vc]
-    
+    # Проверяем, чей это товар: поставщика или ваш личный
+    if vc in supplier_data:
+        sup_info = supplier_data[vc]
+    else:
+        # Если товара нет у поставщика, берем цифры из вашей Таблицы
+        raw_qty = str(row.get('quantity_in_stock', '0')).strip()
+        if not raw_qty or raw_qty.lower() == 'nan': 
+            raw_qty = "0"
+            
+        sup_info = {
+            'price': str(row.get('price', '0')).replace(',', '.'),
+            'oldprice': str(row.get('oldprice', '0')).replace(',', '.'),
+            'quantity_in_stock': raw_qty
+        }
+        
     # === МОДУЛЬ "ЗАГЛУШКА" И "ГОТОВО К ОТПРАВКЕ" ===
     sheet_available = str(row.get('available', 'TRUE')).strip().upper()
     sheet_ready = str(row.get('ready_to_ship', 'TRUE')).strip().upper()
@@ -78,14 +91,14 @@ for index, row in df.iterrows():
         final_qty = "0"
         is_ready = "false"
     else:
-        if int(sup_info['quantity_in_stock']) > 0:
+        if int(float(sup_info['quantity_in_stock'])) > 0:
             is_available = "true"
-            # Устанавливаем готовность к отправке по умолчанию (если нет жесткого запрета FALSE в таблице)
+            # Устанавливаем готовность к отправке по умолчанию
             is_ready = "true" if sheet_ready != "FALSE" else "false"
         else:
             is_available = "false"
             is_ready = "false"
-        final_qty = sup_info['quantity_in_stock']
+        final_qty = str(int(float(sup_info['quantity_in_stock'])))
     
     # Создаем тег offer с нужными атрибутами
     offer = ET.SubElement(offers, "offer", id=clean_id(row.get('id', '')), available=is_available, in_stock=is_ready)
