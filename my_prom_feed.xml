@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-24 06:11">
+<yml_catalog date="2026-06-24 07:06">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -5796,6 +5796,76 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
+            <offer id="47396" available="true" in_stock="true">
+                <url />
+                <name>Сумка SHVIGEL 00796 кожаная Коричневая</name>
+                <name_ua>Сумка SHVIGEL 00796 шкіряна Коричнева</name_ua>
+                <categoryId>2100</categoryId>
+                <portal_category_id />
+                <price>4786</price>
+                <oldprice>6468</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>5</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/47/57967145932231_+9b3085133f.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/20438567047659_+e7750e2258.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/96379573223997_+cd1d366bcb.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/67454238879163_+eb6d06d8c4.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/36699949045723_+bb1e026624.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/98349064836074_+d897257584.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/53159417235729_+1fcaddba1d.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/sumka-shvigel-00796-kozhanaya-korichnevaya.html-91893569182578_+0cd39942c8.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/sumka-shvigel-00796-kozhanaya-korichnevaya.html-53933589744438_+f7591bcc4c.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/47/75134785517339_+0673d4913f.jpeg</picture>
+                <vendorCode>796</vendorCode>
+                <vendor>SHVIGEL</vendor>
+                <description><![CDATA[<p>Материал: натуральная кожа высокого качества;<br />  Цвет: коричневый;<br />  Размеры (ШхВхГ, см): 24х30х8;<br />  Страна производитель: Украина.</p>    <p class="Обычный">Аксессуары ручной работы очень ценятся во всем мире, поскольку они уникальны и оригинальны, такие, как эта великолепная модель сумки. Она изготовлена из прочной натуральной кожи в винтажной обработке и выглядит стильно и добротно.</p>    <p class="Обычный"><b><span style="font-weight:bold;">Особенности:</span></b></p>    <p class="Обычный">- закрывается молнией и клапаном с магнитной кнопкой;</p>    <p class="Обычный">- одно основное отделение с прорезным карманом на молнии и накладным кармашком;</p>    <p class="Обычный">- с передней стороны под клапаном накладной карман;</p>    <p class="Обычный">- задний карман на молнии;</p>    <p class="Обычный">- текстильный регулируемый плечевой ремень;</p>    <p class="Обычный">- подкладка из черной ткани.</p>    <p class="Обычный">Сумка имеет вместительное внутреннее отделение, несколько дополнительных карманов и прочный ремень из текстиля. Она ежедневно будет приносить Вам только положительные эмоции, благодаря своему высокому качеству и функциональности</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: натуральна шкіра високої якості;<br />  Колір: коричневий;<br />  Розміри (ШхВхГ, см): 24х30х8;<br />  Країна виробник: Україна. <!-- P--></p>    <p class="Звичайний">Аксесуари ручної роботи дуже цінуються у всьому світі, оскільки вони унікальні і оригінальні, такі, як ця чудова модель сумки. Вона виготовлена   з міцної натуральної шкіри у&nbsp;вінтажній&nbsp;обробці і виглядає стильно і добротно. <!-- P--></p>    <p class="Звичайний"><span style="font-weight: bold;">Особливості: <!-- span--> <!-- b--> <!-- p--> </span></p>    <p class="Звичайний">- закривається блискавкою і клапаном з магнітною кнопкою; <!-- p--><br />  - одне основне відділення з прорізною&nbsp;кишенею на блискавці і накладною&nbsp;кишенькою; <!-- p--><br />  - на передній панелі&nbsp;під клапаном накладна кишеня; <!-- p--><br />  - задня&nbsp;кишеня&nbsp;на блискавці; <!-- p--><br />  - текстильний регульований плечовий ремінь; <!-- p--><br />  - підкладка з чорної тканини. <!-- P--></p>    <p class="Звичайний">Сумка має вмістке внутрішнє відділення, кілька додаткових кишень і міцний ремінь з текстилю. Вона щодня приноситиме Вам тільки позитивні емоції, завдяки своїй високій якості і функціональності.<b><!-- p--></b></p>]]></description_ua>
+                <param name="Цвет">Коричневий</param>
+                <param name="Размер">Большие</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">SHVIGEL</param>
+                <param name="Размеры (см)">24х30х8</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Украина</param>
+                <param name="Особенности сумки">Винтажный стиль|Вмещает А4|Для документов|Деловой стиль</param>
+                <param name="Можно носить">Через плечо</param>
+                <param name="Формат">Вертикальный</param>
+            </offer>
+            <offer id="47405" available="true" in_stock="true">
+                <url />
+                <name>Сумка SHVIGEL 00883 Коричневая</name>
+                <name_ua>Сумка SHVIGEL 00883 Коричнева</name_ua>
+                <categoryId>2100</categoryId>
+                <portal_category_id />
+                <price>3114</price>
+                <oldprice>4208</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>5</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/6/48683549808339_+03dfa1f19c.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/83133588702460_+bd56d90778.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/29301409184071_+4caf613633.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/68263375050347_+3a9c423eee.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/76401207126957_+223cda20ce.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/59878954947856_+c71f20f031.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/sumka-shvigel-00883-korichnevaya.html-87043629096898_+0e3963176c.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/sumka-shvigel-00883-korichnevaya.html-78025321569476_+7f39f4cf61.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/14327133525627_+0ccf3a54be.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/6/53810245349259_+537f952d7b.jpeg</picture>
+                <vendorCode>883</vendorCode>
+                <vendor>SHVIGEL</vendor>
+                <description><![CDATA[<p><span rgb="" style="color:">Материал: натуральная кожа;</span><br rgb="" style="color:" />  <span rgb="" style="color:">Цвет: светло-коричневый;</span><br rgb="" style="color:" />  <span rgb="" style="color:">Размеры (ШхВхГ, см): 22х23х7;</span><br rgb="" style="color:" />  <span rgb="" style="color:">Страна производства: Украина.</span></p>    <p>Главной изюминкой этой красивой мужской сумки является ее модный необычный цвет. Натуральная кожа имеет винтажную отделку, которая является невероятно актуальным трендом. Поэтому, если Вы предпочитаете модные стильные вещи, то эта модель сумки создана для Вас!</p>    <p class="Обычный"><b><span style="font-weight:bold;">Особенности:</span></b></p>    <p class="Обычный">- закрывается молнией и клапаном с магнитной кнопкой;</p>    <p class="Обычный">- декоративная пряжка на клапане;</p>    <p class="Обычный">- одно основное отделение с прорезным карманом на молнии и накладным кармашком;</p>    <p class="Обычный">- с передней стороны под клапаном накладной карман;</p>    <p class="Обычный">- задний карман на молнии;</p>    <p class="Обычный">- текстильный регулируемый плечевой ремень;</p>    <p class="Обычный">- подкладка из черной ткани.</p>    <p class="Обычный">Каждая деталь этой сумки отличается качеством и продуманностью. Натуральная кожа, из которой изготовлено изделие, имеет стойкость к потертостям и износу, поэтому шикарный внешний вид аксессуара будет долго радовать Вас. Позвольте себе быть неотразимым с этой стильной и удобной вещью!</p>]]></description>
+                <description_ua><![CDATA[<p><span style="color: rgb (0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb (255 , 255, 255); ">Матеріал: натуральна шкіра; <!-- span--><br style=" color: rgb (0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px ; line-height: 22px; background-color: rgb (255, 255, 255); " />  <span style="color: rgb (0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb (255, 255, 255); ">Колір: світло-коричневий; <!-- span--><br style=" color: rgb (0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line -height: 22px; background-color: rgb (255, 255, 255); " />  <span style="color: rgb (0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb (255, 255, 255); ">Розміри (ШхВхГ, см): 22х23х7; <!-- span--><br style=" color: rgb (0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb (255, 255, 255); " />  <span style="color: rgb (0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; background-color: rgb (255, 255, 255); ">Країна виробництва: Україна. <!-- span--> <!-- p--> </span></span></span></span></p>    <p>Головною родзинкою цієї красивої чоловічої сумки є її модний незвичайний колір. Натуральна шкіра має вінтажну обробку, яка є неймовірно актуальним трендом. Тому, якщо Ви надаєте перевагу модним&nbsp;стильним&nbsp;речам, то ця модель сумки створена для Вас! <!-- P--></p>    <p class="Звичайний"><span style="font-weight: bold;">Особливості: <!-- span--> <!-- b--> <!-- p--> </span><br />  - закривається блискавкою і клапаном з магнітною кнопкою; <!-- p--><br />  - декоративна пряжка на клапані; <!-- p--><br />  - одне основне відділення з прорізною&nbsp;кишенею на блискавці і накладною&nbsp;кишенькою; <!-- p--><br />  - на передній панелі під клапаном накладна кишеня; <!-- p--><br />  - задня&nbsp;кишеня&nbsp;на блискавці; <!-- p--><br />  - текстильний регульований плечовий ремінь; <!-- p--><br />  - підкладка з чорної тканини. <!-- P--></p>    <p class="Звичайний">Кожна деталь цієї сумки відрізняється якістю і продуманістю. Натуральна шкіра, з якої виготовлено виріб, має стійкість до потертості і зносу, тому шикарний зовнішній вигляд аксесуара буде довго радувати Вас. Дозвольте собі бути неперевершеними з цією стильною і зручною річчю!<b> <!-- P--></b></p>]]></description_ua>
+                <param name="Цвет">Коричневий</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">SHVIGEL</param>
+                <param name="Размеры (см)">22х23х7</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Украина</param>
+                <param name="Особенности сумки">Винтажный стиль|Для документов|Деловой стиль</param>
+                <param name="Можно носить">Через плечо</param>
+                <param name="Формат">Вертикальный</param>
+            </offer>
             <offer id="47417" available="true" in_stock="true">
                 <url />
                 <name>Сумка SHVIGEL 11025 кожаная Черная</name>
@@ -5866,6 +5936,113 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">Хит</param>
             </offer>
+            <offer id="47493" available="true" in_stock="true">
+                <url />
+                <name>Сумка мужская SHVIGEL кожаная 00926 Черная</name>
+                <name_ua>Сумка чоловіча SHVIGEL шкіряна 00926 Чорна</name_ua>
+                <categoryId>2100</categoryId>
+                <portal_category_id />
+                <price>2427</price>
+                <oldprice>3419</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>5</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/44/80387638617215_+410cd2897f.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/71981467954024_+81bc25b49b.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/26030395521428_+b4f768a7e2.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/22615801904633_+b480c714ef.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/74111907282291_+f972bcedf7.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/86093035649026_+6bc6173b7b.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/61910672259178_+7534705345.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/97012991506785_+0b7be8a855.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/92873601702894_+6d3f5d0eda.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/44/64969203782831_+2d492df8d6.jpeg</picture>
+                <vendorCode>926</vendorCode>
+                <vendor>SHVIGEL</vendor>
+                <description><![CDATA[<p justify="" style="text-align:">Материал: натуральная кожа высокого качества;<br />  Цвет: черный;<br />  Размеры (ШхВхГ, см): 16х18х8;<br />  Страна производитель: Украина.</p>    <p justify="" style="text-align:">Небольшая мужская кожаная сумка для автомобилистов. Несмотря на свои компактные размеры, аксессуар является весьма вместительным и функциональным. Цвет фурнитуры: серебро. Сумку можно носить через плечо, а также в руке. На лицевой стороне расположено отделение на молнии. На задней внешней стороне находятся два небольших отделения на молниях. Сумка имеет сразу два автономных отделения на молниях. В одном из этих отделений находится потайной карман на молнии.</p>    <p justify="" style="text-align:">Под заказ изготавливаем с карабинами и кожаным ремнем, цена на 200 грн больше!</p>]]></description>
+                <description_ua><![CDATA[<p style="text-align: justify;">Матеріал: натуральна шкіра високої якості;<br /> Колір: чорний;<br /> Розміри (ШхВхГ, см): 16х18х8;<br /> Країна виробник: Україна. <!-- P--></p> <p style="text-align: justify;">Невелика чоловіча шкіряна сумка для автомобілістів. Незважаючи на свої компактні розміри, аксесуар є дуже вмістким і функціональним. Колір фурнітури: срібло. Сумку можна носити через плече, а також в руці. На лицевій стороні розташоване відділення на блискавці. На задній зовнішній стороні знаходяться два невеликих відділення на блискавках. Сумка має відразу два автономних відділення на блискавках. В одному з цих відділень знаходиться потайна&nbsp;кишеня&nbsp;на блискавці. <!-- P--></p> <p style="text-align: justify;">Під замовлення виготовляємо з карабінами і шкіряним ременем, ціна на 200 грн більше! <!-- P--></p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">SHVIGEL</param>
+                <param name="Размеры (см)">16х18х8</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Украина</param>
+                <param name="Особенности сумки">Для документов|Деловой стиль</param>
+                <param name="Можно носить">Через плечо</param>
+                <param name="Формат">Вертикальный</param>
+            </offer>
+            <offer id="47499" available="true" in_stock="true">
+                <url />
+                <name>Кожаная мужская сумка SHVIGEL 00791 Черная</name>
+                <name_ua>Шкіряна чоловіча сумка SHVIGEL 00791 Чорна</name_ua>
+                <categoryId>2100</categoryId>
+                <portal_category_id />
+                <price>2677</price>
+                <oldprice>3771</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>4</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/50/99792965841768_+72be4f1987.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/90651414241671_+bd7c61d8ea.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/35598856120453_+7f5c4c3cc3.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/53936646685822_+4d56ca1efb.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/31807788142790_+0a493dc51c.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/97000304538435_+c4f03404f1.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/73924779032438_+553161ce14.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/42205166310492_+7928119ac2.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/99343822085259_+96556af67a.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/50/36015611268840_+5c90e7860e.jpeg</picture>
+                <vendorCode>791</vendorCode>
+                <vendor>SHVIGEL</vendor>
+                <description><![CDATA[<p>Материал: натуральная кожа высокого качества;<br />  Цвет: черный;<br />  Размеры (ШхВхГ, см): 21х24х7;<br />  Страна производитель: Украина.</p>    <p class="Обычный">Великолепная мужская сумка вертикального формата, изготовленная из натуральной кожи черного цвета. Она отлично дополнит как деловой, так и повседневный стиль и станет Вашим любимым аксессуаром, благодаря своей практичности.</p>    <p class="Обычный"><b><span style="font-weight:bold;">Особенности:</span></b></p>    <p class="Обычный">- закрывается молнией;</p>    <p class="Обычный">- одно внутреннее отделение;</p>    <p class="Обычный">- регулируемый плечевой ремень;</p>    <p class="Обычный">- задний карман на молнии;</p>    <p class="Обычный">- передний карман на молнии;</p>    <p class="Обычный">- удобная ручка для переноса в руке;</p>    <p class="Обычный">- подкладка из черной ткани.</p>    <p class="Обычный">Изделие можно использовать как компактную сумочку, нося на плече, или же как барсетку, которую можно носить в руке. Внутреннее отделение и дополнительные карманы позволяют удобно разместить все необходимое.</p>    <p><iframe 0="" allow="autoplay;" allowfullscreen="frameborder=" encrypted-media="" height="315" loading="lazy" rel="0" src="https://www.youtube.com/embed/cHsup-dY6nE" width="560"></iframe></p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: натуральна шкіра високої якості;<br />  Колір: чорний;<br />  Розміри (ШхВхГ, см): 21х24х7;<br />  Країна виробник: Україна. <!-- P--></p>    <p class="Звичайний">Чудова чоловіча сумка вертикального формату, виготовлена   з натуральної шкіри чорного кольору. Вона відмінно доповнить як діловий, так і повсякденний стиль і стане Вашим улюбленим аксесуаром, завдяки своїй практичності. <!-- P--></p>    <p class="Звичайний"><span style="font-weight: bold;">Особливості: <!-- span--> <!-- b--> <!-- p--> </span><br />  - закривається блискавкою; <!-- p--><br />  - одне внутрішнє відділення; <!-- p--><br />  - регульований плечовий ремінь; <!-- p--><br />  - задня&nbsp;кишеня&nbsp;на блискавці; <!-- p--><br />  - передня кишеня на блискавці; <!-- p--><br />  - зручна ручка для перенесення в руці; <!-- p--><br />  - підкладка з чорної тканини. <!-- P--></p>    <p class="Звичайний">Виріб можна використовувати як компактну сумочку, яку можна носити на плечі, або ж як барсетку, яку можна носити в руці. Внутрішнє відділення і додаткові кишені дозволяють зручно розмістити все необхідне.<b> <!-- P--> </b></p>    <p><b><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/cHsup-dY6nE?rel=0 " width="560px"></iframe></b></p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">SHVIGEL</param>
+                <param name="Размеры (см)">21х24х7</param>
+                <param name="Страна происхождения ТМ">Украина</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Украина</param>
+                <param name="Особенности сумки">Для документов|Деловой стиль</param>
+                <param name="Можно носить">На спине</param>
+                <param name="Формат">Вертикальный</param>
+            </offer>
+            <offer id="49259" available="true" in_stock="true">
+                <url />
+                <name>Мессенджер SHVIGEL 00965 Синий</name>
+                <name_ua>Мессенджер SHVIGEL 00965 Синій</name_ua>
+                <categoryId>2100</categoryId>
+                <portal_category_id />
+                <price>2775</price>
+                <oldprice>3750</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>5</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/10/18438627332188_+96a341b26c.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/67816993984026_+628c556783.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/64727812921514_+4f9d626943.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/97363089763265_+95edfce7c3.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/60271291590355_+437187131a.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/13182102392070_+403b0fb8e5.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/81238690522844_+a9239d3bd9.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/61100089116909_+a6133ff9eb.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/33466202320246_+086b30f623.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/10/24094887569511_+030bc35429.jpg</picture>
+                <vendorCode>965</vendorCode>
+                <vendor>SHVIGEL</vendor>
+                <description><![CDATA[<p justify="" style="text-align:"><span justify="" style="text-align:">Материал: натуральная кожа высокого качества;<br />  Цвет: темно-синий (ближе к черному);<br />  Размеры (ШхВхГ, см): 18х18х6;<br />  Страна изготовитель: Украина.</span></p>    <p justify="" style="text-align:">Высококачественная мужская кожаная сумка. Аксессуар можно носить через плечо при помощи регулируемого, текстильного плечевого ремня черного цвета. Изделие закрывается при помощи кожаного клапана на двух скрытых магнитах и молнией. Под клапаном расположен накладной карман. На задней внешней стороне находится отделение на молнии. Цвет фурнитуры: темное серебро. Кожаная сумка станет превосходным подарком мужчине к любому празднику.</p>    <p justify="" style="text-align:"><strong><span style="font-size:26px;"><span style="color:#0000CD;">Внутри:</span></span></strong></p>    <p justify="" style="text-align:">- одно основное отделение;<br />  - кожаный накладной карманчик для мобильного телефона (на передней стенке);<br />  - потайной карман на молнии (на задней стенке).</p>    <p justify="" style="text-align:">&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p style="text-align: justify;"><span style="text-align: justify; background-color: rgb (255, 255, 255);">Матеріал: натуральна шкіра високої якості;<br />  Колір: темно-синій (ближче до чорного);<br />  Розміри (ШхВхГ, см): 18х18х6;<br />  Країна виробник: Україна.<span style="text-align: justify; background-color: rgb (255, 255, 255);"><span style="text-align: justify; background-color: rgb (255, 255, 255);"><span style="text-align: justify; background-color: rgb (255, 255, 255);"> <!-- Span--> <!-- p--> </span></span></span></span></p>    <p style="text-align: justify;">Високоякісна чоловіча шкіряна сумка. Аксесуар можна носити через плече за допомогою регульованого, текстильного плечового ременя чорного кольору. Виріб закривається за допомогою шкіряного клапана на двох прихованих магнітах і блискавкою. Під клапаном розташована&nbsp;накладна кишеня. На задній зовнішній стороні знаходиться відділення на блискавці. Колір фурнітури: темне срібло. Шкіряна сумка стане чудовим подарунком чоловікові до будь-якого свята. <!-- P--></p>    <p style="text-align: justify;"><span style="font-size:14px;"><strong>Всередині</strong>: <!-- span--> <!-- span --> <!-- strong--> <!-- p--><br />  - одне основне відділення;<br />  - шкіряна&nbsp;накладна кишенька&nbsp;для мобільного телефону (на передній стінці);<br />  - потайна&nbsp;кишеня&nbsp;на блискавці&nbsp;(на задній стінці). <!-- P--> </span></p>    <p style="text-align: justify;"><br />  <strong><!-- p--></strong></p>]]></description_ua>
+                <param name="Цвет">Синій</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">SHVIGEL</param>
+                <param name="Размеры (см)">18х18х6</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Украина</param>
+                <param name="Особенности сумки">Для документов|Деловой стиль</param>
+                <param name="Можно носить">Через плечо</param>
+                <param name="Формат">Вертикальный</param>
+                <param name="Иконки">TopPrice</param>
+            </offer>
             <offer id="49797" available="true" in_stock="true">
                 <url />
                 <name>Стильный мужской мессенджер из винтажной кожи Shvigel 11180 Коричневый</name>
@@ -5899,6 +6076,41 @@
                 <param name="Пол">Мужской</param>
                 <param name="Страна производитель">Украина</param>
                 <param name="Особенности сумки">Деловой стиль</param>
+                <param name="Можно носить">Через плечо</param>
+                <param name="Формат">Вертикальный</param>
+            </offer>
+            <offer id="49816" available="true" in_stock="true">
+                <url />
+                <name>Сумка SHVIGEL 00978 Коричневая</name>
+                <name_ua>Сумка SHVIGEL 00978 Коричнева</name_ua>
+                <categoryId>2100</categoryId>
+                <portal_category_id />
+                <price>3114</price>
+                <oldprice>4208</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>4</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/17/76759943735208_+f88d327c3c.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/39743405214228_+c9b7e18300.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/92277583721224_+12ec391f39.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/77648460331207_+22efcc406a.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/90746866668130_+3048ae9df6.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/32877955251725_+7d2b1a1fb6.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/sumka-shvigel-00978-korichnevaya.html-20169565577417_+75ba068156.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/sumka-shvigel-00978-korichnevaya.html-74714978862004_+b805da23cd.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/68721095476482_+deb2f26d87.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/17/19686462791867_+762de1532b.jpeg</picture>
+                <vendorCode>978</vendorCode>
+                <vendor>SHVIGEL</vendor>
+                <description><![CDATA[<p justify="" style="text-align:"><span justify="" style="text-align:">Материал: натуральная кожа высокого качества;</span><br justify="" style="text-align:" />  <span justify="" style="text-align:">Цвет: светло-коричневый;</span><br justify="" style="text-align:" />  <span justify="" style="text-align:">Размеры (ШхВхГ, см): 18х18х6;</span><br justify="" style="text-align:" />  <span justify="" style="text-align:">Страна производитель: Украина.</span></p>    <p justify="" style="text-align:">Добротная мужская сумка из натуральной высококачественной кожи. Цвет фурнитуры: серебро. На задней внешней стороне находится отделение на молнии. Сумка закрывается при помощи клапана на двух скрытых магнитах и молнией. Под клапаном расположен накладной карман. Сумка носиться через плечо про помощи регулируемого текстильного плечевого ремня.&nbsp;</p>    <p justify="" style="text-align:"><span style="font-size:24px;"><strong><span style="color:#0000CD;">Внутри:</span></strong></span></p>    <p justify="" style="text-align:">- одно вместительное отделение;<br />  - небольшой накладной карман для мобильного телефона (на передней стенке);<br />  - отделение на молнии (на задней стенке).</p>    <p justify="" style="text-align:">&nbsp;</p>]]></description>
+                <description_ua><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;"><span style="text-align: justify; background-color: rgb (255, 255, 255);">Матеріал: натуральна шкіра високої якості; <!-- span--><br style="text-align: justify; background-color: rgb (255, 255, 255);" />  <span style="text-align: justify; background-color: rgb (255, 255, 255);">Колір: світло-коричневий; <!-- span--><br style="text-align: justify; background-color : rgb (255, 255, 255); " />  <span style="text-align: justify; background-color: rgb (255, 255, 255);">Розміри (ШхВхГ, см): 18х18х6; <!-- span--><br style="text-align: justify; background-color: rgb (255, 255, 255); " />  <span style="text-align: justify; background-color: rgb (255, 255, 255);">Країна виробник: Україна. <!-- Span--> <!-- p--> </span></span></span></span></span></p>    <p style="text-align: justify;"><span style="font-size:14px;">Добротна чоловіча сумка з натуральної високоякісної шкіри. Колір фурнітури: срібло. На задній зовнішній стороні знаходиться відділення на блискавці. Сумка закривається за допомогою клапана на двох прихованих магнітах і блискавкою. Під клапаном розташована&nbsp;накладна кишеня. Сумка носитися через плече за допомогою регульованого текстильного плечового ременя.</span><!-- p--></p>    <p style="text-align: justify;"><span style="font-size:14px;"><strong>Всередині</strong>: <!-- span--> <!-- strong --> <!-- span--> <!-- p--><br />  - одне вмістке відділення;<br />  - невелика&nbsp;накладна кишеня для мобільного телефону (на передній стінці);<br />  - відділення на блискавці (на задній стінці).</span></p>]]></description_ua>
+                <param name="Цвет">Коричневий</param>
+                <param name="Размер">Маленькие</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">SHVIGEL</param>
+                <param name="Размеры (см)">18х18х6</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Украина</param>
+                <param name="Особенности сумки">Винтажный стиль|Для документов|Деловой стиль</param>
                 <param name="Можно носить">Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
@@ -9519,6 +9731,42 @@
                 <param name="Особенности сумки">В дорогу</param>
                 <param name="Можно носить">На поясе</param>
                 <param name="Формат">Горизонтальный</param>
+            </offer>
+            <offer id="49808" available="true" in_stock="true">
+                <url />
+                <name>Сумка SHVIGEL 00855 из натуральной кожи Коричневая</name>
+                <name_ua>Сумка SHVIGEL 00855 з натуральної шкіри Коричнева</name_ua>
+                <categoryId>2100</categoryId>
+                <portal_category_id />
+                <price>3423</price>
+                <oldprice>4625</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>9</quantity_in_stock>
+                <picture>https://sumkioptom.com.ua/content/images/9/91150821467922_+1780332519.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/13919001654347_+9ef3f00d15.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/sumka-shvigel-00855-iz-naturalnoj-kozhi-korichnevaya.html-58219267378212_+d9fb2e090a.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/sumka-shvigel-00855-iz-naturalnoj-kozhi-korichnevaya.html-37325586371528_+8e96280b97.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/41789567835207_+b3b2919365.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/30416594937776_+cd83a01da2.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/85595221289809_+792ddef513.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/70745059286661_+255a599252.jpeg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/19951491531582_+f02affaf61.jpg</picture>
+                <picture>https://sumkioptom.com.ua/content/images/9/28469817974520_+e9a17fee34.jpg</picture>
+                <vendorCode>855</vendorCode>
+                <vendor>SHVIGEL</vendor>
+                <description><![CDATA[<p>Материал: натуральная кожа;<br />  Цвет: коричневый;<br />  Размеры (ШхВхГ, см): 22х23х7;<br />  Страна производства: Украина.</p>    <p>Эта оригинальная кожаная сумка сделана в очень актуальной и модной винтажной обработке. Если Вы следите за современными тенденциями, то стиль этой сумки придется Вам по душе.</p>    <p class="Обычный"><b><span style="font-weight:bold;">Особенности:</span></b></p>    <p class="Обычный">- закрывается молнией и клапаном с магнитной кнопкой;</p>    <p class="Обычный">- декоративная пряжка на клапане;</p>    <p class="Обычный">- одно основное отделение с прорезным карманом на молнии и накладным кармашком;</p>    <p class="Обычный">- с передней стороны под клапаном накладной карман;</p>    <p class="Обычный">- задний карман на молнии;</p>    <p class="Обычный">- текстильный регулируемый плечевой ремень;</p>    <p class="Обычный">- подкладка из черной ткани.</p>    <p class="Обычный">Сумочка легкая, прочная и надежная. В ней есть главное отделение, а также несколько дополнительных карманов для мелочей. Пользоваться этой сумкой в качестве аксессуара на каждый день - одно удовольствие.</p>]]></description>
+                <description_ua><![CDATA[<p>Матеріал: натуральна шкіра;<br />  Колір: коричневий;<br />  Розміри (ШхВхГ, см): 22х23х7;<br />  Країна виробництва: Україна. <!-- P--></p>    <p>Ця оригінальна шкіряна сумка зроблена в дуже актуальній&nbsp;і модній вінтажній&nbsp;обробці. Якщо Ви стежите за сучасними тенденціями, то стиль цієї сумки прийде Вам до душі. <!-- P--></p>    <p class="Звичайний"><span style="font-weight: bold;">Особливості:<br />  <!-- span--> <!-- b--> <!-- p--> </span>- закривається блискавкою і клапаном з магнітною кнопкою; <!-- p--><br />  - декоративна пряжка на клапані; <!-- p--><br />  - одне основне відділення з прорізною&nbsp;кишенею на блискавці і накладною&nbsp;кишенькою; <!-- p--><br />  - на передній панелі під клапаном накладна кишеня; <!-- p--><br />  - задня&nbsp;кишеня&nbsp;на блискавці; <!-- p--><br />  - текстильний регульований плечовий ремінь; <!-- p--><br />  - підкладка з чорної тканини. <!-- P--></p>    <p class="Звичайний">Сумочка легка, міцна і надійна. У ній є основне відділення, а також кілька додаткових кишень для дрібниць. Користуватися цією сумкою в якості аксесуару на кожен день - одне задоволення.<b> <!-- P--></b></p>]]></description_ua>
+                <param name="Цвет">Коричневий</param>
+                <param name="Размер">Средние</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Бренд">SHVIGEL</param>
+                <param name="Размеры (см)">22х23х7</param>
+                <param name="Пол">Мужской</param>
+                <param name="Страна производитель">Украина</param>
+                <param name="Особенности сумки">Винтажный стиль|Для документов|Деловой стиль</param>
+                <param name="Можно носить">Через плечо</param>
+                <param name="Формат">Вертикальный</param>
+                <param name="Иконки">TopPrice</param>
             </offer>
             <offer id="49862" available="true" in_stock="true">
                 <url />
@@ -14059,7 +14307,7 @@
                 <price>1820</price>
                 <oldprice>2142</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/6/20375501420661_+f1ae762bec.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/61103650800364_+80ef9de386.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/94403049215486_+70711c667c.jpg</picture>
@@ -14239,7 +14487,7 @@
                 <price>1457</price>
                 <oldprice>2556</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>11</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/40/90567349697250_+a6e677ce7a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/40/86587479963371_+3e7c9e1a2b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/40/81599173695919_+ae9b4dcf62.jpg</picture>
@@ -14596,7 +14844,7 @@
                 <price>323</price>
                 <oldprice>718</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>11</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/1/34424228206762_+ff73541927.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/86959716609729_+b4d6a634d3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/95025208253926_+4dee422cc4.jpg</picture>
@@ -15207,7 +15455,7 @@
                 <price>1161</price>
                 <oldprice>2037</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/23/65113371156267_+e6d0f44903.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/23/83409776054825_+8131d2d00a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/23/60470925857772_+fe1ddf49f5.jpg</picture>
@@ -22243,6 +22491,34 @@
                 <param name="Пол">Женский</param>
                 <param name="Страна производитель">Украина</param>
                 <param name="Иконки">TopPrice</param>
+            </offer>
+            <offer id="1001" available="true" in_stock="true">
+                <url />
+                <name>Рюкзак черный водоотталкивающий Oxford 1000D 45х32х14 см EZEShop-71119</name>
+                <name_ua>Рюкзак чорний водовідштовхувальний Oxford 1000D 45х32х14 см EZEShop-71119</name_ua>
+                <categoryId>1100</categoryId>
+                <portal_category_id />
+                <price>800</price>
+                <oldprice>1200</oldprice>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>5</quantity_in_stock>
+                <picture>https://i.postimg.cc/C1ZjFLvt/photo-37-2026-05-15-16-42-30.png</picture>
+                <picture>https://i.postimg.cc/cCwwnkGM/02.png</picture>
+                <picture>https://i.postimg.cc/1Xwwq71H/photo-25-2026-05-15-16-42-30.png</picture>
+                <picture>https://i.postimg.cc/kGKKbYPv/photo-31-2026-05-15-16-42-30.png</picture>
+                <vendorCode>71119</vendorCode>
+                <vendor />
+                <keywords>рюкзак чорний, рюкзак oxford 1000d, водовідштовхувальний рюкзак, рюкзак з кишенею для планшета, рюкзак для нетбука, міцний рюкзак, рюкзак на блискавці, рюкзак оксфорд 1000d, чорний рюкзак оксфорд, рюкзак 45х32х14, рюкзак з ручкою</keywords>
+                <description><![CDATA[<p><strong>Черный рюкзак из высокопрочного материала Oxford 1000D</strong> – это надежное, износостойкое и функциональное решение для ежедневного использования. Благодаря профессиональному дизайну и высоким техническим характеристикам, изделие обеспечивает максимальную защиту вещей при любых погодных условиях. воздействий.</li><li><li><strong>Главное отделение:</strong> Вместительный отсек на молнии с верхней загрузкой для удобного доступа к вещам.</li><li><strong>Внутреннее пространство:</strong> Специальный внутренний карман, предназначенный для безопасной транспортировки планшета аксессуаров.</li><li><strong>Внешний карман:</strong> Дополнительное фронтальное отделение на молнии для быстрого доступа к важнейшим вещам.</li><li><strong>Эргономика и транспортировка:</strong> Регулируемые по длине плечевые лямки для индивидуальной посадки и проч. сумки.</li><li><strong>Габаритные размеры:</strong> Оптимальные параметры 45х32х14 см для повседневного комфорта.</li></ul>]]></description>
+                <description_ua><![CDATA[<p><strong>Чорний рюкзак із високоміцного матеріалу Oxford 1000D</strong> — це надійне, зносостійке та функціональне рішення для щоденного використання. Завдяки професійному дизайну та високим технічним характеристикам, виріб забезпечує максимальний захист речей за будь-яких погодних умов.</p><p><strong>Особливості конструкції та функціонал:</strong></p><ul><li><strong>Матеріал:</strong> Високоякісна водовідштовхувальна тканина Oxford 1000D з підвищеною стійкістю до зношування та зовнішніх впливів.</li><li><li><strong>Головне відділення:</strong> Місткий відсік на блискавці з верхнім завантаженням для зручного доступу до речей.</li><li><strong>Внутрішній простір:</strong> Спеціальна внутрішня кишеня, призначена для безпечного транспортування планшета, нетбука або зберігання дрібних аксесуарів.</li><li><strong>Зовнішня кишеня:</strong> Додаткове фронтальне відділення на блискавці для швидкого доступу до найважливіших речей.</li><li><strong>Ергономіка та транспортування:</strong> Регульовані по довжині плечові лямки для індивідуальної посадки та міцна верхня ручка, що дозволяє переносити рюкзак у форматі звичайної сумки.</li><li><strong>Габаритні розміри:</strong> Оптимальні параметри 45х32х14 см для повсякденного комфорту.</li></ul>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Бренд">No Name</param>
+                <param name="Размеры (см)">45*32*14</param>
+                <param name="Страна происхождения ТМ">Китай</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Страна производитель">Китай</param>
+                <param name="Особенности сумки">Бокова кишеня</param>
             </offer>
         </offers>
     </shop>
