@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-26 11:59">
+<yml_catalog date="2026-06-26 13:14">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -7858,7 +7858,7 @@
                 <price>1789</price>
                 <oldprice>2451</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/31/80495585688260_+4d5156fba5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/78076095387459_+d2fbfdf143.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/47435613919967_+5ca9aa702f.jpg</picture>
@@ -13942,7 +13942,7 @@
                 <price>2372</price>
                 <oldprice>3163</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/27/45839168334242_+a35b396515.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/79573878271419_+338bb021d4.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/32018266290365_+99ffc053a7.jpg</picture>
@@ -17316,7 +17316,7 @@
                 <price>1048</price>
                 <oldprice>1164</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/30/85784459251322_+b74fe900ad.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/64839753449824_+7b190b7ca0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/68716478178644_+d2d8e4c461.jpg</picture>
