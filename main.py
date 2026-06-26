@@ -5,7 +5,12 @@ from datetime import datetime
 
 # === ВАШИ НАСТРОЙКИ ===
 GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/10hXxId0pOiSP48f9__FjhhFTsmipeIMipJbKUSWNxMI/export?format=csv"
-SUPPLIER_XML_URL = "https://sumkioptom.com.ua/content/export/8f6bb4d4540177fa4d1590cf7e6677ba.xml"
+
+# Список ваших поставщиков (в кавычках, через запятую)
+SUPPLIER_URLS = [
+    "https://sumkioptom.com.ua/content/export/8f6bb4d4540177fa4d1590cf7e6677ba.xml", 
+    "https://backend.mydrop.com.ua/vendor/api/export/products/prom/yml?public_api_key=1968f586df409964df184253c728d3e7ebd97e78&price_field=price&stock_sync=true&only_available=true&static_sizes=true"
+]
 # ======================
 
 cdata_table = {}
@@ -25,21 +30,31 @@ def clean_id(val):
     if val_str.endswith('.0'): return val_str[:-2]
     return val_str
 
-# 1. Скачиваем данные поставщика
-print("Скачиваем XML поставщика...")
-response = requests.get(SUPPLIER_XML_URL)
-supplier_root = ET.fromstring(response.content)
-
 supplier_data = {}
-for offer in supplier_root.findall('.//offer'):
-    vendor_code = offer.find('vendorCode')
-    if vendor_code is not None and vendor_code.text:
-        vc = str(vendor_code.text).strip()
-        supplier_data[vc] = {
-            'price': offer.find('price').text if offer.find('price') is not None else "0",
-            'oldprice': offer.find('oldprice').text if offer.find('oldprice') is not None else "",
-            'quantity_in_stock': offer.find('quantity_in_stock').text if offer.find('quantity_in_stock') is not None else "0"
-        }
+
+# Скачиваем данные от всех поставщиков по очереди
+for index, url in enumerate(SUPPLIER_URLS):
+    print(f"Скачиваем прайс поставщика {index + 1}...")
+    try:
+        response = requests.get(url)
+        supplier_root = ET.fromstring(response.content)
+        
+        for offer in supplier_root.findall('.//offer'):
+            vendor_code = offer.find('vendorCode')
+            if vendor_code is not None and vendor_code.text:
+                vc = str(vendor_code.text).strip()
+                
+                # Добавляем префикс P2- для второго поставщика
+                if index == 1:
+                    vc = f"P2-{vc}"
+                    
+                supplier_data[vc] = {
+                    'price': offer.find('price').text if offer.find('price') is not None else "0",
+                    'oldprice': offer.find('oldprice').text if offer.find('oldprice') is not None else "",
+                    'quantity_in_stock': offer.find('quantity_in_stock').text if offer.find('quantity_in_stock') is not None else "0"
+                }
+    except Exception as e:
+        print(f"Ошибка при скачивании прайса {url}: {e}")
 
 # 2. Загружаем Google Таблицу
 print("Загружаем Google Таблицу...")
