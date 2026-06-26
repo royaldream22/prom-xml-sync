@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-26 06:15">
+<yml_catalog date="2026-06-26 11:59">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -5380,7 +5380,7 @@
                 <price>1936</price>
                 <oldprice>3226</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/58948616772784_+fa8cd6dc73.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/88487572424425_+063da559d0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/87311471183209_+0eeb2a8de8.jpg</picture>
@@ -6686,7 +6686,7 @@
                 <price>2263</price>
                 <oldprice>3100</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/33/79128346349526_+d3b526057c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/23339816412351_+1f58ac8206.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/53069188194730_+a591f321cb.jpg</picture>
@@ -6793,7 +6793,7 @@
                 <price>1012</price>
                 <oldprice>1776</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/8/77680088395295_+25802b40e5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/8/72896765166236_+f08d5b0c51.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/8/59734870669521_+9f491cb14e.jpg</picture>
@@ -7182,7 +7182,7 @@
                 <price>1826</price>
                 <oldprice>2029</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/4/33761092179940_+6956171584.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/4/50360705320342_+a1a28802ea.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/4/72139536021688_+42203dec23.jpg</picture>
@@ -7716,7 +7716,7 @@
                 <price>1303</price>
                 <oldprice>2286</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/27/80848636399171_+2fea7bef5f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/66119207519928_+492a85153e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/63104984250341_+f786efa07f.jpg</picture>
@@ -8244,7 +8244,7 @@
                 <price>1125</price>
                 <oldprice>1323</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/38653787476047_+392df81cd7.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/76551847664165_+080d039768.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/54359607889179_+8342a1fb24.jpg</picture>
@@ -8315,7 +8315,7 @@
                 <price>909</price>
                 <oldprice>1595</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>6</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/14/24152904082314_+142908d844.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/89452170188733_+195e2dd679.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/bananka-tekstilnaya-na-poyas-vintage-20160-korichnevaya.html-63954741214497_+396313a10f.jpg</picture>
@@ -8707,7 +8707,7 @@
                 <price>4688</price>
                 <oldprice>5209</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/14/16831026820804_+0c13dbe28d.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/18860712534420_+746af17ab5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/80033775534335_+240ed1be54.jpg</picture>
@@ -9920,7 +9920,7 @@
                 <price>1566</price>
                 <oldprice>2338</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/8/14534612336910_+05f806abd6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/8/54220261321943_+afeaad9716.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/8/54028937423858_+227d3b45db.jpg</picture>
@@ -12153,7 +12153,7 @@
                 <price>553</price>
                 <oldprice>666</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>6</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/11/42945130298146_+a01d6c4767.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/82974158815362_+dc37010bcd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/30296017036799_+a297ac1d28.jpg</picture>
@@ -12476,7 +12476,7 @@
                 <price>955</price>
                 <oldprice>1676</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>8</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/47/93907997898660_+24c77303a6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/13810264006459_+8e15dec06f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/61343554684718_+43ebb9f44d.jpg</picture>
@@ -12872,7 +12872,7 @@
                 <price>1190</price>
                 <oldprice>2088</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/28/99073389273614_+72d0d1eeac.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/33804994707266_+b32589b615.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/muzhskaya-sumka-pochtalonka-na-plecho-iz-plotnogo-tekstilya-vintage-22229-pesochnyj.html-74839880280494_+9f1d741a46.jpg</picture>
@@ -13942,7 +13942,7 @@
                 <price>2372</price>
                 <oldprice>3163</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>11</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/27/45839168334242_+a35b396515.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/79573878271419_+338bb021d4.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/32018266290365_+99ffc053a7.jpg</picture>
@@ -14089,7 +14089,7 @@
                 <price>1529</price>
                 <oldprice>2038</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/29/75938816176088_+26a68085d9.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/75623418615849_+505fc99096.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/46779625594221_+f24c1064be.jpg</picture>
@@ -14163,7 +14163,7 @@
                 <price>2678</price>
                 <oldprice>3570</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/42/84473746004892_+6a8754fe08.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/42/80274684012484_+dbf7133071.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/42/42035288610451_+364f9f04e8.jpg</picture>
@@ -14343,7 +14343,7 @@
                 <price>2072</price>
                 <oldprice>2691</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/31970768419758_+b778ca2f52.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/28259800359232_+1e96ae6fa2.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/62208253497069_+f170465c55.jpg</picture>
@@ -14629,7 +14629,7 @@
                 <price>1259</price>
                 <oldprice>1517</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>11</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/37/72718626458963_+9cf5f7fb94.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/33513173039713_+66dc160731.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/73549901196319_+0e0525e816.jpg</picture>
@@ -14844,7 +14844,7 @@
                 <price>323</price>
                 <oldprice>718</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/1/34424228206762_+ff73541927.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/86959716609729_+b4d6a634d3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/95025208253926_+4dee422cc4.jpg</picture>
@@ -15989,7 +15989,7 @@
                 <price>1319</price>
                 <oldprice>1758</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/9/79032232445108_+4e64aedc4c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/79854957754743_+c47e1144a5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/74208787344157_+c4a64ab515.jpg</picture>
@@ -16025,7 +16025,7 @@
                 <price>1229</price>
                 <oldprice>1756</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>17</quantity_in_stock>
+                <quantity_in_stock>16</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/10/23425570273669_+b98fab97e2.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/10/33377105224634_+fa18ca35df.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/10/99365746690696_+b85e62eb05.jpg</picture>
@@ -16995,7 +16995,7 @@
                 <price>259</price>
                 <oldprice>540</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>18</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-35468758664969_+9bf2fd24d1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-32513965086769_+cdc63f07f6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-48778253668661_+a455ee899a.jpg</picture>
@@ -17388,7 +17388,7 @@
                 <price>803</price>
                 <oldprice>892</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/32/27701819653924_+be9c6322af.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/32/47350588208997_+e665f1583a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/32/28062589783780_+ff67bad481.jpg</picture>
@@ -17636,7 +17636,7 @@
                 <price>1281</price>
                 <oldprice>1544</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>6</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/5/67173810538987_+c9b26ca9a8.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/5/64405271199298_+67bdb70989.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/5/91443563933338_+23abd72711.jpg</picture>
@@ -18891,7 +18891,7 @@
                 <price>1631</price>
                 <oldprice>2330</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/33/97575143269562_+8fb0c4b7d3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/34133146097607_+857692b39c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/99584967477967_+192bda1883.jpg</picture>
@@ -20511,7 +20511,7 @@
                 <price>356</price>
                 <oldprice>660</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/19/21527832978780_+8714716d88.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/19/17793250198049_+34f0604f4c.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/19/41746306562242_+bd7b630fee.jpeg</picture>
@@ -22519,6 +22519,445 @@
                 <param name="Пол">Унисекс</param>
                 <param name="Страна производитель">Китай</param>
                 <param name="Особенности сумки">Бокова кишеня</param>
+            </offer>
+            <offer id="P2-10529223" available="true" in_stock="true">
+                <url />
+                <name>Сумка месенджер через плечо Kappa вместительная с 4 отделениями</name>
+                <name_ua>Сумка через плече Kappa містка з 4 віділеннями чорна</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/81babf2d9658c09cd16a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0c94d9d2ad9c3d8ff942.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1dc7e6c897465b3e89c9.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5eb907eca0b66b65f197.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c3565f45be295ad931d4.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ff765d1a775c7d53d799.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/839c125a39cf4833e83c.png</picture>
+                <vendorCode>P2-21115</vendorCode>
+                <vendor />
+                <description><![CDATA[<p>Ищете идеальный баланс между компактностью и емкостью? <strong>Сумка через плечо Kappa</strong> — это именно то, что вам нужно! Несмотря на свой средний размер, она очень вместительна и функциональна, позволяя удобно и упорядоченно сохранять все ваши повседневные вещи.</p><p>Эта модель изготовлена ​​из высококачественной и прочной ткани <strong>Oxford 1000</strong>, которая обеспечивает долговечность использования и надежную защиту содержимого. сумки:</strong></p><ul><li><strong>Максимальная емкость:</strong> Большое количество отделений позволяет отдельно хранить множество вещей, обеспечивая быстрый доступ к ним.</li><li><strong>Продуманная конструкция:</strong> Сумка имеет 2 основных отделения и в общей сложности 4 отделения на молнии</str>. Комфортный ремень регулируется под ваши потребности, имея максимальную длину до 150 см.</li></ul><p><strong>Характеристики модели:</strong></p><ul><li>Высота: 18 см</li><li>Ширина: 14 см</li></li> 1000</li><li>Количество основных отделений: 2</li><li>Количество отделений на молнии: 4</li><li>Максимальная длина ремня: 150 см</li></ul><p>Не откладывайте комфорт на потом! Заказывайте практичную и вместительную сумку через плечо Kappa уже сейчас и убедитесь в ее функциональности сами!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте ідеальний баланс між компактністю та місткістю? <strong>Сумка через плече Kappa</strong> — це саме те, що вам потрібно! Незважаючи на свій середній розмір, вона надзвичайно містка та функціональна, дозволяючи зручно та впорядковано зберігати всі ваші повсякденні речі.</p><p>Ця модель виготовлена з високоякісної та міцної тканини <strong>Oxford 1000</strong>, яка забезпечує довговічність використання та надійний захист вмісту.</p><p><strong>Головні переваги сумки:</strong></p><ul><li><strong>Максимальна місткість:</strong> Велика кількість відділень дозволяє окремо зберігати безліч речей, забезпечуючи швидкий доступ до них.</li><li><strong>Продумана конструкція:</strong> Сумка має 2 основні відділення та загалом 4 відділення на блискавці.</li><li><strong>Зручність носіння:</strong> Комфортний ремінь регулюється під ваші потреби, маючи максимальну довжину до 150 см.</li></ul><p><strong>Характеристики моделі:</strong></p><ul><li>Висота: 18 см</li><li>Ширина: 14 см</li><li>Товщина: 6 см</li><li>Матеріал: якісна тканина Oxford 1000</li><li>Кількість основних відділень: 2</li><li>Кількість відділень на блискавці: 4</li><li>Максимальна довжина ременя: 150 см</li></ul><p>Не відкладайте комфорт на потім! Замовляйте практичну та містку сумку через плече Kappa вже зараз і переконайтеся в її функціональності самі!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х6</param>
+            </offer>
+            <offer id="P2-10529181" available="true" in_stock="true">
+                <url />
+                <name>Сумка месенджер через плечо Nike из ткани Oxford 1000 вместительная на 4 отделения.</name>
+                <name_ua>Сумка через плече Nike з тканини Oxford 1000 містка на 4 відділення чорна</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/aeba6336bad45a95e673.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f24fd696ccb0691abee6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f659e4b7ba81b8abf2d3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/09c3109419fc0ad6c871.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fbd836eda15b6e38bf2c.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/93c8c2ed93ff6aac1267.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/85882196c89877743373.png</picture>
+                <vendorCode>P2-21112</vendorCode>
+                <vendor />
+                <description><![CDATA[<p>Ищете идеальный баланс между компактностью и поразительной емкостью? <strong>Сумка через плечо Nike</strong> — это ваш надежный ежедневный спутник, предназначенный для тех, кто ценит максимальный комфорт, практичность и безупречный стиль. Благодаря продуманной эргономике этот аксессуар легко справится с любыми вызовами городской жизни. Главное преимущество этой модели – ее удивительная функциональность при среднем размере. Больше не нужно тратить время на поиски ключей, телефона или кошелька. Большое количество отделений на надежных молниях позволяет разложить каждую вещь на свое место, сохраняя полный порядок. факторов.</li><li><strong>Продуманная эргономика:</strong> Модель имеет 2 основных отделения и в общей сложности 4 отделения на молнии для удобной сортировки вещей.</li><li><strong>Универсальный ремень:</strong> Максимальная длина ремня составляет 150 см, что позволяет легко рост.</li><li><strong>Оптимальные габариты:</strong> Высота составляет 18 см, ширина – 14 см, а толщина – 6 см, что делает ее невероятно удобной для ежедневного ношения.</li></ul><p>Не откладывайте комфорт на потом! Выбирайте проверенное качество и эргономику от любимого бренда. Заказывайте сумку через плечо Nike прямо сейчас и наслаждайтесь свободой движений каждый день!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте ідеальний баланс між компактністю та вражаючою місткістю? <strong>Сумка через плече Nike</strong> — це ваш надійний щоденний супутник, створений для тих, хто цінує максимальний комфорт, практичність та бездоганний стиль. Завдяки продуманій ергономіці цей аксесуар легко впорається з будь-якими викликами міського життя.</p><p>Головна перевага цієї моделі — її дивовижна функціональність при середньому розмірі. Більше не потрібно витрачати час на пошуки ключів, телефону чи гаманця. Велика кількість відділень на надійних блискавках дозволяє розкласти кожну річ на своє місце, зберігаючи повний порядок.</p><p><strong>Основні переваги та характеристики сумки:</strong></p><ul><li><strong>Надміцна тканина:</strong> Виготовлена з якісного зносостійкого матеріалу Oxford 1000, який надійно захищає вміст від зовнішніх факторів.</li><li><strong>Продумана ергономіка:</strong> Модель має 2 основні відділення та загалом 4 відділення на блискавці для зручного сортування речей.</li><li><strong>Універсальний ремінь:</strong> Максимальна довжина ременя становить 150 см, що дозволяє легко регулювати посадку під будь-який зріст.</li><li><strong>Оптимальні габарити:</strong> Висота становить 18 см, ширина — 14 см, а товщина — 6 см, що робить її неймовірно зручною для щоденного носіння.</li></ul><p>Не відкладайте комфорт на потім! Обирайте перевірену якість та ергономіку від улюбленого бренду. Замовляйте сумку через плече Nike прямо зараз та насолоджуйтеся свободою рухів щодня!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х7</param>
+            </offer>
+            <offer id="P2-12734159" available="true" in_stock="true">
+                <url />
+                <name>Сумка месенджер через плечо Champion с карманом внутри и двумя снаружи.</name>
+                <name_ua>Сумка через плече Champion з кишенею всередены та двома зовні чорна</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/154fdfc20e641fe29914.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/46a4bf3aa8f9f5cba26e.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/447065a2c07c008ac522.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4e24d5075af2162cedb7.jpg</picture>
+                <vendorCode>P2-11121</vendorCode>
+                <vendor />
+                <description><![CDATA[<p>Ищете надежного, стильного и практичного спутника для повседневных дел? <strong>Сумка через плечо Champion</strong> — это идеальное сочетание спортивного стиля, компактности и невероятной прочности. Создано для тех, кто ценит комфорт и хочет иметь все необходимые вещи всегда под рукой. Главное преимущество этой модели — высококачественная ткань <strong>Oxford 1000</strong>. Эта ткань отличается повышенной плотностью, износостойкостью и одновременно эластичностью. Она приятна на ощупь и совсем не заламывается даже при активном ежедневном использовании.</p><p><strong>Основные преимущества и характеристики модели:</strong></p><ul><li><strong>Эргономическая организация:</strong> одно основное отделение на надежном молнии с удобным карманом внутри</str><li><str> доступ:</strong> два внешних кармана без молнии для мелочей, которые всегда должны быть готовы.</li><li><strong>Индивидуальная регулировка:</strong> наплечный ремень с максимальной длиной до 150 см позволяет легко подстроить сумку под любой рост и стиль ношения.</li><li> – 18 см, ширина – 14,5 см, толщина – 4,5 см. Оптимальный размер для смартфона, ключей, кошелька и документов.</li></ul><p>Не откладывайте комфорт на потом! Выбирайте оригинальный стиль и проверенную практичность. <strong>Заказывайте сумку через плечо Champion прямо сейчас</strong> в нашем магазине и наслаждайтесь свободой движений каждый день! Быстрая доставка и первоклассный сервис гарантированы.</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте надійного, стильного та практичного супутника для щоденних справ? <strong>Сумка через плече Champion</strong> — це ідеальне поєднання спортивного стилю, компактності та надзвичайної міцності. Створена для тих, хто цінує комфорт і хоче мати всі необхідні речі завжди під рукою.</p><p>Головна перевага цієї моделі — високоякісна тканина <strong>Oxford 1000</strong>. Ця тканина вирізняється підвищеною щільністю, зносостійкістю та водночас еластичністю. Вона приємна на дотик і зовсім не заламується навіть при активному щоденному використанні.</p><p><strong>Основні переваги та характеристики моделі:</strong></p><ul><li><strong>Ергономічна організація:</strong> одне основне відділення на надійній блискавці зі зручною кишенею всередині для цінних речей.</li><li><strong>Швидкий доступ:</strong> дві зовнішні кишені без блискавки для дрібниць, які завжди мають бути напоготові.</li><li><strong>Індивідуальне регулювання:</strong> наплічний ремінь із максимальною довжиною до 150 см дозволяє легко підлаштувати сумку під будь-який зріст та стиль носіння.</li><li><strong>Компактні розміри:</strong> висота — 18 см, ширина — 14,5 см, товщина — 4,5 см. Оптимальний розмір для смартфона, ключів, гаманця та документів.</li></ul><p>Не відкладайте комфорт на потім! Обирайте оригінальний стиль та перевірену практичність. <strong>Замовляйте сумку через плече Champion просто зараз</strong> у нашому магазині та насолоджуйтеся свободою рухів щодня! Швидка доставка та першокласний сервіс гарантовані.</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х8</param>
+            </offer>
+            <offer id="P2-12734146" available="true" in_stock="true">
+                <url />
+                <name>Сумка мессенджер через плечо Jordan из прочной ткани и карманом.</name>
+                <name_ua>Сумка месенджер через плече Jordan з міцної тканини та кишенею чорна</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e8cd181029c0f10e015b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/37628fe5f528d00ce0f5.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/77be78d36851c5d5a71e.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/660b94c70d7a78c8fff5.jpg</picture>
+                <vendorCode>P2-11119</vendorCode>
+                <vendor />
+                <keywords>сумка через плече jordan, сумка джордан через плече, барсетка jordan, сумка месенджер jordan, сумка джордан, тканинна сумка jordan, сумка з тканини oxford 1000, спортивна сумка через плече, маленька сумка через плече, сумка jordan через плече, молодіжна сумка через плече, чоловіча сумка джордан</keywords>
+                <description><![CDATA[<p>Ищете надежный, стильный и максимально практичный аксессуар для ежедневного использования? <strong>Сумка через плечо Jordan из сверхпрочной ткани Oxford 1000</strong> — это идеальное сочетание спортивного стиля, функциональности и долговечности.</p><p>Эта модель предназначена для тех, кто ценит комфорт и активный темп жизни. Благодаря использованию материала Oxford 1000, сумка демонстрирует уникальные эксплуатационные свойства: она чрезвычайно плотная, износостойкая, но при этом остается эластичной и совсем не заламывается даже после длительного использования. Почему стоит выбрать именно эту сумку Jordan: 1000:</strong> гарантирует длительный срок службы и надежную защиту ваших вещей от износа.</li><li><strong>Продуманная эргономика:</strong> одно основное отделение на молнии с удобным внутренним карманом для важнейших вещей.</li><li><strong>Быстрый доступ:</ strong>Быстрый доступ:</strong> достать телефон, проездной или ключи.</li><li><strong>Регулируемый наплечный ремень:</strong> легко подстраивается под любой рост благодаря максимальной длине до 150 см.</li><li><strong>Компактные и практичные размеры:</strong> высота str 4,5 см делают ее удобной и неощутимой при ходьбе.</li></ul><p>Не откладывайте покупку практичного аксессуара! Выбирайте надежность и оригинальный стиль каждой детали. <strong>Заказывайте сумку через плечо Jordan прямо сейчас</strong> и получайте максимальный комфорт каждый день!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте надійний, стильний та максимально практичний аксесуар для щоденного використання? <strong>Сумка через плече Jordan з надміцної тканини Oxford 1000</strong> — це ідеальне поєднання спортивного стилю, функціональності та довговічності.</p><p>Ця модель створена для тих, хто цінує комфорт та активний темп життя. Завдяки використанню матеріалу Oxford 1000, сумка демонструє унікальні експлуатаційні властивості: вона надзвичайно щільна, зносостійка, але при цьому залишається еластичною та зовсім не заламується навіть після тривалого використання.</p><p><strong>Чому варто обрати саме цю сумку Jordan:</strong></p><ul><li><strong>Ультраміцний матеріал Oxford 1000:</strong> гарантує тривалий термін служби та надійний захист ваших речей від зносу.</li><li><strong>Продумана ергономіка:</strong> одне основне відділення на блискавці зі зручною внутрішньою кишенею для найважливіших речей.</li><li><strong>Швидкий доступ:</strong> дві зовнішні кишені без блискавки дозволяють миттєво дістати телефон, проїзний чи ключі.</li><li><strong>Регульований наплічний ремінь:</strong> легко підлаштовується під будь-який зріст завдяки максимальній довжині до 150 см.</li><li><strong>Компактні та практичні розміри:</strong> висота 18 см, ширина 14,5 см та товщина 4,5 см роблять її зручною та невідчутною під час ходьби.</li></ul><p>Не відкладайте покупку практичного аксесуара! Обирайте надійність та оригінальний стиль у кожній деталі. <strong>Замовляйте сумку через плече Jordan прямо зараз</strong> та отримуйте максимальний комфорт щодня!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х9</param>
+            </offer>
+            <offer id="P2-12734122" available="true" in_stock="true">
+                <url />
+                <name>Сумка через плечо Under Armour Oxford 1000 спортивная барсетка мессенджер</name>
+                <name_ua>Сумка через плече Under Armour Oxford 1000 спортивна барсетка месенджер чорна</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>2</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/248e2a80ea38d7ed7794.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bef69af36d25cb7687c0.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/36739f95f20a7ee2fe52.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/74bb8b5fdbc607961ab8.jpg</picture>
+                <vendorCode>P2-11118</vendorCode>
+                <vendor />
+                <keywords>сумка через плече, сумка under armour, барсетка under armour, месенджер under armour, спортивна сумка через плече, чоловіча сумка under armour, сумка з тканини oxford, барсетка андер армор, сумка андер армор через плече, маленька спортивна сумка, текстильна сумка месенджер, сумка спортивна чорна, барсетка тканинна</keywords>
+                <description><![CDATA[<p><strong>Сумка через плечо Under Armour</strong> — это высокофункциональный и крепкий аксессуар, разработанный для ежедневного использования в динамичном городском ритме. Благодаря экспертному подходу к подбору материалов, эта модель сочетает в себе лаконичный спортивный стиль и бескомпромиссную практичность. даже при ежедневной нагрузке.</li><li><strong>Устойчивость к деформациям:</strong> Ткань является чрезвычайно эластичной, не образует изломов или трещин, сохраняя свой первичный презентабельный вид.</li><li><strong>Эргономичная конструкция:</strong> Сумка оснащена надежно любой рост.</li></ul><p><strong>Конструктивные особенности и организация пространства:</strong></p><ul><li>1 основное вместительное отделение на надежной молнии для безопасного хранения документов и гаджетов.</li><li>1 дополнительный внутренний карман в основном отделении для отделки. доступа для предметов первой необходимости.</li><li>Регулируемый плечевой ремень с максимальной длиной до 150 см.</li></ul><p><strong>Точные габаритные характеристики изделия:</strong></p><ul><li>Высота: 18 см</li><li>Ширина: 4:14 см</li><li>Максимальная длина ремня: 150 см</li></ul><p>Этот мессенджер станет незаменимым помощником для тех, кто ценит надежность в деталях, строгий стиль и полную свободу движений. Оформляйте заказ в нашем магазине прямо сейчас, чтобы получить качественный оригинальный аксессуар по лучшей цене!</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Сумка через плече Under Armour</strong> — це високофункціональний та надзвичайно міцний аксесуар, розроблений для щоденного використання в динамічному міському ритмі. Завдяки експертному підходу до підбору матеріалів, ця модель поєднує в собі лаконічний спортивний стиль та безкомпромісну практичність.</p><p><strong>Ключові технічні переваги та матеріали:</strong></p><ul><li><strong>Надміцна тканина Oxford 1000:</strong> Матеріал володіє підвищеною щільністю та зносостійкістю, що гарантує тривалий термін служби навіть за щоденного навантаження.</li><li><strong>Стійкість до деформацій:</strong> Тканина є надзвичайно еластичною, не утворює заломів чи тріщин, зберігаючи свій первинний презентабельний вигляд.</li><li><strong>Ергономічна конструкція:</strong> Сумка оснащена надійним наплічним ременем із можливістю точного регулювання довжини під будь-який зріст.</li></ul><p><strong>Конструктивні особливості та організація простору:</strong></p><ul><li>1 основне містке відділення на надійній блискавці для безпечного зберігання документів та гаджетів.</li><li>1 додаткова внутрішня кишеня в основному відділенні для дрібних речей.</li><li>2 зовнішні кишені швидкого доступу для предметів першої необхідності.</li><li>Регульований плечовий ремінь із максимальною довжиною до 150 см.</li></ul><p><strong>Точні габаритні характеристики виробу:</strong></p><ul><li>Висота: 18 см</li><li>Ширина: 14,5 см</li><li>Товщина: 4,5 см</li><li>Максимальна довжина ременя: 150 см</li></ul><p>Цей месенджер стане незамінним помічником для тих, хто цінує надійність у деталях, строгий стиль та повну свободу рухів. Оформлюйте замовлення в нашому магазині прямо зараз, щоб отримати якісний оригінальний аксесуар за найкращою ціною!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х10</param>
+            </offer>
+            <offer id="P2-10513925" available="true" in_stock="true">
+                <url />
+                <name>Сумка через плечо Nike месенджер спортивная</name>
+                <name_ua>Сумка через плече Nike месенджер спортивна</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>2</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb3434f9e5614d7bfb59.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1292ffed746b6eb0ff84.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/371271e794e02659b64b.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d6074ebd2d5033f8b98.jpg</picture>
+                <vendorCode>P2-11112</vendorCode>
+                <vendor />
+                <keywords>сумка через плече nike, чоловіча сумка nike, спортивна сумка nike, месенджер nike, сумка оксфорд 1000, барсетка nike, сумка через плече оксфорд, купити сумку найк, сумка найк через плече, чоловічий месенджер найк, сумка спортивна через плече, барсетка найк</keywords>
+                <description><![CDATA[<p>Практический и чрезвычайно надежный мессенджер — сумка через плечо Nike, разработанная для интенсивного ежедневного использования. Благодаря использованию высокотехнологичного материала Oxford 1000, изделие обеспечивает максимальную стойкость к износу, влаге и механическим повреждениям. Материал отличается высокой плотностью и эластичностью, сохраняя первичную форму и не образуя изломов даже при длительной эксплуатации. уходе.</li><li><strong>Эластичность конструкции:</strong> материал является гибким, не деформируется и отлично держит форму под нагрузкой.</li><li><strong>Эргономичный дизайн:</strong> оптимальная планировка внутреннего пространства для удобного размещения ваших вещей.</li></ul><p><str> модели:</strong></p><ul><li><strong>Размеры изделия:</strong> высота — 18 см, ширина — 14,5 см, толщина — 4,5 см.</li><li><strong>Организация пространства:</strong> 1 основное отделение на надежной молнии внешние карманы быстрого доступа без молнии.</li><li><strong>Регулируемый ремень:</strong> наплечный ремень с возможностью индивидуальной настройки длины (максимальная длина составляет 150 см).</li></ul><p>Эта сумка станет незаменимым стильным и надежным. каждого сантиметра. Выбирайте проверенное качество для повседневного комфорта. Заказывайте сейчас и получите надежного помощника для любых жизненных ситуаций!</p>]]></description>
+                <description_ua><![CDATA[<p>Практичний та надзвичайно надійний месенджер — сумка через плече Nike, розроблена для щоденного інтенсивного використання. Завдяки використанню високотехнологічного матеріалу Oxford 1000, виріб забезпечує максимальну стійкість до зношування, вологи та механічних пошкоджень. Матеріал відрізняється високою щільністю та еластичністю, зберігаючи первинну форму і не утворюючи заломів навіть при тривалій експлуатації.</p><p><strong>Конструктивні та експлуатаційні переваги матеріалу:</strong></p><ul><li><strong>Надміцна тканина Oxford 1000:</strong> гарантує тривалий термін служби, стійкість до стирання та легкість у догляді.</li><li><strong>Еластичність конструкції:</strong> матеріал є гнучким, не деформується та відмінно тримає форму під навантаженням.</li><li><strong>Ергономічний дизайн:</strong> оптимальне планування внутрішнього простору для зручного розміщення ваших речей.</li></ul><p><strong>Технічні характеристики та функціонал моделі:</strong></p><ul><li><strong>Розміри виробу:</strong> висота — 18 см, ширина — 14,5 см, товщина — 4,5 см.</li><li><strong>Організація простору:</strong> 1 основне відділення на надійній блискавці (всередині передбачена додаткова кишеня для дрібниць) та 2 зовнішні кишені швидкого доступу без блискавки.</li><li><strong>Регульований ремінь:</strong> наплічний ремінь з можливістю індивідуального налаштування довжини (максимальна довжина становить 150 см).</li></ul><p>Ця сумка стане незамінним аксесуаром для тих, хто цінує технічну надійність, лаконічний спортивний стиль та функціональність кожного сантиметра. Обирайте перевірену якість для щоденного комфорту. Замовляйте зараз та отримайте надійного помічника для будь-яких життєвих ситуацій!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х11</param>
+            </offer>
+            <offer id="P2-10513812" available="true" in_stock="true">
+                <url />
+                <name>Сумка через плечо Ellese мессенджер</name>
+                <name_ua>Сумка через плече Ellese месенджер чорний</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15ace2d0b24da812ebe7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ddd8f8f6089216ed7ae9.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/925661de7a5a9a78e01f.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1ec6ae6b42ba947fb0be.jpg</picture>
+                <vendorCode>P2-11111</vendorCode>
+                <vendor />
+                <keywords>сумка через плече, сумка Ellese, месенджер Ellese, тканинна сумка через плече, сумка Oxford 1000, чоловіча сумка через плече, міні сумка через плече, повсякденна сумка, молодіжна сумка, спортивна сумка через плече, маленька сумка через плече, сумка месенджер, сумка на плече</keywords>
+                <description><![CDATA[<p>Поздравляем! Ищете надежного, практичного и стильного спутника для повседневных дел, который гармонично дополнит ваш образ? С радостью представляем вам компактную сумку через плечо <strong>Ellese</strong>. Она создана для того, чтобы дарить чувство комфорта, уюта и свободы в каждом движении, держа все самые важные вещи под рукой. Эта модель изготовлена ​​из высококачественной ткани <strong>Oxford 1000</strong>. Это очень плотный и износостойкий материал, который одновременно остается эластичным и не заламывается даже при длительном и активном использовании. Такая сумка надежно защитит ваше содержимое и сохранит свой первоначальный аккуратный вид надолго.</p><p><strong>Продуманная эргономика и функциональность модели:</strong></p><ul><li><strong>Одно основное отделение</strong> на надежной молнии для безопасного хранения гаджетов или документов. карман внутри основного отделения для удобного распределения мелких вещей.</li><li><strong>Два внешних кармана</strong> без молнии для быстрого доступа к вещам, которые всегда должны быть под рукой (ключи, салфетки, проездной).</li><li><strong> длиной до 150 см, что позволяет легко настроить высоту ношения под любой рост и стиль одежды. см</li><li>Длина ремня (max): 150 см</li></ul><p>Добавьте комфорт в свои будни вместе с этой уютной и надежной сумкой Ellese! Выбирайте качество, проверенное временем. Оформляйте заказ прямо сейчас на Prom.ua, а мы позаботимся о максимально быстрой отправке вашей посылки!</p>]]></description>
+                <description_ua><![CDATA[<p>Вітаємо! Шукаєте надійного, практичного та стильного супутника для щоденних справ, який гармонійно доповнить ваш образ? З радістю представляємо вам компактну сумку через плече <strong>Ellese</strong>. Вона створена для того, щоб дарувати відчуття комфорту, затишку та свободи в кожному русі, тримаючи всі найважливіші речі під рукою.</p><p>Ця модель виготовлена з високоякісної тканини <strong>Oxford 1000</strong>. Це надзвичайно щільний та зносостійкий матеріал, який водночас залишається еластичним та не заламується навіть при тривалому й активному використанні. Така сумка надійно захистить ваш вміст і збереже свій первинний охайний вигляд надовго.</p><p><strong>Продумана ергономіка та функціональність моделі:</strong></p><ul><li><strong>Одне основне відділення</strong> на надійній блискавці для безпечного зберігання гаджетів або документів.</li><li><strong>Внутрішня кишеня</strong> всередині основного відділення для зручного розподілу дрібних речей.</li><li><strong>Дві зовнішні кишені</strong> без блискавки для швидкого доступу до речей, які завжди мають бути напохваті (ключі, серветки, проїзний).</li><li><strong>Регульований наплічний ремінь</strong> із максимальною довжиною до 150 см, що дозволяє легко налаштувати висоту носіння під будь-який зріст та стиль одягу.</li></ul><p><strong>Точні фізичні розміри аксесуара:</strong></p><ul><li>Висота: 18 см</li><li>Ширина: 14,5 см</li><li>Товщина: 4,5 см</li><li>Довжина ременя (max): 150 см</li></ul><p>Додайте комфорту у свої будні разом із цією затишною та надійною сумкою Ellese! Обирайте якість, перевірену часом. Оформлюйте замовлення прямо зараз на Prom.ua, а ми подбаємо про максимально швидке відправлення вашої посилки!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х12</param>
+            </offer>
+            <offer id="P2-17495143" available="true" in_stock="true">
+                <url />
+                <name>Мужская сумка через плечо Manto черная | Спортивная барсетка мессенджер</name>
+                <name_ua>Чоловіча сумка через плече Manto чорна | Спортивна барсетка месенджер</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>2</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/44a50b9c0d86b2e831f7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f622abdcecd814f2ff68.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/861fb6cb03a3e373b596.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a8ebb7b02bcc2e09d4da.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3f10cf00d08b60b77141.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7b4af20c06b7a830c073.jpg</picture>
+                <vendorCode>P2-22123</vendorCode>
+                <vendor />
+                <keywords>сумка через плече, чоловіча сумка через плече, сумка manto, месенджер manto, сумка manto чорна, барсетка manto, барсетка через плече, чоловіча барсетка чорна, сумка з тканини oxford, сумка oxford 1000d, маленька сумка через плече, сумка месенджер чорна, спортивна сумка через плече</keywords>
+                <description><![CDATA[<p>Ищете надежного, стильного и максимально практичного спутника для повседневных дел? <strong>Сумка через плечо Manto черная</strong> — это именно то, что вам нужно! Созданная для активных людей, она сочетает в себе исключительную компактность, эргономичность и чрезвычайную прочность, которые вы ощутите с первого же прикосновения. Главное преимущество этой модели — премиальный материал. Сумка изготовлена ​​из качественной ткани Oxford 1000D. Это очень плотный и износостойкий материал, который одновременно остается эластичным и не заламывается даже после длительного и активного использования. Глубокий черный цвет делает этот аксессуар универсальным дополнением к любому стилю одежды. Почему стоит выбрать именно эту сумку? Надежная и износостойкая ткань: Oxford 1000D гарантирует долговечность и надежность. условий.</li><li><strong>Продуманное пространство:</strong> Сумка состоит из одного основного отделения на молнии с удобным карманом внутри, а также оснащена внешними карманами для быстрого доступа к важнейшим мелочам.</li><li><strong>Идеальная посадка:</strong> Модель оснащена прочной прочностью составляет 150 см, что позволяет удобно настроить сумку под любой рост. кошелек.</li></ul><p>Не откладывайте комфорт на потом! Заказывайте стильную и практичную сумку через плечо Manto уже сегодня в нашем интернет-магазине. Быстрая отправка и высокое качество обслуживания гарантированы. Нажмите кнопку 'Купить' и становитесь владельцем надежного аксессуара прямо сейчас!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте надійного, стильного та максимально практичного супутника для щоденних справ? <strong>Сумка через плече Manto чорна</strong> — це саме те, що вам потрібно! Створена для активних людей, вона поєднує в собі виняткову компактність, ергономічність та надзвичайну міцність, які ви відчуєте з першого ж дотику.</p><p>Головна перевага цієї моделі — преміальний матеріал. Сумка виготовлена з якісної тканини Oxford 1000D. Це надзвичайно щільний та зносостійкий матеріал, який водночас залишається еластичним і не заламується навіть після тривалого та активного використання. Глибокий чорний колір робить цей аксесуар універсальним доповненням до будь-якого стилю одягу.</p><p><strong>Чому варто обрати саме цю сумку?</strong></p><ul><li><strong>Надійна та зносостійка тканина:</strong> Oxford 1000D гарантує довговічність та надійний захист ваших речей за будь-яких погодних умов.</li><li><strong>Продуманий простір:</strong> Сумка складається з одного основного відділення на блискавці зі зручною кишенею всередині, а також оснащена зовнішніми кишенями для швидкого доступу до найважливіших дрібниць.</li><li><strong>Ідеальна посадка:</strong> Модель оснащена міцним наплічним регульованим ременем, максимальна довжина якого становить 150 см, що дозволяє зручно налаштувати сумку під будь-який зріст.</li><li><strong>Компактні габарити:</strong> Розміри сумки становлять: висота — 16 см, ширина — 14 см, товщина — 4,5 см. Вона абсолютно не заважає при русі, але вміщує все необхідне: телефон, ключі, документи та гаманець.</li></ul><p>Не відкладайте комфорт на потім! Замовляйте стильну та практичну сумку через плече Manto вже сьогодні в нашому інтернет-магазині. Швидка відправка та висока якість обслуговування гарантовані. Натискайте кнопку 'Купити' та ставайте власником надійного аксесуара прямо зараз!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х13</param>
+            </offer>
+            <offer id="P2-17495142" available="true" in_stock="true">
+                <url />
+                <name>Черная сумка через плечо Ellesse унисекс | Повседневная барсетка кросс-боди</name>
+                <name_ua>Чорна сумка через плече Ellesse унісекс | Повсякденна барсетка крос-боді</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e7e49aa95788cdfe9a19.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a652453cceb12de7ff36.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b46607b33e40eb66ee44.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d26c6f56f735caf9760.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c95e6618e5e547bdac9f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/db847d249f9c4b9cd14f.jpg</picture>
+                <vendorCode>P2-22122</vendorCode>
+                <vendor />
+                <keywords>сумка через плече, сумка крос-боді, барсетка чоловіча, жіноча сумка через плече, сумка унісекс, сумка Ellesse, купити сумку через плече, чорна барсетка, сумка з тканини Oxford, маленька сумка крос-боді, міська сумка, сумка через плече недорого, повсякденна сумка</keywords>
+                <description><![CDATA[<p>Ищете идеального спутника для ежедневных дел? Эта черная сумка через плечо Ellesse – именно то, что нужно для современного ритма жизни. Она сочетает в себе лаконичный стиль и невероятную практичность, позволяя держать все самое важное под рукой.</p><p>Мы знаем, как важно, чтобы аксессуар был не только красивым, но и выносливым. Именно поэтому эта модель изготовлена ​​из ткани Oxford 1000D – материала, славящегося своей износостойкостью и стойкостью к изломам. Вы можете быть уверены: ваша любимая сумка надолго сохранит свой безупречный вид.</p><strong>Почему стоит выбрать именно эту модель:</strong><ul><li><strong>Качественный материал:</strong> Ткань Oxford 1000D одновременно плотная и эластичная. дополнительным внутренним карманом.</li><li><strong>Дополнительное пространство:</strong> Имеет 3 внешних кармана для мелочей, которые всегда должны быть доступны.</li><li><strong>Максимальный комфорт:</strong> Регулируемый ремень длиной до 150 см позволяет носить сумку как вам удобнее.</li><li><strong>Универсальность:</strong> Стильный унисекс-дизайн, подходящий к любому образу.</li></ul><p>Выбирайте комфорт и качество вместе с нами. Если у вас есть вопросы или вы хотите оформить заказ — пишите, мы всегда рады помочь вам с выбором!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте ідеального супутника для щоденних справ? Ця чорна сумка через плече Ellesse — саме те, що потрібно для сучасного ритму життя. Вона поєднує в собі лаконічний стиль та неймовірну практичність, дозволяючи тримати все найважливіше під рукою.</p><p>Ми знаємо, як важливо, щоб аксесуар був не лише гарним, а й витривалим. Саме тому ця модель виготовлена з тканини Oxford 1000D — матеріалу, що славиться своєю зносостійкістю та стійкістю до заломів. Ви можете бути впевнені: ваша улюблена сумка надовго збереже свій бездоганний вигляд.</p><strong>Чому варто обрати саме цю модель:</strong><ul><li><strong>Якісний матеріал:</strong> Тканина Oxford 1000D одночасно щільна та еластична.</li><li><strong>Продумана організація:</strong> Основне відділення на блискавці з додатковою внутрішньою кишенею.</li><li><strong>Додатковий простір:</strong> Має 3 зовнішні кишені для дрібниць, які завжди мають бути доступними.</li><li><strong>Максимальний комфорт:</strong> Регульований ремінь довжиною до 150 см дозволяє носити сумку як вам зручніше.</li><li><strong>Універсальність:</strong> Стильний унісекс-дизайн, що пасує до будь-якого образу.</li></ul><p>Обирайте комфорт та якість разом з нами. Якщо у вас виникли запитання або ви бажаєте оформити замовлення — пишіть, ми завжди раді допомогти вам з вибором!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х14</param>
+            </offer>
+            <offer id="P2-17495141" available="true" in_stock="true">
+                <url />
+                <name>Городская сумка через плечо Patagonia черная | Мессенджер кроссбоди Патагония</name>
+                <name_ua>Міська сумка через плече Patagonia чорна | Месенджер крос-боді Патагонія</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>2</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/882a223e976094cbdba2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1df81a67b4e65f3bca67.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/dd8f9dd3cf686af9c4b3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2865ffe828b1b59d535c.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e3e2ed6aed1c507bdcd6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/67b2d4731956035a75fc.jpg</picture>
+                <vendorCode>P2-22121</vendorCode>
+                <vendor />
+                <keywords>сумка через плече, чоловіча сумка через плече, міська сумка patagonia, месенджер патагонія, крос-боді patagonia, чорна сумка через плече, сумка oxford 1000d, чоловічий месенджер чорний, сумка на плече патагонія, спортивна сумка через плече, маленька сумка через плече, сумка месенджер patagonia, купити сумку патагонія, сумка крос боді чорна</keywords>
+                <description><![CDATA[<p>Ищете идеальный аксессуар для динамичной городской жизни, сочетающий в себе современный стиль, практичность и невероятную надежность? <strong>Городская сумка через плечо Patagonia</strong> черного цвета – это именно то, что вам нужно! Этот компактный, но очень вместительный мессенджер кросс-боди создан для тех, кто ценит свободу движений и желает держать все важные вещи под рукой. Главное преимущество этой модели — материал премиального качества. Сумка изготовлена ​​из сверхпрочной ткани <strong>Oxford 1000D</strong>. Этот материал очень плотный, износостойкий и одновременно эластичный — он абсолютно не заламывается, прекрасно держит форму и надежно защищает ваше содержимое в любых повседневных ситуациях. Почему стоит выбрать мессенджер кросс-боди Patagonia: основного отделения на надежной молнии с дополнительным карманом внутри, что позволяет удобно и безопасно разложить телефон, кошелек или документы. Оснащена удобным плечевым ремнем, длину которого можно легко отрегулировать под собственные параметры (максимальная длина ремня составляет 150 см). аккуратной с виду.</li></ul><p>Не откладывайте комфорт на потом! Разместите ваш образ стильного акцента и заказывайте городскую сумку-мессенджер Patagonia прямо сейчас. Гарантируем отличное качество и быструю отправку заказа!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте ідеальний аксесуар для динамічного міського життя, який поєднує в собі сучасний стиль, практичність та неймовірну надійність? <strong>Міська сумка через плече Patagonia</strong> чорного кольору — це саме те, що вам потрібно! Цей компактний, але надзвичайно місткий месенджер крос-боді створений для тих, хто цінує свободу рухів та бажає тримати всі важливі речі під рукою.</p><p>Головна перевага цієї моделі — матеріал преміальної якості. Сумка виготовлена з надміцної тканини <strong>Oxford 1000D</strong>. Цей матеріал дуже щільний, зносостійкий і водночас еластичний — він абсолютно не заламується, чудово тримає форму та надійно захищає ваш вміст у будь-яких повсякденних ситуаціях.</p><p><strong>Чому варто обрати месенджер крос-боді Patagonia:</strong></p><ul><li><strong>Ефективна організація простору:</strong> Сумка складається з одного основного відділення на надійній блискавці із додатковою кишенею всередині, що дозволяє зручно та безпечно розкласти телефон, гаманець чи документи.</li><li><strong>Швидкий доступ до дрібниць:</strong> Завдяки наявності 3 зовнішніх кишень ви зможете миттєво дістати ключі, навушники чи проїзний.</li><li><strong>Максимальний комфорт:</strong> Оснащена зручним наплічним ременем, довжину якого можна легко відрегулювати під власні параметри (максимальна довжина ременя становить 150 см).</li><li><strong>Компактні міські розміри:</strong> Зручні габарити (висота 16 см, ширина 14 см, товщина 4,5 см) роблять її невідчутною при ходьбі та дуже акуратною на вигляд.</li></ul><p>Не відкладайте комфорт на потім! Додайте вашому образу стильного акценту та замовляйте міську сумку-месенджер Patagonia прямо зараз. Гарантуємо відмінну якість та швидку відправку вашого замовлення!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х15</param>
+            </offer>
+            <offer id="P2-17495140" available="true" in_stock="true">
+                <url />
+                <name>Стильная сумка через плечо Stussy черная | Молодежный мессенджер барсетка</name>
+                <name_ua>Стильна сумка через плече Stussy чорна | Молодіжний месенджер барсетка</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/19ebb431038eea45af65.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5baf6e8d911f092860f4.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4d6c9296485907167a26.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1f8d780ea844b578b42d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/64ff6e68d20fd7a89fa5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1505f0ced1f6f3078faf.jpg</picture>
+                <vendorCode>P2-22110</vendorCode>
+                <vendor />
+                <keywords>сумка через плече, сумка stussy, чоловіча сумка через плече, молодіжний месенджер, барсетка чорна, барсетка stussy, месенджер stussy, сумка оксфорд 1000д, міська барсетка, сумка месенджер чорна, молодіжна барсетка, купити сумку stussy, чоловічий месенджер, барсетка через плече</keywords>
+                <description><![CDATA[<p>Ищете стильный, практичный и максимально надежный аксессуар на каждый день? <strong>Молодежный мессенджер Stussy черного цвета</strong> — это идеальный выбор для тех, кто ценит свободу движений, современный уличный стиль и бескомпромиссное качество. Эта компактная сумка через плечо станет вашим незаменимым спутником в городском ритме, позволяя держать все необходимые мелочи под рукой. Почему стоит выбрать именно этот мессенджер: Сверхпрочный материал: Изготовлен из качественной ткани Oxford. Она чрезвычайно плотная и износостойкая, но в то же время эластичная и совершенно не заламывается, сохраняя превосходный внешний вид при длительном использовании. мелочей.</li><li><strong>Универсальный регулируемый ремень:</strong> Наплечный ремень легко регулируется по длине (максимальная длина составляет 150 см), что позволяет настроить его под любой рост и стиль ношения.</li><li><strong>Компактные размеры:</strong> 14 см, толщина 4,5 см) делают ее максимально аккуратной, но при этом достаточно вместительной для телефона, ключей и кошелька.</li></ul><p>Не упускайте возможность обновить свой повседневный образ надежным аксессуаром! <strong>Заказывайте молодежный мессенджер Stussy прямо сейчас</strong> в нашем магазине и получите оригинальный стиль по лучшей цене с быстрой доставкой. Нажмите кнопку "Купить", чтобы оформить заказ в считанные минуты!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте стильний, практичний та максимально надійний аксесуар на кожен день? <strong>Молодіжний месенджер Stussy чорного кольору</strong> — це ідеальний вибір для тих, хто цінує свободу рухів, сучасний вуличний стиль та безкомпромісну якість. Ця компактна сумка через плече стане вашим незамінним супутником у міському ритмі, дозволяючи тримати всі необхідні дрібниці під рукою.</p><p><strong>Чому варто обрати саме цей месенджер:</strong></p><ul><li><strong>Надміцний матеріал:</strong> Виготовлений з якісної тканини Oxford 1000D. Вона надзвичайно щільна та зносостійка, але водночас еластична і абсолютно не заламується, зберігаючи чудовий зовнішній вигляд при тривалому використанні.</li><li><strong>Продумана ергономіка:</strong> Конструкція складається з одного основного відділення на блискавці зі зручною кишенею всередині та зовнішніх кишень для швидкого доступу до найважливіших дрібниць.</li><li><strong>Універсальний регульований ремінь:</strong> Наплічний ремінь легко регулюється по довжині (максимальна довжина становить 150 см), що дозволяє налаштувати його під будь-який зріст та стиль носіння.</li><li><strong>Компактні розміри:</strong> Габарити сумки (висота 16 см, ширина 14 см, товщина 4,5 см) роблять її максимально акуратною, але при цьому достатньо місткою для телефону, ключів та гаманця.</li></ul><p>Не втрачайте можливість оновити свій повсякденний образ надійним аксесуаром! <strong>Замовляйте молодіжний месенджер Stussy прямо зараз</strong> у нашому магазині та отримайте оригінальний стиль за найкращою ціною з швидкою доставкою. Натискайте кнопку "Купити", щоб оформити замовлення за лічені хвилини!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х16</param>
+            </offer>
+            <offer id="P2-17495317" available="true" in_stock="true">
+                <url />
+                <name>Спортивная сумка через плечо Puma черная | Мужская барсетка Пума</name>
+                <name_ua>Спортивна сумка через плече Puma чорна | Чоловіча барсетка Пума</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a4d80354b97adecb4992.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d587679818c29bed2f9f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1b4ffa10f4ff258fc7a9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45751c075680b6882926.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e7344df404322e01da54.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8d7f75758a41da90c0b7.jpg</picture>
+                <vendorCode>P2-22118</vendorCode>
+                <vendor />
+                <keywords>спортивна сумка через плече, чоловіча барсетка пума, барсетка puma чорна, сумка через плече чоловіча, чоловіча спортивна сумка, месенджер puma, сумка пума чорна, чоловіча сумка oxford 1000d, компактна барсетка через плече, сумка на плече пума, чоловічі сумки та барсетки, купити барсетку puma, спортивна барсетка чорна</keywords>
+                <description><![CDATA[<p>Ищете стильный, компактный и невероятно надежный аксессуар для повседневного использования? <strong>Спортивная сумка через плечо Puma</strong> - это идеальный выбор для современного мужчины, который ценит практичность, свободу движений и классический спортивный стиль. Благодаря лаконичному черному цвету и продуманной эргономике, эта мужская барсетка легко дополнит любой повседневный образ, надежно сохраняя ваши самые важные вещи под рукой. Почему именно эта сумка станет вашим незаменимым спутником?</strong> 1000D:</strong> Сумка изготовлена ​​из специальной плотной ткани, которая отличается повышенной износостойкостью. Она эластичная, приятная на ощупь и не заламывается даже после длительного использования.</li><li><strong>Эргономическая организация пространства:</strong> Модель имеет одно основное отделение на надежной молнии, внутри которого расположен дополнительный карман для мелочей, а также внешние карманы для быстрого доступа к важнейшим <str> каждой детали:</strong> Регулируемый наплечный ремень с максимальной длиной до 150 см позволяет легко подстроить сумку под любой рост и стиль ношения.</li><li><strong>Компактные и практичные размеры:</strong> Высота 16 см, ширина 14 см и толщина кошелек, ключи и документы, не отягощая ваши карманы.</li></ul><p>Не откладывайте комфорт на потом! Заказывайте спортивную барсетку <strong>Puma</strong> прямо сейчас в нашем интернет-магазине. Мы гарантируем быструю отправку, высокое качество обслуживания и товар, полностью отвечающий вашим ожиданиям. Добавьте стиля и удобства в свой каждый день!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте стильний, компактний та неймовірно надійний аксесуар для щоденного використання? <strong>Спортивна сумка через плече Puma</strong> — це ідеальний вибір для сучасного чоловіка, який цінує практичність, свободу рухів та класичний спортивний стиль. Завдяки лаконічному чорному кольору та продуманій ергономіці, ця чоловіча барсетка легко доповнить будь-який повсякденний образ, надійно зберігаючи ваші найважливіші речі під рукою.</p><p><strong>Чому саме ця сумка стане вашим незамінним супутником?</strong></p><ul><li><strong>Надміцний матеріал Oxford 1000D:</strong> Сумку виготовлено зі спеціальної щільної тканини, яка відрізняється підвищеною зносостійкістю. Вона еластична, приємна на дотик і не заламується навіть після тривалого використання.</li><li><strong>Ергономічна організація простору:</strong> Модель має одне основне відділення на надійній блискавці, всередині якого розташована додаткова кишеня для дрібниць, а також зовнішні кишені для швидкого доступу до найважливіших речей.</li><li><strong>Зручність у кожній деталі:</strong> Регульований наплічний ремінь з максимальною довжиною до 150 см дозволяє легко підлаштувати сумку під будь-який зріст та стиль носіння.</li><li><strong>Компактні та практичні розміри:</strong> Висота 16 см, ширина 14 см та товщина 4,5 см — це ідеальний формат, щоб вмістити телефон, гаманець, ключі та документи, не обтяжуючи ваші кишені.</li></ul><p>Не відкладайте комфорт на потім! Замовляйте спортивну барсетку <strong>Puma</strong> прямо зараз у нашому інтернет-магазині. Ми гарантуємо швидку відправку, високу якість обслуговування та товар, який повністю відповідає вашим очікуванням. Додайте стилю та зручності у свій кожен день!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х17</param>
+            </offer>
+            <offer id="P2-17495137" available="true" in_stock="true">
+                <url />
+                <name>Черная сумка-мессенджер Puma | Компактная мужская барсетка через плечо</name>
+                <name_ua>Чорна сумка-месенджер Puma | Компактна чоловіча барсетка через плече</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ee1ac492cfdfbd789085.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3361f49eec9efa35b970.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7ac659ee6d2804e200c1.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8e744bb34c63ab6182b2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/28157e80bccf840c6a39.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1918e8899571dd999664.jpg</picture>
+                <vendorCode>P2-22117</vendorCode>
+                <vendor />
+                <keywords>спортивна сумка через плече, чоловіча барсетка пума, барсетка puma чорна, сумка через плече чоловіча, чоловіча спортивна сумка, месенджер puma, сумка пума чорна, чоловіча сумка oxford 1000d, компактна барсетка через плече, сумка на плече пума, чоловічі сумки та барсетки, купити барсетку puma, спортивна барсетка чорна</keywords>
+                <description><![CDATA[<p>Ищете стильный, компактный и невероятно надежный аксессуар для повседневного использования? <strong>Спортивная сумка через плечо Puma</strong> - это идеальный выбор для современного мужчины, который ценит практичность, свободу движений и классический спортивный стиль. Благодаря лаконичному черному цвету и продуманной эргономике, эта мужская барсетка легко дополнит любой повседневный образ, надежно сохраняя ваши самые важные вещи под рукой. Почему именно эта сумка станет вашим незаменимым спутником?</strong> 1000D:</strong> Сумка изготовлена ​​из специальной плотной ткани, которая отличается повышенной износостойкостью. Она эластичная, приятная на ощупь и не заламывается даже после длительного использования.</li><li><strong>Эргономическая организация пространства:</strong> Модель имеет одно основное отделение на надежной молнии, внутри которого расположен дополнительный карман для мелочей, а также внешние карманы для быстрого доступа к важнейшим <str> каждой детали:</strong> Регулируемый наплечный ремень с максимальной длиной до 150 см позволяет легко подстроить сумку под любой рост и стиль ношения.</li><li><strong>Компактные и практичные размеры:</strong> Высота 16 см, ширина 14 см и толщина кошелек, ключи и документы, не отягощая ваши карманы.</li></ul><p>Не откладывайте комфорт на потом! Заказывайте спортивную барсетку <strong>Puma</strong> прямо сейчас в нашем интернет-магазине. Мы гарантируем быструю отправку, высокое качество обслуживания и товар, полностью отвечающий вашим ожиданиям. Добавьте стиля и удобства в свой каждый день!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте стильний, компактний та неймовірно надійний аксесуар для щоденного використання? <strong>Спортивна сумка через плече Puma</strong> — це ідеальний вибір для сучасного чоловіка, який цінує практичність, свободу рухів та класичний спортивний стиль. Завдяки лаконічному чорному кольору та продуманій ергономіці, ця чоловіча барсетка легко доповнить будь-який повсякденний образ, надійно зберігаючи ваші найважливіші речі під рукою.</p><p><strong>Чому саме ця сумка стане вашим незамінним супутником?</strong></p><ul><li><strong>Надміцний матеріал Oxford 1000D:</strong> Сумку виготовлено зі спеціальної щільної тканини, яка відрізняється підвищеною зносостійкістю. Вона еластична, приємна на дотик і не заламується навіть після тривалого використання.</li><li><strong>Ергономічна організація простору:</strong> Модель має одне основне відділення на надійній блискавці, всередині якого розташована додаткова кишеня для дрібниць, а також зовнішні кишені для швидкого доступу до найважливіших речей.</li><li><strong>Зручність у кожній деталі:</strong> Регульований наплічний ремінь з максимальною довжиною до 150 см дозволяє легко підлаштувати сумку під будь-який зріст та стиль носіння.</li><li><strong>Компактні та практичні розміри:</strong> Висота 16 см, ширина 14 см та товщина 4,5 см — це ідеальний формат, щоб вмістити телефон, гаманець, ключі та документи, не обтяжуючи ваші кишені.</li></ul><p>Не відкладайте комфорт на потім! Замовляйте спортивну барсетку <strong>Puma</strong> прямо зараз у нашому інтернет-магазині. Ми гарантуємо швидку відправку, високу якість обслуговування та товар, який повністю відповідає вашим очікуванням. Додайте стилю та зручності у свій кожен день!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х18</param>
+            </offer>
+            <offer id="P2-17495286" available="true" in_stock="true">
+                <url />
+                <name>Мужская сумка через плечо Nike черная | Спортивная барсетка Найк мессенджер</name>
+                <name_ua>Чоловіча сумка через плече Nike чорна | Спортивна барсетка Найк месенджер</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>4</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8cc8fde1e7ced125d853.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/54df8c37fbac5d234878.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7baceb6afde20b4aa580.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6b8ac76b78f40e8fe891.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c500300cf9b13c1dd19a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/aa44785c5fbc8663d128.jpg</picture>
+                <vendorCode>P2-22115</vendorCode>
+                <vendor />
+                <keywords>чоловіча сумка Nike, сумка через плече чоловіча, спортивна барсетка Nike, сумка месенджер Найк, сумка крос-боді чоловіча, барсетка чорна Nike, сумка через плече спортивна, невелика чоловіча сумка, сумка Nike з тканини Oxford, аксесуари Nike, чоловіча сумка через плече купити, брендова сумка Найк, сумка з регульованим ременем</keywords>
+                <description><![CDATA[<p>Ищете надежный аксессуар, который подчеркнет ваш динамический стиль и сохранит все необходимые мелочи под рукой? Эта мужская сумка через плечо Nike – идеальное сочетание спортивной эстетики и высокой функциональности. Она создана для тех, кто ценит комфорт во время активного движения, будь то прогулка по городу или поездка.</p><p><strong>Почему стоит выбрать именно эту модель:</strong></p><ul><li><strong>Надежность и качество:</strong> Изготовлена ​​из специальной ткани Oxford 1000D, которая отличается устойчивостью и устойчивостью. Материал устойчив к заломам, поэтому сумка будет сохранять опрятный вид даже после продолжительного использования.</li><li><strong>Продуманная организация:</strong> Модель оснащена вместительным основным отделением с внутренним карманом и двумя удобными наружными карманами для быстрого доступа к телефону или ключам.</li><li><strong></strong> (максимальная длина до 150 см) позволяет легко настроить посадку под ваш рост и стиль ношения. аксессуаром. Добавьте эту сумку уже сейчас, чтобы завтра наслаждаться удобством и безупречным дизайном Nike! Остались вопросы? Наши менеджеры готовы проконсультировать вас и оформить заказ максимально быстро.</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте надійний аксесуар, який підкреслить ваш динамічний стиль та збереже всі необхідні дрібниці під рукою? Ця чоловіча сумка через плече Nike — ідеальне поєднання спортивної естетики та високої функціональності. Вона створена для тих, хто цінує комфорт під час активного руху, будь то прогулянка містом або поїздка.</p><p><strong>Чому варто обрати саме цю модель:</strong></p><ul><li><strong>Надійність та якість:</strong> Виготовлена зі спеціальної тканини Oxford 1000D, яка вирізняється підвищеною зносостійкістю, щільністю та еластичністю. Матеріал стійкий до заломів, тому сумка зберігатиме охайний вигляд навіть після тривалого використання.</li><li><strong>Продумана організація:</strong> Модель оснащена містким основним відділенням із внутрішньою кишенею та двома зручними зовнішніми кишенями для швидкого доступу до телефону або ключів.</li><li><strong>Зручність у деталях:</strong> Регульований плечовий ремінь (максимальна довжина до 150 см) дозволяє легко налаштувати посадку під ваш зріст та стиль носіння.</li><li><strong>Компактність:</strong> Ідеальні габарити (16х14х4,5 см) роблять її невідчутною, але надзвичайно корисною в повсякденному житті.</li></ul><p>Не втрачайте можливість оновити свій гардероб якісним та стильним аксесуаром. Додайте цю сумку до кошика вже зараз, щоб завтра насолоджуватися зручністю та бездоганним дизайном Nike! Залишилися питання? Наші менеджери готові проконсультувати вас та допомогти оформити замовлення максимально швидко.</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х19</param>
+            </offer>
+            <offer id="P2-17495134" available="true" in_stock="true">
+                <url />
+                <name>Черная сумка кросс-боди Nike | Городская спортивная барсетка Найк</name>
+                <name_ua>Чорна сумка крос-боді Nike | Міська спортивна барсетка Найк</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>4</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a2b300c10073a3fa223f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/77641b8e3ef53cb7c316.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cbedf7900135df4b95c1.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/04fbc4e50a0e99627879.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6a5f7ecb05d409ae3285.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fb08dd770d4da0920260.jpg</picture>
+                <vendorCode>P2-22114</vendorCode>
+                <vendor />
+                <keywords>сумка крос-боді Nike, спортивна барсетка Найк, сумка через плече чоловіча, сумка через плече жіноча, чорна сумка Nike, сумка крос-боді чоловіча, сумка месенджер Nike, барсетка Найк через плече, сумка крос-боді жіноча, спортивна сумка на плече, невелика сумка для міста, сумка з тканини Оксфорд</keywords>
+                <description><![CDATA[<p>Ищете идеальный аксессуар для активной жизни в городе? Эта черная сумка кросс-боди Nike станет вашим незаменимым спутником. Она сочетает в себе фирменный стиль и бескомпромиссную практичность, позволяя держать самые необходимые вещи под рукой, сохраняя при этом полную свободу движений. свой первоначальный вид и не заламывается.</p><p><strong>Почему покупатели выбирают именно эту модель:</strong></p><ul><li><strong>Надежность и качество:</strong> Ткань Oxford 1000D обеспечивает долговечность даже при интенсивном использовании.</li><li><strong>Продуманная организация: и два дополнительных внешних кармана для быстрого доступа.</li><li><strong>Идеальный комфорт:</strong> Регулируемый плечевой ремень (длиной до 150 см) позволяет легко адаптировать сумку под ваши потребности и стиль ношения.</li><li><strong>Компактность:</strong> Идеальные размеры кошелька или документов.</li></ul><p>Не откладывайте на потом — добавьте нотку спортивного стиля и комфорта в свой гардероб уже сейчас! Оформляйте заказ и мы оперативно отправим вашу новую сумку Nike.</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте ідеальний аксесуар для активного життя в місті? Ця чорна сумка крос-боді Nike стане вашим незамінним супутником. Вона поєднує в собі фірмовий стиль та безкомпромісну практичність, дозволяючи тримати найнеобхідніші речі під рукою, зберігаючи при цьому повну свободу рухів.</p><p>Виготовлена з високотехнологічної тканини Oxford 1000D, ця барсетка готова до щоденних випробувань: матеріал не тільки зносостійкий та міцний, але й еластичний, завдяки чому сумка довго зберігає свій первинний вигляд і не заламується.</p><p><strong>Чому покупці обирають саме цю модель:</strong></p><ul><li><strong>Надійність та якість:</strong> Тканина Oxford 1000D забезпечує довговічність навіть при інтенсивному використанні.</li><li><strong>Продумана організація:</strong> Основне відділення на блискавці з внутрішньою кишенею та дві додаткові зовнішні кишені для швидкого доступу.</li><li><strong>Ідеальний комфорт:</strong> Регульований плечовий ремінь (довжиною до 150 см) дозволяє легко адаптувати сумку під ваші потреби та стиль носіння.</li><li><strong>Компактність:</strong> Ідеальні розміри 16х14х4,5 см для всього важливого: телефону, ключів, гаманця чи документів.</li></ul><p>Не відкладайте на потім — додайте нотку спортивного стилю та комфорту у свій гардероб вже зараз! Оформлюйте замовлення, і ми оперативно відправимо вашу нову сумку Nike.</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х20</param>
+            </offer>
+            <offer id="P2-17495133" available="true" in_stock="true">
+                <url />
+                <name>Сумка через плечо The North Face (TNF) черная | Мужская барсетка мессенджер</name>
+                <name_ua>Сумка через плече The North Face (TNF) чорна | Чоловіча барсетка месенджер</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4fb206acf20edd1ab3eb.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cd37adbdb00c2f39ce77.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/34f9e08b81d4ff242caa.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/576627e6edb361adaac0.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d57328451dc29dd6eb03.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5192de49712d175d8011.jpg</picture>
+                <vendorCode>P2-22113</vendorCode>
+                <vendor />
+                <keywords>спортивна сумка через плече, чоловіча сумка крос-боді, сумка Jordan чорна, барсетка чоловіча, сумка месенджер, маленька сумка через плече, сумка з тканини Oxford, чоловіча сумка для телефону, сумка на плече чоловіча, стильна сумка крос-боді, сумка через плече недорого, чоловічий аксесуар Jordan, сумка для щоденного використання</keywords>
+                <description><![CDATA[<p>Ищете идеальный аксессуар, сочетающий милитари-стиль, надежность и удобство в повседневном использовании? Эта черная сумка через плечо The North Face – ваш лучший выбор для города, поездок или прогулок. Благодаря продуманной конструкции и сверхпрочным материалам, она позволит держать самые необходимые вещи всегда под рукой, сохраняя при этом полную свободу движений.</p><p><strong>Почему стоит выбрать именно эту модель? эластичностью и стойкостью к заломам.</li><li><strong>Организация пространства:</strong> Основное отделение на молнии с внутренним карманом и два дополнительных внешних кармана для быстрого доступа.</li><li><strong>Компактные размеры:</strong> Идеальные габариты (1,4 ключи, не создавая лишнего объема.</li><li><strong>Комфортная эксплуатация:</strong> Оснащена регулируемым наплечным ремнем, максимальная длина которого составляет 150 см, что позволяет подстроить сумку под любой рост.</li></ul><p>Не медлите теперь. Нажмите кнопку <strong>Купить</strong> и оформлять заказ, а мы обеспечим максимально быструю доставку!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте ідеальний аксесуар, який поєднує мілітарі-стиль, надійність та зручність у повсякденному використанні? Ця чорна сумка через плече The North Face — ваш найкращий вибір для міста, поїздок чи прогулянок. Завдяки продуманій конструкції та надміцним матеріалам, вона дозволить тримати найнеобхідніші речі завжди під рукою, зберігаючи при цьому повну свободу рухів.</p><p><strong>Чому варто обрати саме цю модель:</strong></p><ul><li><strong>Висока зносостійкість:</strong> Виготовлена з якісної тканини Oxford 1000D, яка відрізняється щільністю, еластичністю та стійкістю до заломів.</li><li><strong>Організація простору:</strong> Основне відділення на блискавці з внутрішньою кишенею та дві додаткові зовнішні кишені для швидкого доступу.</li><li><strong>Компактні розміри:</strong> Ідеальні габарити (16х14х4,5 см) дозволяють вмістити телефон, гаманець та ключі, не створюючи зайвого об'єму.</li><li><strong>Комфортна експлуатація:</strong> Оснащена регульованим наплечним ременем, максимальна довжина якого становить 150 см, що дозволяє підлаштувати сумку під будь-який зріст.</li></ul><p>Не зволікайте — оновіть свій повсякденний образ надійним аксесуаром вже зараз. Натискайте кнопку <strong>Купити</strong> та оформлюйте замовлення, а ми забезпечимо максимально швидку доставку!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х21</param>
+            </offer>
+            <offer id="P2-17495130" available="true" in_stock="true">
+                <url />
+                <name>Спортивная сумка через плечо Jordan черная | Мужская барсетка кросс-боди</name>
+                <name_ua>Спортивна сумка через плече Jordan чорна | Чоловіча барсетка крос-боді</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a4f2cb8ecf9a1b573e97.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5ce79ee18e6b9c6325d7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b7750701953dbfa0f913.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d7e0188bd0a0934aa654.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e7e2abf626b20fff5f18.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a1b4090d26c83b283782.jpg</picture>
+                <vendorCode>P2-22112</vendorCode>
+                <vendor />
+                <keywords>спортивна сумка через плече, чоловіча сумка крос-боді, сумка Jordan чорна, барсетка чоловіча, сумка месенджер, маленька сумка через плече, сумка з тканини Oxford, чоловіча сумка для телефону, сумка на плече чоловіча, стильна сумка крос-боді, сумка через плече недорого, чоловічий аксесуар Jordan, сумка для щоденного використання</keywords>
+                <description><![CDATA[<p>Ищете надежный и стильный аксессуар, который станет незаменимым спутником в вашем активном ритме жизни? Мужская сумка через плечо Jordan – это сочетание легендарного спортивного стиля и безупречной функциональности. Она создана для тех, кто ценит свободные руки и упорядоченность в мелочах. Эта модель поражает своей выносливостью: качественная ткань Oxford 1000D обеспечивает не только привлекательный вид, но и невероятную износостойкость. Материал устойчив к изломам, эластичен и надежно защищает ваши вещи каждый день.</p><p><strong>Почему стоит выбрать именно эту сумку:</strong></p><ul><li><strong>Премиальная прочность:</strong> Ткань Oxford 1000D выдерживает интенсивное использование.</str> Одно вместительное основное отделение с внутренним карманом и два дополнительных внешних кармана позволят идеально организовать смартфон, ключи и документы.</li><li><strong>Идеальная посадка:</strong> Регулируемый наплечный ремень длиной до 150 см позволяет настроить сумку под себя для максимального комфорта.</li> размеры 16x14x4,5 см делают ее максимально удобной для прогулок или поездок.</li></ul><p>Не откладывайте комфорт на потом! Обновите свой образ стильным аксессуаром уже сейчас. Оформляйте заказ и мы оперативно отправим вашу новую любимую сумку!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте надійний та стильний аксесуар, який стане незамінним супутником у вашому активному ритмі життя? Чоловіча сумка через плече Jordan — це поєднання легендарного спортивного стилю та бездоганної функціональності. Вона створена для тих, хто цінує вільні руки та впорядкованість у дрібницях.</p><p>Ця модель вражає своєю витривалістю: якісна тканина Oxford 1000D забезпечує не лише привабливий вигляд, а й неймовірну зносостійкість. Матеріал стійкий до заломів, еластичний та надійно захищає ваші речі щодня.</p><p><strong>Чому варто обрати саме цю сумку:</strong></p><ul><li><strong>Преміальна міцність:</strong> Тканина Oxford 1000D витримує інтенсивне використання.</li><li><strong>Продумана ергономіка:</strong> Одне містке основне відділення з внутрішньою кишенею та дві додаткові зовнішні кишені дозволять ідеально організувати смартфон, ключі та документи.</li><li><strong>Ідеальна посадка:</strong> Регульований наплечний ремінь довжиною до 150 см дозволяє налаштувати сумку під себе для максимального комфорту.</li><li><strong>Компактність:</strong> Лаконічні розміри 16x14x4,5 см роблять її максимально зручною для прогулянок чи поїздок.</li></ul><p>Не відкладайте комфорт на потім! Оновіть свій образ стильним аксесуаром вже зараз. Оформлюйте замовлення, і ми оперативно відправимо вашу нову улюблену сумку!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х22</param>
+            </offer>
+            <offer id="P2-17495118" available="true" in_stock="true">
+                <url />
+                <name>Черная сумка через плечо Adidas | Мужская спортивная барсетка Адидас</name>
+                <name_ua>Чорна сумка через плече Adidas | Чоловіча спортивна барсетка Адідас</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>300</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f8bab2d78d20cc7cbd44.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e3d04667a1aa2ff5b628.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e9d9a1d1b5b27c7d17db.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f59921046fe0f017c236.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b577b81332ffd2042504.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e68e2644beb6ddba4da9.jpg</picture>
+                <vendorCode>P2-22111</vendorCode>
+                <vendor />
+                <keywords>сумка через плече чоловіча, спортивна барсетка адідас, чоловіча сумка adidas, барсетка через плече, чорна спортивна сумка, сумка адідас чоловіча, чоловіча барсетка чорна, сумка оксфорд 1000d, месенджер адідас, купити барсетку чоловічу, спортивна сумка через плече, барсетка adidas чорна</keywords>
+                <description><![CDATA[<p>Ищете стильный, практичный и максимально надежный аксессуар для ежедневного использования? <strong>Мужская спортивная сумка через плечо Adidas</strong> – это идеальный выбор для активных людей, которые ценят комфорт, функциональность и известный спортивный стиль. Эта барсетка создана для того, чтобы все ваши самые важные вещи всегда были под рукой, оставляя руки совершенно свободными в любой ситуации. Она изготовлена ​​из высококачественной технологической ткани <strong>Oxford 1000D</strong>. Этот материал отличается повышенной плотностью и поразительной износостойкостью, но при этом остается эластичным и совершенно не заламывается, сохраняя свой первоклассный вид даже после длительного ежедневного использования. Основные особенности и эргономика модели: основывается надежной молнии с дополнительным удобным карманом внутри, а также оборудована внешними карманами для быстрого доступа к мелочам. см.</li><li><strong>Компактные и удобные габариты:</strong> размеры сумки составляют 16 см в высоту, 14 см в ширину и 4.5 см в толщину — идеальный баланс емкости и компактности.</li></ul><p>Не откладывайте комфорт на потом! Выбирайте практичность и надежность. <strong>Заказывайте мужскую спортивную барсетку Adidas прямо сейчас</strong> и получите незаменимого и долговечного помощника для ежедневных дел, тренировок или путешествий!</p>]]></description>
+                <description_ua><![CDATA[<p>Шукаєте стильний, практичний та максимально надійний аксесуар для щоденного використання? <strong>Чоловіча спортивна сумка через плече Adidas</strong> — це ідеальний вибір для активних людей, які цінують комфорт, функціональність та відомий спортивний стиль. Ця барсетка створена для того, щоб усі ваші найважливіші речі завжди були під рукою, залишаючи руки абсолютно вільними в будь-якій ситуації.</p><p>Головна перевага цієї моделі — надзвичайна довговічність. Вона виготовлена з високоякісної технологічної тканини <strong>Oxford 1000D</strong>. Цей матеріал відрізняється підвищеною щільністю та вражаючою зносостійкістю, але при цьому залишається еластичним і абсолютно не заламується, зберігаючи свій першокласний вигляд навіть після тривалого щоденного використання.</p><p><strong>Основні особливості та ергономіка моделі:</strong></p><ul><li><strong>Продуманий простір:</strong> сумка складається з одного місткого основного відділення на надійній блискавці з додатковою зручною кишенею всередині, а також обладнана зовнішніми кишенями для швидкого доступу до дрібниць.</li><li><li><strong>Регульований ремінь:</strong> міцний наплічний ремінь легко налаштовується під будь-який зріст і вподобання в носінні завдяки максимальній довжині до 150 см.</li><li><strong>Компактні та зручні габарити:</strong> розміри сумки становлять 16 см у висоту, 14 см у ширину та 4.5 см у товщину — ідеальний баланс місткості та компактності.</li></ul><p>Не відкладайте комфорт на потім! Обирайте практичність та надійність. <strong>Замовляйте чоловічу спортивну барсетку Adidas прямо зараз</strong> та отримайте незамінного та довговічного помічника для щоденних справ, тренувань чи подорожей!</p>]]></description_ua>
+                <param name="Цвет">Чорний</param>
+                <param name="Размер">маленький</param>
+                <param name="Материал">Oxford 1000D</param>
+                <param name="Размеры (см)">18х14х23</param>
             </offer>
         </offers>
     </shop>
