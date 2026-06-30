@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-30 13:10">
+<yml_catalog date="2026-06-30 17:07">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -6708,7 +6708,7 @@
                 <price>2263</price>
                 <oldprice>3100</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/33/79128346349526_+d3b526057c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/23339816412351_+1f58ac8206.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/53069188194730_+a591f321cb.jpg</picture>
@@ -6744,7 +6744,7 @@
                 <price>2089</price>
                 <oldprice>2862</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/34/38146810697410_+533a834b4a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/34/45984722955732_+7131d66ff1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/34/79093828412667_+11f0d34251.jpg</picture>
@@ -11951,7 +11951,7 @@
                 <param name="Можно носить">В руке|На запястье</param>
                 <param name="Формат">Горизонтальный|Прямоугольный</param>
             </offer>
-            <offer id="51988" available="true" in_stock="true">
+            <offer id="51988" available="false" in_stock="false">
                 <url />
                 <name>Практичная мужская сумка кожаная 21274 Vintage Коричневая</name>
                 <name_ua>Практична чоловіча сумка шкіряна 21274 Vintage Коричнева</name_ua>
@@ -11960,7 +11960,7 @@
                 <price>825</price>
                 <oldprice>1232</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/39/75470821344174_+59c223d870.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/39/33628294874261_+913063ecd1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/39/87745022104610_+39ef32f0aa.jpg</picture>
@@ -17973,7 +17973,7 @@
                 <price>4052</price>
                 <oldprice>4883</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/52549481948103_+109ada3419.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/35516399657812_+1ac777ed34.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/24972330727083_+42b736a79f.jpg</picture>
