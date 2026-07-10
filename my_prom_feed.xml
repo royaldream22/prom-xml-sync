@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-10 13:14">
+<yml_catalog date="2026-07-10 16:59">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -15186,7 +15186,7 @@
                 <price>1602</price>
                 <oldprice>1978</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/42/57607263227836_+8208424bc7.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/42/90580638425530_+8ef616f337.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/42/14849797202493_+1bd481cfa6.jpg</picture>
@@ -15438,7 +15438,7 @@
                 <price>628</price>
                 <oldprice>1103</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/3/30908356409982_+eb3309e42b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/75244101007633_+e869e91e6c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/23345784169183_+9996919ba4.jpg</picture>
@@ -26371,7 +26371,7 @@
                 <price>1155</price>
                 <oldprice>2100</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/38/otmennaya-sumka-na-kazhdyj-den-s-dvumya-otdeleniyami-iz-naturalnoj-kozhi-vintage-22595-sinyaya.html-79571008365444_+3580c56ff5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/38/otmennaya-sumka-na-kazhdyj-den-s-dvumya-otdeleniyami-iz-naturalnoj-kozhi-vintage-22595-sinyaya.html-14851893318744_+77f46eec7b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/38/otmennaya-sumka-na-kazhdyj-den-s-dvumya-otdeleniyami-iz-naturalnoj-kozhi-vintage-22595-sinyaya.html-50100836236211_+3572b943da.jpg</picture>
