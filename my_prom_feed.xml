@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-11 15:59">
+<yml_catalog date="2026-07-12 05:32">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -22312,7 +22312,7 @@
                 <portal_category_id />
                 <price>400</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>36</quantity_in_stock>
+                <quantity_in_stock>34</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -24145,7 +24145,7 @@
                 <price>968</price>
                 <oldprice>1100</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/90634831977837_+8676723d9a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/38482796977684_+4ea6f58220.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/41824746171748_+5a383ce670.jpg</picture>
@@ -24736,7 +24736,7 @@
                 <price>1345</price>
                 <oldprice>1620</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>11</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/9/klassicheskaya-vechernyaya-sumka-dlya-zhenschin-s-perepletami-iz-naturalnoj-kozhi-vintage-22313-chernaya.html-27726962965865_+25f190792e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/klassicheskaya-vechernyaya-sumka-dlya-zhenschin-s-perepletami-iz-naturalnoj-kozhi-vintage-22313-chernaya.html-81044175591964_+05b0639bad.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/klassicheskaya-vechernyaya-sumka-dlya-zhenschin-s-perepletami-iz-naturalnoj-kozhi-vintage-22313-chernaya.html-38838317256985_+adf2f78164.jpg</picture>
