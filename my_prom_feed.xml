@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-19 16:00">
+<yml_catalog date="2026-07-20 05:43">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -11601,7 +11601,7 @@
                 <price>1062</price>
                 <oldprice>1863</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/44/58676713495955_+3c68580444.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/44/29662298034350_+0f719605a6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/44/13478781147391_+4b0a49e621.jpg</picture>
@@ -17011,7 +17011,7 @@
                 <price>2226</price>
                 <oldprice>2619</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/9/27488483543897_+adff34ff6b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/13231839546296_+e72bd857be.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/27613048249355_+e75dca70d8.jpg</picture>
@@ -21833,7 +21833,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e8cd181029c0f10e015b.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/37628fe5f528d00ce0f5.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/77be78d36851c5d5a71e.png</picture>
