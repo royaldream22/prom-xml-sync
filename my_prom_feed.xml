@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-23 12:25">
+<yml_catalog date="2026-07-23 16:39">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -10254,7 +10254,7 @@
                 <price>1084</price>
                 <oldprice>2086</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/31798700342168_+b5fcdad102.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/94455142161962_+7a6579c84e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/88822273312102_+974a8842b0.jpg</picture>
@@ -12818,7 +12818,7 @@
                 <price>3697</price>
                 <oldprice>4622</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>15</quantity_in_stock>
+                <quantity_in_stock>14</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/30/83030504356694_+f7a07d5937.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/32740920631549_+9740be758e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/55353209558346_+7609fc814c.jpg</picture>
@@ -22387,7 +22387,7 @@
                 <price>480</price>
                 <oldprice>960</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/48581118238321_+40637d37c4.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/52367154341941_+ee52d83579.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/83941776955757_+f03d210944.jpeg</picture>
@@ -24145,7 +24145,7 @@
                 <price>968</price>
                 <oldprice>1100</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>17</quantity_in_stock>
+                <quantity_in_stock>16</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/90634831977837_+8676723d9a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/38482796977684_+4ea6f58220.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/41824746171748_+5a383ce670.jpg</picture>
