@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-28 16:43">
+<yml_catalog date="2026-07-29 05:25">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -19771,7 +19771,7 @@
                 <price>941</price>
                 <oldprice>1176</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/1/25860641773862_+99612c34ff.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/72871301545594_+15dc62654c.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/kozhanaya-oblozhka-dlya-avtodokumentov-grande-pelle-11492-temno-korichnevyj.html-26362671417102_+9d27e5a201.jpg</picture>
@@ -21295,7 +21295,7 @@
                 <price>508</price>
                 <oldprice>660</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/17/34230043835654_+9ac61488a6.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/46522586948421_+e5f55180ef.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/oblozhka-dlya-plastikovyh-dokumentov-voditelya-ili-id-karty-shvigel-13963-korichnevaya.html-36130834984068_+b0568c5d3b.jpg</picture>
@@ -22312,7 +22312,7 @@
                 <portal_category_id />
                 <price>400</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>95</quantity_in_stock>
+                <quantity_in_stock>127</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
