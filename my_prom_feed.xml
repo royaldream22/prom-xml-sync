@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-29 16:24">
+<yml_catalog date="2026-07-30 05:12">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -9504,7 +9504,7 @@
                 <price>1481</price>
                 <oldprice>2086</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/18/62854555843630_+0d5736eae1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/27904947245698_+c06d8167fc.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/51131168383033_+bcf782cd91.jpg</picture>
@@ -11565,7 +11565,7 @@
                 <price>1010</price>
                 <oldprice>1942</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>8</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/37/35971543842661_+69c7cf31dd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/70633023653122_+1f7b2006d1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/71954879971000_+1fc73c3924.jpg</picture>
@@ -13139,7 +13139,7 @@
                 <price>918</price>
                 <oldprice>1080</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/19630209959079_+b2ae789bce.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/28316899600771_+6cb3d099b6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/35959575802589_+00825c2eaf.jpg</picture>
@@ -22292,7 +22292,7 @@
                 <portal_category_id />
                 <price>460</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c2c360462ea3a010cd6b.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/442e359f914dea287f2e.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/62349df25f819da4dbce.jpg</picture>
@@ -22312,7 +22312,7 @@
                 <portal_category_id />
                 <price>400</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>112</quantity_in_stock>
+                <quantity_in_stock>70</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -22333,7 +22333,7 @@
                 <portal_category_id />
                 <price>420</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>97</quantity_in_stock>
+                <quantity_in_stock>90</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
