@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-11 11:47">
+<yml_catalog date="2026-08-11 16:03">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -1539,7 +1539,7 @@
                 <price>567</price>
                 <oldprice>630</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/2/92238909433551_+8e31d26dd4.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/2/77059556723011_+9e6c28d5a5.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/2/kozhanaya-oblozhka-dlya-pensionnogo-udostovereniya-grande-pelle-11506-chernyj.html-21439383682143_+12644261ca.jpg</picture>
@@ -6134,7 +6134,7 @@
                 <price>806</price>
                 <oldprice>1135</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/43/40107758489238_+c1827bf4bb.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/70427361903357_+eee152557e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/56765876557615_+f86c1990ab.jpg</picture>
@@ -15042,7 +15042,7 @@
                 <param name="Формат">Вертикальный|Прямоугольный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="51964" available="true" in_stock="true">
+            <offer id="51964" available="false" in_stock="false">
                 <url />
                 <name>Горизонтальная мужская сумка с клапаном текстильная 21247 Vintage Черная</name>
                 <name_ua>Горизонтальна чоловіча сумка з клапаном текстильна 21247 Vintage Чорна</name_ua>
@@ -15051,7 +15051,7 @@
                 <price>1086</price>
                 <oldprice>1905</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/15/42818098495418_+7ea6982d60.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/65469106559773_+ed630c560a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/31393172296858_+a186fff32d.jpg</picture>
@@ -15907,7 +15907,7 @@
                 <price>1496</price>
                 <oldprice>1944</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/14/85574417106955_+cb79ed32c2.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/93725544220807_+22e6bfb580.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/54487859219130_+944c352a6b.jpg</picture>
@@ -19190,7 +19190,7 @@
                 <price>937</price>
                 <oldprice>1644</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/3/89456525060053_+81331d8602.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/63618056798933_+acbacb7398.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/79019572039481_+adec85c4f9.jpg</picture>
@@ -19361,7 +19361,7 @@
                 <param name="Формат">Горизонтальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="52960" available="true" in_stock="true">
+            <offer id="52960" available="false" in_stock="false">
                 <url />
                 <name>Вместительная мужская сумка мессенджер из плотного текстиля Vintage 22205 Коричневый</name>
                 <name_ua>Містка чоловіча сумка месенджер із щільного текстилю Vintage 22205 Коричневий</name_ua>
@@ -19370,7 +19370,7 @@
                 <price>1254</price>
                 <oldprice>2412</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/11/76121868903292_+2f78a23c83.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/15099769626927_+d0f9275169.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/11119819291644_+d31c4bcfcd.jpg</picture>
@@ -23160,7 +23160,7 @@
                 <price>259</price>
                 <oldprice>540</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-35468758664969_+9bf2fd24d1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-32513965086769_+cdc63f07f6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-48778253668661_+a455ee899a.jpg</picture>
@@ -24465,7 +24465,7 @@
                 <price>1124</price>
                 <oldprice>2044</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/29/stilnaya-zhenskaya-sumka-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22636-sinyaya.html-28236404058873_+03a16a3a22.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/stilnaya-zhenskaya-sumka-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22636-sinyaya.html-99998130249652_+de04a01eba.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/stilnaya-zhenskaya-sumka-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22636-sinyaya.html-54597666660460_+9a152a3374.jpg</picture>
@@ -33203,7 +33203,7 @@
                 <portal_category_id />
                 <price>579</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>124</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
@@ -33223,7 +33223,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>164</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
