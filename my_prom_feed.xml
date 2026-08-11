@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-10 16:01">
+<yml_catalog date="2026-08-11 03:48">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -2443,7 +2443,7 @@
                 <price>352</price>
                 <oldprice>586</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/28829201030405_+15ad72ef4a.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/81640039131655_+f42540c46a.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/kompaktnaya-oblozhka-na-dokumenty-mvs-ukrainy-shvigel-13979-korichnevaya.html-35502119793332_+345fd8ee64.jpg</picture>
@@ -9828,7 +9828,7 @@
                 <price>1585</price>
                 <oldprice>2556</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>6</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/40/90567349697250_+a6e677ce7a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/40/86587479963371_+3e7c9e1a2b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/40/81599173695919_+ae9b4dcf62.jpg</picture>
