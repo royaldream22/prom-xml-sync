@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 11:29">
+<yml_catalog date="2026-08-17 15:28">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -1869,7 +1869,7 @@
                 <price>2843</price>
                 <oldprice>3345</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/12300766836857_+7ce4a85bfa.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/69467834248399_+ec25c599e5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/67049566389024_+bc9f039b2d.jpg</picture>
@@ -3976,7 +3976,7 @@
                 <price>1996</price>
                 <oldprice>3220</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/71257882768857_+8c134339cd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/31593502444745_+dab0f04ad3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/28032880152122_+0abaa9da4a.jpg</picture>
@@ -9684,7 +9684,7 @@
                 <price>1415</price>
                 <oldprice>2022</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/40/kompaktnyj-zhenskij-tekstilnyj-ryukzak-vintage-20195-malinovyj.html-95249840053408_+53686c504e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/40/kompaktnyj-zhenskij-tekstilnyj-ryukzak-vintage-20195-malinovyj.html-35487638458301_+3f9ebd1f0c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/40/kompaktnyj-zhenskij-tekstilnyj-ryukzak-vintage-20195-malinovyj.html-46978174708491_+497238e5c7.jpg</picture>
@@ -13317,7 +13317,7 @@
                 <price>1392</price>
                 <oldprice>2677</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/6/sportivnaya-sumka-tekstilnaya-vintage-20644-sinyaya.html-75277453249052_+96a65119bf.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/sportivnaya-sumka-tekstilnaya-vintage-20644-sinyaya.html-55549360946634_+fafdef4d2f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/sportivnaya-sumka-tekstilnaya-vintage-20644-sinyaya.html-72431713209156_+d7886322c5.jpg</picture>
@@ -14026,7 +14026,7 @@
                 <price>1992</price>
                 <oldprice>2846</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>6</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/43/98584155070650_+4fc9cc4a3d.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/53749237774081_+4879a40d43.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/ryukzak-tekstilnyj-dorozhnyj-uniseks-s-ruchkami-vintage-20664-pesochnyj.html-74875828613412_+e9b2bff13f.jpg</picture>
@@ -21041,7 +21041,7 @@
                 <price>1827</price>
                 <oldprice>2030</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/41/stilnaya-zhenskaya-sumka-kross-bodi-iz-naturalnoj-kozhi-vintage-22295-belaya.html-79555342403800_+1262090aef.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/41/stilnaya-zhenskaya-sumka-kross-bodi-iz-naturalnoj-kozhi-vintage-22295-belaya.html-87621100942828_+86828849f7.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/41/stilnaya-zhenskaya-sumka-kross-bodi-iz-naturalnoj-kozhi-vintage-22295-belaya.html-37095341610943_+68658dd2ce.jpg</picture>
@@ -32878,7 +32878,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/aeba6336bad45a95e673.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f24fd696ccb0691abee6.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f659e4b7ba81b8abf2d3.jpg</picture>
@@ -33203,7 +33203,7 @@
                 <portal_category_id />
                 <price>579</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>116</quantity_in_stock>
+                <quantity_in_stock>115</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
@@ -33223,7 +33223,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>860</quantity_in_stock>
+                <quantity_in_stock>855</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
