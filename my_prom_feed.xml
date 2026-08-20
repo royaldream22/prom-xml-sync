@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-20 03:00">
+<yml_catalog date="2026-08-20 11:29">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -631,33 +631,6 @@
                 <param name="Размеры (см)">10х7х0,5</param>
                 <param name="Страна происхождения ТМ">Украина</param>
                 <param name="Пол">Унисекс</param>
-                <param name="Страна производитель">Украина</param>
-            </offer>
-            <offer id="49360" available="false" in_stock="false">
-                <url />
-                <name>Обложка для водительских прав гладкая кожа GRANDE PELLE 11193 Черная</name>
-                <name_ua>Обкладинка для водійських прав гладка шкіра GRANDE PELLE 11193 Чорна</name_ua>
-                <categoryId>7200</categoryId>
-                <portal_category_id />
-                <price>1017</price>
-                <oldprice>1197</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/11/78827589317689_+0fdf28e7c2.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/11/16782709407731_+350d134153.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/11/oblozhka-dlya-voditelskih-prav-gladkaya-kozha-grande-pelle-11193-chernaya.html-59426253614291_+c884b5f979.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/11/oblozhka-dlya-voditelskih-prav-gladkaya-kozha-grande-pelle-11193-chernaya.html-36744375988018_+babb5acc2e.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/11/37418170257997_+902a6683c9.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/11/79004325759797_+8a74c5683c.jpeg</picture>
-                <vendorCode>11193</vendorCode>
-                <vendor>GRANDE PELLE</vendor>
-                <description><![CDATA[<p>Материал: натуральная кожа;&nbsp;<br />  Размеры (ШхВ, см): 10х7х0,5;<br />  Цвет: черный;<br />  Страна производитель: Украина.</p>    <p><strong>Особенности:</strong><br />  - 2 отделения для кредиток;<br />  - отделение для прав или техпаспорта под прозрачной пленкой.</p>    <p>Компактная и мягкая обложка для водительских прав или удостоверения из натуральной гладкой кожи, которая не прихотлива в уходе и долго носится. В обложке два слота для кредиток и одно отделение для прав под прозрачной пленкой. Аксессуар выполнен исключительно из итальянской натуральной кожи отобранной и проверенной. Прекрасный аксессуар для повседневной жизни. Аксессуар легко поместится в карман брюк и станет прекрасным подарком как для мужчины, так и для женщины.&nbsp;</p>]]></description>
-                <description_ua><![CDATA[<p>Матеріал: натуральна шкіра;<br />  Розміри (ШхВ, см): 10х7х0,5;<br />  Колір: чорний;<br />  Країна виробник: Україна.</p>    <p><br />  <strong>Особливості:</strong><br />  -&nbsp;&nbsp;2 віділення для карток;<br />  - віділення під плівкою для посвідчення водія.</p>    <p>Компактна і м&#39;яка обкладинка для водійських прав або посвідчення з натуральної гладкої шкіри, яка не вибаглива в догляді і довго носиться. В обкладинці два слота для кредиток і одне відділення для прав під прозорою плівкою. Аксесуар виконаний виключно з італійської натуральної шкіри. Прекрасний аксесуар для повсякденного життя. Аксесуар легко поміститься в кишеню брюк і стане прекрасним подарунком як для чоловіка, так і для жінки.&nbsp;</p>    <p><!-- p--></p>]]></description_ua>
-                <param name="Цвет">Чорний</param>
-                <param name="Бренд">GRANDE PELLE</param>
-                <param name="Размеры (см)">10х7х0,5</param>
-                <param name="Страна происхождения ТМ">Украина</param>
-                <param name="Пол">Мужской</param>
                 <param name="Страна производитель">Украина</param>
             </offer>
             <offer id="48924" available="true" in_stock="true">
@@ -2036,69 +2009,6 @@
                 <param name="Можно носить">Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="52825" available="false" in_stock="false">
-                <url />
-                <name>Кожаная обложка на удостоверение участника боевых действий GRANDE PELLE 11663 Коричневый</name>
-                <name_ua>Шкіряна обкладинка на посвідчення учасника бойових дій GRANDE PELLE 11663 Коричневий</name_ua>
-                <categoryId>7300</categoryId>
-                <portal_category_id />
-                <price>829</price>
-                <oldprice>975</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/26/59050320940257_+d608a44f9e.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/20784171690096_+7bd3c700b0.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/kozhanaya-oblozhka-na-udostoverenie-uchastnika-boevyh-dejstvij-grande-pelle-11663-korichnevyj.html-99440228444234_+c996801391.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/kozhanaya-oblozhka-na-udostoverenie-uchastnika-boevyh-dejstvij-grande-pelle-11663-korichnevyj.html-82862152763545_+b0216386d4.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/96545983199787_+4867c19f3f.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/32061894247725_+01ea3a4366.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/73972338020832_+fcb3eee7a4.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/14962130386940_+dcc42bdf91.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/82809061212464_+043449cbfa.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/66014874425788_+88ad666c98.jpeg</picture>
-                <vendorCode>11663</vendorCode>
-                <vendor>GRANDE PELLE</vendor>
-                <description><![CDATA[<p>Материал: натуральная кожа.<br />  Цвет: коричневый.<br />  Размеры (ШхВхГ, см): 10,5х9 см.<br />  Страна производитель: Украина.<br />  Бренд: GRANDE PELLE.</p>    <p>Интересное решение для хранения удостоверения участника боевых действий или прочего документа, например, пропуска на работу. Выполнена обложка из качественной натуральной кожи украинским производителем. На лицевой стороне изделия присутствует тиснение в виде тризуба. Смотрится очень красиво и стильно.<br />  &nbsp;</p>]]></description>
-                <description_ua><![CDATA[<p>Матеріал: натуральна шкіра.<br />  Колір: коричневий.<br />  Розміри (ШхВхГ, см): 10,5х9 см.<br />  Країна виробник: Україна.<br />  Бренд: GRANDE PELLE.</p>    <p>Цікаве рішення для зберігання посвідчення учасника бойових дій чи іншого документа, наприклад пропуску на роботу. Виконано обкладинку з якісної натуральної шкіри українським виробником. На лицьовій стороні виробу є тиснення у вигляді тризуба. Виглядає дуже красиво та стильно.</p>]]></description_ua>
-                <param name="Цвет">Коричневий</param>
-                <param name="Материал">Натуральная кожа</param>
-                <param name="Бренд">GRANDE PELLE</param>
-                <param name="Размеры (см)">10,5х9</param>
-                <param name="Страна происхождения ТМ">Украина</param>
-                <param name="Пол">Мужской</param>
-                <param name="Страна производитель">Украина</param>
-            </offer>
-            <offer id="52826" available="false" in_stock="false">
-                <url />
-                <name>Качественная кожаная обложка на удостоверение участника боевых действий GRANDE PELLE 11664 Зеленый</name>
-                <name_ua>Якісна шкіряна обкладинка на посвідчення учасника бойових дій GRANDE PELLE 11664 Зелений</name_ua>
-                <categoryId>7300</categoryId>
-                <portal_category_id />
-                <price>741</price>
-                <oldprice>975</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/27/35400709965449_+363fab5a15.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/41765810500663_+62a24d966b.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/kachestvennaya-kozhanaya-oblozhka-na-udostoverenie-uchastnika-boevyh-dejstvij-grande-pelle-11664-zelenyj.html-90110808888409_+0c089af60e.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/40084305211332_+b9570849db.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/58341504669627_+d706d3b243.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/45706841542518_+6c3097f67b.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/44078698749435_+4bd7648469.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/74721190225550_+bc8af6d3d3.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/27/41703298359509_+0b62c08703.jpeg</picture>
-                <vendorCode>11664</vendorCode>
-                <vendor>GRANDE PELLE</vendor>
-                <description><![CDATA[<p>Материал: натуральная кожа.<br />  Цвет: зеленый.<br />  Размеры (ШхВхГ, см): 10,5х9 см.<br />  Страна производитель: Украина.<br />  Бренд: GRANDE PELLE.</p>    <p>Интересное и практичное решение для хранения удостоверения участника боевых действий или прочего документа, например, пропуска на работу. Выполнена обложка из качественной натуральной кожи украинским производителем. На лицевой стороне изделия присутствует тиснение в виде тризуба. Смотрится очень красиво и стильно.<br />  &nbsp;</p>]]></description>
-                <description_ua><![CDATA[<p>Матеріал: натуральна шкіра.<br />  Колір: зелений.<br />  Розміри (ШхВхГ, см): 10,5х9 см.<br />  Країна виробник: Україна.<br />  Бренд: GRANDE PELLE.</p>    <p>Цікаве та практичне рішення для зберігання посвідчення учасника бойових дій чи іншого документа, наприклад пропуску на роботу. Виконано обкладинку з якісної натуральної шкіри українським виробником. На лицьовій стороні виробу є тиснення у вигляді тризуба. Виглядає дуже красиво та стильно.</p>]]></description_ua>
-                <param name="Цвет">Зелений</param>
-                <param name="Материал">Натуральная кожа</param>
-                <param name="Бренд">GRANDE PELLE</param>
-                <param name="Размеры (см)">10,5х9</param>
-                <param name="Страна происхождения ТМ">Украина</param>
-                <param name="Пол">Мужской</param>
-                <param name="Страна производитель">Украина</param>
-            </offer>
             <offer id="50050" available="true" in_stock="true">
                 <url />
                 <name>Эксклюзивная обложка для паспорта из винтажной кожи SHVIGEL 13792 Красная</name>
@@ -2186,32 +2096,6 @@
                 <description><![CDATA[<p>Материал: натуральная винтажная кожа;<br />  Цвет: черный;<br />  Размеры (ШхВ, см):9,5х13;<br />  Страна производитель: Украина.</p>    <p>Великолепная кожаная обложка на паспорт из натуральной, высококачественной винтажной кожи, для которой характерны потертости и неоднородность окраса. Из-за этого изделия из такой кожи дольше держат презентабельный внешний вид.&nbsp;<br />  Современный высококлассный аксессуар, который станет незабываемым подарком для Ваших любимых и близких.&nbsp;</p>]]></description>
                 <description_ua><![CDATA[<p>Матеріал: натуральна вінтажна шкіра;<br />  Колір: чорний;<br />  Розміри (ШхВ, см): 9.5х13;<br />  Країна виробник: Україна. <!-- P--></p>    <p>Чудова шкіряна обкладинка на паспорт з натуральної, високоякісної вінтажної&nbsp;шкіри, для якої характерні потертості і неоднорідність забарвлення. Через це вироби з такої шкіри довше тримають презентабельний зовнішній вигляд.<br />  Сучасний висококласний аксесуар, який стане незабутнім подарунком для Ваших коханих та близьких.<!-- p--></p>]]></description_ua>
                 <param name="Цвет">Чорний</param>
-                <param name="Материал">Натуральная кожа</param>
-                <param name="Бренд">SHVIGEL</param>
-                <param name="Размеры (см)">9,5х13</param>
-                <param name="Пол">Унисекс</param>
-                <param name="Страна производитель">Украина</param>
-            </offer>
-            <offer id="49384" available="false" in_stock="false">
-                <url />
-                <name>Обложка на паспорт Shvigel 13918 кожаная Коричневая</name>
-                <name_ua>Обкладинка на паспорт Shvigel 13918 шкіряна Коричнева</name_ua>
-                <categoryId>7300</categoryId>
-                <portal_category_id />
-                <price>593</price>
-                <oldprice>682</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/35/67337227885517_+5246e934b2.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/35/54498644858081_+05823095f3.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/35/49399651557010_+9b9d8f1cf4.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/35/oblozhka-na-pasport-shvigel-13918-kozhanaya-korichnevaya.html-15253302142711_+8e4dfd378a.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/35/oblozhka-na-pasport-shvigel-13918-kozhanaya-korichnevaya.html-65590503103034_+fbe2ea82e1.jpg</picture>
-                <vendorCode>13918</vendorCode>
-                <vendor>SHVIGEL</vendor>
-                <description><![CDATA[<p>Материал: натуральная винтажная кожа;<br />  Цвет: коричневый;<br />  Размеры (ШхВ, см):9,5х13;<br />  Страна производитель: Украина.</p>    <p>Коричневая кожаная обложка из натуральной, высококачественной винтажной кожи, для которой характерны потертости и неоднородность окраса. Из-за этого изделия из такой кожи дольше держат презентабельный внешний вид.&nbsp;<br />  Современный высококлассный аксессуар, который станет незабываемым подарком для Ваших любимых и близких</p>]]></description>
-                <description_ua><![CDATA[<p>Матеріал: натуральна вінтажна шкіра;<br />  Колір: коричневий;<br />  Розміри (ШхВ, см): 9.5х13;<br />  Країна виробник: Україна. <!-- P--></p>    <p>Коричнева шкіряна обкладинка з натуральної, високоякісної вінтажної&nbsp;шкіри, для якої характерні потертості і неоднорідність забарвлення. Через це вироби з такої шкіри довше тримають презентабельний зовнішній вигляд.<br />  Сучасний висококласний аксесуар, який стане незабутнім подарунком для Ваших коханих та близьких<br />  <br />  <!-- p--></p>]]></description_ua>
-                <param name="Цвет">Коричневий</param>
                 <param name="Материал">Натуральная кожа</param>
                 <param name="Бренд">SHVIGEL</param>
                 <param name="Размеры (см)">9,5х13</param>
@@ -3581,7 +3465,7 @@
                 <price>3704</price>
                 <oldprice>4358</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>6</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/19602364998412_+32f14204c3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/74224999461835_+1ff4b31d5c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/89826009435411_+4fd2d4d907.jpg</picture>
@@ -3759,7 +3643,7 @@
                 <price>1820</price>
                 <oldprice>2142</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>15</quantity_in_stock>
+                <quantity_in_stock>14</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/6/20375501420661_+f1ae762bec.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/61103650800364_+80ef9de386.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/94403049215486_+70711c667c.jpg</picture>
@@ -3976,7 +3860,7 @@
                 <price>1996</price>
                 <oldprice>3220</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>10</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/71257882768857_+8c134339cd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/31593502444745_+dab0f04ad3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/28032880152122_+0abaa9da4a.jpg</picture>
@@ -4438,7 +4322,7 @@
                 <price>2191</price>
                 <oldprice>2810</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/31/92589517246453_+569a26d161.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/30579855459986_+735ebea71e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/87103193569002_+c806463b17.jpg</picture>
@@ -4859,7 +4743,7 @@
                 <price>1630</price>
                 <oldprice>2090</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>10</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/31/37693721791205_+bbd4878695.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/95440095282384_+27625972e8.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/45455671105164_+42d4624529.jpg</picture>
@@ -5421,7 +5305,7 @@
                 <price>2574</price>
                 <oldprice>3300</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/22/72165976598835_+f11d16c8bb.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/22/88993245351694_+17bd681874.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/22/11895163478857_+c0da4468c6.jpg</picture>
@@ -6125,7 +6009,7 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">BESTSELLER|TopPrice</param>
             </offer>
-            <offer id="47242" available="true" in_stock="true">
+            <offer id="47242" available="false" in_stock="false">
                 <url />
                 <name>Сумка мужская кожаная Vintage 14987 Коричневая</name>
                 <name_ua>Сумка чоловіча шкіряна Vintage 14987 Коричнева</name_ua>
@@ -6134,7 +6018,7 @@
                 <price>806</price>
                 <oldprice>1135</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/43/40107758489238_+c1827bf4bb.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/70427361903357_+eee152557e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/56765876557615_+f86c1990ab.jpg</picture>
@@ -6161,7 +6045,7 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">BESTSELLER|TopPrice</param>
             </offer>
-            <offer id="47036" available="true" in_stock="true">
+            <offer id="47036" available="false" in_stock="false">
                 <url />
                 <name>Мессенджер кожаный 14991 Vintage Коричневый</name>
                 <name_ua>Мессенджер шкіряний 14991 Vintage Коричневий</name_ua>
@@ -6170,7 +6054,7 @@
                 <price>1547</price>
                 <oldprice>1864</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/37/31400932673471_+cbec0d29a7.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/34422678802114_+8a2f58025c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/18746413223913_+4c656e0859.jpg</picture>
@@ -8072,7 +7956,7 @@
                 <price>2933</price>
                 <oldprice>3450</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/21/98612469916808_+84f1c7281d.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/21/44468196247742_+a58cf1f022.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/21/27520267729275_+924e0c31c3.jpg</picture>
@@ -10317,42 +10201,6 @@
                 <param name="Можно носить">В руке|Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="51023" available="false" in_stock="false">
-                <url />
-                <name>Кожаная небольшая мужская сумка Vintage 20370 Черный</name>
-                <name_ua>Шкіряна невелика чоловіча сумка Vintage 20370 Чорний</name_ua>
-                <categoryId>2100</categoryId>
-                <portal_category_id />
-                <price>1447</price>
-                <oldprice>1608</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/24/37386128551723_+874cda54d5.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/26664294634745_+7f533ad7f4.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/kozhanaya-nebolshaya-muzhskaya-sumka-vintage-20370-chernyj.html-37975867457206_+0e6a95a4c1.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/kozhanaya-nebolshaya-muzhskaya-sumka-vintage-20370-chernyj.html-83453844149578_+d3474941cb.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/41395010086215_+7f9d1b1854.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/34413718611069_+f4cb351ab9.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/67668392891783_+d3e28ee2bf.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/87053488141936_+91b14d5aff.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/92668648404829_+eef1a7f510.jpeg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/24/36311397339306_+6c7ed69ad0.jpg</picture>
-                <vendorCode>20370</vendorCode>
-                <vendor>Vintage</vendor>
-                <description><![CDATA[<p>Материал: натуральная кожа.<br />  Цвет: черный.<br />  Размеры (ШхВхГ, см): 16х18х6 см.<br />  Страна производитель: Китай.<br />  Бренд: Vintage.</p>    <p>Описание:<br />  - 1 основное отделение на молнии;<br />  - внутри карман на молнии;<br />  - на внешней стороне 3 кармана на молнии;<br />  - на тыльной стороне карман на молнии;<br />  - текстильный ремень для переноса на плече.</p>    <p>Отличная компактная мужская сумка через плечо из качественной кожи с повышенными показателями прочности и устойчивости к износу. В дизайне данной модели нет ничего лишнего, а это особо важно для ценителей лаконичности. Все карманы закрываются &nbsp;на молнии, ремень сделан из высокопрочного текстиля.</p>]]></description>
-                <description_ua><![CDATA[<p>Матеріал: натуральна шкіра.<br />  Колір чорний.<br />  Розміри (ШхВхГ, см): 16х18х6 см.<br />  Країна виробник: Китай.<br />  Бренд: Vintage.</p>    <p>Опис:<br />  - 1 основне відділення на блискавці;<br />  - усередині кишеня на блискавці;<br />  - на зовнішній стороні 3 кишені на блискавці;<br />  - на тильній стороні кишеня на блискавці;<br />  - текстильний ремінь для перенесення на плечі.</p>    <p>Відмінна компактна чоловіча сумка через плече з якісної шкіри з підвищеними показниками міцності та стійкості до зношування. У дизайні цієї моделі немає нічого зайвого, а це особливо важливо для цінителів лаконічності. Всі кишені закриваються на блискавки, ремінь зроблений із міцного текстилю.</p>]]></description_ua>
-                <param name="Цвет">Чорний</param>
-                <param name="Размер">Маленькие</param>
-                <param name="Материал">Натуральная кожа</param>
-                <param name="Бренд">Vintage</param>
-                <param name="Размеры (см)">16х18х6</param>
-                <param name="Страна происхождения ТМ">Китай</param>
-                <param name="Страна производитель">Китай</param>
-                <param name="Особенности сумки">Городской стиль</param>
-                <param name="Можно носить">Через плечо</param>
-                <param name="Формат">Вертикальный</param>
-                <param name="Иконки">BESTSELLER|TopPrice</param>
-            </offer>
             <offer id="51212" available="true" in_stock="true">
                 <url />
                 <name>Многофункциональный городской рюкзак Vintage из натуральной кожи, черный</name>
@@ -11101,7 +10949,7 @@
                 <price>1604</price>
                 <oldprice>2588</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/39/21065299382187_+aab24544b4.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/39/40230896480405_+5dc966d16f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/39/75363326975302_+fdead9a2ae.jpg</picture>
@@ -11279,7 +11127,7 @@
                 <price>1361</price>
                 <oldprice>1746</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/1/80414423403749_+058b6bb82d.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/39926387226389_+411e0c4726.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/74812344138136_+45a412b568.jpg</picture>
@@ -14409,7 +14257,7 @@
                 <price>807</price>
                 <oldprice>1242</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/45/71257266708943_+9cfee2ba62.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/45/33419378113307_+6756df349f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/45/67024926506303_+27f600098e.jpg</picture>
@@ -15087,7 +14935,7 @@
                 <price>1334</price>
                 <oldprice>1905</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>10</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/16540180553951_+17ccdc8415.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/95305080765072_+a5d07e6444.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/29344993252946_+29abe8a2d7.jpg</picture>
@@ -15515,7 +15363,7 @@
                 <price>1782</price>
                 <oldprice>2148</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>8</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/47/87435076991112_+73d09e2fd9.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/74782762265977_+fe7265dcfe.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/28493580722169_+b71b0c227c.jpg</picture>
@@ -20234,41 +20082,6 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="52999" available="false" in_stock="false">
-                <url />
-                <name>Женская сумка с округленными краями из натуральной кожи Vintage 22253 Черная</name>
-                <name_ua>Жіноча сумка із заокругленими краями з натуральної шкіри Vintage 22253 Чорна</name_ua>
-                <categoryId>3000</categoryId>
-                <portal_category_id />
-                <price>968</price>
-                <oldprice>1100</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/50/90634831977837_+8676723d9a.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/38482796977684_+4ea6f58220.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/41824746171748_+5a383ce670.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/22726254850719_+4821f7e075.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/95825002819974_+9c1c9d3068.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/zhenskaya-sumka-s-okruglennymi-krayami-iz-naturalnoj-kozhi-vintage-22253-chernaya.html-75212940593435_+6053dff463.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/zhenskaya-sumka-s-okruglennymi-krayami-iz-naturalnoj-kozhi-vintage-22253-chernaya.html-63966282219367_+a6de56fa72.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/25587656947672_+56dfe956a3.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/56294203077359_+94e91f48bb.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/50/28311708216767_+b1d1fc4ff8.jpg</picture>
-                <vendorCode>22253</vendorCode>
-                <vendor>Vintage</vendor>
-                <description><![CDATA[<p>Цвет: черный;<br />  Материал: натуральная кожа;<br />  Размер (ШхВхГ, см): 26х18х12 см;<br />  Страна производитель: Китай.<br />  Бренд: Vintage.</p>    <p><strong>Особенности:</strong></p>    <p>- закрывается на молнию;<br />  - внутри основного отделения потайной карман на молнии и карман открытого типа;<br />  - карман на молнии, снаружи на тыльной стороне;<br />  - несъемный текстильный плечевой ремень;</p>    <p>Женская полукруглая сумка из натуральной кожи с высоким показателем качества и износостойкости. Аксессуар состоит из основного отделения, что закрывается на молнию, внутри которого находится потайной карман на молнии и карман открытого типа, а также карман на молнии на тыльной стороне снаружи. Носить сумку можно на плече, для этого имеется несъемный регулируемый текстильный ремень. В изделии использована качественная фурнитура серебряного цвета.&nbsp;<br />  &nbsp;</p>]]></description>
-                <description_ua><![CDATA[<p>Колір: чорний;<br />  Матеріал: натуральна шкіра;<br />  Розмір (ШхВхГ, см): 26х18х12 см;<br />  Країна виробник: Китай.<br />  Бренд: Vintage.</p>    <p><strong>Особливості:</strong></p>    <p>- закривається на блискавку;<br />  - всередині основного відділення потайна кишеня на блискавці та кишеня відкритого типу;<br />  - кишеня на блискавці, зовні на тильній стороні;<br />  - незнімний текстильний плечовий ремінь;</p>    <p>Жіноча напівкругла сумка з натуральної шкіри з високим показником якості та зносостійкості. Аксесуар складається з основного відділення, що закривається на блискавку, всередині якого знаходиться потайна кишеня на блискавці та кишеня відкритого типу, а також кишеня на блискавці на тильній стороні зовні. Носити сумку можна на плечі, для цього є незнімний текстильний ремінь, що регулюється. У виробі використано якісну фурнітуру срібного кольору.</p>]]></description_ua>
-                <param name="Цвет">Чорний</param>
-                <param name="Размер">Средние</param>
-                <param name="Бренд">Vintage</param>
-                <param name="Размеры (см)">26х18х12</param>
-                <param name="Страна происхождения ТМ">Украина</param>
-                <param name="Страна производитель">Китай</param>
-                <param name="Особенности сумки">Городской стиль</param>
-                <param name="Можно носить">В руке|Через плечо</param>
-                <param name="Формат">Горизонтальный</param>
-                <param name="Иконки">BESTSELLER</param>
-            </offer>
             <offer id="53000" available="true" in_stock="true">
                 <url />
                 <name>Женская кожаная сумка с треугольным клапаном Vintage 22254 Черная</name>
@@ -20660,7 +20473,7 @@
                 <price>924</price>
                 <oldprice>1400</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>15</quantity_in_stock>
+                <quantity_in_stock>14</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/21/zhenskaya-interesnaya-sumka-s-dvumya-remnyami-iz-naturalnoj-kozhi-vintage-22275-seryj.html-17976211306532_+aa7f77842c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/21/zhenskaya-interesnaya-sumka-s-dvumya-remnyami-iz-naturalnoj-kozhi-vintage-22275-seryj.html-74493272955986_+25e6603b97.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/21/zhenskaya-interesnaya-sumka-s-dvumya-remnyami-iz-naturalnoj-kozhi-vintage-22275-seryj.html-21622771603368_+8e7c780416.jpg</picture>
@@ -23151,7 +22964,7 @@
                 <param name="Формат">Горизонтальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="53425" available="true" in_stock="true">
+            <offer id="53425" available="false" in_stock="false">
                 <url />
                 <name>Текстильная поясная сумка для города поездок и повседневного использования FABRA 22580 Черная</name>
                 <name_ua>Текстильна поясна сумка для міста поїздок та щоденного використання FABRA 22580 Чорна</name_ua>
@@ -23160,7 +22973,7 @@
                 <price>259</price>
                 <oldprice>540</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-35468758664969_+9bf2fd24d1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-32513965086769_+cdc63f07f6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/universalnaya-sumka-na-poyas-iz-kachestvennogo-poliestera-fabra-22580-chernyj.html-48778253668661_+a455ee899a.jpg</picture>
@@ -23924,76 +23737,6 @@
                 <param name="Можно носить">В руке|Через плечо|На запястье</param>
                 <param name="Формат">Горизонтальный</param>
             </offer>
-            <offer id="53450" available="false" in_stock="false">
-                <url />
-                <name>Сумка женская с металлическим украшением посередине из натуральной кожи Vintage 22608 Белая</name>
-                <name_ua>Сумка жіноча з металевою прикрасою по середині із натуральної шкіри Vintage 22608 Біла</name_ua>
-                <categoryId>3000</categoryId>
-                <portal_category_id />
-                <price>1620</price>
-                <oldprice>1800</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/1/83432649459115_+e12d6a3288.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/30424453619406_+ed25f7c556.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/98060736254779_+ff503c57a1.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/11710063485546_+6bfacf424a.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/94896657264793_+749bcbf170.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/57593599241140_+222d15c4d3.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/43278581045028_+0c0adb2d83.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/73936572936804_+364f08ddd2.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/61249920972898_+0426beef87.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/1/95967968870395_+031907c42c.jpg</picture>
-                <vendorCode>22608</vendorCode>
-                <vendor>Vintage</vendor>
-                <description><![CDATA[<p>Цвет: белый;<br />  Материал: натуральная кожа;<br />  Размер (ШхВхГ, см):24,5х15,5х9см;<br />  Страна производитель: Китай.<br />  Бренд: Vintage.</p>    <p><strong>Особенности:</strong><br />  - вместительное основное отделение, что закрывается на молнию;<br />  - внутри: карман на молнии и три кармана открытого типа;<br />  - встроенный карман на молнии на тыльной стороне;<br />  - фурнитура цвета желтого золота;&nbsp;<br />  - съемный текстильный ремень;<br />  - съемный кожаный длинный ремень;<br />  - съемный кожаный кистевой ремень.</p>    <p>Удобная женская сумка на все случаи жизни из натуральной качественной кожи. Аксессуар состоит из основного отделения, которое закрывается на молнию, кармана на молнии и трех карманов открытого типа внутри, а также кармана на молнии снаружи на тыльной стороне. Носить сумку можно в руке, под рукой, на плече и через плечо, для этого имеется три ремешка разной длины, два кожаных и один текстильный. В аксессуаре использована качественная фурнитура цвета желтого золота.&nbsp;</p>]]></description>
-                <description_ua><![CDATA[<p>Колір: білий;<br />  Матеріал: натуральна шкіра;<br />  Розмір (ШхВхГ, см): 24,5х15,5х9см;<br />  Країна виробник: Китай.<br />  Бренд: Vintage.</p>    <p><strong>Особливості:</strong><br />  - містке основне відділення, що закривається на блискавку;<br />  - всередині: кишеня на блискавці та три кишені відкритого типу;<br />  - вбудована кишеня на блискавці на тильній стороні;<br />  - фурнітура кольору жовтого золота;<br />  - знімний текстильний ремінь;<br />  - знімний шкіряний довгий ремінь;<br />  - знімний шкіряний кистьовий ремінь.</p>    <p>Зручна жіноча сумка на всі випадки життя із натуральної якісної шкіри. Аксесуар складається з основного відділення, яке закривається на блискавку, кишені на блискавці та трьох кишень відкритого типу всередині, а також кишені на блискавці зовні на задній стороні. Носити сумку можна в руці, під рукою, на плечі і через плече, для цього є три ремінці різної довжини, два шкіряні та один текстильний. В аксесуарі використано якісну фурнітуру кольору жовтого золота.</p>]]></description_ua>
-                <param name="Цвет">Білий</param>
-                <param name="Размер">Маленькие</param>
-                <param name="Материал">Натуральная кожа</param>
-                <param name="Бренд">Vintage</param>
-                <param name="Размеры (см)">24,5х15,5х9</param>
-                <param name="Страна происхождения ТМ">Украина</param>
-                <param name="Страна производитель">Китай</param>
-                <param name="Особенности сумки">Городской стиль</param>
-                <param name="Можно носить">В руке|Через плечо|На запястье</param>
-                <param name="Формат">Горизонтальный</param>
-            </offer>
-            <offer id="53451" available="false" in_stock="false">
-                <url />
-                <name>Кожаная женская сумка с металлическим украшением посередине Vintage 22609 Бежевая</name>
-                <name_ua>Шкіряна жіноча сумка з металевою прикрасою по середині Vintage 22609 Бежева</name_ua>
-                <categoryId>3000</categoryId>
-                <portal_category_id />
-                <price>1590</price>
-                <oldprice>1870</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/2/73273402298203_+09dc7f6b84.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/36203286482425_+141bc42f3f.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/56140104177887_+d6c9593ea1.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/79445398086882_+c4d74bea32.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/71264606337105_+e25be34d68.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/87109642976527_+bb625cab79.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/94738838498113_+b0682da6ae.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/27413763279094_+806597bb69.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/63031767183478_+e9f6476361.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/2/35511134450478_+e2b8d93029.jpg</picture>
-                <vendorCode>22609</vendorCode>
-                <vendor>Vintage</vendor>
-                <description><![CDATA[<p>Цвет: бежевый;<br />  Материал: натуральная кожа;<br />  Размер (ШхВхГ, см):24,5х15,5х9см;<br />  Страна производитель: Китай.<br />  Бренд: Vintage.</p>    <p><strong>Особенности:</strong><br />  - вместительное основное отделение, что закрывается на молнию;<br />  - внутри: карман на молнии и три кармана открытого типа;<br />  - встроенный карман на молнии на тыльной стороне;<br />  - фурнитура цвета желтого золота;&nbsp;<br />  - съемный текстильный ремень;<br />  - съемный кожаный длинный ремень;<br />  - съемный кожаный кистевой ремень.</p>    <p>Женская сумка на все случаи жизни из натуральной качественной кожи. Аксессуар состоит из основного отделения, которое закрывается на молнию, кармана на молнии и трех карманов открытого типа внутри, а также кармана на молнии снаружи на тыльной стороне. Носить сумку можно в руке, под рукой, на плече и через плечо, для этого имеется три ремешка разной длины, два кожаных и один текстильный. В аксессуаре использована качественная фурнитура цвета желтого золота.</p>]]></description>
-                <description_ua><![CDATA[<p>Колір: бежевий;<br />  Матеріал: натуральна шкіра;<br />  Розмір (ШхВхГ, см): 24,5х15,5х9см;<br />  Країна виробник: Китай.<br />  Бренд: Vintage.</p>    <p><strong>Особливості:</strong><br />  - містке основне відділення, що закривається на блискавку;<br />  - всередині: кишеня на блискавці та три кишені відкритого типу;<br />  - вбудована кишеня на блискавці на тильній стороні;<br />  - фурнітура кольору жовтого золота;<br />  - знімний текстильний ремінь;<br />  - знімний шкіряний довгий ремінь;<br />  - знімний шкіряний кистьовий ремінь.</p>    <p>Жіноча сумка на всі випадки життя із натуральної якісної шкіри. Аксесуар складається з основного відділення, яке закривається на блискавку, кишені на блискавці та трьох кишень відкритого типу всередині, а також кишені на блискавці зовні на задній стороні. Носити сумку можна в руці, під рукою, на плечі і через плече, для цього є три ремінці різної довжини, два шкіряні та один текстильний. В аксесуарі використано якісну фурнітуру кольору жовтого золота.</p>]]></description_ua>
-                <param name="Цвет">Бежевий</param>
-                <param name="Размер">Маленькие</param>
-                <param name="Материал">Натуральная кожа</param>
-                <param name="Бренд">Vintage</param>
-                <param name="Размеры (см)">24,5х15,5х9</param>
-                <param name="Страна происхождения ТМ">Украина</param>
-                <param name="Страна производитель">Китай</param>
-                <param name="Особенности сумки">Городской стиль</param>
-                <param name="Можно носить">В руке|Через плечо|На запястье</param>
-                <param name="Формат">Горизонтальный</param>
-            </offer>
             <offer id="53457" available="true" in_stock="true">
                 <url />
                 <name>Кожаная женская сумка через плечо с необычным бегунком брелком Vintage 22615 Черная</name>
@@ -24358,7 +24101,7 @@
                 <price>1569</price>
                 <oldprice>2092</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>18</quantity_in_stock>
+                <quantity_in_stock>16</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/sumka-dlya-zhenschin-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22633-belaya.html-20657163789502_+bf1172466b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/sumka-dlya-zhenschin-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22633-belaya.html-95977661066779_+0c96862787.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/sumka-dlya-zhenschin-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22633-belaya.html-55823588986983_+9bb69770e5.jpg</picture>
@@ -27402,7 +27145,7 @@
                 <price>1040</price>
                 <oldprice>1224</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/31/20789866680322_+1075dd8915.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/28531846440319_+726d7eb713.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/91258967661165_+dd8035bead.jpg</picture>
@@ -28932,41 +28675,6 @@
                 <param name="Можно носить">Через плечо</param>
                 <param name="Формат">Горизонтальный</param>
                 <param name="Иконки">BESTSELLER</param>
-            </offer>
-            <offer id="54025" available="false" in_stock="false">
-                <url />
-                <name>Женская полукруглая сумка из натуральной кожи Vintage 22932 Черный</name>
-                <name_ua>Жіноча напівкругла сумка з натуральної шкіри Vintage 22932 Чорний</name_ua>
-                <categoryId>3000</categoryId>
-                <portal_category_id />
-                <price>1419</price>
-                <oldprice>1670</oldprice>
-                <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
-                <picture>https://sumkioptom.com.ua/content/images/26/zhenskaya-polukruglaya-sumka-iz-naturalnoj-kozhi-vintage-22932-chernyj.html-21576933690951_+3f9c571ea5.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/zhenskaya-polukruglaya-sumka-iz-naturalnoj-kozhi-vintage-22932-chernyj.html-87079865101058_+a05779fae8.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/zhenskaya-polukruglaya-sumka-iz-naturalnoj-kozhi-vintage-22932-chernyj.html-70225704996969_+96614544f0.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/zhenskaya-polukruglaya-sumka-iz-naturalnoj-kozhi-vintage-22932-chernyj.html-46669926856107_+c21306cc23.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/25877368186366_+018bbdc554.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/87507028212745_+3b36e90a8a.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/94957835714515_+74591c90f1.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/19943093802359_+9364cf090e.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/89443996302572_+9755dfe82a.jpg</picture>
-                <picture>https://sumkioptom.com.ua/content/images/26/56486274024782_+5514d1c80d.jpg</picture>
-                <vendorCode>22932</vendorCode>
-                <vendor>Vintage</vendor>
-                <description><![CDATA[<p>Цвет: черный;<br />  Материал: натуральная кожа;<br />  Размер (ШхВхГ, см): 25х14х4 см;<br />  Длина ремешка: 110 см (регулируется в меньшую сторону);<br />  Страна производитель: Китай;<br />  Бренд: Vintage.</p>    <p><strong>Особенности:</strong><br />  - 1 основное отделение, что закрываются на молнию;<br />  - внутри: потайной карман на молнии и карман открытого типа;<br />  - фурнитура цвета серебра;<br />  - кожаный съемный ремешок в виде веревки.</p>    <p>Элегантная чёрная женская кожаная сумка на плечо &mdash; универсальный и стильный аксессуар, который легко впишется в любой гардероб. Изготовленная из натуральной кожи высокого качества, она сочетает в себе прочность и утончённый дизайн.</p>    <p>Сумка оснащена одним основным отделением, закрывающимся на молнию, что обеспечивает надёжную защиту ваших вещей. Внутри находятся два удобных кармана: потайной на молнии для хранения ценных мелочей и открытый карман для быстрого доступа к необходимым предметам.</p>    <p>Фурнитура цвета серебра придаёт сумке лёгкий блеск и элегантность. Особый акцент &mdash; съёмный кожаный ремешок в виде верёвки, который добавляет модели оригинальности и обеспечивает комфортное ношение на плече.</p>    <p>Чёрная кожаная сумка с ремешком-верёвкой &mdash; идеальный выбор для тех, кто ценит сочетание классики и современной моды в повседневных аксессуарах.</p>    <p><br />  &nbsp;</p>]]></description>
-                <description_ua><![CDATA[<p>Колір: чорний;<br />  Матеріал: натуральна шкіра;<br />  Розмір (ШхВхГ, см): 25х14х4 см;<br />  Довжина ремінця: 110 см (регулюється у менший бік);<br />  Країна виробник: Китай;<br />  Бренд: Vintage.</p>    <p><strong>Особливості:</strong><br />  - 1 основне відділення, що закриваються на блискавку;<br />  - усередині: потайна кишеня на блискавці та кишеня відкритого типу;<br />  - фурнітура кольору срібла;<br />  - знімний шкіряний ремінець у вигляді мотузки.</p>    <p>Елегантна чорна шкіряна жіноча сумка на плече &mdash; універсальний і стильний аксесуар, який легко впишеться в будь-який гардероб. Виготовлена з натуральної шкіри високої якості, вона поєднує міцність і витончений дизайн.</p>    <p>Сумка оснащена одним основним відділенням, яке закривається на блискавку, що забезпечує надійний захист ваших речей. Усередині знаходяться дві зручні кишені: потайна на блискавці для зберігання цінних дрібниць і відкрита кишеня для швидкого доступу до необхідних предметів.</p>    <p>Фурнітура кольору срібла надає сумці легкий блиск та елегантність. Особливий акцент - знімний шкіряний ремінець у вигляді мотузки, який додає моделі оригінальності та забезпечує комфортне носіння на плечі.</p>    <p>Чорна шкіряна сумка з ремінцем-мотузкою - ідеальний вибір для тих, хто цінує поєднання класики та сучасної моди у повсякденних аксесуарах.</p>]]></description_ua>
-                <param name="Цвет">Чорний</param>
-                <param name="Размер">Маленькие</param>
-                <param name="Материал">Натуральная кожа</param>
-                <param name="Бренд">Vintage</param>
-                <param name="Размеры (см)">25х14х4</param>
-                <param name="Страна происхождения ТМ">Украина</param>
-                <param name="Страна производитель">Китай</param>
-                <param name="Особенности сумки">Городской стиль</param>
-                <param name="Можно носить">Через плечо</param>
-                <param name="Формат">Горизонтальный</param>
             </offer>
             <offer id="54038" available="true" in_stock="true">
                 <url />
@@ -30687,7 +30395,7 @@
                 <price>1860</price>
                 <oldprice>2583</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>17</quantity_in_stock>
+                <quantity_in_stock>16</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/1/12212955633035_+d957a0d122.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/29849693007045_+1d89e742d5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/90046961822977_+60e724e4c3.jpg</picture>
@@ -31670,7 +31378,7 @@
                 <price>2115</price>
                 <oldprice>2489</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/18/13676003542651_+8e71ad1729.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/88794705139404_+fcef164302.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/22976885718775_+b8fe765c57.jpg</picture>
@@ -31740,7 +31448,7 @@
                 <price>3808</price>
                 <oldprice>4883</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>10</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/52549481948103_+109ada3419.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/35516399657812_+1ac777ed34.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/24972330727083_+42b736a79f.jpg</picture>
@@ -33203,7 +32911,7 @@
                 <portal_category_id />
                 <price>579</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>116</quantity_in_stock>
+                <quantity_in_stock>119</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
@@ -33223,7 +32931,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>772</quantity_in_stock>
+                <quantity_in_stock>728</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
