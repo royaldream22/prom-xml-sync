@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-23 11:24">
+<yml_catalog date="2026-08-23 15:26">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -1284,7 +1284,7 @@
                 <price>4362</price>
                 <oldprice>5132</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/11/95615035535893_+555f900db3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/40218226980040_+7ece6a9a2f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/11/72235606059932_+d35c2041b0.jpg</picture>
@@ -3361,7 +3361,7 @@
                 <price>2583</price>
                 <oldprice>3855</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/23/37941590702213_+f967c4ba28.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/23/82143502306422_+bebc01fcf9.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/23/59694668175191_+c3c67eac8c.jpg</picture>
@@ -3465,7 +3465,7 @@
                 <price>3704</price>
                 <oldprice>4358</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/19602364998412_+32f14204c3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/74224999461835_+1ff4b31d5c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/89826009435411_+4fd2d4d907.jpg</picture>
@@ -4002,7 +4002,7 @@
                 <price>2153</price>
                 <oldprice>2447</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/12/41826944881614_+3d54ca39d9.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/40386782118474_+c0c7f0f270.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/12/77286540272617_+a2bd9e3ec3.jpg</picture>
@@ -8559,7 +8559,7 @@
                 <price>1630</price>
                 <oldprice>2038</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/29/75938816176088_+26a68085d9.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/75623418615849_+505fc99096.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/46779625594221_+f24c1064be.jpg</picture>
@@ -10058,7 +10058,7 @@
                 <param name="Можно носить">На поясе</param>
                 <param name="Формат">Горизонтальный</param>
             </offer>
-            <offer id="50633" available="false" in_stock="false">
+            <offer id="50633" available="true" in_stock="true">
                 <url />
                 <name>Мессенджер мужской кожаный 20345 Vintage Черный</name>
                 <name_ua>Мессенджер чоловічий шкіряний 20345 Vintage Чорний</name_ua>
@@ -10067,7 +10067,7 @@
                 <price>1619</price>
                 <oldprice>1840</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/34/80504007186047_+4b928efa7f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/34/23443339536338_+3d11e82155.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/34/30992288531759_+527e5b0e8d.jpg</picture>
@@ -15291,7 +15291,7 @@
                 <price>851</price>
                 <oldprice>1636</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/30/17340990040180_+3bbd66dd5a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/87170667246755_+91b3688dcd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/30/47294694025002_+077e0099d3.jpg</picture>
@@ -19647,7 +19647,7 @@
                 <price>642</price>
                 <oldprice>1234</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/32/82151080053173_+bf6627ba8d.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/32/49510857104541_+480a5e813f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/32/97442721210979_+8b24936477.jpg</picture>
@@ -21410,7 +21410,7 @@
                 <price>1148</price>
                 <oldprice>1350</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/fakturnaya-sumka-dlya-zhenschin-iz-naturalnoj-kozhi-s-tisneniem-pod-zmeyu-vintage-22354-chernaya.html-27177964835258_+3f1866c570.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/fakturnaya-sumka-dlya-zhenschin-iz-naturalnoj-kozhi-s-tisneniem-pod-zmeyu-vintage-22354-chernaya.html-81087438253754_+138d644750.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/fakturnaya-sumka-dlya-zhenschin-iz-naturalnoj-kozhi-s-tisneniem-pod-zmeyu-vintage-22354-chernaya.html-94773519029836_+f0e744752f.jpg</picture>
@@ -25175,7 +25175,7 @@
                 <price>730</price>
                 <oldprice>936</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/4/27173628922941_+e118bbd0af.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/4/29357510986886_+6b8af810e4.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/4/20723081603785_+9078e71dc7.jpg</picture>
@@ -32911,7 +32911,7 @@
                 <portal_category_id />
                 <price>579</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>114</quantity_in_stock>
+                <quantity_in_stock>113</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
@@ -32931,7 +32931,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>587</quantity_in_stock>
+                <quantity_in_stock>564</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
