@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-23 15:26">
+<yml_catalog date="2026-08-24 03:06">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -21410,7 +21410,7 @@
                 <price>1148</price>
                 <oldprice>1350</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/fakturnaya-sumka-dlya-zhenschin-iz-naturalnoj-kozhi-s-tisneniem-pod-zmeyu-vintage-22354-chernaya.html-27177964835258_+3f1866c570.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/fakturnaya-sumka-dlya-zhenschin-iz-naturalnoj-kozhi-s-tisneniem-pod-zmeyu-vintage-22354-chernaya.html-81087438253754_+138d644750.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/fakturnaya-sumka-dlya-zhenschin-iz-naturalnoj-kozhi-s-tisneniem-pod-zmeyu-vintage-22354-chernaya.html-94773519029836_+f0e744752f.jpg</picture>
@@ -32931,7 +32931,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>564</quantity_in_stock>
+                <quantity_in_stock>561</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -32952,7 +32952,7 @@
                 <portal_category_id />
                 <price>600</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f8f837bf0eed00d33676.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2b3ee8a0031dc967fb4f.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a9e3df96eb809eb2b21a.jpg</picture>
