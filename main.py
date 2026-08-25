@@ -4,12 +4,13 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 
 # === ВАШИ НАСТРОЙКИ ===
-GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/10hXxId0pOiSP48f9__FjhhFTsmipeIMipJbKUSWNxMI/export?format=csv"
+GOOGLE_SHEET_CSV_URL = "ВСТАВЬТЕ_ВАШУ_ССЫЛКУ_НА_CSV"
 
-# Список ваших поставщиков (в кавычках, через запятую)
-SUPPLIER_URLS = [
-    "https://sumkioptom.com.ua/content/export/8f6bb4d4540177fa4d1590cf7e6677ba.xml", 
-    "https://backend.mydrop.com.ua/vendor/api/export/products/prom/yml?public_api_key=1968f586df409964df184253c728d3e7ebd97e78&price_field=price&stock_sync=true&only_available=true&static_sizes=true"
+# Блок поставщиков: Жестко связываем ссылку с ее префиксом
+SUPPLIERS = [
+    {"url": "ССЫЛКА_НА_ПЕРВОГО_ПОСТАВЩИКА", "prefix": ""},
+    {"url": "ССЫЛКА_НА_ВТОРОГО_ПОСТАВЩИКА", "prefix": "P2-"},
+    {"url": "ССЫЛКА_НА_ТРЕТЬЕГО_ПОСТАВЩИКА", "prefix": "P3-"}
 ]
 # ======================
 
@@ -32,11 +33,11 @@ def clean_id(val):
 
 supplier_data = {}
 
-# Скачиваем данные от всех поставщиков по очереди
-for index, url in enumerate(SUPPLIER_URLS):
+# Скачиваем данные от всех поставщиков
+for index, sup in enumerate(SUPPLIERS):
     print(f"Скачиваем прайс поставщика {index + 1}...")
     try:
-        response = requests.get(url)
+        response = requests.get(sup["url"])
         supplier_root = ET.fromstring(response.content)
         
         for offer in supplier_root.findall('.//offer'):
@@ -44,9 +45,8 @@ for index, url in enumerate(SUPPLIER_URLS):
             if vendor_code is not None and vendor_code.text:
                 vc = str(vendor_code.text).strip()
                 
-                # Добавляем префикс P2- для второго поставщика
-                if index == 1:
-                    vc = f"P2-{vc}"
+                # Добавляем префикс конкретного поставщика
+                vc = f"{sup['prefix']}{vc}"
                     
                 supplier_data[vc] = {
                     'price': offer.find('price').text if offer.find('price') is not None else "0",
@@ -54,7 +54,10 @@ for index, url in enumerate(SUPPLIER_URLS):
                     'quantity_in_stock': offer.find('quantity_in_stock').text if offer.find('quantity_in_stock') is not None else "0"
                 }
     except Exception as e:
-        print(f"Ошибка при скачивании прайса {url}: {e}")
+        print(f"Ошибка при скачивании прайса {sup['url']}: {e}")
+
+# Дальше код остается без изменений...
+# print("Загружаем Google Таблицу...")
 
 # 2. Загружаем Google Таблицу
 print("Загружаем Google Таблицу...")
