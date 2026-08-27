@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-26 16:20">
+<yml_catalog date="2026-08-27 07:36">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -3462,7 +3462,7 @@
                 <price>1258</price>
                 <oldprice>1480</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>17</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/19158625770666_+3f62cc5faa.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/45794164172564_+d269f680bd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/26741305015950_+c7a10f1526.jpg</picture>
@@ -6365,7 +6365,7 @@
                 <price>1630</price>
                 <oldprice>2038</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>18</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/29/75938816176088_+26a68085d9.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/75623418615849_+505fc99096.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/46779625594221_+f24c1064be.jpg</picture>
@@ -9828,7 +9828,7 @@
                 <param name="Формат">Горизонтальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="50617" available="true" in_stock="true">
+            <offer id="50617" available="false" in_stock="false">
                 <url />
                 <name>Сумка почтальонка текстильная Vintage 20607 Песочная</name>
                 <name_ua>Сумка почтальонка текстильна Vintage 20607 Пісочна</name_ua>
@@ -9837,7 +9837,7 @@
                 <price>1229</price>
                 <oldprice>2157</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/18/75245561978418_+a5813ae732.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/21885276269830_+d31e688c27.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/18/94758129677775_+949d5bbc20.jpg</picture>
@@ -9927,7 +9927,7 @@
                 <param name="Бренд">Vintage</param>
                 <param name="Размеры (см)">35х47,5х16</param>
             </offer>
-            <offer id="50600" available="true" in_stock="true">
+            <offer id="50600" available="false" in_stock="false">
                 <url />
                 <name>Туристический рюкзак для ноутбука текстильный городской винтажный коричневый EZEShop-20610</name>
                 <name_ua>Рюкзак туристичний для ноутбука текстильний міський вінтажний коричневий EZEShop-20610</name_ua>
@@ -9936,7 +9936,7 @@
                 <price>1632</price>
                 <oldprice>2632</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/1/39027470273656_+2200866d7a.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/56995660429190_+3020d13ed5.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/1/30377000952968_+94ca045263.jpeg</picture>
@@ -17825,7 +17825,7 @@
                 <price>2232</price>
                 <oldprice>2861</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>18</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/60386186279856_+0b5c84388d.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/41932869101146_+150f4718c0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/73268046306788_+54944f13b4.jpg</picture>
@@ -21907,7 +21907,7 @@
                 <price>1569</price>
                 <oldprice>2092</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>11</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/sumka-dlya-zhenschin-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22633-belaya.html-20657163789502_+bf1172466b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/sumka-dlya-zhenschin-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22633-belaya.html-95977661066779_+0c96862787.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/sumka-dlya-zhenschin-proshitaya-rombami-na-litsevoj-storone-iz-naturalnoj-kozhi-vintage-22633-belaya.html-55823588986983_+9bb69770e5.jpg</picture>
@@ -30493,7 +30493,7 @@
                 <portal_category_id />
                 <price>579</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>109</quantity_in_stock>
+                <quantity_in_stock>108</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
@@ -30513,7 +30513,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>479</quantity_in_stock>
+                <quantity_in_stock>478</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -30759,6 +30759,255 @@
                 <param name="Материал">Текстиль</param>
                 <param name="Бренд">Vintage</param>
                 <param name="Размеры (см)">22х35х10</param>
+            </offer>
+            <offer id="P3-5218253" available="true" in_stock="true">
+                <url />
+                <name>Сумка чорна без лого</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>41</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3c19c86350bde5df6d7e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bd439b005ce9611432ff.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c0730f3819960b411ad4.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/22924f88d2acb22065a6.jpg</picture>
+                <vendorCode>P3-1373496085</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1C65oClacnZu6BVeOLI2k6cO94R2uwcbt]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4940049" available="true" in_stock="true">
+                <url />
+                <name>Сумка чорна з великим чорним лого Puma</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>26</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f23eb3374d75dbe7bfe8.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
+                <vendorCode>P3-1135886100</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1bBL8xR8sI4KhC3qN4H5pVoVmJPHas6p3]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4940045" available="true" in_stock="true">
+                <url />
+                <name>Сумка чорна з великим чорним лого Nike</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>21</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45ac86adc15c8f507ddb.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1271f3e6f5db912a3b98.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7b4209ee3cb358be299b.png</picture>
+                <vendorCode>P3-1282794144</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/11DSYP8hl9ltt74VkQEGSJmWWMGQmnuEa]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429019" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Nike чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>33</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2e72bd12f90f0c766f10.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3bebea47654d509ccd6c.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9619b2320a70c4006400.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5407b215ee41d62b74eb.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/64856e14f0788b6ae70d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d6f0c33277d237b1220.jpg</picture>
+                <vendorCode>P3-1681692204</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/11DSYP8hl9ltt74VkQEGSJmWWMGQmnuEa]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429037" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого New Balance чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>17</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/afca78e85198d8b90f3c.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/97e3360c57b56d520f80.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/16d104f11cb841a99644.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4e3ca3a0e87def89dcd0.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9dda41aa2462942b3425.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e8997a1cb6eedf977325.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2cb4d8d086df92ed4b44.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7213c73c6a1bf415a787.jpg</picture>
+                <vendorCode>P3-1629869994</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1GTOT-47e7VGO6BKuqNGYrSVl3MPdOWx_]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429046" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Under Armour чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>4</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/22b0bedd5ba38c7d017b.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b3575412e12b02eac00f.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ceec5cfaea92b9af6037.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/054072fad78b957869c3.jpg</picture>
+                <vendorCode>P3-1231482137</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1D-QBHTdzZ9ZnN_tTzIlXHnG1kYa-ZVK7]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429032" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Stone Island чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>15</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d1aee89332d77026228d.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/981fded7c7de46e0f44a.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/492bc1abdd1b0a8fd38d.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/18c3a184dcfe4d18c623.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/427d31746692c60c56b1.jpg</picture>
+                <vendorCode>P3-1097750004</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1bhJMV8o32w34q5d7T_9H5J3eUrU_ezZ_]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429027" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Adidas чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>6</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/769e224f82044b815afc.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/28b0c6b57e5b9909796d.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0f5b17e01e30b6716cba.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/42dc0e8dfc41a9522b33.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4aa19af12c132ff6b995.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/20ec52ed739fe49d32bf.jpg</picture>
+                <vendorCode>P3-1667101613</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1SMSalp8wURi2CdPZnsi3XeDqzB2NMK_l]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429038" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Calvin Klein чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>47</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b8100dd7b68be39b4e86.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4834bac6de530e43cd66.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/df05227a7f358e9e3f71.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cdbc6b7cc49dc7b6d395.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1d2127bc2de132b60ead.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e77a43d0a158c19982a0.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1fc93bbc1bd2cf3f9a11.jpg</picture>
+                <vendorCode>P3-1917386706</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1l7_L32eMcoUhe_5L9LslxPXOc8nPju1M]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429021" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Puma чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>12</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/13a9d35e042d5ca059c7.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f2710fc67f173d5ec9fa.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2e169a75790d20fdcd4b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d62ce39507efb93ff9a8.jpg</picture>
+                <vendorCode>P3-1340374241</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1bBL8xR8sI4KhC3qN4H5pVoVmJPHas6p3]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429042" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Kappa чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>6</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b72c38191fd6f8a91946.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bcf654edd948b7fde848.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bab1b4bb0078bc570142.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a06b0b1075ad1aee672d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/86cc1ebe93916df452d0.jpg</picture>
+                <vendorCode>P3-1780265567</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/18_m4e1dLBqPXBMRRu2bsO1LQhF7YM5PK]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429035" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого Reebok чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>10</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ab5f20ed436108c02232.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/69f72e2b832d82a2dd06.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4f528fe85da09ef182bf.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4d04c48bab55846cc37f.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7bc51066b2a64fa5a948.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0005a31f6d10d5f812b7.jpg</picture>
+                <vendorCode>P3-1105334268</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1xt9UBlhk9t6kN7A6Ia6RGeYGm40auIa-]]></description>
+                <description_ua><![CDATA[]]></description_ua>
+            </offer>
+            <offer id="P3-4429033" available="true" in_stock="true">
+                <url />
+                <name>Сумка з великим лого TNF чорна</name>
+                <name_ua />
+                <categoryId>139268</categoryId>
+                <portal_category_id />
+                <price>920</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>11</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c4108b3996d01c48bcfe.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/46534bdb68fea13c6207.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f866f7f018c9cba40b70.png</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d2812897389c84b9d42c.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b5adebab8f58ae94d582.jpg</picture>
+                <vendorCode>P3-1603041559</vendorCode>
+                <vendor>-</vendor>
+                <description><![CDATA[🎯 Матеріал: 1000д <br />🚻 Стать: Unisex<br />⚫️ Колір: Темно-сірий / Чорний<br /><br />📏 Розміри сумки: Довжина – 48 см., Ширина – 30 см.,Глибина – 25 см.<br /><br />👜 Сумка на блискавках:<br />- Ємне основне відділення закривається на блискавку<br />- Дві внутрішні кишені для дрібниць<br />- Велика зовнішня кишеня для швидкого доступу<br /><br />Більше фото:<br />https://drive.google.com/drive/u/1/folders/1a5B-VBaofGUhzZaT2UQvhAvrogv9rcQE]]></description>
+                <description_ua><![CDATA[]]></description_ua>
             </offer>
         </offers>
     </shop>
