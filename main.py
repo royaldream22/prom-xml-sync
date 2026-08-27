@@ -10,7 +10,7 @@ GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/10hXxId0pOiSP48f9
 SUPPLIERS = [
     {"url": "https://sumkioptom.com.ua/content/export/8f6bb4d4540177fa4d1590cf7e6677ba.xml", "prefix": ""},
     {"url": "https://backend.mydrop.com.ua/vendor/api/export/products/prom/yml?public_api_key=1968f586df409964df184253c728d3e7ebd97e78&price_field=price&stock_sync=true&only_available=true&static_sizes=true", "prefix": "P2-"},
-    {"url": "https://backend.mydrop.com.ua/vendor/api/export/products/prom/yml?public_api_key=f707fd84c2f2713b8fd352a812516cab83a56ec3&price_field=drop_price&param_name=Размер&stock_sync=true", "prefix": "P3-"}
+    {"url": "https://backend.mydrop.com.ua/vendor/api/export/products/prom/yml?public_api_key=f707fd84c2f2713b8fd352a812516cab83a56ec3&price_field=price&param_name=Размер&stock_sync=true", "prefix": "P3-"}
 ]
 # ======================
 
