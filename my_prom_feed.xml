@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 00:18">
+<yml_catalog date="2026-08-28 10:35">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -35,7 +35,7 @@
             <category id="9000" portal_id="230716" portal_url="https://prom.ua/ua/Klipsatory">Подарункове пакування</category>
         </categories>
         <offers>
-            <offer id="47499" available="true" in_stock="true">
+            <offer id="47499" available="false" in_stock="false">
                 <url />
                 <name>Кожаная мужская сумка SHVIGEL 00791 Черная</name>
                 <name_ua>Шкіряна чоловіча сумка SHVIGEL 00791 Чорна</name_ua>
@@ -44,7 +44,7 @@
                 <price>2677</price>
                 <oldprice>3771</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/99792965841768_+72be4f1987.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/90651414241671_+bd7c61d8ea.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/35598856120453_+7f5c4c3cc3.jpg</picture>
@@ -71,7 +71,7 @@
                 <param name="Можно носить">На спине</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="47396" available="true" in_stock="true">
+            <offer id="47396" available="false" in_stock="false">
                 <url />
                 <name>Сумка SHVIGEL 00796 кожаная Коричневая</name>
                 <name_ua>Сумка SHVIGEL 00796 шкіряна Коричнева</name_ua>
@@ -80,7 +80,7 @@
                 <price>4786</price>
                 <oldprice>6468</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/47/57967145932231_+9b3085133f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/20438567047659_+e7750e2258.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/96379573223997_+cd1d366bcb.jpg</picture>
@@ -106,7 +106,7 @@
                 <param name="Можно носить">Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="49808" available="true" in_stock="true">
+            <offer id="49808" available="false" in_stock="false">
                 <url />
                 <name>Сумка SHVIGEL 00855 из натуральной кожи Коричневая</name>
                 <name_ua>Сумка SHVIGEL 00855 з натуральної шкіри Коричнева</name_ua>
@@ -115,7 +115,7 @@
                 <price>3423</price>
                 <oldprice>4625</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/9/91150821467922_+1780332519.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/13919001654347_+9ef3f00d15.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/9/sumka-shvigel-00855-iz-naturalnoj-kozhi-korichnevaya.html-58219267378212_+d9fb2e090a.jpg</picture>
@@ -142,7 +142,7 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="47405" available="true" in_stock="true">
+            <offer id="47405" available="false" in_stock="false">
                 <url />
                 <name>Сумка SHVIGEL 00883 Коричневая</name>
                 <name_ua>Сумка SHVIGEL 00883 Коричнева</name_ua>
@@ -151,7 +151,7 @@
                 <price>3114</price>
                 <oldprice>4208</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/6/48683549808339_+03dfa1f19c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/83133588702460_+bd56d90778.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/29301409184071_+4caf613633.jpg</picture>
@@ -177,7 +177,7 @@
                 <param name="Можно носить">Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="47493" available="true" in_stock="true">
+            <offer id="47493" available="false" in_stock="false">
                 <url />
                 <name>Сумка мужская SHVIGEL кожаная 00926 Черная</name>
                 <name_ua>Сумка чоловіча SHVIGEL шкіряна 00926 Чорна</name_ua>
@@ -186,7 +186,7 @@
                 <price>2427</price>
                 <oldprice>3419</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/44/80387638617215_+410cd2897f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/44/71981467954024_+81bc25b49b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/44/26030395521428_+b4f768a7e2.jpg</picture>
@@ -212,7 +212,7 @@
                 <param name="Можно носить">Через плечо</param>
                 <param name="Формат">Вертикальный</param>
             </offer>
-            <offer id="49259" available="true" in_stock="true">
+            <offer id="49259" available="false" in_stock="false">
                 <url />
                 <name>Мессенджер SHVIGEL 00965 Синий</name>
                 <name_ua>Мессенджер SHVIGEL 00965 Синій</name_ua>
@@ -221,7 +221,7 @@
                 <price>2775</price>
                 <oldprice>3750</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/10/18438627332188_+96a341b26c.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/10/67816993984026_+628c556783.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/10/64727812921514_+4f9d626943.jpeg</picture>
@@ -248,7 +248,7 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">TopPrice</param>
             </offer>
-            <offer id="49816" available="true" in_stock="true">
+            <offer id="49816" available="false" in_stock="false">
                 <url />
                 <name>Сумка SHVIGEL 00978 Коричневая</name>
                 <name_ua>Сумка SHVIGEL 00978 Коричнева</name_ua>
@@ -257,7 +257,7 @@
                 <price>3114</price>
                 <oldprice>4208</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/17/76759943735208_+f88d327c3c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/39743405214228_+c9b7e18300.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/92277583721224_+12ec391f39.jpg</picture>
@@ -396,7 +396,7 @@
                 <price>4620</price>
                 <oldprice>5775</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/88534848283382_+9405f76515.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/74413170134162_+6ba3ca18dd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/63296055125030_+cb28f9582b.jpg</picture>
@@ -1269,7 +1269,7 @@
                 <price>2089</price>
                 <oldprice>2862</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/21304182645173_+85c31e2c1f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/67845126880391_+12b9274024.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/89970610600324_+d083fb80a0.jpg</picture>
@@ -2223,7 +2223,7 @@
                 <price>2194</price>
                 <oldprice>3048</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/49/26777796624362_+5774105d67.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/49/11112457617848_+274a40b0b0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/49/32412121897327_+6bed35099b.jpg</picture>
@@ -2748,7 +2748,7 @@
                 <param name="Формат">Вертикальный</param>
                 <param name="Иконки">BESTSELLER|TopPrice</param>
             </offer>
-            <offer id="47184" available="true" in_stock="true">
+            <offer id="47184" available="false" in_stock="false">
                 <url />
                 <name>Сумка мужская Vintage 14625 кожаная Черная</name>
                 <name_ua>Сумка чоловіча Vintage 14625 шкіряна Чорна</name_ua>
@@ -2757,7 +2757,7 @@
                 <price>1996</price>
                 <oldprice>3220</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/71257882768857_+8c134339cd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/31593502444745_+dab0f04ad3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/28032880152122_+0abaa9da4a.jpg</picture>
@@ -3462,7 +3462,7 @@
                 <price>1258</price>
                 <oldprice>1480</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/26/19158625770666_+3f62cc5faa.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/45794164172564_+d269f680bd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/26/26741305015950_+c7a10f1526.jpg</picture>
@@ -5619,7 +5619,7 @@
                 <price>3105</price>
                 <oldprice>5175</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/33/muzhskoj-gorizontalnyj-kozhanyj-klatch-shvigel-19121-korichnevyj.html-66889893979927_+bce8ec50a1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/muzhskoj-gorizontalnyj-kozhanyj-klatch-shvigel-19121-korichnevyj.html-31825170145464_+73b893670e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/33/muzhskoj-gorizontalnyj-kozhanyj-klatch-shvigel-19121-korichnevyj.html-23573958302252_+b4566162d5.jpg</picture>
@@ -8898,7 +8898,7 @@
                 <price>3110</price>
                 <oldprice>4937</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>8</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/28/11972778863666_+b87c528c8d.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/99587306805648_+2258198fa4.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/72215800076651_+113d1e0024.jpg</picture>
@@ -9802,7 +9802,7 @@
                 <price>1084</price>
                 <oldprice>2086</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/31798700342168_+b5fcdad102.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/94455142161962_+7a6579c84e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/88822273312102_+974a8842b0.jpg</picture>
@@ -10190,7 +10190,7 @@
                 <price>1943</price>
                 <oldprice>2776</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/31/50417178348002_+e78a1e81bf.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/25598662310137_+16f682731e.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/ryukzak-tekstilnyj-dorozhnyj-uniseks-vintage-20618-seryj.html-18992967084511_+962c86deaa.jpg</picture>
@@ -10381,7 +10381,7 @@
                 <price>1392</price>
                 <oldprice>2677</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>20</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/27/25485925819103_+ef3fa00015.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/73340785103199_+4ba5cef5a3.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/55001549525730_+b0f2c700d4.jpeg</picture>
@@ -10575,7 +10575,7 @@
                 <price>1059</price>
                 <oldprice>2037</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/20/49864386429058_+875f789a15.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/20/27795036029346_+5d40363692.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/20/33902794287770_+3a2a437706.jpg</picture>
@@ -11006,7 +11006,7 @@
                 <price>873</price>
                 <oldprice>1678</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/47830463784338_+9fa5053a1b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/68635853423243_+1b6761cd3a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/72585994387062_+14ea98cf8f.jpg</picture>
@@ -12669,7 +12669,7 @@
                 <price>774</price>
                 <oldprice>1358</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>6</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/14/97895138881568_+feecb56cf9.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/16729536099476_+bdc90d287a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/14/81167627342748_+6ab75ac1f7.jpg</picture>
@@ -13313,7 +13313,7 @@
                 <price>2186</price>
                 <oldprice>2429</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/48/78630373542692_+3d8bd05972.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/48/19557591810150_+94cdfdae85.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/48/15388729858219_+d69e2426a4.jpg</picture>
@@ -15572,7 +15572,7 @@
                 <price>1502</price>
                 <oldprice>1767</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>17</quantity_in_stock>
+                <quantity_in_stock>16</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/31/shikarnaya-sumka-na-tri-otdeleniya-iz-naturalnoj-kozhi-22137-vintage-sinyaya.html-49408467625957_+b9e177ac52.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/shikarnaya-sumka-na-tri-otdeleniya-iz-naturalnoj-kozhi-22137-vintage-sinyaya.html-26103396153175_+ffb14494a3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/shikarnaya-sumka-na-tri-otdeleniya-iz-naturalnoj-kozhi-22137-vintage-sinyaya.html-99182855465268_+7255fd877e.jpg</picture>
@@ -15842,7 +15842,7 @@
                 <price>920</price>
                 <oldprice>1770</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>7</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/3/67101485175630_+061b21a307.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/32706179738362_+8f0b5533aa.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/3/nebolshoj-ryukzak-iz-poliestera-s-bolshim-kolichestvom-karmanov-vintage-22150-korichnevyj.html-44516680080342_+d66ca39cb0.jpg</picture>
@@ -24809,7 +24809,7 @@
                 <price>2555</price>
                 <oldprice>3500</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/37/75852956208899_+2b875a9e59.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/85440531041883_+e1a931acc2.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/20875381286276_+42c48e2a8e.jpg</picture>
@@ -26283,7 +26283,7 @@
                 <price>988</price>
                 <oldprice>1796</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/17/elegantnaya-zhenskaya-sumka-iz-naturalnoj-kozhi-s-sovremennym-dekorom-vintage-22925-goluboj.html-90496372377663_+1af83bf8a5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/elegantnaya-zhenskaya-sumka-iz-naturalnoj-kozhi-s-sovremennym-dekorom-vintage-22925-goluboj.html-22371261315742_+f8f980aa77.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/17/elegantnaya-zhenskaya-sumka-iz-naturalnoj-kozhi-s-sovremennym-dekorom-vintage-22925-goluboj.html-31444364648959_+4498067c03.jpg</picture>
@@ -26459,7 +26459,7 @@
                 <price>1419</price>
                 <oldprice>1670</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/39/zhenskaya-stilnaya-polukruglaya-sumka-iz-naturalnoj-kozhi-vintage-22933-bezhevyj.html-29930596174304_+57b9a1245e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/39/zhenskaya-stilnaya-polukruglaya-sumka-iz-naturalnoj-kozhi-vintage-22933-bezhevyj.html-80685688765526_+826167d04a.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/39/zhenskaya-stilnaya-polukruglaya-sumka-iz-naturalnoj-kozhi-vintage-22933-bezhevyj.html-20880047507664_+ad4b51a2c5.jpg</picture>
@@ -26876,7 +26876,7 @@
                 <price>1062</price>
                 <oldprice>1931</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/41/14781842363101_+5cb4939fe7.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/41/87408476068072_+7d60b30187.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/41/79465352608744_+efd77f8015.jpg</picture>
@@ -27402,7 +27402,7 @@
                 <price>2088</price>
                 <oldprice>2457</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/37/stilnaya-zhenskaya-sumka-na-tri-otdeleniya-iz-naturalnoj-kozhi-vintage-22975-ryzhij.html-65062482581871_+de6dcc79bd.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/stilnaya-zhenskaya-sumka-na-tri-otdeleniya-iz-naturalnoj-kozhi-vintage-22975-ryzhij.html-85537487854458_+cb3b04a032.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/37/stilnaya-zhenskaya-sumka-na-tri-otdeleniya-iz-naturalnoj-kozhi-vintage-22975-ryzhij.html-34330576114102_+07b56ec896.jpg</picture>
@@ -27612,7 +27612,7 @@
                 <price>2115</price>
                 <oldprice>2489</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>10</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/43/zhenskaya-sumka-iz-naturalnoj-kozhi-s-formoustojchivym-dnom-vintage-22983-korichnevyj.html-96698351622458_+f30187ac8c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/zhenskaya-sumka-iz-naturalnoj-kozhi-s-formoustojchivym-dnom-vintage-22983-korichnevyj.html-22079553636899_+d3a1a4f597.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/43/zhenskaya-sumka-iz-naturalnoj-kozhi-s-formoustojchivym-dnom-vintage-22983-korichnevyj.html-94441169770337_+01f8f30a6f.jpg</picture>
@@ -29256,7 +29256,7 @@
                 <price>4373</price>
                 <oldprice>5607</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/82186957475543_+630f6c5629.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/63545433968795_+4df28fe013.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/46228895770286_+8c49b5b996.jpg</picture>
@@ -29825,7 +29825,7 @@
                 <price>2023</price>
                 <oldprice>2975</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/24/49577199407497_+d55dd3b052.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/70813820569894_+9b97edd674.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/77283871264660_+a458203925.jpg</picture>
@@ -29956,7 +29956,7 @@
                 <param name="Можно носить">Через плечо|На поясе</param>
                 <param name="Формат">Горизонтальный</param>
             </offer>
-            <offer id="1001" available="true" in_stock="true">
+            <offer id="1001" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак черный водоотталкивающий Oxford 1000D 45х32х14 см EZEShop-71119</name>
                 <name_ua>Рюкзак чорний водовідштовхувальний Oxford 1000D 45х32х14 см EZEShop-71119</name_ua>
@@ -29965,7 +29965,7 @@
                 <price>800</price>
                 <oldprice>1200</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://i.postimg.cc/C1ZjFLvt/photo-37-2026-05-15-16-42-30.png</picture>
                 <picture>https://i.postimg.cc/cCwwnkGM/02.png</picture>
                 <picture>https://i.postimg.cc/1Xwwq71H/photo-25-2026-05-15-16-42-30.png</picture>
@@ -30046,7 +30046,7 @@
                 <param name="Бренд">Vintage</param>
                 <param name="Размеры (см)">29 × 39 × 10</param>
             </offer>
-            <offer id="P2-10513812" available="true" in_stock="true">
+            <offer id="P2-10513812" available="false" in_stock="false">
                 <url />
                 <name>Сумка через плечо Ellese мессенджер</name>
                 <name_ua>Сумка через плече Ellese месенджер чорний</name_ua>
@@ -30054,7 +30054,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15ace2d0b24da812ebe7.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ddd8f8f6089216ed7ae9.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/925661de7a5a9a78e01f.png</picture>
@@ -30092,7 +30092,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х11</param>
             </offer>
-            <offer id="P2-12734122" available="true" in_stock="true">
+            <offer id="P2-12734122" available="false" in_stock="false">
                 <url />
                 <name>Сумка через плечо Under Armour Oxford 1000 спортивная барсетка мессенджер</name>
                 <name_ua>Сумка через плече Under Armour Oxford 1000 спортивна барсетка месенджер чорна</name_ua>
@@ -30100,7 +30100,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/248e2a80ea38d7ed7794.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bef69af36d25cb7687c0.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/36739f95f20a7ee2fe52.png</picture>
@@ -30115,7 +30115,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х10</param>
             </offer>
-            <offer id="P2-12734146" available="true" in_stock="true">
+            <offer id="P2-12734146" available="false" in_stock="false">
                 <url />
                 <name>Сумка мессенджер через плечо Jordan из прочной ткани и карманом.</name>
                 <name_ua>Сумка месенджер через плече Jordan з міцної тканини та кишенею чорна</name_ua>
@@ -30123,7 +30123,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e8cd181029c0f10e015b.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/37628fe5f528d00ce0f5.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/77be78d36851c5d5a71e.png</picture>
@@ -30138,7 +30138,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х9</param>
             </offer>
-            <offer id="P2-12734159" available="true" in_stock="true">
+            <offer id="P2-12734159" available="false" in_stock="false">
                 <url />
                 <name>Сумка месенджер через плечо Champion с карманом внутри и двумя снаружи.</name>
                 <name_ua>Сумка через плече Champion з кишенею всередены та двома зовні чорна</name_ua>
@@ -30146,7 +30146,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/154fdfc20e641fe29914.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/46a4bf3aa8f9f5cba26e.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/447065a2c07c008ac522.png</picture>
@@ -30210,7 +30210,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х6</param>
             </offer>
-            <offer id="P2-17495140" available="true" in_stock="true">
+            <offer id="P2-17495140" available="false" in_stock="false">
                 <url />
                 <name>Стильная сумка через плечо Stussy черная | Молодежный мессенджер барсетка</name>
                 <name_ua>Стильна сумка через плече Stussy чорна | Молодіжний месенджер барсетка</name_ua>
@@ -30218,7 +30218,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/19ebb431038eea45af65.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5baf6e8d911f092860f4.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4d6c9296485907167a26.jpg</picture>
@@ -30235,7 +30235,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х16</param>
             </offer>
-            <offer id="P2-17495118" available="true" in_stock="true">
+            <offer id="P2-17495118" available="false" in_stock="false">
                 <url />
                 <name>Черная сумка через плечо Adidas | Мужская спортивная барсетка Адидас</name>
                 <name_ua>Чорна сумка через плече Adidas | Чоловіча спортивна барсетка Адідас</name_ua>
@@ -30243,7 +30243,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f8bab2d78d20cc7cbd44.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e3d04667a1aa2ff5b628.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e9d9a1d1b5b27c7d17db.jpg</picture>
@@ -30260,7 +30260,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х23</param>
             </offer>
-            <offer id="P2-17495130" available="true" in_stock="true">
+            <offer id="P2-17495130" available="false" in_stock="false">
                 <url />
                 <name>Спортивная сумка через плечо Jordan черная | Мужская барсетка кросс-боди</name>
                 <name_ua>Спортивна сумка через плече Jordan чорна | Чоловіча барсетка крос-боді</name_ua>
@@ -30268,7 +30268,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a4f2cb8ecf9a1b573e97.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5ce79ee18e6b9c6325d7.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b7750701953dbfa0f913.jpg</picture>
@@ -30285,7 +30285,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х22</param>
             </offer>
-            <offer id="P2-17495133" available="true" in_stock="true">
+            <offer id="P2-17495133" available="false" in_stock="false">
                 <url />
                 <name>Сумка через плечо The North Face (TNF) черная | Мужская барсетка мессенджер</name>
                 <name_ua>Сумка через плече The North Face (TNF) чорна | Чоловіча барсетка месенджер</name_ua>
@@ -30293,7 +30293,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4fb206acf20edd1ab3eb.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cd37adbdb00c2f39ce77.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/34f9e08b81d4ff242caa.jpg</picture>
@@ -30310,7 +30310,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х21</param>
             </offer>
-            <offer id="P2-17495134" available="true" in_stock="true">
+            <offer id="P2-17495134" available="false" in_stock="false">
                 <url />
                 <name>Черная сумка кросс-боди Nike | Городская спортивная барсетка Найк</name>
                 <name_ua>Чорна сумка крос-боді Nike | Міська спортивна барсетка Найк</name_ua>
@@ -30318,7 +30318,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a2b300c10073a3fa223f.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/77641b8e3ef53cb7c316.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cbedf7900135df4b95c1.jpg</picture>
@@ -30335,7 +30335,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х20</param>
             </offer>
-            <offer id="P2-17495286" available="true" in_stock="true">
+            <offer id="P2-17495286" available="false" in_stock="false">
                 <url />
                 <name>Мужская сумка через плечо Nike черная | Спортивная барсетка Найк мессенджер</name>
                 <name_ua>Чоловіча сумка через плече Nike чорна | Спортивна барсетка Найк месенджер</name_ua>
@@ -30343,7 +30343,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8cc8fde1e7ced125d853.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/54df8c37fbac5d234878.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7baceb6afde20b4aa580.jpg</picture>
@@ -30360,7 +30360,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х19</param>
             </offer>
-            <offer id="P2-17495137" available="true" in_stock="true">
+            <offer id="P2-17495137" available="false" in_stock="false">
                 <url />
                 <name>Черная сумка-мессенджер Puma | Компактная мужская барсетка через плечо</name>
                 <name_ua>Чорна сумка-месенджер Puma | Компактна чоловіча барсетка через плече</name_ua>
@@ -30368,7 +30368,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ee1ac492cfdfbd789085.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3361f49eec9efa35b970.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7ac659ee6d2804e200c1.jpg</picture>
@@ -30385,7 +30385,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х18</param>
             </offer>
-            <offer id="P2-17495317" available="true" in_stock="true">
+            <offer id="P2-17495317" available="false" in_stock="false">
                 <url />
                 <name>Спортивная сумка через плечо Puma черная | Мужская барсетка Пума</name>
                 <name_ua>Спортивна сумка через плече Puma чорна | Чоловіча барсетка Пума</name_ua>
@@ -30393,7 +30393,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a4d80354b97adecb4992.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d587679818c29bed2f9f.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1b4ffa10f4ff258fc7a9.jpg</picture>
@@ -30410,7 +30410,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х17</param>
             </offer>
-            <offer id="P2-17495141" available="true" in_stock="true">
+            <offer id="P2-17495141" available="false" in_stock="false">
                 <url />
                 <name>Городская сумка через плечо Patagonia черная | Мессенджер кроссбоди Патагония</name>
                 <name_ua>Міська сумка через плече Patagonia чорна | Месенджер крос-боді Патагонія</name_ua>
@@ -30418,7 +30418,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/882a223e976094cbdba2.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1df81a67b4e65f3bca67.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/dd8f9dd3cf686af9c4b3.jpg</picture>
@@ -30435,7 +30435,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х15</param>
             </offer>
-            <offer id="P2-17495142" available="true" in_stock="true">
+            <offer id="P2-17495142" available="false" in_stock="false">
                 <url />
                 <name>Черная сумка через плечо Ellesse унисекс | Повседневная барсетка кросс-боди</name>
                 <name_ua>Чорна сумка через плече Ellesse унісекс | Повсякденна барсетка крос-боді</name_ua>
@@ -30443,7 +30443,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e7e49aa95788cdfe9a19.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a652453cceb12de7ff36.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b46607b33e40eb66ee44.jpg</picture>
@@ -30460,7 +30460,7 @@
                 <param name="Материал">Oxford 1000D</param>
                 <param name="Размеры (см)">18х14х14</param>
             </offer>
-            <offer id="P2-17495143" available="true" in_stock="true">
+            <offer id="P2-17495143" available="false" in_stock="false">
                 <url />
                 <name>Мужская сумка через плечо Manto черная | Спортивная барсетка мессенджер</name>
                 <name_ua>Чоловіча сумка через плече Manto чорна | Спортивна барсетка месенджер</name_ua>
@@ -30468,7 +30468,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/44a50b9c0d86b2e831f7.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f622abdcecd814f2ff68.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/861fb6cb03a3e373b596.jpg</picture>
@@ -30513,7 +30513,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>441</quantity_in_stock>
+                <quantity_in_stock>429</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -30526,7 +30526,7 @@
                 <description_ua><![CDATA[<p>Шукаєте надійний, функціональний та довговічний рюкзак для щоденного використання? Представляємо вашій увазі універсальний міський рюкзак Nike, який поєднує в собі лаконічний фірмовий стиль, ергономіку та високу практичність деталей. Ця модель створена для активних людей, які цінують комфорт, безпеку своїх гаджетів та довговічність аксесуарів у міському ритмі життя.</p><p><strong>Основні технічні переваги та конструктивні особливості рюкзака:</strong></p><ul><li><strong>Надійний вологозахист:</strong> Основна частина рюкзака виконана з водостійкого матеріалу kiten. Це забезпечує надійний захист ваших речей, документів та електронних пристроїв від раптового дощу чи снігу.</li><li><strong>Підвищена зносостійкість дна:</strong> Нижня частина рюкзака виготовлена з високоякісного шкірозамінника. Таке рішення суттєво збільшує термін служби виробу, полегшує догляд за ним та надійно захищає вміст від бруду і вологи при контакті з різними поверхнями.</li><li><strong>Продуманий внутрішній простір:</strong> Рюкзак має одне велике основне відділення на надійній змійці, що зручно відкривається зверху. Всередині інтегрована спеціальна кишеня, яка ідеально підходить для безпечного транспортування нетбука, планшета або зберігання важливих дрібних речей.</li><li><strong>Швидкий доступ до важливого:</strong> На лицьовій стороні передбачено одне додаткове відділення-кишеню на блискавці для речей першої необхідності (ключів, телефону, документів чи навушників).</li><li><strong>Ергономіка та зручність транспортування:</strong> Регульовані по довжині плечові лямки дозволяють ідеально підлаштувати рюкзак під ваш зріст для рівномірного розподілу навантаження. Міцна верхня ручка дає можливість зручно носити рюкзак у руці як звичайну сумку.</li><li><strong>Естетика та брендовий стиль:</strong> Фірмовий логотип Nike акуратно вишитий на лицьовій частині, що гарантує його довговічність та стійкість до зношування порівняно зі звичайними принтами.</li></ul><p><strong>Габаритні характеристики виробу:</strong></p><ul><li>Загальні розміри рюкзака: 44 х 30 х 14 см;</li><li>Довжина спинки: 46 см;</li><li>Ширина по спинці: 32 см.</li></ul><p>Обираючи цей рюкзак Nike, ви отримуєте бездоганну якість виконання, захист ваших речей від будь-якої негоди та максимальний рівень щоденного комфорту. Замовляйте прямо зараз, щоб особисто оцінити всі переваги цієї практичної та стильної моделі!</p>]]></description_ua>
                 <param name="Цвет">Чорний</param>
             </offer>
-            <offer id="P2-10659618" available="true" in_stock="true">
+            <offer id="P2-10659618" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак Nike черный городской спортивный (17х43х29 см)</name>
                 <name_ua>Рюкзак Nike чорний міський спортивний (17х43х29 см)</name_ua>
@@ -30534,7 +30534,7 @@
                 <portal_category_id />
                 <price>600</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f8f837bf0eed00d33676.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2b3ee8a0031dc967fb4f.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a9e3df96eb809eb2b21a.jpg</picture>
@@ -30570,7 +30570,7 @@
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для щоденних пригод, тренувань чи подорожей? <strong>Рюкзак Nike</strong> — це ідеальне поєднання практичності, сучасного спортивного стилю та безкомпромісної міцності. Створений для активних людей, які цінують комфорт у кожній деталі, цей рюкзак надійно захистить ваші речі за будь-якої негоди.</p><p>Головна перевага цієї моделі — високоякісний водостійкий матеріал Kiten, який гарантує тривалу службу та захист вмісту від раптового дощу чи снігу. Завдяки продуманій ергономіці та оптимальним розмірам (17х43х29 см), рюкзак є надзвичайно містким, але при цьому виглядає акуратно та компактно на спині.</p><p><strong>Чому варто обрати саме цей рюкзак Nike:</strong></p><ul><li><strong>Максимальна місткість:</strong> одне просторе основне відділення на блискавці з двома бігунками для швидкого та зручного доступу до речей.</li><li><strong>Продумана організація простору:</strong> велика передня кишеня на блискавці для документів чи гаджетів, а також додаткова маленька кишеня спереду для швидкого доступу до ключів, карток чи інших дрібниць.</li><li><strong>Зручні бічні кишені:</strong> виконані з еластичної сітки, вони чудово підійдуть для пляшки з водою, термокружки або парасольки.</li><li><strong>Міцність та захист:</strong> зносостійкий вологозахисний матеріал Kiten збереже ваші речі сухими та неушкодженими за будь-яких умов.</li><li><strong>Універсальність у транспортуванні:</strong> зручна верхня ручка дозволяє комфортно переносити рюкзак у руках як сумку, наприклад, у щільному потоці громадського транспорту чи ліфті.</li><li><strong>Індивідуальна посадка:</strong> міцні плечові лямки з можливістю легкого регулювання довжини забезпечують ідеальний розподіл навантаження на спину та плечі.</li></ul><p>Не відкладайте комфорт на потім! Обирайте оригінальний стиль та надійність уже сьогодні. <strong>Замовляйте рюкзак Nike у нашому магазині за вигідною ціною</strong> та отримуйте швидку доставку по всій Україні. Кількість обмежена — встигніть придбати свій ідеальний рюкзак прямо зараз!</p>]]></description_ua>
                 <param name="Цвет">Чорний</param>
             </offer>
-            <offer id="P2-16832078" available="true" in_stock="true">
+            <offer id="P2-16832078" available="false" in_stock="false">
                 <url />
                 <name>Рюкзак PUMA черный городской спортивный водоотталкивающий (17х43х29 см)</name>
                 <name_ua>Рюкзак PUMA чорний міський спортивний водовідштовхувальний (17х43х29 см)</name_ua>
@@ -30578,7 +30578,7 @@
                 <portal_category_id />
                 <price>500</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>10</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b7dbb727745e222a90a6.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/334c028fd43422fd3a6a.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2ee49de1bba157168405.jpg</picture>
@@ -30594,7 +30594,7 @@
                 <description_ua><![CDATA[<p>Привіт, наш любий друже! Якщо ти шукаєш надійного, практичного та стильного супутника для щоденних пригод, роботи, навчання чи затишних прогулянок містом — ти його знайшов. Чорний міський рюкзак від легендарного бренду PUMA створений саме для того, щоб дарувати тобі щоденний комфорт та впевненість у будь-якій ситуації.</p><p>Ми розуміємо, як важливо мати під рукою все необхідне та не турбуватися про збереження речей. Цей рюкзак виготовлений із сучасного високотехнологічного матеріалу Kiten, який відрізняється підвищеною міцністю та відмінними водовідштовхувальними властивостями. Раптовий дощ більше не зіпсує твої плани чи цінні речі!</p><p><strong>Продумані деталі та функціональність для твого затишку:</strong></p><ul><li><strong>Максимальний простір:</strong> Одне велике просторе основне відділення оснащене зручною блискавкою з двома бігунками, що дозволяє швидко діставати та акуратно складати книги, форму чи девайси.</li><li><strong>Швидкий доступ до дрібниць:</strong> Велика передня кишеня на блискавці разом із додатковою маленькою кишенькою спереду допоможуть організувати зберігання ключів, документів, телефону та інших важливих аксесуарів.</li><li><strong>Практичні бічні кишені:</strong> Виконані з міцної еластичної сітки, вони чудово підходять для пляшки з водою, термокухля чи дрібних речей, які мають бути під рукою.</li><li><strong>Комфортна посадка та універсальність:</strong> М'які плечові лямки легко регулюються по довжині для ідеального розподілу навантаження на спину. А зручна верхня ручка дозволяє комфортно переносити рюкзак у руці як звичайну сумку в громадському транспорті.</li><li><strong>Оптимальні габарити:</strong> Розмір 17х43х29 см є золотим стандартом для повсякденного міського використання — він місткий, але водночас виглядає акуратно та компактно.</li></ul><p>Обирай перевірену якість, лаконічний дизайн та функціональність на кожен день. Твій новий улюблений рюкзак PUMA вже чекає на тебе! Оформлюй замовлення просто зараз, а ми подбаємо про швидку доставку, щоб ти міг якнайшвидше насолодитися комфортом!</p>]]></description_ua>
                 <param name="Цвет">Чорний</param>
             </offer>
-            <offer id="P2-16832088" available="true" in_stock="true">
+            <offer id="P2-16832088" available="false" in_stock="false">
                 <url />
                 <name>Спортивный городской рюкзак Adidas черный водостойкий (17х43х29 см)</name>
                 <name_ua>Спортивний міський рюкзак Adidas чорний водостійкий (17х43х29 см)</name_ua>
@@ -30602,7 +30602,7 @@
                 <portal_category_id />
                 <price>500</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f86dc40d755872bd466a.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1e2acee763f3f9dc59cf.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d47399c81ad120302cb.jpg</picture>
@@ -30789,7 +30789,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>24</quantity_in_stock>
+                <quantity_in_stock>23</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f23eb3374d75dbe7bfe8.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
@@ -30810,7 +30810,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45ac86adc15c8f507ddb.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1271f3e6f5db912a3b98.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
@@ -30882,7 +30882,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/22b0bedd5ba38c7d017b.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b3575412e12b02eac00f.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ceec5cfaea92b9af6037.png</picture>
@@ -30904,7 +30904,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d1aee89332d77026228d.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/981fded7c7de46e0f44a.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/492bc1abdd1b0a8fd38d.png</picture>
