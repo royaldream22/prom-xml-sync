@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 10:35">
+<yml_catalog date="2026-08-28 12:52">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -781,7 +781,7 @@
                 <price>2840</price>
                 <oldprice>3342</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>17</quantity_in_stock>
+                <quantity_in_stock>16</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/2/31694703613083_+b6a0f3e842.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/2/75159807289201_+45f0078df1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/2/59008510126957_+96edb3edd0.jpg</picture>
@@ -2223,7 +2223,7 @@
                 <price>2194</price>
                 <oldprice>3048</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>15</quantity_in_stock>
+                <quantity_in_stock>14</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/49/26777796624362_+5774105d67.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/49/11112457617848_+274a40b0b0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/49/32412121897327_+6bed35099b.jpg</picture>
@@ -2362,7 +2362,7 @@
                 <price>3704</price>
                 <oldprice>4358</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>3</quantity_in_stock>
+                <quantity_in_stock>2</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/25/19602364998412_+32f14204c3.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/74224999461835_+1ff4b31d5c.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/25/89826009435411_+4fd2d4d907.jpg</picture>
@@ -3568,7 +3568,7 @@
                 <price>1722</price>
                 <oldprice>2570</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>8</quantity_in_stock>
+                <quantity_in_stock>7</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/43966467708843_+3b3c9c1c0b.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/31258938195439_+5da1c407f6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/49319477519599_+67be44a6cc.jpg</picture>
@@ -6439,7 +6439,7 @@
                 <price>1840</price>
                 <oldprice>2300</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/15404565221743_+ab84f27896.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/83158210325955_+36db06d039.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/79906375439832_+f9d599eb37.jpg</picture>
@@ -7444,7 +7444,7 @@
                 <price>1156</price>
                 <oldprice>2223</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>18</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/5/63032804142874_+6e7dec0ff1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/5/40872637270535_+0f13f3cbe8.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/5/18190705070327_+715e92f467.jpg</picture>
@@ -8791,7 +8791,7 @@
                 <price>967</price>
                 <oldprice>1560</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/31/93382309109658_+d6a51c9362.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/56529334596002_+dd7fb8bde1.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/31/33652942786603_+434477134d.jpg</picture>
@@ -10317,7 +10317,7 @@
                 <price>1271</price>
                 <oldprice>2444</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>11</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/23/82982564452278_+2fb90c1547.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/23/75110544937253_+857624f51c.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/23/89038577993824_+5ff5a8ec60.jpeg</picture>
@@ -13525,7 +13525,7 @@
                 <price>1204</price>
                 <oldprice>1417</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>17</quantity_in_stock>
+                <quantity_in_stock>16</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/27783695379174_+017dec98d5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/33493086054248_+1167e1ed98.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/61283277172006_+816c842abb.jpg</picture>
@@ -15938,7 +15938,7 @@
                 <price>1742</price>
                 <oldprice>2680</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>6</quantity_in_stock>
+                <quantity_in_stock>5</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/6/46611318035278_+b5b002eea5.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/40269579967183_+83e5d26372.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/6/82805782642404_+999f2d773a.jpeg</picture>
@@ -21730,7 +21730,7 @@
                 <price>920</price>
                 <oldprice>2300</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/15/sumka-zhenskaya-s-fakturnym-klapanom-iz-naturalnoj-kozhi-vintage-22622-sinyaya.html-68739817079866_+4f1378d525.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/sumka-zhenskaya-s-fakturnym-klapanom-iz-naturalnoj-kozhi-vintage-22622-sinyaya.html-67264861107347_+ea241dd6c6.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/15/sumka-zhenskaya-s-fakturnym-klapanom-iz-naturalnoj-kozhi-vintage-22622-sinyaya.html-66288339405204_+d5063939cf.jpg</picture>
@@ -30077,7 +30077,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>36</quantity_in_stock>
+                <quantity_in_stock>35</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb3434f9e5614d7bfb59.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1292ffed746b6eb0ff84.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/371271e794e02659b64b.png</picture>
@@ -30493,7 +30493,7 @@
                 <portal_category_id />
                 <price>579</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>105</quantity_in_stock>
+                <quantity_in_stock>104</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
@@ -30513,7 +30513,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>429</quantity_in_stock>
+                <quantity_in_stock>430</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -30762,30 +30762,29 @@
             </offer>
             <offer id="P3-5218253" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Сумка унисекс черная (темно-серая) без логотипа из материала 1000d (48х30х25 см)</name>
                 <name_ua>Сумка унісекс чорна (темно-сіра) без логотипу з матеріалу 1000d (48х30х25 см)</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>41</quantity_in_stock>
+                <quantity_in_stock>42</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3c19c86350bde5df6d7e.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bd439b005ce9611432ff.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c0730f3819960b411ad4.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/22924f88d2acb22065a6.jpg</picture>
                 <vendorCode>P3-1373496085</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>сумка чорна, сумка без логотипу, сумка унісекс, сумка 1000d, сумка темно-сіра, сумка велика, велика сумка чорна, сумка на блискавці, сумка 48 см, купити сумку без лого, сумка з кишенями, сумка тканинна чорна</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете универсальную, надежную и стильную сумку без лишних деталей? Представляем вам лаконичную <strong>черную сумку без логотипа</strong>, которая идеально подойдет как для мужчин, так и для женщин благодаря универсальному дизайну unisex. Она выполнена в практическом темно-сером / черном цвете и станет вашим незаменимым спутником по любым ежедневным делам.</p><p>Эта модель изготовлена ​​из сверхпрочного и износостойкого материала плотностью <strong>1000d</strong>, что гарантирует длительный срок службы и надежную защиту ваших вещей. Благодаря продуманным габаритам (длина — 48 см, ширина — 30 см, глубина — 25 см), сумка обеспечивает оптимальный объем для всего необходимого, оставаясь при этом аккуратной и удобной.</p><p><strong>Почему стоит выбрать именно эту модель? основное отделение надежно закрывается на молнию, позволяя легко разместить все нужные вещи.</li><li><strong>Идеальный порядок внутри:</strong> два специальных внутренних кармана для мелочей помогут быстро находить ключи, документы или телефон.</li><li><strong>Быстрый доступ:</strong> необходимости открывать основное отделение.</li><li><strong>Прочный материал 1000d:</strong> обеспечивает высокую стойкость к повреждениям и надежно защищает содержимое в любую погоду.</li><li><strong>Лаконический дизайн:</strong> отсутствие брендов и логотипов делает сумку сдержанной, стильной. гардероб.</li></ul><p>Не упускайте возможность сделать ваши поездки и ежедневные дела еще удобнее! Заказывайте универсальную сумку прямо сейчас и оцените ее безупречную практичность и долговечность уже сегодня!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте універсальну, надійну та стильну сумку без зайвих деталей? Представляємо вам лаконічну <strong>чорну сумку без логотипу</strong>, яка ідеально підійде як для чоловіків, так і для жінок завдяки універсальному дизайну <strong>unisex</strong>. Вона виконана в практичному темно-сірому / чорному кольорі та стане вашим незамінним супутником у будь-яких щоденних справах.</p><p>Ця модель виготовлена з надміцного та зносостійкого матеріалу щільністю <strong>1000d</strong>, що гарантує тривалий термін служби та надійний захист ваших речей. Завдяки продуманим габаритам (довжина — 48 см, ширина — 30 см, глибина — 25 см), сумка забезпечує оптимальний об'єм для всього необхідного, залишаючись при цьому акуратною та зручною.</p><p><strong>Чому варто обрати саме цю модель?</strong></p><ul><li><strong>Максимальної місткість:</strong> велике та ємне основне відділення надійно закривається на блискавку, дозволяючи легко розмістити всі потрібні речі.</li><li><strong>Ідеальний порядок усередині:</strong> дві спеціальні внутрішні кишені для дрібниць допоможуть швидко знаходити ключі, документи чи телефон.</li><li><strong>Швидкий доступ:</strong> велика зовнішня кишеня дозволяє тримати під рукою речі першої потреби без необхідності відкривати основне відділення.</li><li><strong>Міцний матеріал 1000d:</strong> забезпечує високу стійкість до пошкоджень та надійно захищає вміст за будь-якої погоди.</li><li><strong>Лаконічний дизайн:</strong> відсутність брендів та логотипів робить сумку стриманою, стильною та придатною під будь-який гардероб.</li></ul><p>Не втрачайте можливість зробити ваші поїздки та щоденні справи ще зручнішими! Замовляйте універсальну сумку прямо зараз та оцініть її бездоганну практичність і довговічність вже сьогодні!</p>]]></description_ua>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4940049" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивная сумка Puma черный унисекс с логотипом</name>
                 <name_ua>Спортивна сумка Puma чорна унісекс з логотипом</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -30794,19 +30793,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
                 <vendorCode>P3-1135886100</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>спортивна сумка puma, дорожня сумка пума, чорна спортивна сумка, сумка унісекс puma, велика спортивна сумка, сумка для тренувань puma, сумка дорожня чорна, чоловіча спортивна сумка, жіноча спортивна сумка, сумка puma з логотипом, сумка puma 1000d, дорожня сумка унісекс</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного и стильного спутника для тренировок, путешествий или ежедневных дел? <strong>Спортивная сумка Puma</strong> в классическом черном цвете с большим фирменным логотипом — это идеальное сочетание практичности, прочности и современного спортивного стиля. Благодаря универсальному формату Unisex, она все равно отлично подходит как для мужчин, так и для женщин.</p><p>Эта модель создана для тех, кто ценит порядок и комфорт. Изготовленная из сверхпрочного материала плотностью 1000d, сумка надежно защитит ваши вещи от износа и сохранит первоначальный вид даже при интенсивной эксплуатации.</p><strong>Главные преимущества и особенности модели:</strong><ul><li><strong>Высокопрочный материал 1000d:</strong> повреждений.</li><li><strong>Продуманная емкость:</strong> большое основное отделение на молнии позволяет удобно упаковать всю необходимую обувь, форму или дорожные вещи.</li><li><strong>Удобная организация:</strong> два внутренних кармана для мелочей помогут аккуратно хранить гаджеты.</li><li><strong>Быстрый доступ:</strong> большой внешний карман на молнии идеальный для вещей, которые всегда должны быть под рукой в ​​дороге. ручной клади.</li></ul><p><strong>Выбирайте комфорт и практичность в одном флаконе!</strong> Нажимайте кнопку «Купить», чтобы заказать стильную сумку Puma по лучшей цене на Prom.ua. Гарантируем быструю доставку, качественный сервис и полное соответствие фото!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для тренувань, подорожей чи щоденних справ? <strong>Спортивно-дорожня сумка Puma</strong> у класичному чорному кольорі з великим фірмовим логотипом — це ідеальне поєднання практичності, міцності та сучасного спортивного стилю. Завдяки універсальному формату Unisex, вона однаково чудово підходить як для чоловіків, так і для жінок.</p><p>Ця модель створена для тих, хто цінує порядок і комфорт. Виготовлена з надміцного матеріалу щільністю 1000d, сумка надійно захистить ваші речі від зносу та збереже первісний вигляд навіть за умови інтенсивної експлуатації.</p><strong>Головні переваги та особливості моделі:</strong><ul><li><strong>Високоміцний матеріал 1000d:</strong> забезпечує чудову довговічність, зносостійкість та стійкість до пошкоджень.</li><li><strong>Продумана місткість:</strong> велике основне відділення на блискавці дозволяє зручно упакувати все необхідне взуття, форму чи дорожні речі.</li><li><strong>Зручна організація:</strong> дві внутрішні кишені для дрібниць допоможуть акуратно зберігати документи, ключі чи гаджети.</li><li><strong>Швидкий доступ:</strong> велика зовнішня кишеня на блискавці ідеальна для речей, які завжди мають бути під рукою в дорозі.</li><li><strong>Оптимальні габарити:</strong> довжина 48 см, ширина 30 см та глибина 25 см роблять її ідеальним варіантом як для залу, так і як ручної поклажі.</li></ul><p><strong>Обирайте комфорт і практичність в одному флаконі!</strong> Натискайте кнопку «Купити», щоб замовити стильну сумку Puma за найкращою ціною на Prom.ua. Гарантуємо швидку доставку, якісний сервіс та повну відповідність фото!</p>]]></description_ua>
-                <param name="Бренд">Puma</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4940045" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивная дорожная сумка Nike черный унисекс с большим логотипом</name>
                 <name_ua>Спортивна дорожня сумка Nike чорна унісекс з великим логотипом</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -30816,23 +30813,21 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7b4209ee3cb358be299b.png</picture>
                 <vendorCode>P3-1282794144</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>сумка nike, спортивна сумка nike, дорожня сумка nike, чорна сумка найк, сумка nike унісекс, сумка для тренувань найк, велика сумка найк, чоловіча спортивна сумка nike, жіноча спортивна сумка nike, дорожня сумка унісекс, спортивна сумка 1000д, сумка через плече nike, сумка найк з логотипом</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного и стильного спутника для тренировок или путешествий? <strong>Спортивная сумка Nike</strong> – это идеальный выбор для тех, кто ценит практичность, прочность и современный стиль. Благодаря универсальному дизайну, эта модель прекрасно подходит как для мужчин, так и для женщин (Unisex). вещей.</li><li><strong>Продуманная емкость:</strong> Оптимальные размеры (длина – 48 см, ширина – 30 см, глубина – 25 см) позволяют легко разместить все необходимое для спортзала или короткой поездки.</li><li><strong>Эффективная организация пространства:</ основное отделение, два внутренних кармана для мелочей и большой внешний карман для быстрого доступа к важнейшим вещам. упускайте возможность сделать свои поездки и тренировки максимально комфортными! Бронируйте спортивную сумку Nike прямо сейчас в нашем магазине и оцените высокое качество по доступной цене. Быстрая отправка гарантирована!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для тренувань чи подорожей? <strong>Спортивна дорожня сумка Nike</strong> – це ідеальний вибір для тих, хто цінує практичність, міцність та сучасний стиль. Завдяки універсальному дизайну, ця модель чудово підходить як для чоловіків, так і для жінок (Unisex).</p><p><strong>Основні переваги та особливості товару:</strong></p><ul><li><strong>Надміцний матеріал:</strong> Виготовлена з якісного матеріалу щільністю 1000д, що забезпечує довговічність, стійкість до зношення та захист ваших речей.</li><li><strong>Продумана місткість:</strong> Оптимальні розміри (довжина – 48 см, ширина – 30 см, глибина – 25 см) дозволяють легко розмістити все необхідне для спортзалу або короткої поїздки.</li><li><strong>Ефективна організація простору:</strong> Сумка оснащена зручними блискавками, має велике основне відділення, дві внутрішні кишені для дрібниць та велику зовнішню кишеню для швидкого доступу до найважливіших речей.</li><li><strong>Естетичний вигляд:</strong> Глибокий темно-сірий / чорний колір гармонійно поєднується з великим чорним логотипом Nike, створюючи стриманий та стильний образ.</li></ul><p>Не втрачайте можливість зробити свої поїздки та тренування максимально комфортними! Замовляйте спортивну сумку Nike прямо зараз у нашому магазині та оцініть високу якість за доступною ціною. Швидка відправка гарантована!</p>]]></description_ua>
-                <param name="Бренд">Nike</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429019" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивная сумка Nike с большим логотипом черный унисекс (48х30х25 см)</name>
                 <name_ua>Спортивна сумка Nike з великим логотипом чорна унісекс (48х30х25 см)</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>32</quantity_in_stock>
+                <quantity_in_stock>34</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2e72bd12f90f0c766f10.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3bebea47654d509ccd6c.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9619b2320a70c4006400.png</picture>
@@ -30840,19 +30835,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/64856e14f0788b6ae70d.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d6f0c33277d237b1220.jpg</picture>
                 <vendorCode>P3-1681692204</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>спортивна сумка nike, дорожня сумка найк, сумка найк чорна, сумка спортивна унісекс, чоловіча спортивна сумка nike, жіноча спортивна сумка найк, велика сумка найк з логотипом, сумка для тренувань nike, сумка для фітнесу найк, дорожня сумка унісекс, сумка nike 1000d, чорна дорожня сумка, купити спортивну сумку найк, сумка для спортзалу nike</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного и стильного спутника для тренировок, путешествий или ежедневных дел? Универсальная спортивная сумка Nike с большим фирменным логотипом предназначена для тех, кто ценит практичность, прочность и безупречный стиль. Благодаря сдержанному дизайну в темно-сером и черном цветах, эта модель идеально подходит как для мужчин, так и для женщин (формат Unisex).</p><p><strong>Главные преимущества и характеристики сумки:</strong></p><ul><li><strong>Прочный материал 1000D: экипировка от внешних факторов.</li><li><strong>Удобные размеры:</strong> длина – 48 см, ширина – 30 см, глубина – 25 см. Это оптимальный объем для спортивной формы, сменной обуви или дорожных вещей.</li><li><strong>Продуманный функционал</br> надежно закрывающееся молнией отделение;<br>• Два внутренних кармана для удобного хранения мелочей (ключей, документов, гаджетов);<br>• Большой внешний карман для вещей, к которым нужен быстрый доступ.</li></ul><p>Эта сумка сочетает в себе легенд. Она станет вашим незаменимым помощником для посещения спортзала, бассейна или во время коротких поездок и командировок.</p><p><strong>Нужна надежная спортивная сумка?</strong> Не откладывайте покупку на потом! Заказывайте удобную сумку Nike прямо сейчас в нашем магазине. Мы гарантируем быструю обработку заказа и оперативную доставку по всей Украине. Добавьте товар в корзину и почувствуйте настоящий комфорт каждый день!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для тренувань, подорожей чи щоденних справ? Універсальна спортивна сумка Nike з великим фірмовим логотипом створена саме для тих, хто цінує практичність, міцність та бездоганний стиль. Завдяки стриманому дизайну в темно-сірому та чорному кольорах, ця модель ідеально підходить як для чоловіків, так і для жінок (формат Unisex).</p><p><strong>Головні переваги та характеристики сумки:</strong></p><ul><li><strong>Міцний матеріал 1000D:</strong> забезпечує довговічність використання, стійкість до зношення та чудовий захист вашого екіпірування від зовнішніх чинників.</li><li><strong>Зручні розміри:</strong> довжина – 48 см, ширина – 30 см, глибина – 25 см. Це оптимальний об'єм для спортивної форми, змінного взуття чи дорожніх речей.</li><li><strong>Продуманий функціонал на блискавках:</strong><br>• Ємне основне відділення, що надійно закривається блискавкою;<br>• Дві внутрішні кишені для зручного зберігання дрібниць (ключів, документів, гаджетів);<br>• Велика зовнішня кишеня для речей, до яких потрібен швидкий доступ.</li></ul><p>Ця сумка поєднує в собі легендарний спортивний дизайн Nike та максимальну ергономічність. Вона стане вашим незамінним помічником для відвідування спортзалу, басейну або під час коротких поїздок і відряджень.</p><p><strong>Потрібна надійна спортивна сумка?</strong> Не відкладайте покупку на потім! Замовляйте зручну сумку Nike прямо зараз у нашому магазині. Ми гарантуємо швидку обробку замовлення та оперативну доставку по всій Україні. Додайте товар у кошик та відчуйте справжній комфорт щодня!</p>]]></description_ua>
-                <param name="Бренд">Nike</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429037" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивная сумка New Balance унисекс черная с большим логотипом</name>
                 <name_ua>Спортивна сумка New Balance унісекс чорна з великим логотипом</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -30866,41 +30859,37 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2cb4d8d086df92ed4b44.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7213c73c6a1bf415a787.jpg</picture>
                 <vendorCode>P3-1629869994</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>спортивна сумка, дорожня сумка, сумка New Balance, чоловіча спортивна сумка, жіноча спортивна сумка, сумка унісекс, сумка для тренувань, сумка для фітнесу, чорна спортивна сумка, дорожня сумка New Balance, велика спортивна сумка, сумка для залу, спортивна сумка 48 см</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного, стильного и вместительного спутника для тренировок, путешествий или повседневных дел? <strong>Спортивно-дорожная сумка New Balance с большим фирменным логотипом</strong> – это идеальное сочетание практичности, современного дизайна и безупречной функциональности. Благодаря лаконическому стилю унисекс (Unisex) и классической темной окраске, она прекрасно подойдет каждому, независимо от вашего стиля жизни.</p><p>Эта модель разработана с мыслью о вашем комфорте. Прочный материал плотностью 1000d обеспечивает долговечность и высокую износостойкость, защищая ваши вещи при любых погодных условиях. Оптимальные размеры позволяют легко разместить все необходимое, от спортивной экипировки до дорожных вещей. вид.</li><li><strong>Универсальность (Unisex):</strong> Прекрасно подходит как для мужчин, так и для женщин благодаря стильному дизайну.</li><li><strong>Практический цвет:</strong> Темно-серый/черный оттенок является максимально универсальным и устойчивым к загрязнениям.</li></str> основное отделение на молнии легко вмещает объемные вещи.</li><li><strong>Организация мелочей:</strong> Два внутренних кармана позволяют аккуратно разложить ключи, документы или телефон.</li><li><strong>Быстрый доступ:</strong> рукой.</li><li><strong>Комфортные габариты:</strong> Оптимальный размер (длина – 48 см, ширина – 30 см, глубина – 25 см) делает ее идеальной для ручной клади или спортивного зала.</li></ul><p>Не откладывайте комфорт на потом! Выбирайте оригинальный стиль и проверенное временем качество. <strong>Заказывайте спортивную сумку New Balance прямо сейчас</strong> и будьте готовы к новым открытиям и активным тренировкам каждый день!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного, стильного та місткого супутника для тренувань, подорожей чи повсякденних справ? <strong>Спортивно-дорожня сумка New Balance з великим фірмовим логотипом</strong> — це ідеальне поєднання практичності, сучасного дизайну та бездоганної функціональності. Завдяки лаконічному стилю унісекс (Unisex) та класичному темному забарвленню, вона чудово пасуватиме кожному, незалежно від вашого стилю життя.</p><p>Ця модель розроблена з думкою про ваш комфорт. Міцний матеріал щільністю 1000d забезпечує довговічність та високу стійкість до зношування, захищаючи ваші речі за будь-яких погодних умов. Оптимальні розміри дозволяють легко розмістити все необхідне, від спортивного екіпірування до дорожніх речей.</p><p><strong>Основні переваги та особливості сумки:</strong></p><ul><li><strong>Надійний матеріал:</strong> Високоякісний матеріал 1000д, який витримує щоденні навантаження та довго зберігає первинний вигляд.</li><li><strong>Універсальність (Unisex):</strong> Чудово підходить як для чоловіків, так і для жінок завдяки стильному дизайну.</li><li><strong>Практичний колір:</strong> Темно-сірий / чорний відтінок є максимально універсальним та стійким до забруднень.</li><li><strong>Продуманий простір:</strong> Ємне основне відділення на блискавці легко вміщує об'ємні речі.</li><li><strong>Організація дрібниць:</strong> Дві внутрішні кишені дозволяють акуратно розкласти ключі, документи чи телефон.</li><li><strong>Швидкий доступ:</strong> Велика зовнішня кишеня на блискавці створена для речей, які мають бути завжди під рукою.</li><li><strong>Комфортні габарити:</strong> Оптимальний розмір (довжина – 48 см, ширина – 30 см, глибина – 25 см) робить її ідеальною для ручної поклажі чи спортивного залу.</li></ul><p>Не відкладайте комфорт на потім! Обирайте оригінальний стиль та перевірену часом якість. <strong>Замовляйте спортивну сумку New Balance просто зараз</strong> та будьте готові до нових відкриттів та активних тренувань щодня!</p>]]></description_ua>
-                <param name="Бренд">New Balance</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429046" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивная сумка Under Armour большая черная</name>
                 <name_ua>Спортивна сумка Under Armour велика чорна</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/22b0bedd5ba38c7d017b.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b3575412e12b02eac00f.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ceec5cfaea92b9af6037.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/054072fad78b957869c3.jpg</picture>
                 <vendorCode>P3-1231482137</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>спортивна сумка Under Armour, сумка для спортзалу, чоловіча спортивна сумка, жіноча спортивна сумка, сумка унісекс Under Armour, дорожня сумка чорна, велика спортивна сумка, сумка з логотипом Under Armour, міцна спортивна сумка, сумка для фітнесу, сумка для тренувань, брендова спортивна сумка</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного партнера для тренировок или путешествий? Эта стильная спортивная сумка Under Armour предназначена для тех, кто ценит функциональность и бескомпромиссное качество. Благодаря продуманному дизайну и прочным материалам, она станет вашим лучшим выбором как для посещения спортзала, так и для поездок на выходные. ежедневном использовании.</li><li><strong>Организация пространства:</strong> Вместительное основное отделение на молнии позволяет удобно разместить экипировку, а внутренние карманы помогут удерживать мелкие вещи в идеальном порядке.</li><li><strong>Быстрый доступ:</strong> рукой.</li><li><strong>Универсальный дизайн:</strong> Стильное сочетание черного и темно-серого цвета подходит как мужчинам, так и женщинам.</li></ul><p>Не откладывайте комфорт на потом — добавьте функциональности в свою жизнь уже сегодня. Заказывайте эту стильную сумку Under Armour прямо сейчас и мы оперативно отправим ее вам!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного партнера для тренувань або подорожей? Ця стильна спортивна сумка від Under Armour створена для тих, хто цінує функціональність та безкомпромісну якість. Завдяки продуманому дизайну та міцним матеріалам, вона стане вашим найкращим вибором як для відвідування спортзалу, так і для поїздок на вихідні.</p><p><strong>Чому варто обрати саме цю модель:</strong></p><ul><li><strong>Надійність та витривалість:</strong> Виготовлена з високоміцного матеріалу 1000д, що забезпечує довговічність навіть при інтенсивному щоденному використанні.</li><li><strong>Організація простору:</strong> Містке основне відділення на блискавці дозволяє зручно розмістити екіпірування, а внутрішні кишені допоможуть утримувати дрібні речі в ідеальному порядку.</li><li><strong>Швидкий доступ:</strong> Велика зовнішня кишеня ідеально підходить для предметів, які мають бути завжди під рукою.</li><li><strong>Універсальний дизайн:</strong> Стильне поєднання чорного та темно-сірого кольорів підходить як чоловікам, так і жінкам.</li></ul><p>Не відкладайте комфорт на потім — додайте функціональності у своє життя вже сьогодні. Замовляйте цю стильну сумку Under Armour прямо зараз, і ми оперативно відправимо її вам!</p>]]></description_ua>
-                <param name="Бренд">Under Armour</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429032" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Сумка спортивная Stone Island с большим логотипом черная</name>
                 <name_ua>Сумка спортивна Stone Island з великим логотипом чорна</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -30911,19 +30900,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/18c3a184dcfe4d18c623.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/427d31746692c60c56b1.jpg</picture>
                 <vendorCode>P3-1097750004</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>сумка stone island, дорожня сумка stone island, спортивна сумка stone island, чорна сумка stone island, сумка унісекс, велика сумка стон айленд, сумка стон айленд, купити сумку stone island, сумка дорожня чорна, сумка спортивна чорна, сумка 1000d, чоловіча дорожня сумка, жіноча дорожня сумка</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Поздравляем в нашем уютном уголке стильных и надежных вещей! Если вы ищете надежного спутника для ежедневных приключений, спортзала или поездок, эта сумка с большим логотипом Stone Island создана именно для вас. Мы позаботились о том, чтобы она сочетала в себе практичность и современный уличный стиль, даря вам ощущение максимального комфорта при любых обстоятельствах. любых ежедневных испытаний и надежно защитит ваши вещи.</li><li><strong>Практический унисекс-дизайн:</strong> Лаконичная модель в стиле Unisex одинаково отлично подходит как мужчинам, так и женщинам.</li><li><strong>Стильная и универсальная окраска:</strong> невероятно практичной и легкой в ​​уходе.</li><li><strong>Продуманная емкость:</strong> Имея оптимальные размеры (длина 48 см, ширина 30 см, глубина 25 см), она легко вместит все необходимое.</li></ul><p><strong>Безупречная организация вашего пространства</-ong> большое и емкое основное отделение, куда поместятся спортивная форма или дорожные вещи;<br>- Два удобных внутренних кармана, чтобы ваши ключи, документы или мелочи всегда лежали на своем месте;<br>- Вместительный внешний карман для быстрого доступа к самому важному.</p><p>Мы всегда рады Выбирайте комфорт и качество — заказывайте эту стильную сумку уже сегодня, а мы позаботимся о скорой доставке в ваш дом!</p>]]></description>
                 <description_ua><![CDATA[<p>Вітаємо у нашому затишному куточку стильних та надійних речей! Якщо ви шукаєте надійного супутника для щоденних пригод, спортзалу чи поїздок, ця сумка з великим логотипом Stone Island створена саме для вас. Ми подбали про те, щоб вона поєднувала в собі практичність та сучасний вуличний стиль, даруючи вам відчуття максимального комфорту за будь-яких обставин.</p><p><strong>Чому ця сумка стане вашим ідеальним вибором:</strong></p><ul><li><strong>Надміцний матеріал:</strong> Виготовлена з тканини високої щільності 1000D, яка готова до будь-яких щоденних випробувань та надійно захистить ваші речі.</li><li><strong>Практичний унісекс-дизайн:</strong> Лаконічна модель у стилі Unisex однаково чудово пасує як чоловікам, так і жінкам.</li><li><strong>Стильне та універсальне забарвлення:</strong> Глибокий темно-сірий та чорний кольори роблять сумку неймовірно практичною та легкою в догляді.</li><li><strong>Продумана місткість:</strong> Маючи оптимальні розміри (довжина 48 см, ширина 30 см, глибина 25 см), вона легко вмістить усе необхідне.</li></ul><p><strong>Бездоганна організація вашого простору завдяки надійним блискавкам:</strong><br>- Одне велике та ємне основне відділення, куди помістяться спортивна форма або дорожні речі;<br>- Дві зручні внутрішні кишені, щоб ваші ключі, документи чи дрібниці завжди лежали на своєму місці;<br>- Містка зовнішня кишеня для швидкого доступу до найважливішого.</p><p>Ми завжди раді допомогти вам зробити вдалу покупку. Обирайте комфорт та якість — замовляйте цю стильну сумку вже сьогодні, а ми подбаємо про швидку доставку до вашого дому!</p>]]></description_ua>
-                <param name="Бренд">Stone Island</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429027" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Сумка спортивная Adidas черная унисекс вместительная</name>
                 <name_ua>Сумка спортивна Adidas чорна унісекс містка</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -30935,19 +30922,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4aa19af12c132ff6b995.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/20ec52ed739fe49d32bf.jpg</picture>
                 <vendorCode>P3-1667101613</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>сумка Adidas, спортивна сумка Adidas, чоловіча сумка Adidas, жіноча спортивна сумка, сумка унісекс, сумка Adidas чорна, дорожня сумка Adidas, сумка для тренувань, сумка в спортзал, велика спортивна сумка, міцна сумка з логотипом, сумка через плече Adidas</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного спутника для тренировок, путешествий или активных будней? Эта стильная сумка Adidas станет вашим незаменимым аксессуаром, сочетающим в себе известный дизайн и высокую функциональность. Мы знаем, как важно иметь под рукой все необходимое, поэтому это изделие создано именно для вашего комфорта. Почему стоит выбрать именно эту модель: Надежность: Изготовлена ​​из прочного материала 1000д, который обеспечивает длительный срок службы даже использовании.</li><li><strong>Емкость:</strong> Основное отделение позволяет удобно разместить спортивную форму, личные вещи или все необходимое для короткого путешествия.</li><li><strong>Продуманная организация:</strong> Два внутренних кармана помогут удержать мелочи в порядке, а большой внешний карман вещей.</li><li><strong>Универсальность:</strong> Лаконичный черный цвет и классический дизайн отлично подойдут как мужчинам, так и женщинам.</li></ul><p>Мы уверены, что эта сумка поможет вам организовать свой день максимально эффективно и стильно. Добавляйте товар в корзину уже сейчас, и мы с радостью поможем вам с оформлением заказа!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного супутника для тренувань, подорожей чи активних буднів? Ця стильна та містка сумка Adidas стане вашим незамінним аксесуаром, що поєднує в собі відомий дизайн та високу функціональність. Ми знаємо, як важливо мати під рукою все необхідне, тому цей виріб створений саме для вашого комфорту.</p><p><strong>Чому варто обрати саме цю модель:</strong></p><ul><li><strong>Надійність:</strong> Виготовлена з міцного матеріалу 1000д, який забезпечує тривалий термін служби навіть при щоденному використанні.</li><li><strong>Місткість:</strong> Основне відділення дозволяє зручно розмістити спортивну форму, особисті речі чи все необхідне для короткої подорожі.</li><li><strong>Продумана організація:</strong> Дві внутрішні кишені допоможуть утримати дрібниці в порядку, а велика зовнішня кишеня забезпечить швидкий доступ до важливих речей.</li><li><strong>Універсальність:</strong> Лаконічний чорний колір та класичний дизайн чудово підійдуть як чоловікам, так і жінкам.</li></ul><p>Ми впевнені, що ця сумка допоможе вам організувати свій день максимально ефективно та стильно. Додавайте товар до кошика вже зараз, і ми з радістю допоможемо вам з оформленням замовлення!</p>]]></description_ua>
-                <param name="Бренд">Adidas</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429038" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Сумка дорожная Calvin Klein черный унисекс с большим логотипом (48х30х25 см)</name>
                 <name_ua>Сумка дорожня Calvin Klein чорна унісекс з великим логотипом (48х30х25 см)</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -30960,19 +30945,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e77a43d0a158c19982a0.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1fc93bbc1bd2cf3f9a11.jpg</picture>
                 <vendorCode>P3-1917386706</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>сумка calvin klein, дорожня сумка calvin klein, спортивна сумка calvin klein, чорна сумка calvin klein, сумка calvin klein чорна, дорожня сумка унісекс, велика дорожня сумка, сумка дорожня чорна, спортивна сумка чорна, сумка кельвін кляйн, дорожня сумка кельвін кляйн, сумка дорожня 48 см, містка дорожня сумка</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете стильный, практичный и вместительный аксессуар для путешествий, тренировок или ежедневных дел? <strong>Сумка Calvin Klein с большим логотипом</strong> в классическом черном цвете – это идеальный выбор, сочетающий в себе известный стиль и высокую функциональность. Благодаря лаконичному дизайну и формату Unisex (унисекс), она прекрасно подойдет как для мужчин, так и для женщин.</p><p>Эта дорожная сумка изготовлена ​​из сверхпрочного материала плотностью 1000d, что гарантирует долговечность, стойкость к износу и надежную защиту ваших вещей в любых условиях. Удобные размеры (длина — 48 см, ширина — 30 см, глубина — 25 см) обеспечивают отличную емкость без лишнего объема.</p><p><strong>Продуманное пространство и функциональность модели:</strong></p><ul><li><strong>Местное основное отделение необходима одежда, спортивная экипировка или дорожные вещи.</li><li><strong>Два внутренних кармана:</strong> созданы для удобного хранения документов, ключей, денег и других мелких вещей.</li><li><strong>Большой внешний карман:</strong> обеспечивает быстрый и легкий доступ билеты, салфетки).</li></ul><p>Выбирайте надежность и безупречный стиль от любимого бренда. <strong>Заказывайте фирменную сумку Calvin Klein прямо сейчас</strong> и путешествуйте с максимальным комфортом!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте стильний, практичний та місткий аксесуар для подорожей, тренувань чи щоденних справ? <strong>Сумка Calvin Klein з великим логотипом</strong> у класичному чорному кольорі — це ідеальний вибір, який поєднує в собі відомий стиль та високу функціональність. Завдяки лаконічному дизайну та формату Unisex (унісекс), вона чудово підійде як для чоловіків, так і для жінок.</p><p>Ця дорожня сумка виготовлена з надміцного матеріалу щільністю 1000d, що гарантує довговічність, стійкість до зношення та надійний захист ваших речей у будь-яких умовах. Зручні розміри (довжина — 48 см, ширина — 30 см, глибина — 25 см) забезпечують відмінну місткість без зайвого об'єму.</p><p><strong>Продуманий простір та функціональність моделі:</strong></p><ul><li><strong>Містке основне відділення на блискавці:</strong> дозволяє легко та акуратно скласти весь необхідний одяг, спортивне екіпірування або дорожні речі.</li><li><strong>Дві внутрішні кишені:</strong> створені для зручного зберігання документів, ключів, грошей та інших дрібних речей.</li><li><strong>Велика зовнішня кишеня:</strong> забезпечує швидкий та легкий доступ до речей, які мають бути завжди під рукою (телефон, квитки, серветки).</li></ul><p>Обирайте надійність та бездоганний стиль від улюбленого бренду. <strong>Замовляйте фірмову сумку Calvin Klein прямо зараз</strong> та подорожуйте з максимальним комфортом!</p>]]></description_ua>
-                <param name="Бренд">Calvin Klein</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429021" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивная дорожная сумка Puma черный унисекс с белым логотипом (48х30х25 см)</name>
                 <name_ua>Спортивна дорожня сумка Puma чорна унісекс з білим логотипом (48х30х25 см)</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -30982,19 +30965,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2e169a75790d20fdcd4b.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d62ce39507efb93ff9a8.jpg</picture>
                 <vendorCode>P3-1340374241</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>спортивна сумка puma, дорожня сумка пума, сумка puma чорна, сумка для тренувань, сумка дорожня унісекс, велика спортивна сумка, чоловіча спортивна сумка, жіноча дорожня сумка, сумка пума з логотипом, сумка для спортзалу, сумка 1000д, дорожні сумки та валізи, сумка для фітнесу puma</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного и стильного спутника для тренировок или путешествий? <strong>Спортивная дорожная сумка Puma</strong> в универсальном темно-сером и черном исполнении с большим белым логотипом — это идеальное сочетание практичности, емкости и известного спортивного стиля, который всегда в тренде. Благодаря продуманным габаритам сумка является чрезвычайно удобной в ежедневном использовании, вмещая все необходимое для спортзала, бассейна или путешествия выходного дня. до износа и долговечность.</li><li><strong>Оптимальные размеры:</strong> Длина составляет 48 см, ширина – 30 см, а глубина – 25 см, что делает ее идеальным вариантом для ручной клади или спортивной экипировки.</li><li><strong>Продуманный продуманный на молнию, сохраняя ваши вещи в безопасности.</li><li><strong>Удобная организация:</strong> Внутри расположены два кармана для важных мелочей, чтобы ключи или документы больше не терялись.</li><li><strong>Быстрый доступ:</strong> Большой внешний карман дороге.</li></ul><p>Выбирайте проверенный временем стиль и функциональность! <strong>Заказывайте стильную спортивную сумку Puma прямо сейчас</strong> и получите надежного помощника для ваших путешествий и тренировок по выгодной цене!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для тренувань або подорожей? <strong>Спортивна дорожня сумка Puma</strong> в універсальному темно-сірому та чорному виконанні з великим білим логотипом — це ідеальне поєднання практичності, місткості та відомого спортивного стилю, який завжди в тренді.</p><p>Ця модель розроблена у форматі <strong>Unisex</strong>, тому однаково гарно пасуватиме як чоловікам, так і жінкам. Завдяки продуманим габаритам сумка є надзвичайно зручною у щоденному використанні, вміщуючи все необхідне для спортзалу, басейну чи подорожі вихідного дня.</p><p><strong>Основні переваги та характеристики моделі:</strong></p><ul><li><strong>Надміцний матеріал:</strong> Виготовлена із надміцного матеріалу щільності 1000d, що гарантує стійкість до зношування та довговічність.</li><li><strong>Оптимальні розміри:</strong> Довжина складає 48 см, ширина – 30 см, а глибина – 25 см, що робить її ідеальним варіантом для ручної поклажі чи спортивної екіпіровки.</li><li><strong>Продуманий простір:</strong> Ємне основне відділення надійно закривається на блискавку, зберігаючи ваші речі в безпеці.</li><li><strong>Зручна організація:</strong> Всередині розташовані дві кишені для важливих дрібниць, щоб ключі чи документи більше не губилися.</li><li><strong>Швидкий доступ:</strong> Велика зовнішня кишеня на блискавці дозволяє миттєво дістати найнеобхідніші речі в дорозі.</li></ul><p>Обирайте перевірений часом стиль та функціональність! <strong>Замовляйте стильну спортивну сумку Puma прямо зараз</strong> та отримайте надійного помічника для ваших подорожей та тренувань за вигідною ціною!</p>]]></description_ua>
-                <param name="Бренд">Puma</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429042" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивно-дорожная сумка Kappa унисекс черная (темно-серая) с большим логотипом</name>
                 <name_ua>Спортивно-дорожня сумка Kappa унісекс чорна (темно-сіра) з великим логотипом</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -31005,19 +30986,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a06b0b1075ad1aee672d.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/86cc1ebe93916df452d0.jpg</picture>
                 <vendorCode>P3-1780265567</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>спортивна сумка kappa, дорожня сумка каппа, чорна спортивна сумка, сумка дорожня унісекс, сумка kappa чорна, велика спортивна сумка, сумка для тренувань kappa, дорожня сумка 48 см, сумка з матеріалу 1000d, чоловіча спортивна сумка, жіноча дорожня сумка, сумка для фітнесу каппа, сумка з великим логотипом</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного, стильного и вместительного компаньона для тренировок, путешествий или ежедневных дел? <strong>Спортивная сумка Kappa</strong> в классическом темно-сером и черном цветах с большим фирменным логотипом — это идеальный выбор для активных людей, которые ценят практичность и безупречный стиль. Благодаря универсальному дизайну (Unisex) она одинаково прекрасно подходит как мужчинам, так и женщинам. Основные преимущества и особенности модели: Сверхвысокая прочность: Изготовлена ​​из качественного износостойкого материала плотностью 1000d, службы.</li><li><strong>Оптимальные размеры:</strong> Длина — 48 см, ширина — 30 см, глубина — 25 см. Это идеальный баланс между емкостью и компактностью.</li><li><strong>Организация пространства:</strong></li><li>Емкое основное отделение вещей;</li><li>Два внутренних кармана для удобного хранения мелочей (ключей, телефона или документов);</li><li>Большой внешний карман быстрого доступа для вещей, которые должны быть всегда под рукой.</li></ul><p>Не откладывайте комфорт на потом! Выбирайте оригинальный уличный стиль и проверенное временем качество легендарного бренда Kappa. Заказывайте сумку прямо сейчас и отправляйтесь навстречу новым спортивным достижениям или увлекательным путешествиям с максимальным удобством!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного, стильного та місткого компаньйона для тренувань, подорожей чи щоденних справ? <strong>Спортивно-дорожня сумка Kappa</strong> у класичному темно-сірому та чорному кольорах із великим фірмовим логотипом — це ідеальний вибір для активних людей, які цінують практичність і бездоганний стиль. Завдяки універсальному дизайну (Unisex) вона однаково чудово пасує як чоловікам, так і жінкам.</p><p><strong>Основні переваги та особливості моделі:</strong></p><ul><li><strong>Надвисока міцність:</strong> Виготовлена з якісного зносостійкого матеріалу щільністю 1000d, що гарантує надійність у будь-яких поїздках і тривалий термін служби.</li><li><strong>Оптимальні розміри:</strong> Довжина — 48 см, ширина — 30 см, глибина — 25 см. Це ідеальний баланс між місткістю та компактністю.</li><li><strong>Організація простору:</strong></li><li>Ємне основне відділення на надійній блискавці для великих речей;</li><li>Дві внутрішні кишені для зручного зберігання дрібниць (ключів, телефону або документів);</li><li>Велика зовнішня кишеня швидкого доступу для речей, які мають бути завжди під рукою.</li></ul><p>Не відкладайте комфорт на потім! Обирайте оригінальний вуличний стиль та перевірену часом якість від легендарного бренду Kappa. Замовляйте сумку прямо зараз та вирушайте назустріч новим спортивним досягненням чи захопливим подорожам із максимальною зручністю!</p>]]></description_ua>
-                <param name="Бренд">Kappa</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429035" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Спортивная сумка Reebok унисекс черная (темно-серая) дорожная</name>
                 <name_ua>Спортивна сумка Reebok унісекс чорна (темно-сіра) дорожня</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -31029,19 +31008,17 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7bc51066b2a64fa5a948.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0005a31f6d10d5f812b7.jpg</picture>
                 <vendorCode>P3-1105334268</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>спортивна сумка reebok, дорожня сумка рібок, чорна спортивна сумка, чоловіча спортивна сумка, жіноча спортивна сумка, сумка унісекс reebok, місткий спортивний рюкзак сумка, сумка рібок чорна, сумка 1000д, дорожня сумка чорна, сумка для спортзалу reebok, сумка з логотипом reebok, велика спортивна сумка, дорожня сумка унісекс</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного и стильного спутника для тренировок, активного отдыха или путешествий? <strong>Спортивная сумка с большим логотипом Reebok</strong> в классическом черном и темно-сером цветах — это идеальное сочетание практичности, прочности и современного спортивного стиля, которое подойдет как для мужчин, так и для женщин (Unisex).</p><p>Эта модель создана для тех, кто ценит порядок. Благодаря высококачественному сверхпрочному материалу плотностью 1000д, сумка готова к ежедневному активному использованию, сохраняя свой первоначальный вид и надежно защищая ваше содержимое. 1000д, что гарантирует длительный срок службы.</li><li><strong>Оптимальные размеры:</strong> длина — 48 см, ширина — 30 см, глубина — 25 см. Она достаточно вместительна для спортивной формы, обуви или дорожных вещей, но в то же время выглядит аккуратно и компактно.</li> пространство:</strong><br> - Емкое основное отделение закрывается на надежную молнию.<br> - Два внутренних кармана для удобного размещения мелочей, документов или ключей.<br> - Большой внешний карман быстрого доступа для вещей, которые всегда должны быть под рукой.</li><ong></strong> темно-серый/черный цвет и фирменный большой логотип Reebok прекрасно дополнят любой спортивный или повседневный образ.</li></ul><p>Не откладывайте комфорт на потом! Заказывайте оригинальную и вместительную сумку Reebok прямо сейчас и получите надежного помощника для зала и поездок. Количество ограничено – успейте оформить заказ по выгодной цене!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для тренувань, активного відпочинку чи подорожей? <strong>Спортивна сумка з великим логотипом Reebok</strong> у класичному чорному та темно-сірому кольорах — це ідеальне поєднання практичності, міцності та сучасного спортивного стилю, яке підійде як для чоловіків, так і для жінок (Unisex).</p><p>Ця модель створена для тих, хто цінує порядок у речах і надійність у кожній деталі. Завдяки високоякісному надміцному матеріалу щільністю 1000д, сумка готова до щоденного активного використання, зберігаючи свій первинний вигляд і надійно захищаючи ваш вміст.</p<p><strong>Чому варто обрати саме цю сумку Reebok:</strong></p><ul><li><strong>Виняткова міцність:</strong> виготовлена з надзвичайно щільного та зносостійкого матеріалу 1000д, що гарантує тривалий термін служби.</li><li><strong>Оптимальні розміри:</strong> довжина — 48 см, ширина — 30 см, глибина — 25 см. Вона достатньо містка для спортивної форми, взуття чи дорожніх речей, але водночас виглядає акуратно та компактно.</li><li><strong>Продуманий простір:</strong><br> - Ємне основне відділення закривається на надійну блискавку.<br> - Дві внутрішні кишені для зручного розміщення дрібниць, документів чи ключів.<br> - Велика зовнішня кишеня швидкого доступу для речей, які завжди мають бути під рукою.</li><li><strong>Універсальний дизайн (Unisex):</strong> стильний темно-сірий / чорний колір та фірмовий великий логотип Reebok чудово доповнять будь-який спортивний чи повсякденний образ.</li></ul><p>Не відкладайте комфорт на потім! Замовляйте оригінальну та містку сумку Reebok прямо зараз і отримайте надійного помічника для залу та поїздок. Кількість обмежена — встигніть оформити замовлення за вигідною ціною!</p>]]></description_ua>
-                <param name="Бренд">Reebok</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
             <offer id="P3-4429033" available="true" in_stock="true">
                 <url />
-                <name />
+                <name>Сумка дорожная спортивная унисекс TNF черная с большим логотипом.</name>
                 <name_ua>Сумка дорожня спортивна унісекс TNF чорна з великим логотипом</name_ua>
-                <categoryId>139268</categoryId>
+                <categoryId>2000</categoryId>
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
@@ -31052,13 +31029,11 @@
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d2812897389c84b9d42c.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b5adebab8f58ae94d582.jpg</picture>
                 <vendorCode>P3-1603041559</vendorCode>
-                <vendor>-</vendor>
+                <vendor />
                 <keywords>сумка дорожня TNF, спортивна сумка унісекс, сумка з великим логотипом, чорна дорожня сумка, темно-сіра спортивна сумка, сумка 1000д, дорожня сумка на блискавці, сумка для тренувань, чоловіча спортивна сумка, жіноча дорожня сумка, велика сумка для речей, сумка TNF чорна</keywords>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[<p>Ищете надежного и стильного спутника для путешествий, командировок или регулярных тренировок? Универсальная дорожная сумка TNF в практическом темно-сером и черном исполнении разработана специально для тех, кто ценит функциональность и качество деталей. Благодаря дизайну в стиле унисекс (Unisex), она идеально дополнит любой гардероб. ежедневного интенсивного использования.</li><li><strong>Продуманное и вместительное пространство:</strong> Оптимальные размеры (длина – 48 см, ширина – 30 см, глубина – 25 см) позволяют удобно разместить все необходимые вещи – от спортивной формы до дорожного комплекта одежды. отделение надежно закрывается на молнию, сохраняя содержимое в полной безопасности.</li><li><strong>Удобная организация мелочей:</strong> Внутри расположены два специальных кармана для мелких вещей, а снаружи — большой карман быстрого доступа для документов, ключей или телефонов. будням. Заказывайте оригинальную и вместительную сумку TNF прямо сейчас и убедитесь в ее безупречной практичности на собственном опыте!</p>]]></description>
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для подорожей, відряджень чи регулярних тренувань? Універсальна дорожня сумка TNF у практичному темно-сірому та чорному виконанні розроблена спеціально для тих, хто цінує функціональність та високу якість деталей. Завдяки дизайну в стилі унісекс (Unisex), вона ідеально доповнить будь-який гардероб.</p><p><strong>Основні переваги та особливості, які ви оціните:</strong></p><ul><li><strong>Надміцний матеріал:</strong> Сумка виготовлена зі стійкого до зносу матеріалу щільністю 1000д, що забезпечує довговічність виробу навіть за умови щоденного інтенсивного використання.</li><li><strong>Продуманий та місткий простір:</strong> Оптимальні розміри (довжина – 48 см, ширина – 30 см, глибина – 25 см) дозволяють зручно розмістити всі необхідні речі — від спортивної форми до дорожнього комплекту одягу.</li><li><strong>Надійні застібки-блискавки:</strong> Головне велике відділення надійно закривається на блискавку, зберігаючи вміст у повній безпеці.</li><li><strong>Зручна організація дрібниць:</strong> Всередині розташовані дві спеціальні кишені для дрібних речей, а зовні — велика кишеня швидкого доступу для документів, ключів чи телефону.</li></ul><p>Додайте комфорту та стилю вашим щоденним поїздкам чи спортивним будням. Замовляйте оригінальну та містку сумку TNF просто зараз і переконайтеся в її бездоганній практичності на власному досвіді!</p>]]></description_ua>
-                <param name="Бренд">TNF</param>
                 <param name="Размеры (см)">48х30х25</param>
-                <param name="Пол">unisex</param>
             </offer>
         </offers>
     </shop>
