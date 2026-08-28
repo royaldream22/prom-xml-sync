@@ -85,19 +85,17 @@ for index, row in df.iterrows():
     vc = clean_id(row.get('vendorCode', ''))
     if not vc: continue 
         
-    # Проверяем, чей это товар: поставщика или ваш личный
+    # Строгая проверка по базе поставщиков
     if vc in supplier_data:
+        # Товар есть - берем свежую цену и остаток
         sup_info = supplier_data[vc]
     else:
-        # Если товара нет у поставщика, берем цифры из вашей Таблицы
-        raw_qty = str(row.get('quantity_in_stock', '0')).strip()
-        if not raw_qty or raw_qty.lower() == 'nan': 
-            raw_qty = "0"
-            
+        # Товара нет в базе поставщика - значит его удалили или раскупили. 
+        # Отправляем на Пром количество 0.
         sup_info = {
             'price': str(row.get('price', '0')).replace(',', '.'),
             'oldprice': str(row.get('oldprice', '0')).replace(',', '.'),
-            'quantity_in_stock': raw_qty
+            'quantity_in_stock': "0"
         }
         
     # === МОДУЛЬ "ЗАГЛУШКА" И "ГОТОВО К ОТПРАВКЕ" ===
@@ -111,7 +109,6 @@ for index, row in df.iterrows():
     else:
         if int(float(sup_info['quantity_in_stock'])) > 0:
             is_available = "true"
-            # Устанавливаем готовность к отправке по умолчанию
             is_ready = "true" if sheet_ready != "FALSE" else "false"
         else:
             is_available = "false"
