@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-30 15:15">
+<yml_catalog date="2026-08-31 08:22">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -1516,7 +1516,7 @@
                 <price>5186</price>
                 <oldprice>8233</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>10</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/24/sumka-muzhskaya-vintage-14074-korichnevaya.html-65741484963901_+8892f99d37.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/sumka-muzhskaya-vintage-14074-korichnevaya.html-42003077314364_+252cef9a9f.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/24/sumka-muzhskaya-vintage-14074-korichnevaya.html-76678717882438_+4c703266cc.jpg</picture>
@@ -6439,7 +6439,7 @@
                 <price>1840</price>
                 <oldprice>2300</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/15404565221743_+ab84f27896.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/83158210325955_+36db06d039.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/79906375439832_+f9d599eb37.jpg</picture>
@@ -9802,7 +9802,7 @@
                 <price>1084</price>
                 <oldprice>2086</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/16/31798700342168_+b5fcdad102.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/94455142161962_+7a6579c84e.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/16/88822273312102_+974a8842b0.jpg</picture>
@@ -10381,7 +10381,7 @@
                 <price>1392</price>
                 <oldprice>2677</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/27/25485925819103_+ef3fa00015.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/73340785103199_+4ba5cef5a3.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/27/55001549525730_+b0f2c700d4.jpeg</picture>
@@ -10414,7 +10414,7 @@
                 <price>2007</price>
                 <oldprice>2677</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>4</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/28/89728440232149_+857cd181d1.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/15589989929548_+75009a6cc1.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/28/19288468314980_+cc368ba994.jpeg</picture>
@@ -11544,7 +11544,7 @@
                 <price>1010</price>
                 <oldprice>1943</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/29/universalnaya-tekstilnaya-muzhskaya-sumka-na-dva-otdeleniya-vintage-20660-chernaya.html-50792918820705_+026711c704.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/universalnaya-tekstilnaya-muzhskaya-sumka-na-dva-otdeleniya-vintage-20660-chernaya.html-86385774717964_+32a90742bb.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/29/universalnaya-tekstilnaya-muzhskaya-sumka-na-dva-otdeleniya-vintage-20660-chernaya.html-71004517240785_+1185a69a0a.jpg</picture>
@@ -13525,7 +13525,7 @@
                 <price>1204</price>
                 <oldprice>1417</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>15</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/7/27783695379174_+017dec98d5.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/33493086054248_+1167e1ed98.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/7/61283277172006_+816c842abb.jpg</picture>
@@ -15716,7 +15716,7 @@
                 <price>892</price>
                 <oldprice>1716</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/47/68308380094318_+c0ea4b4424.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/66630452884555_+fde69e8f56.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/47/kompaktnyj-ryukzak-iz-poliestera-s-bolshim-kolichestvom-karmanov-vintage-22144-bordovyj.html-55759390642224_+d8d8d2ce3e.jpg</picture>
@@ -15748,7 +15748,7 @@
                 <price>922</price>
                 <oldprice>1774</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/49/41303870145507_+0bcc3dc648.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/49/42332971362570_+6802bdb7db.jpeg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/49/nadezhnyj-ryukzak-iz-poliestera-s-bolshim-kolichestvom-karmanov-vintage-22146-sinij.html-15683187106554_+d214202542.jpg</picture>
@@ -17825,7 +17825,7 @@
                 <price>2232</price>
                 <oldprice>2861</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/35/60386186279856_+0b5c84388d.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/41932869101146_+150f4718c0.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/35/73268046306788_+54944f13b4.jpg</picture>
@@ -22444,7 +22444,7 @@
                 <price>789</price>
                 <oldprice>1972</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>10</quantity_in_stock>
+                <quantity_in_stock>9</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/50/letnyaya-zhenskaya-sumka-cherez-plecho-v-klassicheskom-tsvete-iz-naturalnoj-kozhi-vintage-22657-bezhevaya.html-74628214160432_+bac3c752eb.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/letnyaya-zhenskaya-sumka-cherez-plecho-v-klassicheskom-tsvete-iz-naturalnoj-kozhi-vintage-22657-bezhevaya.html-20962313553401_+f14291f1ed.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/50/letnyaya-zhenskaya-sumka-cherez-plecho-v-klassicheskom-tsvete-iz-naturalnoj-kozhi-vintage-22657-bezhevaya.html-42366758114577_+ddb4a1ce63.jpg</picture>
@@ -30168,7 +30168,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/aeba6336bad45a95e673.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f24fd696ccb0691abee6.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f659e4b7ba81b8abf2d3.jpg</picture>
@@ -30493,7 +30493,7 @@
                 <portal_category_id />
                 <price>579</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>87</quantity_in_stock>
+                <quantity_in_stock>86</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d9b04bbeb24edce52ed.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6eaa7e24bfecfebce1fc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb27ba26a11b6e645196.png</picture>
@@ -30807,7 +30807,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45ac86adc15c8f507ddb.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1271f3e6f5db912a3b98.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
@@ -30893,7 +30893,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d1aee89332d77026228d.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/981fded7c7de46e0f44a.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/492bc1abdd1b0a8fd38d.png</picture>
