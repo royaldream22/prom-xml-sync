@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-06 14:01">
+<yml_catalog date="2026-09-06 17:33">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -4954,7 +4954,7 @@
                 <price>853</price>
                 <oldprice>1138</oldprice>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://sumkioptom.com.ua/content/images/34/85726490522235_+4b2f99ab27.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/34/37242130691431_+3f6a7f5991.jpg</picture>
                 <picture>https://sumkioptom.com.ua/content/images/34/50475896452070_+268fc44ee8.jpg</picture>
@@ -30513,7 +30513,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>417</quantity_in_stock>
+                <quantity_in_stock>418</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -30788,7 +30788,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>28</quantity_in_stock>
+                <quantity_in_stock>27</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f23eb3374d75dbe7bfe8.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
@@ -30799,7 +30799,7 @@
                 <description_ua><![CDATA[<p>Шукаєте надійного та стильного супутника для тренувань, подорожей чи щоденних справ? <strong>Спортивно-дорожня сумка Puma</strong> у класичному чорному кольорі з великим фірмовим логотипом — це ідеальне поєднання практичності, міцності та сучасного спортивного стилю. Завдяки універсальному формату Unisex, вона однаково чудово підходить як для чоловіків, так і для жінок.</p><p>Ця модель створена для тих, хто цінує порядок і комфорт. Виготовлена з надміцного матеріалу щільністю 1000d, сумка надійно захистить ваші речі від зносу та збереже первісний вигляд навіть за умови інтенсивної експлуатації.</p><strong>Головні переваги та особливості моделі:</strong><ul><li><strong>Високоміцний матеріал 1000d:</strong> забезпечує чудову довговічність, зносостійкість та стійкість до пошкоджень.</li><li><strong>Продумана місткість:</strong> велике основне відділення на блискавці дозволяє зручно упакувати все необхідне взуття, форму чи дорожні речі.</li><li><strong>Зручна організація:</strong> дві внутрішні кишені для дрібниць допоможуть акуратно зберігати документи, ключі чи гаджети.</li><li><strong>Швидкий доступ:</strong> велика зовнішня кишеня на блискавці ідеальна для речей, які завжди мають бути під рукою в дорозі.</li><li><strong>Оптимальні габарити:</strong> довжина 48 см, ширина 30 см та глибина 25 см роблять її ідеальним варіантом як для залу, так і як ручної поклажі.</li></ul><p><strong>Обирайте комфорт і практичність в одному флаконі!</strong> Натискайте кнопку «Купити», щоб замовити стильну сумку Puma за найкращою ціною на Prom.ua. Гарантуємо швидку доставку, якісний сервіс та повну відповідність фото!</p>]]></description_ua>
                 <param name="Размеры (см)">48х30х25</param>
             </offer>
-            <offer id="P3-4940045" available="true" in_stock="true">
+            <offer id="P3-4940045" available="false" in_stock="false">
                 <url />
                 <name>Спортивная дорожная сумка Nike черный унисекс с большим логотипом</name>
                 <name_ua>Спортивна дорожня сумка Nike чорна унісекс з великим логотипом</name_ua>
@@ -30807,7 +30807,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45ac86adc15c8f507ddb.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1271f3e6f5db912a3b98.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
@@ -30873,7 +30873,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>18</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/22b0bedd5ba38c7d017b.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b3575412e12b02eac00f.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ceec5cfaea92b9af6037.png</picture>
@@ -30893,7 +30893,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d1aee89332d77026228d.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/981fded7c7de46e0f44a.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/492bc1abdd1b0a8fd38d.png</picture>
@@ -31000,7 +31000,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ab5f20ed436108c02232.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/69f72e2b832d82a2dd06.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4f528fe85da09ef182bf.jpg</picture>
@@ -31022,7 +31022,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>13</quantity_in_stock>
+                <quantity_in_stock>12</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c4108b3996d01c48bcfe.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/46534bdb68fea13c6207.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f866f7f018c9cba40b70.png</picture>
