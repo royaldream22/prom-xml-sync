@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-12 13:55">
+<yml_catalog date="2026-09-12 17:42">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -30788,7 +30788,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>22</quantity_in_stock>
+                <quantity_in_stock>21</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f23eb3374d75dbe7bfe8.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
@@ -30959,7 +30959,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>9</quantity_in_stock>
+                <quantity_in_stock>8</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/13a9d35e042d5ca059c7.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f2710fc67f173d5ec9fa.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2e169a75790d20fdcd4b.jpg</picture>
@@ -30979,7 +30979,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>5</quantity_in_stock>
+                <quantity_in_stock>4</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b72c38191fd6f8a91946.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bcf654edd948b7fde848.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bab1b4bb0078bc570142.png</picture>
