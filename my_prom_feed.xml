@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-15 07:09">
+<yml_catalog date="2026-10-15 15:31">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -527,7 +527,7 @@
                 <portal_category_id />
                 <price>499</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>428</quantity_in_stock>
+                <quantity_in_stock>427</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec934c8ff08bf04054b3.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc6b73ed77604c066881.jfif</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78e2b6d5e1151d29cb59.jfif</picture>
@@ -680,7 +680,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>58</quantity_in_stock>
+                <quantity_in_stock>57</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f23eb3374d75dbe7bfe8.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
@@ -699,7 +699,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>45</quantity_in_stock>
+                <quantity_in_stock>44</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45ac86adc15c8f507ddb.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1271f3e6f5db912a3b98.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
@@ -741,7 +741,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/afca78e85198d8b90f3c.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/97e3360c57b56d520f80.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/16d104f11cb841a99644.png</picture>
@@ -828,7 +828,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>32</quantity_in_stock>
+                <quantity_in_stock>31</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b8100dd7b68be39b4e86.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4834bac6de530e43cd66.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/df05227a7f358e9e3f71.png</picture>
@@ -851,7 +851,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>29</quantity_in_stock>
+                <quantity_in_stock>30</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/13a9d35e042d5ca059c7.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f2710fc67f173d5ec9fa.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2e169a75790d20fdcd4b.jpg</picture>
@@ -871,7 +871,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>12</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b72c38191fd6f8a91946.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bcf654edd948b7fde848.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bab1b4bb0078bc570142.png</picture>
@@ -931,11 +931,11 @@
                 <url />
                 <name>Рюкзак городской спортивный черный унисекс водостойкий</name>
                 <name_ua>Рюкзак міський спортивний чорний унісекс водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>589</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>438</quantity_in_stock>
+                <quantity_in_stock>436</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e39c106bddc3841240e3.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/992b33d0a4b8223ffb4b.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/14c329b587207b628582.jpg</picture>
@@ -957,7 +957,7 @@
                 <url />
                 <name>Рюкзак черный водостойкий из кожзама.</name>
                 <name_ua>Рюкзак чорний водостійкий з кожзаму</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>599</price>
                 <currencyId>UAH</currencyId>
@@ -987,7 +987,7 @@
                 <url />
                 <name>Рюкзак Nike Loft черный с белым лого, водостойкий.</name>
                 <name_ua>Рюкзак Nike Loft чорний з білим лого, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>599</price>
                 <currencyId>UAH</currencyId>
@@ -1014,11 +1014,11 @@
                 <url />
                 <name>Рюкзак Nike Loft черный с большим лого, водостойкий, 21 л.</name>
                 <name_ua>Рюкзак Nike Loft чорний з великим лого, водостійкий, 21 л</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>599</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>709</quantity_in_stock>
+                <quantity_in_stock>710</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/66c817726ef042174a0f.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/da03c05b9a20064d1e3e.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/85da8e464fdc8537efc6.jpg</picture>
@@ -1044,7 +1044,7 @@
                 <url />
                 <name>Рюкзак Nike черный с большим белым лого 21 л.</name>
                 <name_ua>Рюкзак Nike чорний з великим білим лого 21 л, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1074,7 +1074,7 @@
                 <url />
                 <name>Рюкзак Puma черный с белым лого 21 л, легкий, водостойкий.</name>
                 <name_ua>Рюкзак Puma чорний з білим лого 21 л, легкий, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1103,7 +1103,7 @@
                 <url />
                 <name>Рюкзак TNF черный с белым лого.</name>
                 <name_ua>Рюкзак TNF чорний з білим лого</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1131,7 +1131,7 @@
                 <url />
                 <name>Рюкзак Calvin Klein черный с белым лого</name>
                 <name_ua>Рюкзак Calvin Klein чорний з білим лого</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1154,7 +1154,7 @@
                 <url />
                 <name>Рюкзак Stone Island черный с белым лого, водостойкий.</name>
                 <name_ua>Рюкзак Stone Island чорний з білим лого, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1176,7 +1176,7 @@
                 <url />
                 <name>Рюкзак Puma черный с большим лого, легкий, водостойкий, 17х43х29 см.</name>
                 <name_ua>Рюкзак Puma чорний з великим лого, легкий, водостійкий, 17х43х29 см</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1199,11 +1199,11 @@
                 <url />
                 <name>Рюкзак Nike черный с большим лого, водостойкий.</name>
                 <name_ua>Рюкзак Nike чорний з великим лого, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>73</quantity_in_stock>
+                <quantity_in_stock>74</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f7f04fc0291da4e90ec0.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9379df48d39407cb7ae9.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e51bada27da549d0371f.png</picture>
@@ -1222,7 +1222,7 @@
                 <url />
                 <name>Рюкзак Kappa черный с большим белым лого, водостойкий.</name>
                 <name_ua>Рюкзак Kappa чорний з великим білим лого, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1250,7 +1250,7 @@
                 <url />
                 <name>Рюкзак New Balance черный с большим белым лого, водостойкий.</name>
                 <name_ua>Рюкзак New Balance чорний з великим білим лого, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1277,7 +1277,7 @@
                 <url />
                 <name>Рюкзак Under Armour черный с большим белым лого.</name>
                 <name_ua>Рюкзак Under Armour чорний з великим білим лого водостійкий легкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>399</price>
                 <currencyId>UAH</currencyId>
@@ -1299,7 +1299,7 @@
                 <url />
                 <name>Рюкзак Adidas черный с большим белым лого, функциональный.</name>
                 <name_ua>Рюкзак Adidas чорний з великим білим лого, функціональний</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1321,7 +1321,7 @@
                 <url />
                 <name>Рюкзак Jordan черный с большим белым лого, водостойкий.</name>
                 <name_ua>Рюкзак Jordan чорний з великим білим лого, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1343,7 +1343,7 @@
                 <url />
                 <name>Рюкзак черный без лого водостойкий</name>
                 <name_ua>Рюкзак чорний без лого водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
@@ -1365,7 +1365,7 @@
                 <url />
                 <name>Рюкзак Nike черно-белый легкий функциональный</name>
                 <name_ua>Рюкзак Nike чорно-білий легкий функціональний</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1385,7 +1385,7 @@
                 <url />
                 <name>Рюкзак Intruder серый камуфляж 45х27х16 см для ноутбука</name>
                 <name_ua>Рюкзак Intruder сірий камуфляж 45х27х16 см для ноутбука</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1416,7 +1416,7 @@
                 <url />
                 <name>Рюкзак Puma черно-белый легкий функциональный с карманами</name>
                 <name_ua>Рюкзак Puma чорно-білий легкий функціональний з кишенями</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>399</price>
                 <currencyId>UAH</currencyId>
@@ -1436,7 +1436,7 @@
                 <url />
                 <name>Рюкзак Under Armour черно-белый</name>
                 <name_ua>Рюкзак Under Armour чорно-білий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1457,7 +1457,7 @@
                 <url />
                 <name>Рюкзак Reebok черно-красный</name>
                 <name_ua>Рюкзак Reebok чорно-червоний</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1479,7 +1479,7 @@
                 <url />
                 <name>Рюкзак Jordan черно-белый с ярким принтом</name>
                 <name_ua>Рюкзак Jordan чорно-білий з яскравим принтом</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>399</price>
                 <currencyId>UAH</currencyId>
@@ -1499,7 +1499,7 @@
                 <url />
                 <name>Рюкзак New Balance черно-розовый легкий функциональный</name>
                 <name_ua>Рюкзак New Balance чорно-рожевий легкий функціональний</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1519,7 +1519,7 @@
                 <url />
                 <name>Рюкзак черно-белый с кедами</name>
                 <name_ua>Рюкзак чорно-білий з кедами</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1538,7 +1538,7 @@
                 <url />
                 <name>Рюкзак Under Armour Loft черный с большим логотипом</name>
                 <name_ua>Рюкзак Under Armour Loft чорний з великим логотипом</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1567,7 +1567,7 @@
                 <url />
                 <name>Рюкзак Fazan V серый камуфляж</name>
                 <name_ua>Рюкзак Fazan V сірий камуфляж</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>449</price>
                 <currencyId>UAH</currencyId>
@@ -1592,7 +1592,7 @@
                 <url />
                 <name>Рюкзак черный с кожаным дном, водостойкий.</name>
                 <name_ua>Рюкзак чорний з шкіряним дном, водостійкий</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>429</price>
                 <currencyId>UAH</currencyId>
@@ -1611,7 +1611,7 @@
                 <url />
                 <name>Рюкзак Матрас черный без лого 47х33х18 см.</name>
                 <name_ua>Рюкзак Матрас чорний без лого 47х33х18 см</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>449</price>
                 <currencyId>UAH</currencyId>
@@ -1637,7 +1637,7 @@
                 <url />
                 <name>Рюкзак Nike Матрац темный меланж с белым логотипом</name>
                 <name_ua>Рюкзак Nike Матрас темний меланж з білим логотипом</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1666,7 +1666,7 @@
                 <url />
                 <name>Рюкзак Adidas серый меланж с белым лого 47х33х18 см.</name>
                 <name_ua>Рюкзак Adidas сірий меланж з білим лого 47х33х18 см</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>269</price>
                 <currencyId>UAH</currencyId>
@@ -1687,7 +1687,7 @@
                 <url />
                 <name>Рюкзак Матрац синий с белым логотипом 47х33х18 см.</name>
                 <name_ua>Рюкзак Матрас синій з білим логотипом 47х33х18 см</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>299</price>
                 <currencyId>UAH</currencyId>
@@ -1714,7 +1714,7 @@
                 <url />
                 <name>Рюкзак Матрас синий с черным логотипом 47х33х18 см.</name>
                 <name_ua>Рюкзак Матрас синій з чорним логотипом 47х33х18 см</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1741,7 +1741,7 @@
                 <url />
                 <name>Рюкзак Матрас синий меланж с белым лого 47х33х18 см.</name>
                 <name_ua>Рюкзак Матрас синій меланж з білим лого 47х33х18 см</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
@@ -1760,7 +1760,7 @@
                 <url />
                 <name>Рюкзак Матрас сірий 47х33х18 см</name>
                 <name_ua>Рюкзак Матрас сірий 47х33х18 см</name_ua>
-                <categoryId>135459</categoryId>
+                <categoryId>1000</categoryId>
                 <portal_category_id />
                 <price>269</price>
                 <currencyId>UAH</currencyId>
@@ -1779,6 +1779,726 @@
                 <param name="Цвет">Сірий</param>
                 <param name="Материал">Kiten</param>
                 <param name="Особенности сумки">Водостійкий, регульовані лямки, кишеня для планшета/нетбука</param>
+            </offer>
+            <offer id="P3-4782767" available="true" in_stock="true">
+                <url />
+                <name>Барсетка чорно-біла графіті Unisex, 500 PU, 22х16х7 см</name>
+                <name_ua>Барсетка чорнобіла графіті Unisex, 500 PU, 22х16х7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>15</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b19f610392f4deb41fe9.jpg</picture>
+                <vendorCode>P3-1853643378</vendorCode>
+                <vendor />
+                <keywords>барсетка, графіті, чорно-біла, сумка, unisex, 500 PU, стильна сумка, зручність, розмір 22х16х7, 3 відділення</keywords>
+                <description><![CDATA[<p><strong>Барсетка чорно-біла графіті</strong> — стильний аксессуар для щоденного використання.</p><p>🎯 <strong>Матеріал:</strong> 500 PU<br />⚫️ <strong>Колір:</strong> Чорний<br />🚻 <strong>Стать:</strong> Unisex</p><p>📏 <strong>Розмір сумки:</strong><br />Довжина - 22см, Ширина - 16см, Глибина - 7см.</p><p>👜 Сумка має 3 відділення: </p><ul><li>1 основне відділення на блискавці</li><li>1 додаткова зовнішня кишеня на блискавці</li><li>1 додаткова кишеня всередені (без блискавки)</li></ul><p>Забезпечте себе зручністю і стилем із цією барсеткою!</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка чорнобіла графіті</strong> — стильний аксесуар для щоденного використання.</p><p>🎯 <strong>Матеріал:</strong> 500 PU<br />⚫️ <strong>Колір:</strong> Чорний<br />🚻 <strong>Стать:</strong> Unisex</p><p>📏 <strong>Розмір сумки:</strong><br />Довжина - 22см, Ширина - 16см, Глибина - 7см.</p><p>👜 Сумка має 3 відділення: </p><ul><li>1 основне відділення на блискавці</li><li>1 додаткова зовнішня кишеня на блискавці</li><li>1 додаткова кишеня всередині (без блискавки)</li></ul><p>Забезпечте себе зручністю і стилем із цією барсеткою!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-4782768" available="true" in_stock="true">
+                <url />
+                <name>Барсетка / Сумка Nike v7 черная, 500 PU, 22x16x7 см</name>
+                <name_ua>Барсетка / Сумка Nike v7 чорна, 500 PU, 22x16x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>6</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3c493e4fdcb6f3b3f4e6.jpg</picture>
+                <vendorCode>P3-1724644855</vendorCode>
+                <vendor />
+                <keywords>барсетка Нike, сумка черная, сумка на молнии, сумка унисекс, сумка из PU, размер 22x16x7, стильная сумка, аксессуары, сумка с карманами, Nike v7</keywords>
+                <description><![CDATA[<p><strong>Барсетка Nike v7</strong> — это стильное и функциональное решение для повседневного использования.</p><p><strong>Материал:</strong> 500 PU</p><p><strong>Цвет:</strong> черный</p><p><strong>Пол:</strong> Unisex</p><h3>Размер сумки:</h3><ul><li>Длина - 22 см</li><li>Ширина - 16 см</li><li>Глубина - 7 см</li></ul><h3>Отделения:</h3><ul><li>1 основное отделение на молнии</li><li>1 дополнительная внешняя карман на молнии</li><li>1 дополнительный карман внутри (без молнии)</li></ul><p>Для более детальной информации смотрите <a href="https://drive.google.com/drive/u/1/folders/13fiozBuzhQGuouqvQqaJn3f4_AesCABB">здесь</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Nike v7</strong> — це стильне та функціональне рішення для повсякденного використання.</p><p><strong>Матеріал:</strong> 500 PU</p><p><strong>Колір:</strong> чорний</p><p><strong>Стать:</strong> Unisex</p><h3>Розмір сумки:</h3><ul><li>Довжина - 22 см</li><li>Ширина - 16 см</li><li>Глибина - 7 см</li></ul><h3>Відділення:</h3><ul><li>1 основне відділення на блискавці</li><li>1 додаткова зовнішня кишеня на блискавці</li><li>1 додаткова кишеня всередині (без блискавки)</li></ul><p>Для більш детальної інформації дивіться <a href="https://drive.google.com/drive/u/1/folders/13fiozBuzhQGuouqvQqaJn3f4_AesCABB">тут</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-4782764" available="true" in_stock="true">
+                <url />
+                <name>Барсетка / Сумки Nike v6 черная, 500 PU, 22x16x7 см</name>
+                <name_ua>Барсетка / Сумки Nike v6 чорна, 500 PU, 22x16x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>22</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bab494a9252fe4e181e8.jpg</picture>
+                <vendorCode>P3-1007788826</vendorCode>
+                <vendor />
+                <keywords>барсетка, Nike, сумка, черная, 500 PU, unisex, размер, 22 см, 16 см, 7 см, три отсека, отделение на молнии</keywords>
+                <description><![CDATA[<p>Представляем вашему вниманию барсетку Nike v6!</p><p><strong>Материал:</strong> 500 PU</p><p><strong>Цвет:</strong> Черный</p><p><strong>Стать:</strong> Unisex</p><h3>Размер сумки:</h3><ul><li>Длина - 22 см</li><li>Ширина - 16 см</li><li>Глубина - 7 см</li></ul><h3>Особенности:</h3><p>Сумка имеет 3 отделения:</p><ul><li>1 основное отделение на молнии</li><li>1 дополнительную внешнюю карман на молнии</li><li>1 дополнительный карман внутри (без молнии)</li></ul><p>Больше фото:<br/><a href="https://drive.google.com/drive/u/1/folders/13fiozBuzhQGuouqvQqaJn3f4_AesCABB">Смотреть</a></p>]]></description>
+                <description_ua><![CDATA[<p>Пропонуємо вашій увазі барсетку Nike v6!</p><p><strong>Матеріал:</strong> 500 PU</p><p><strong>Колір:</strong> Чорний</p><p><strong>Стать:</strong> Unisex</p><h3>Розмір сумки:</h3><ul><li>Довжина - 22 см</li><li>Ширина - 16 см</li><li>Глибина - 7 см</li></ul><h3>Особливості:</h3><p>Сумка має 3 відділення:</p><ul><li>1 основне відділення на блискавці</li><li>1 додаткову зовнішню кишеню на блискавці</li><li>1 додатковий кишеню всередині (без блискавки)</li></ul><p>Більше фото:<br/><a href="https://drive.google.com/drive/u/1/folders/13fiozBuzhQGuouqvQqaJn3f4_AesCABB">Дивитися</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-4434572" available="false" in_stock="false">
+                <url />
+                <name>Барсетка Nike v5 черная из PU 22x16x7 см</name>
+                <name_ua>Барсетка Nike v5 чорна з PU 22x16x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6265a75a325ea4fb6b5b.png</picture>
+                <vendorCode>P3-1651920521</vendorCode>
+                <vendor />
+                <keywords>барсетка, Nike, черная, PU, unisex, сумка, размер 22 см, размер 16 см, размер 7 см, стильная сумка</keywords>
+                <description><![CDATA[<p>Представляем вам стильную барсетку Nike v5 в черном цвете, выполненную из качественного материала 500 PU.</p><h3>Основные характеристики:</h3><ul><li><strong>Цвет:</strong> черный</li><li><strong>Стиль:</strong> Unisex</li><li><strong>Размер сумки:</strong></li><ul><li>Длина - 22 см</li><li>Ширина - 16 см</li><li>Глубина - 7 см</li></ul></li></ul><h3>Удобство и функциональность:</h3><p>Сумка имеет три отделения:</p><ul><li>1 основное отделение на молнии</li><li>1 дополнительная внешняя кармашек на молнии</li><li>1 дополнительный карман внутри (без молнии)</li></ul><p>Не упустите возможность сделать вашу повседневную жизнь более удобной и стильной с этой барсеткой!</p><p>Больше фото: <a href='https://drive.google.com/drive/u/1/folders/13fiozBuzhQGuouqvQqaJn3f4_AesCABB'>ссылка</a></p>]]></description>
+                <description_ua><![CDATA[<p>Представляємо вам стильну барсетку Nike v5 чорного кольору, виготовлену з якісного матеріалу 500 PU.</p><h3>Основні характеристики:</h3><ul><li><strong>Колір:</strong> чорний</li><li><strong>Стиль:</strong> Unisex</li><li><strong>Розмір сумки:</strong></li><ul><li>Довжина - 22 см</li><li>Ширина - 16 см</li><li>Глибина - 7 см</li></ul></li></ul><h3>Зручність та функціональність:</h3><p>Сумка має три відділення:</p><ul><li>1 основне відділення на блискавці</li><li>1 додаткова зовнішня кишеня на блискавці</li><li>1 додаткова кишеня всередині (без блискавки)</li></ul><p>Не пропустіть можливість зробити ваше повсякденне життя більш зручним та стильним з цією барсетою!</p><p>Більше фото: <a href='https://drive.google.com/drive/u/1/folders/13fiozBuzhQGuouqvQqaJn3f4_AesCABB'>посилання</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-4382159" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Nike сірий меланж, поліестер, 24 х 20 х 7 см</name>
+                <name_ua>Барсетка Nike сірий меланж, поліестер, 24 х 20 х 7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>39</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b10d5c43e4d1a75e8fcd.jpg</picture>
+                <vendorCode>P3-1202511660</vendorCode>
+                <vendor />
+                <keywords>барсетка, Nike, сірий меланж, поліестер, аксесуар, модний, практичний, стильний, розмір 24 х 20 х 7 см, чоловіча барсетка</keywords>
+                <description><![CDATA[<p>Представляем вам стильную барсетку от бренда <strong>Nike</strong>, которая сочетает в себе практичность и современный дизайн!</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 х 20 х 7 см;</li><li><strong>Материал:</strong> Поліестер 600д;</li><li><strong>Регулируемая длина ремня;</strong></li><li><strong>Фирменная фурнитура;</strong></li><li><strong>Основное отделение:</strong> одно большое отделение на застежке сверху;</li><li><strong>Дополнительные карманы:</strong> карман на змейке сзади и карман без змейки спереди.</li></ul><p>Не упустите возможность сделать стильный аксессуар частью вашего образа!</p>]]></description>
+                <description_ua><![CDATA[<p>Пропонуємо вам стильну барсетку від бренду <strong>Nike</strong>, яка поєднує в собі практичність і сучасний дизайн!</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см;</li><li><strong>Матеріал:</strong> Поліестер 600д;</li><li><strong>Регульована довжина ремінця;</strong></li><li><strong>Фірмова фурнітура;</strong></li><li><strong>Основне відділення:</strong> одне велике відділення на змійці зверху;</li><li><strong>Додаткові кишені:</strong> кишеня на змійці ззаду та кишеня без змійки спереду.</li></ul><p>Не пропустіть можливість зробити стильний аксесуар частиною вашого образу!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-1827454" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Nike светло-серый меланж, полиэстер, 24x20x7 см</name>
+                <name_ua>Барсетка Nike світло-сірий меланж, поліестер, 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>90</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/762f9eb9b9a2c243581e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9d76fc426aed8342f72a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0fd9bd44399ef850156e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1ac1799fa79957477f35.jpg</picture>
+                <vendorCode>P3-8862803480</vendorCode>
+                <vendor />
+                <keywords>барсетка Nike, светло-серый меланж, полиэстер, стильный аксессуар, сумка, повседневное использование, размеры барсетки, карманы, аксессуары, фурнитура</keywords>
+                <description><![CDATA[<p><strong>Барсетка Nike</strong> в светло-сером меланже — это стильный и практичный аксессуар, который идеально подойдет для повседневного использования.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 х 20 х 7 см</li><li><strong>Материал:</strong> Поліестер 600д</li><li><strong>Регулируемая длина ремешка</strong></li><li><strong>Фирменная фурнитура</strong></li><li><strong>Одно большое отделение на застежке сверху</strong></li><li><strong>Карманы:</strong> задний карман на застежке, передний карман без застежки</li></ul><p>Больше фото доступно по ссылке: <a href='https://drive.google.com/drive/folders/1DbErB5o9AUYe10_9u4Dymg8ZFow1rPqX'>фото барсетки</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Nike</strong> у світло-сірому меланжі — це стильний та практичний аксесуар, який чудово підійде для щоденного використання.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см</li><li><strong>Матеріал:</strong> Поліестер 600д</li><li><strong>Регульована довжина ремінця</strong></li><li><strong>Фірмова фурнітура</strong></li><li><strong>Одне велике відділення на змійці зверху</strong></li><li><strong>Кишені:</strong> задня кишеня на змійці, передня кишеня без змійки</li></ul><p>Більше фото доступні за посиланням: <a href='https://drive.google.com/drive/folders/1DbErB5o9AUYe10_9u4Dymg8ZFow1rPqX'>фото барсетки</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-921973" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Puma 1000D черная, размер 24 х 20 х 7 см, черное лого</name>
+                <name_ua>Барсетка Puma 1000D чорна, розмір 24 х 20 х 7 см, чорне лого</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>102</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3ad91ca782b3223bfce5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a67f93a07019fe6872bd.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b40e20927ab942c2dc0c.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6a557b3fc3ad17182f65.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1df750a7fd9cee567a6e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ddfe1674c189ac432fb2.jpg</picture>
+                <vendorCode>P3-1578006344</vendorCode>
+                <vendor />
+                <keywords>барсетка, Puma, черная барсетка, 1000D, сумка на пояс, стильная барсетка, компактная сумка, мужская барсетка, аксессуары, сумка Puma, барсетка с логотипом</keywords>
+                <description><![CDATA[<p><strong>Барсетка Puma</strong> - идеальное сочетание стиля и функциональности.</p><ul><li><strong>Размер:</strong> 24 х 20 х 7 см;</li><li><strong>Материал:</strong> Поліестер 1000д;</li><li><strong>Регулируемая длина ремешка;</strong></li><li><strong>Фирменная фурнитура;</strong></li><li><strong>Одно большое отделение на змейке сверху;</strong></li><li><strong>Кармашек на змейке сзади;</strong></li><li><strong>Передний карман без змейки;</strong></li><li><strong>Логотип - вышит.</strong></li></ul><p><strong>Больше фото:</strong> <a href="https://drive.google.com/drive/folders/1NkZNHIkBbrcgDr1Gh5GcHwv_cN9MI5KO">Перейти к фото</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Puma</strong> - ідеальне поєднання стилю та функціональності.</p><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см;</li><li><strong>Матеріал:</strong> Поліестер 1000д;</li><li><strong>Регульована довжина ремінця;</strong></li><li><strong>Фірмова фурнітура;</strong></li><li><strong>Одне велике відділення на змійці зверху;</strong></li><li><strong>Кишеня на змійці ззаду;</strong></li><li><strong>Передня кишеня без змійки;</strong></li><li><strong>Логотип - вишит.</strong></li></ul><p><strong>Більше фото:</strong> <a href="https://drive.google.com/drive/folders/1NkZNHIkBbrcgDr1Gh5GcHwv_cN9MI5KO">Перейти до фото</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-862607" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Under Armour темно-сірий меланж, Поліестер, 24 х 20 х 7 см</name>
+                <name_ua>Барсетка Under Armour темно-сірий меланж, Поліестер, 24 х 20 х 7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>42</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a6423a1277226909ba8c.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f9ab01d93b54708075ba.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1b18fd16244ac5becf9b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f5bb8ff98b78203bac7b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e2c4e55e8181f70083d3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bd41f03f27a9f6bc4e32.jpg</picture>
+                <vendorCode>P3-2241230155</vendorCode>
+                <vendor />
+                <keywords>барсетка, Under Armour, темно-сірий, меланж, поліестер, 24 х 20 х 7 см, стиль, удобство, качественные аксессуары, сумки</keywords>
+                <description><![CDATA[<p>Представляем барсетку от известного бренда <strong>Under Armour</strong>, выполненную в стиле темно-сірого меланжа. Эта стильная и функциональная модель станет отличным спутником в повседневной жизни.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 х 20 х 7 см</li><li><strong>Материал:</strong> Поліестер 600д</li><li><strong>Регулируемая длина ремня</strong></li><li><strong>Фирменная фурнитура</strong></li></ul><p>Барсетку оборудовано одним большим отделением на змейке сверху, а также карманом на змейке на задней стороне и карманом без змейки спереди.</p><p>Купите барсетку Under Armour и оцените ее качество и комфорт!</p>]]></description>
+                <description_ua><![CDATA[<p>Пропонуємо вам барсетку від відомого бренду <strong>Under Armour</strong>, виконану в темно-сірому меланжі. Ця стильна та функціональна модель стане чудовим супутником у повсякденному житті.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см</li><li><strong>Матеріал:</strong> Поліестер 600д</li><li><strong>Регульована довжина ремінця</strong></li><li><strong>Фірмова фурнітура</strong></li></ul><p>Барсетку обладнано одним великим відділенням на змійці зверху, а також кишенею на змійці на задній стороні та кишенею без змійки спереду.</p><p>Придбайте барсетку Under Armour та оцініть її якість і комфорт!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-761392" available="true" in_stock="true">
+                <url />
+                <name>Барсетка мужская маленькая черная без лого из полиэстера</name>
+                <name_ua>Барсетка чоловіча маленька чорна без лого з поліестеру</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>333</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8c89a0d266e2f6615304.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b3f79f7b6a2fa2eb59f2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/13b33777f1d65d5ecad5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5bccb8f29d5fbfef731a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3e9ea81386a3e9a93987.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b5152d4834d1f3ad7403.jpg</picture>
+                <vendorCode>P3-1844136999</vendorCode>
+                <vendor />
+                <keywords>барсетка, мужская барсетка, черная барсетка, маленькая барсетка, барсетка без логотипа, аксессуар для мужчин, барсетка из полиэстера, модная барсетка, стильная барсетка, барсетка с карманами, барсетка на ремешке</keywords>
+                <description><![CDATA[<p><strong>Стильная и практичная барсетка</strong> — идеальный аксессуар для мужчин, предпочитающих минимализм.</p><h3>Характеристики:</h3><ul><li>Логотип: без лого</li><li>Материал: 100% полиэстер</li><li>Регулируемая длина ремешка</li><li>Одно большое отделение на змейке</li><li>Карманы на змейке спереди и сзади</li><li>Фирменная фурнитура</li></ul><p>Эта барсетка обеспечивает удобство и стиль в повседневной жизни. <strong>Больше фото:</strong> <a href="https://drive.google.com/drive/folders/1G2oWMMoSv38aAeh5LqIAfmwlqT7p0Tgt">Нажмите здесь</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Стильна та практична барсетка</strong> — ідеальний аксесуар для чоловіків, які віддають перевагу мінімалізму.</p><h3>Характеристики:</h3><ul><li>Логотип: без лого</li><li>Матеріал: 100% поліестер</li><li>Регульована довжина ремінця</li><li>Одне велике відділення на змійці</li><li>Кишеня на змійці спереду та ззаду</li><li>Фірмова фурнітура</li></ul><p>Ця барсетка забезпечує зручність та стиль у повсякденному житті. <strong>Більше фото:</strong> <a href="https://drive.google.com/drive/folders/1G2oWMMoSv38aAeh5LqIAfmwlqT7p0Tgt">Натисніть тут</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-754844" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Under Armour темный меланж, полиэстер 600д, 24x20x7 см</name>
+                <name_ua>Барсетка Under Armour темний меланж, поліестер 600д, 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>70</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d0cdd4439af85b75701d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/49dbe3561c528c5359a5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/04ae3c07673b6e7b3c93.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/173807f6868bea21a5d3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2c7962e77bbb25d1618e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/80408b530d5a8fd40500.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/48b3670617431169c456.jpg</picture>
+                <vendorCode>P3-2240260142</vendorCode>
+                <vendor />
+                <keywords>барсетка, Under Armour, темный меланж, полиэстер, 24x20x7 см, стильная барсетка, удобная барсетка, регулируемый ремешок, отделение на молнии, карман</keywords>
+                <description><![CDATA[<p><strong>Барсетка Under Armour</strong> выполнена в стильном темном меланже и станет отличным компаньоном для любой активной жизни. Размеры барсетки составляют <strong>24 х 20 х 7 см</strong>, что делает ее компактной и удобной для ношения.</p><p>Изготовлена из прочного <strong>полиэстера 600д</strong>, она гарантирует долговечность и защиту ваших вещей. Особенности дизайна:</p><ul><li>регулируемая длина ремешка;</li><li>одно большое отделение на молнии сверху;</li><li>задний карман на молнии;</li><li>передний карман без молнии.</li></ul><p>Не упустите возможность дополнить свой образ стильной и функциональной барсеткой от Under Armour!</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Under Armour</strong> виконана у стильному темному меланжі і стане чудовим компаньйоном для будь-якого активного життя. Розміри барсетки становлять <strong>24 х 20 х 7 см</strong>, що робить її компактною та зручною для носіння.</p><p>Виготовлена з міцного <strong>поліестеру 600д</strong>, вона гарантує довговічність і захист ваших речей. Особливості дизайну:</p><ul><li>регульована довжина ремінця;</li><li>одне велике відділення на змійці зверху;</li><li>задній кишеня на змійці;</li><li>передня кишеня без змійки.</li></ul><p>Не втрачайте можливість доповнити свій образ стильним і функціональним барсетом від Under Armour!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-745790" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Nike сірий меланж, поліестер, 24 х 20 х 7 см</name>
+                <name_ua>Барсетка Nike сірий меланж, поліестер, 24 х 20 х 7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/09e3a42143cb1c52ba03.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0d6427a74d24b7df0379.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3efee8fd6d2183cbd28a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4161f63f7dcd6a31bed8.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e0bb43d24565937cd71e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9127f43400b70beab914.jpg</picture>
+                <vendorCode>P3-1762805285</vendorCode>
+                <vendor />
+                <keywords>барсетка, Nike, сірий меланж, поліестер, аксесуар, повсякденне використання, розмір, кишеня, регульований ремінець, фірмова фурнітура</keywords>
+                <description><![CDATA[<p><strong>Удобная барсетка от Nike</strong> — идеальный аксессуар для повседневного использования.</p><p>Характеристики:</p><ul><li><strong>Размер:</strong> 24 х 20 х 7 см;</li><li><strong>Материал:</strong> Поліестер 600д;</li><li><strong>Регулируемый ремешок;</strong></li><li><strong>Фирменная фурнитура;</strong></li><li><strong>Одно большое основное отделение на застежке;</strong></li><li><strong>Кармашек на застежке сзади;</strong></li><li><strong>Передний карман без застежки.</strong></li></ul><p>Больше фото: <a href="https://drive.google.com/drive/folders/1DbErB5o9AUYe10_9u4Dymg8ZFow1rPqX">посмотреть здесь</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Зручна барсетка від Nike</strong> — ідеальний аксесуар для повсякденного використання.</p><p>Характеристики:</p><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см;</li><li><strong>Матеріал:</strong> Поліестер 600д;</li><li><strong>Регульований ремінець;</strong></li><li><strong>Фірмова фурнітура;</strong></li><li><strong>Одне велике основне відділення на змійці;</strong></li><li><strong>Кишеня на змійці ззаду;</strong></li><li><strong>Передній кишеня без змійки.</strong></li></ul><p>Більше фото: <a href="https://drive.google.com/drive/folders/1DbErB5o9AUYe10_9u4Dymg8ZFow1rPqX">дивитися тут</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-745781" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Under Armour уникальная черная рюкзак, Поліестер 600д, 24x22 см</name>
+                <name_ua>Барсетка Under Armour унікальна чорна рюкзак, Поліестер 600д, 24x22 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>100</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/601f65248e03e175f1fb.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/955494696e53fa404617.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/282f8681dfd5000f9f7e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/839ffa5b3f266c079d7e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6f708692fb6b1cae63aa.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/89695635410b4d68f922.jpg</picture>
+                <vendorCode>P3-1725928832</vendorCode>
+                <vendor />
+                <keywords>барсетка, Under Armour, чорна, Поліестер 600д, сумка, рюкзак, стильна барсетка, регульований ремінь, практична сумка, повсякденне використання</keywords>
+                <description><![CDATA[<h3>Барсетка Under Armour 'Unique'</h3><p>Эта стильная и практичная барсетка идеально подходит для повседневного использования. Основные характеристики:</p><ul><li><strong>Размер:</strong> 24 x 22 см</li><li><strong>Материал:</strong> Поліестер 600д</li><li><strong>Отделения:</strong> одно главное отделение на змійці-блискавці и две внешние кишени</li><li><strong>Логотип:</strong> пришивной</li><li><strong>Материал дна:</strong> искусственная кожа</li><li><strong>Регулируемый ремень:</strong> которая позволяет настроить длину под ваши предпочтения.</li></ul><p>Брендовая фурнитура добавляет изысканности этой модели.</p><p>Больше фото: <a href='https://drive.google.com/drive/u/1/folders/1FjRZ9Vh-9H3z9k41Z_6UjYV_hXDZh7D7'>Ссылка на фотографии</a></p>]]></description>
+                <description_ua><![CDATA[<h3>Барсетка Under Armour 'Unique'</h3><p>Ця стильна та практична барсетка ідеально підходить для повсякденного використання. Основні характеристики:</p><ul><li><strong>Розмір:</strong> 24 x 22 см</li><li><strong>Матеріал:</strong> Поліестер 600д</li><li><strong>Відділення:</strong> одне головне відділення на змійці-блискавці та дві зовнішні кишені</li><li><strong>Логотип:</strong> пришивний</li><li><strong>Матеріал дна:</strong> штучна шкіра</li><li><strong>Регульований ремінь:</strong> що дозволяє налаштувати довжину під ваші уподобання.</li></ul><p>Фірмова фурнітура додає вишуканості цій моделі.</p><p>Більше фото: <a href='https://drive.google.com/drive/u/1/folders/1FjRZ9Vh-9H3z9k41Z_6UjYV_hXDZh7D7'>Посилання на фотографії</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-742261" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Under Armour темно-серый меланж, полиэстер 600д, 24x22 см</name>
+                <name_ua>Барсетка Under Armour темно-сірий меланж, поліестер 600д, 24x22 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>69</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5100b5a6359708f8589d.jpg</picture>
+                <vendorCode>P3-1273585245</vendorCode>
+                <vendor />
+                <keywords>барсетка, Under Armour, темно-серый, полиэстер, размеры, аксессуары, стильная сумка, повседневное использование, сумка на змейке, фурнитура</keywords>
+                <description><![CDATA[<p>Представляем вашему вниманию <strong>барсетку Under Armour</strong> в стильном <strong>темно-сером меланже</strong>.</p><h3>Основные характеристики:</h3><ul><li>Размеры: <strong>24x22 см</strong></li><li>Одно отделение на <strong>змейке-блискавке</strong></li><li>Две внешние карманы, один из которых на <strong>лицевой стороне</strong> также на <strong>блискавке</strong></li><li>Материал барсетки: <strong>Полиэстер 600д</strong></li><li>Логотип: <strong>пришивной</strong></li><li>Материал дна: <strong>штучная кожа</strong></li><li>Регулируемая длина ремешка</li><li>Фирменная фурнитура</li></ul><p>Эта барсетка прекрасно подходит для повседневного использования и станет стильным аксессуаром для любого образа.</p><p>Больше фото: <a href='https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp'>перейдите по ссылке</a>.</p>]]></description>
+                <description_ua><![CDATA[<p>Пропонуємо вашій увазі <strong>барсетку Under Armour</strong> в стильному <strong>темно-сірому меланжі</strong>.</p><h3>Основні характеристики:</h3><ul><li>Розміри: <strong>24x22 см</strong></li><li>Одне відділення на <strong>змійці-блискавці</strong></li><li>Дві зовнішні кишені, одна з яких на <strong>лицьовій стороні</strong> також на <strong>блискавці</strong></li><li>Матеріал барсетки: <strong>Поліестер 600д</strong></li><li>Логотип: <strong>пришивний</strong></li><li>Матеріал дна: <strong>штучна шкіра</strong></li><li>Регульована довжина ремінця</li><li>Фірмова фурнітура</li></ul><p>Ця барсетка ідеально підходить для щоденного використання і стане стильним аксесуаром для будь-якого образу.</p><p>Більше фото: <a href='https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp'>перейдіть за посиланням</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-742250" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Puma unique темно-синий меланж, материал: Polyester 600d, размер: 24*22 см</name>
+                <name_ua>Барсетка Puma unique темно-синій меланж, матеріал: Polyester 600d, розмір: 24*22 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>85</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/40720d12566f35179a7b.jpg</picture>
+                <vendorCode>P3-1453542576</vendorCode>
+                <vendor />
+                <keywords>барсетка, Puma, сумка, темно-синий, меланж, Поліестер 600д, стильная сумка, аксессуар, спортивная сумка, удобство</keywords>
+                <description><![CDATA[<p><strong>Барсетка Puma unique</strong> - идеальный аксессуар для стильных и активных людей. </p><p>Характеристики:</p><ul><li>Размеры барсетки: 24*22 см;</li><li>Одно основное отделение на змейке-блискавке;</li><li>Две внешние карманы, один из которых (на лицевой стороне) также на молнии;</li><li>Материал барсетки: Поліестер 600д;</li><li>Логотип-пришивний;</li><li>Материал дна: штучна шкіра;</li><li>Регулируемая длина ремешка;</li><li>Фирменная фурнитура.</li></ul><p>Большое количество фото доступно по ссылке: <a href='https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp' target='_blank'>смотреть фотографии</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Puma unique</strong> - ідеальний аксесуар для стильних та активних людей.</p><p>Характеристики:</p><ul><li>Розміри барсетки: 24*22 см;</li><li>Одне основне відділення на змійці-блискавці;</li><li>Дві зовнішні кишені, одна з яких (на лицьовій стороні) також на блискавці;</li><li>Матеріал барсетки: Поліестер 600д;</li><li>Логотип-пришивний;</li><li>Матеріал дна: штучна шкіра;</li><li>Регульована довжина ремінця;</li><li>Фірмова фурнітура.</li></ul><p>Більше фото доступні за посиланням: <a href='https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp' target='_blank'>переглянути фотографії</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-598782" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Nike синяя меланж Поліестер 600д 24x20x7 см</name>
+                <name_ua>Барсетка Nike синій меланж Поліестер 600д 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>72</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e563cd341fcbc8b969ab.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ad56b678b5c0a4d9eefd.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cadb43b3ac50e822e3f3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f714ff6d54e99b4ba9c5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/17d5ab319fe73d3fd064.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2a96fa23ca9366cc767a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d93a35aa53974a6a3e9e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d2009ec9c0c5c6d69fdf.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9c98ed5a7ca0cc6c8851.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/57e3f57b3c1d139ba1c8.jpg</picture>
+                <vendorCode>P3-1069808466</vendorCode>
+                <vendor />
+                <keywords>барсетка, Nike, синяя, меланж, Поліестер 600д, аксессуар, стиль, компактный, размеры, Украина</keywords>
+                <description><![CDATA[<p><strong>Барсетка Nike</strong> — это стильный и практичный аксессуар, который идеально дополнит ваш образ.</p><p><strong>Характеристики:</strong></p><ul><li>Виміри: 24x20x7 см;</li><li>Матеріал: Поліестер 600д;</li><li>Виробник: Україна;</li><li>Логотип-вишитий.</li></ul><p>Емкость и компактные размеры делают барсету идеальным решением для хранения необходимых вещей.</p><p>Также вы можете ознакомиться с <a href="https://drive.google.com/drive/u/3/folders/1HUEkEn1liWBDeiwyWHI-bcy2Kwr1Avbz">дополнительными фото</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Nike</strong> — це стильний та практичний аксесуар, який ідеально доповнить ваш образ.</p><p><strong>Характеристики:</strong></p><ul><li>Виміри: 24x20x7 см;</li><li>Матеріал: Поліестер 600д;</li><li>Виробник: Україна;</li><li>Логотип-вишитий.</li></ul><p>Ємність та компактні розміри роблять барсетку ідеальним рішенням для зберігання необхідних речей.</p><p>Також ви можете ознайомитись з <a href="https://drive.google.com/drive/u/3/folders/1HUEkEn1liWBDeiwyWHI-bcy2Kwr1Avbz">додатковими фото</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-548303" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Under Armour черная, полиэстер 600д, 24x20x7 см</name>
+                <name_ua>Барсетка Under Armour чорна, поліестер 600д, 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>284</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/35735cb6733847d82500.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a9f47d4fea8f152da1fe.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/205bfe0b11861c05d4b6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ef2371f335e2aeee9a79.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/10f652ea16dc11285c75.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1d68cc182999e4c889d5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2a7cea2a696358bfa192.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9675accdcc2171bd6c8f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/036223cfb528db54f7b8.jpg</picture>
+                <vendorCode>P3-1211038825</vendorCode>
+                <vendor />
+                <keywords>барсетка, Under Armour, черная барсетка, аксессуары, барсетка полиэстер, сумка, стильные аксессуары, мужская барсетка, под крепление, повседневное использование</keywords>
+                <description><![CDATA[<p><strong>Барсетка черная Under Armour</strong> - идеальное решение для повседневного использования. С её помощью вы сможете удобно хранить ваши мелкие предметы и ценности.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 х 20 х 7 см;</li><li><strong>Материал:</strong> Поліестер 600д;</li><li><strong>Регулируемая длина ремня;</strong></li><li><strong>Фирменная фурнитура;</strong></li><li><strong>Одно большое отделение на змейке сверху;</strong></li><li><strong>Кишеня на задней стороне на змейке;</strong></li><li><strong>Спереди - карман без змейки;</strong></li></ul><p>Покупая барсетку Under Armour, вы получаете стильный и функциональный аксессуар, который станет надежным спутником в любых ситуациях.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка чорна Under Armour</strong> - ідеальне рішення для повсякденного використання. Завдяки їй ви зможете зручно зберігати ваші дрібниці та цінності.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см;</li><li><strong>Матеріал:</strong> Поліестер 600д;</li><li><strong>Регульована довжина ремінця;</strong></li><li><strong>Фірмова фурнітура;</strong></li><li><strong>Одне велике відділення на змійці зверху;</strong></li><li><strong>Кишеня на задній стороні на змійці;</strong></li><li><strong>Спереду - кишеня без змійки;</strong></li></ul><p>Купуючи барсетку Under Armour, ви отримуєте стильний та функціональний аксесуар, який стане надійним супутником у будь-яких ситуаціях.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-541950" available="true" in_stock="true">
+                <url />
+                <name>Барсетка / Сумки для мужчин Under Armour сірий меланж, поліестер, 24x20x7 см</name>
+                <name_ua>Барсетка / Сумки для чоловіків Under Armour сірий меланж, поліестер, 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>129</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e2a7c8a1b502e629d06b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2a9a345e8640c58b244b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6b263c407410e6af812b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/933c0060d0088bd54fa5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cedcf62d031ef009535a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/22e21558c4c13ea4eac9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/361bb5d84b3b2f82f28f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1ff33eb160f0d4466c8c.jpg</picture>
+                <vendorCode>P3-1580580473</vendorCode>
+                <vendor />
+                <keywords>барсетка, сумка для чоловіків, Under Armour, сірий меланж, поліестер, компактна сумка, стильний аксесуар, барсетка з кишенями, сумка на змійці, регульований ремінь</keywords>
+                <description><![CDATA[<p><strong>Барсетка Under Armour</strong> – стильный и удобный аксессуар для мужчин. Размеры барсетки составляют 24 х 20 х 7 см, что делает её компактом и практичным решением для повседневного использования.</p><ul><li><strong>Материал:</strong> Поліестер 600д</li><li><strong>Регульована довжина ремінця:</strong> да, обеспечивающая удобное ношение</li><li><strong>Фірмова фурнітура:</strong> гарантирует надёжность и долговечность</li><li><strong>Велике відділення:</strong> одно основное на змійці зверху</li><li><strong>Кишені:</strong> на задній стороні є кишеня на змійці, спереду кишеня без змійки</li></ul><p>Этот аксессуар станет отличным дополнением к вашему гардеробу. <a href='https://drive.google.com/drive/u/2/folders/1RKRiYkcJECuaQKjvs49lObjQcRrfrrEo'>Дивіться більше фото</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Under Armour</strong> – стильний та зручний аксесуар для чоловіків. Розміри барсетки становлять 24 х 20 х 7 см, що робить її компактною та практичним рішенням для повсякденного використання.</p><ul><li><strong>Матеріал:</strong> Поліестер 600д</li><li><strong>Регульована довжина ремінця:</strong> так, забезпечує зручне носіння</li><li><strong>Фірмова фурнітура:</strong> гарантує надійність і довговічність</li><li><strong>Велике відділення:</strong> одно основне на змійці зверху</li><li><strong>Кишені:</strong> на задній стороні є кишеня на змійці, спереду кишеня без змійки</li></ul><p>Цей аксесуар стане чудовим доповненням до вашого гардеробу. <a href='https://drive.google.com/drive/u/2/folders/1RKRiYkcJECuaQKjvs49lObjQcRrfrrEo'>Дивіться більше фото</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-531506" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Adidas unique черная, полиэстер 600д, 24*22 см</name>
+                <name_ua>Барсетка Adidas unique чорна, поліестер 600д, 24*22 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>78</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f70503de7a4ee5ddef8f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/298ec3b8520d480656e2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a5d041a96caa3a82d93e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/854c19f7b1878606619f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/70d8a05542b988d2b97e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/56b48f51b242756e4139.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6fda081551e810f142c7.jpg</picture>
+                <vendorCode>P3-1601280973</vendorCode>
+                <vendor />
+                <keywords>барсетка, Adidas, уникальная, черная, полиэстер, 600д, размер, аксессуар, фурнитура, сумка</keywords>
+                <description><![CDATA[<p><strong>Барсетка Adidas unique</strong> — идеальный аксессуар для повседневного использования. С её помощью вы сможете удобно носить все необходимые мелочи.</p><h3>Характеристики:</h3><ul><li>Размеры барсетки: <strong>24*22 см</strong></li><li>Одно основное отделение на <strong>змейке-блискавці</strong></li><li>Две внешние карманы, один из которых на <strong>лицевой стороне</strong>, также на <strong>блискавці</strong></li><li>Материал: <strong>Полиэстер 600д</strong></li><li>Логотип-пришивний</li><li>Материал дна: <strong>штучна шкіра</strong></li><li>Регульована довжина ремінця</li><li>Фірмова фурнітура</li></ul><p><strong>Більше фото:</strong> <a href="https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp">Перейти за посиланням</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Adidas unique</strong> — ідеальний аксесуар для повсякденного використання. З її допомогою ви зможете зручно носити всі необхідні дрібниці.</p><h3>Характеристики:</h3><ul><li>Розміри барсетки: <strong>24*22 см</strong></li><li>Одне основне відділення на <strong>змійці-блискавці</strong></li><li>Два зовнішні кишені, один з яких на <strong>лицьовій стороні</strong>, також на <strong>блискавці</strong></li><li>Матеріал: <strong>Поліестер 600д</strong></li><li>Логотип-пришивний</li><li>Матеріал дна: <strong>штучна шкіра</strong></li><li>Регульована довжина ремінця</li><li>Фірмова фурнітура</li></ul><p><strong>Більше фото:</strong> <a href="https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp">Перейти за посиланням</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-521837" available="true" in_stock="true">
+                <url />
+                <name>Барсетка / Сумки Adidas черная, полиэстер, размер 24 х 20 х 7 см</name>
+                <name_ua>Барсетка / Сумки Adidas чорна, поліестер, розмір 24 х 20 х 7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>280</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8ac24cf5ed67b5500dd4.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/253bf135c12696f53f38.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bd3713d5b0ecc1cd7442.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4e39ff405377a909be41.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2c6d1dee6a8e655329e2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/57da9bc4596e49a9f3f7.jpg</picture>
+                <vendorCode>P3-1079733758</vendorCode>
+                <vendor />
+                <keywords>барсетка, Adidas, черная, с сумкой, полиэстер, размер 24x20x7, стильная, карман, регульованный ремень, аксессуары</keywords>
+                <description><![CDATA[<p>Представляем вам стильную и практичную <strong>барсетку Adidas</strong> черного цвета с логотипом. Этот аксессуар идеально подойдет для активных людей, которые ценят качество и функциональность.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 х 20 х 7 см</li><li><strong>Материал:</strong> Поліестер 600д</li><li><strong>Регульований ремінь:</strong> зручний для налаштування під будь-який зріст</li><li><strong>Фірмова фурнітура:</strong> забезпечує високу якість</li><li><strong>Одне велике відділення:</strong> на змійці зверху для зручності</li><li><strong>Карман на задній стороні:</strong> з змійкою для важливих речей</li><li><strong>Спереду карман без змійки:</strong> маленькі предмети завжди під рукою</li></ul><p>Більше фото можна переглянути за посиланнями:</p><p><a href='https://drive.google.com/drive/u/3/folders/1BzEc9fZTbb6Sy0TixXGGQa8_cLbpMxN7'>Перше посилання</a>, <a href='https://drive.google.com/drive/folders/17cfRWmPbJpsXsBIZaWbwRZYqAfbpPaXb'>Друге посилання</a></p>]]></description>
+                <description_ua><![CDATA[<p>Пропонуємо вам стильну та практичну <strong>барсетку Adidas</strong> чорного кольору з логотипом. Цей аксесуар ідеально підходить для активних людей, які цінують якість та функціональність.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см</li><li><strong>Матеріал:</strong> Поліестер 600д</li><li><strong>Регульований ремінь:</strong> зручний для налаштування під будь-який зріст</li><li><strong>Фірмова фурнітура:</strong> забезпечує високу якість</li><li><strong>Одне велике відділення:</strong> на змійці зверху для зручності</li><li><strong>Карман на задній стороні:</strong> зі змійкою для важливих речей</li><li><strong>Спереду карман без змійки:</strong> маленькі предмети завжди під рукою</li></ul><p>Більше фото можна переглянути за посиланнями:</p><p><a href='https://drive.google.com/drive/u/3/folders/1BzEc9fZTbb6Sy0TixXGGQa8_cLbpMxN7'>Перше посилання</a>, <a href='https://drive.google.com/drive/folders/17cfRWmPbJpsXsBIZaWbwRZYqAfbpPaXb'>Друге посилання</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-521826" available="true" in_stock="true">
+                <url />
+                <name>Барсетка TNF черная, полиэстер, 24x20x7 см</name>
+                <name_ua>Барсетка TNF чорна, поліестер, 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>357</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a0bc76c4fe604439b601.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/08845a62c83a4b4feaeb.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/752fc957eabecf7a70d9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1c11b6889274840129a7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/81a2f80501f28e9e5459.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f3dee250f994458a7002.jpg</picture>
+                <vendorCode>P3-1111229650</vendorCode>
+                <vendor />
+                <keywords>барсетка, TNF, черная барсетка, барсетка полиэстер, аксессуар, рюкзак, сумка, стильная барсетка, компактная сумка, универсальная барсетка</keywords>
+                <description><![CDATA[<p><strong>Барсетка TNF черного цвета</strong> - идеальный аксессуар для активных людей! </p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 x 20 x 7 см;</li><li><strong>Материал:</strong> Поліестер 600д;</li><li><strong>Регулируемая длина ремешка;</strong></li><li><strong>Качественная фурнитура;</strong></li><li><strong>Вместительное главное отделение на змейке сверху;</strong></li><li><strong>Карманы:</strong> один на задней стороне и один спереди без замка.</li></ul><p><strong>Не упустите шанс приобрести!</strong></p><p>Більше фото:</p><p><a href="https://drive.google.com/drive/u/3/folders/1tyD3qFuYlGFwVgOCivCesnk5m_cnzbYR">Посилання на фотографії</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка TNF чорного кольору</strong> - ідеальний аксесуар для активних людей!</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 x 20 x 7 см;</li><li><strong>Матеріал:</strong> Поліестер 600д;</li><li><strong>Регульована довжина ремінця;</strong></li><li><strong>Якісна фурнітура;</strong></li><li><strong>Вмістке основне відділення на змійці зверху;</strong></li><li><strong>Кишені:</strong> одна на задній стороні та одна спереду без замка.</li></ul><p><strong>Не втратьте шанс придбати!</strong></p><p>Більше фото:</p><p><a href="https://drive.google.com/drive/u/3/folders/1tyD3qFuYlGFwVgOCivCesnk5m_cnzbYR">Посилання на фотографії</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-515822" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Puma черная из полиэстера 600д 24х20х7 см с белым логотипом</name>
+                <name_ua>Барсетка Puma чорна з поліестеру 600д 24х20х7 см з білим логотипом</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>301</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb67d26a3611fdf684cb.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6282cbee080b6ce30cc5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0830e4f3afbb79150942.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7146fa0c759ce0034bdc.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4945f4fb6fd5f0cf3e0f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8f9a327bfa3e203c62e9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f7ddedf8bc8c873269d8.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bc2722278f8c07f35d1f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ec1659fe1b9d22f259d7.jpg</picture>
+                <vendorCode>P3-1768146906</vendorCode>
+                <vendor />
+                <keywords>барсетка, Puma, черная, полиэстер, размер 24х20х7 см, аксессуар, карман, модный, стильный, практичный, мужская одежда, сумка</keywords>
+                <description><![CDATA[<p><strong>Барсетка Puma</strong> - стильный и практичный аксессуар для повседневного использования.</p><p>Основные характеристики:</p><ul><li><strong>Размер:</strong> 24 х 20 х 7 см;</li><li><strong>Материал:</strong> Полиэстер 600д;</li><li><strong>Регулируемый ремень;</strong></li><li><strong>Фирменная фурнитура.</strong></li></ul><p>Барсетка оснащена одним большим отделением на молнии сверху, что позволяет удобно хранить все необходимые вещи.</p><p>Кроме того, на задней стороне барсетки есть карман на молнии, а спереди - дополнительный карман без молнии для быстрого доступа.</p><p>Модель идеально подходит для активных людей, которые ценят комфорт и стиль.</p><p>Больше фото: <a href="https://drive.google.com/drive/u/2/folders/1r_wLuQ_iYSrJbLQKuBUGQxwStiDW2ZCu">перейти по ссылке</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Puma</strong> - стильний та практичний аксесуар для щоденного використання.</p><p>Основні характеристики:</p><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см;</li><li><strong>Матеріал:</strong> Поліестер 600д;</li><li><strong>Регульований ремінь;</strong></li><li><strong>Фірмова фурнітура.</strong></li></ul><p>Барсетка обладнана одним великим відділенням на змійці зверху, що дозволяє зручно зберігати всі необхідні речі.</p><p>Крім того, на задній стороні барсетки є кишеня на змійці, а спереду - додаткова кишеня без змійки для швидкого доступу.</p><p>Модель ідеально підходить для активних людей, які цінують комфорт та стиль.</p><p>Більше фото: <a href="https://drive.google.com/drive/u/2/folders/1r_wLuQ_iYSrJbLQKuBUGQxwStiDW2ZCu">перейти за посиланням</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-511156" available="true" in_stock="true">
+                <url />
+                <name>Барсетка / Аксессуары черная без лого, материал: полиэстер, размер: 24x22 см</name>
+                <name_ua>Барсетка / Аксесуари чорна без логотипу, матеріал: поліестер, розмір: 24x22 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>120</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a096128d7c10368cd8bc.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c339bf8e7aded10f07e0.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a71da9b423fc023041f2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5052f9f2c21a61cad2a6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/26f0cce72c632f73aa37.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/248b8c1f8d5e39d860a6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/dc6ee83bac6d4d0460ec.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f40f3d3dddfd6102c1b2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b7da7c7bbd7c826ca5f3.jpg</picture>
+                <vendorCode>P3-1396995518</vendorCode>
+                <vendor />
+                <keywords>барсетка, аксессуары, черная барсетка, полиэстер, сумка, стильный аксессуар, модный, регулируемый ремень, карман, размер 24x22</keywords>
+                <description><![CDATA[<p><strong>Барсетка БКД черного цвета без логотипа</strong> - это идеальный аксессуар для современного человека. Выполненная из 100% полиэстера, она сочетает в себе <strong>стиль и функциональность</strong>.</p><h3>Основные характеристики:</h3><ul><li>Регулируемая длина ремня;</li><li>Одно большое отделение на змейке;</li><li>Карман на змейке спереди и сзади;</li><li>Фирменная фурнитура;</li><li>Размеры барсетки: 24/22 см.</li></ul><p>Барсетка подходит как для повседневного использования, так и для особых случаев. Не упустите возможность добавить этот аксессуар в свой гардероб!</p><p>Больше фото: <a href='https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp'>Ссылка 1</a>, <a href='https://drive.google.com/drive/folders/1G2oWMMoSv38aAeh5LqIAfmwlqT7p0Tgt'>Ссылка 2</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка БКД чорного кольору без логотипу</strong> - це ідеальний аксесуар для сучасної людини. Виконана з 100% поліестеру, вона поєднує в собі <strong>стиль та функціональність</strong>.</p><h3>Основні характеристики:</h3><ul><li>Регульована довжина ремінця;</li><li>Одне велике відділення на блискавці;</li><li>Кишеня на блискавці спереду та кишеня на блискавці ззаду;</li><li>Фірмова фурнітура;</li><li>Розміри барсетки: 24/22 см.</li></ul><p>Барсетка підходить як для повсякденного використання, так і для особливих випадків. Не пропустіть можливість додати цей аксесуар до свого гардеробу!</p><p>Більше фото: <a href='https://drive.google.com/drive/folders/18vv1i0J4YBHagr90AgaLmgd22WzkxwGp'>Посилання 1</a>, <a href='https://drive.google.com/drive/folders/1G2oWMMoSv38aAeh5LqIAfmwlqT7p0Tgt'>Посилання 2</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-510500" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Nike синяя из полиэстера 600д 24x20x7 см с вышитым логотипом</name>
+                <name_ua>Барсетка Nike синя з поліестеру 600д 24x20x7 см з вишитим логотипом</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>204</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0f8aaa0e990056f1a335.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/187e332262943296ca24.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d80a981cd3e52b201dd3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6dcce23d287a9c8ce2ea.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/60df4d845f3f17889497.jpg</picture>
+                <vendorCode>P3-2824535558</vendorCode>
+                <vendor />
+                <keywords>барсетка, Nike, синяя барсетка, полиэстер, вишитый логотип, аксессуар, стильный, практичный, повседневное использование, размеры, регулируемый ремень</keywords>
+                <description><![CDATA[<p><strong>Барсетка Nike</strong> — это идеальный аксессуар для стильных и активных людей. Она выполнена из <strong>полиэстера 600д</strong>, что обеспечивает прочность и долговечность.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24x20x7 см</li><li><strong>Материал:</strong> Полиэстер 600д</li><li><strong>Логотип:</strong> Вышитый</li><li><strong>Регулируемая длина ремня</strong></li><li><strong>Фирменная фурнитура</strong></li></ul><p>Эта барсетка идеально подходит для повседневного использования и отлично дополнит любой образ.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Nike</strong> — це ідеальний аксесуар для стильних і активних людей. Виготовлена з <strong>поліестеру 600д</strong>, що забезпечує міцність і довговічність.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24x20x7 см</li><li><strong>Матеріал:</strong> Поліестер 600д</li><li><strong>Логотип:</strong> Вишитий</li><li><strong>Регульована довжина ремінця</strong></li><li><strong>Фірмова фурнітура</strong></li></ul><p>Ця барсетка ідеально підходить для повсякденного використання та чудово доповнить будь-який образ.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-3146536" available="true" in_stock="true">
+                <url />
+                <name>Барсетка TNF 1000d синяя, размер 24 х 20 х 7 см, полиэстер</name>
+                <name_ua>Барсетка TNF 1000d синя, розмір 24 х 20 х 7 см, поліестер</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>3</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e649bf860a72add0d798.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3a9d7410783f6af708ec.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/350376bc4b4ca0f60ec1.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1033a969ded06c505fa9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a48a6cb0de6ec070a077.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3c5b4e251653dbdb71e3.jpg</picture>
+                <vendorCode>P3-5881464070</vendorCode>
+                <vendor />
+                <keywords>барсетка, TNF, синяя барсетка, барсетка из полиэстера, стильная барсетка, барсетка с регуляцией, аксессуары, сумки, модные барсетки, барсеткі, TNF, синя барсетка, барсетка з поліестеру, стильна барсетка, барсетка з регуляцією</keywords>
+                <description><![CDATA[<p><strong>Барсетка TNF</strong> станет идеальным аксессуаром для хранения ваших мелочей.</p><ul><li><strong>Размер:</strong> 24 х 20 х 7 см;</li><li><strong>Материал:</strong> Полиэстер 1000d;</li><li><strong>Регулируемая длина ремешка;</strong></li><li><strong>Фирменная фурнитура;</strong></li><li><strong>В одном большом отделении на змейке надолго;</strong></li><li><strong>Кармашек на змейке сзади;</strong></li><li><strong>Спереди карман без змеек;</strong></li><li><strong>Логотип - нашивка.</strong></li></ul><p>Больше фото:</p><p><a href='https://drive.google.com/drive/folders/1Nrd5OIAgVeWlLx_bTnqdDR2xzB-ziSKu'>Фотографии барсетки</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка TNF</strong> стане ідеальним аксесуаром для зберігання ваших дрібниць.</p><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см;</li><li><strong>Матеріал:</strong> Поліестер 1000d;</li><li><strong>Регульована довжина ремінця;</strong></li><li><strong>Фірмова фурнітура;</strong></li><li><strong>В одному великому відділенні на змійці зверху;</strong></li><li><strong>Задня кишеня на змійці;</strong></li><li><strong>Спереду кишеня без змійки;</strong></li><li><strong>Логотип - нашивка.</strong></li></ul><p>Більше фото:</p><p><a href='https://drive.google.com/drive/folders/1Nrd5OIAgVeWlLx_bTnqdDR2xzB-ziSKu'>Фотографії барсетки</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-3146529" available="false" in_stock="false">
+                <url />
+                <name>Барсетка TNF 1000d Черная, Полистер, Размер 24х20х7 см</name>
+                <name_ua>Барсетка TNF 1000d Чорна, Поліестер, Розмір 24х20х7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/850fde3e70888035bdb7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/019b0a3948b08b675f9f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6725cfefc2ad247ecfe6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f1234c7a64b283ab75f1.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/80b3a2314e409499c4d2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/aebd5c7efa902886f05d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/78d989d180c48ee4e6df.jpg</picture>
+                <vendorCode>P3-1811632044</vendorCode>
+                <vendor />
+                <keywords>барсетка, TNF, черная барсетка, полистер, размер 24х20х7 см, стильная сумка, мужская барсетка, сумка через плечо, удобная барсетка,</keywords>
+                <description><![CDATA[<p>Исследуйте стиль и функциональность с барсеткой от TNF.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 х 20 х 7 см</li><li><strong>Материал:</strong> Поліестер 1000d</li><li><strong>Регулируемая длина ремешка</strong></li><li><strong>Фирменная фурнитура</strong></li><li><strong>Одно большое отделение на змейке сверху</strong></li><li><strong>Кишеня на змейке сзади</strong></li><li><strong>Передняя кишеня без змейки</strong></li><li><strong>Логотип - нашивка</strong></li></ul><p>Больше фото: <a href="https://drive.google.com/drive/folders/1NkZNHIkBbrcgDr1Gh5GcHwv_cN9MI5KO">Перейти к фото</a></p>]]></description>
+                <description_ua><![CDATA[<p>Відкрийте для себе стиль і функціональність з барсеткою від TNF.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см</li><li><strong>Матеріал:</strong> Поліестер 1000d</li><li><strong>Регульована довжина ремінця</strong></li><li><strong>Фірмова фурнітура</strong></li><li><strong>Одне велике відділення на змійці зверху</strong></li><li><strong>Кишеня на змійці ззаду</strong></li><li><strong>Передня кишеня без змійки</strong></li><li><strong>Логотип - нашивка</strong></li></ul><p>Більше фото: <a href="https://drive.google.com/drive/folders/1NkZNHIkBbrcgDr1Gh5GcHwv_cN9MI5KO">Перейти до фото</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-3146523" available="false" in_stock="false">
+                <url />
+                <name>Барсетка Stone Island 1000d черная, размер 24х20х7 см, полиэстер</name>
+                <name_ua>Барсетка Stone Island 1000d чорна, розмір 24х20х7 см, поліестер</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7e77e1236cd606bda1c7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c76e54c143b493d3d07b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/de679977a49834ba8ccc.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/35ec6b56c549717c8069.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/337be3dd4deb89f70a6e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0525bd71713823319c7a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/57d462422f07c939bbb2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f11a6fbc5ffa2ec28c28.jpg</picture>
+                <vendorCode>P3-5744847804</vendorCode>
+                <vendor />
+                <keywords>барсетка, Stone Island, чорна барсетка, поліестер 1000d, аксесуар, чоловіча барсетка, сумка, стильна сумка, компактна сумка, зручна барсетка</keywords>
+                <description><![CDATA[<p><strong>Барсетка Stone Island</strong> — идеальный аксессуар для современного мужчины. Она выполнена из прочного полиэстера 1000d, что обеспечивает долговечность и надежность в использовании.</p><h3>Характеристики:</h3><ul><li>Размер: 24 х 20 х 7 см;</li><li>Материал: Поліестер 1000д;</li><li>Регулируемая длина ремешка;</li><li>Фирменная фурнитура;</li><li>Одно большое отделение на молнии сверху;</li><li>Кишеня на молнии на задней стороне;</li><li>Спереду карман без молнии;</li><li>Логотип - нашивка.</li></ul><p>Эта барсетка станет отличным спутником в повседневной жизни и идеально подойдет для прогулок или поездок.</p><p>Больше фото: <a href='https://drive.google.com/drive/folders/1NkZNHIkBbrcgDr1Gh5GcHwv_cN9MI5KO'>Ссылка на фотографии</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Stone Island</strong> — ідеальний аксесуар для сучасного чоловіка. Вона виконана з міцного поліестеру 1000d, що забезпечує довговічність і надійність у використанні.</p><h3>Характеристики:</h3><ul><li>Розмір: 24 х 20 х 7 см;</li><li>Матеріал: Поліестер 1000д;</li><li>Регульована довжина ремінця;</li><li>Фірмова фурнітура;</li><li>Одне велике відділення на змійці зверху;</li><li>Кишеня на змійці на задній стороні;</li><li>Спереду кишеня без змійки;</li><li>Логотип - нашивка.</li></ul><p>Ця барсетка стане відмінним супутником у повсякденному житті та ідеально підходить для прогулянок або поїздок.</p><p>Більше фото: <a href='https://drive.google.com/drive/folders/1NkZNHIkBbrcgDr1Gh5GcHwv_cN9MI5KO'>Посилання на фотографії</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-3052532" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Stone Island 1000d синяя, 24 х 20 х 7 см, с фурнитурой</name>
+                <name_ua>Барсетка Stone Island 1000d синя, 24 х 20 х 7 см, з фурнітурою</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>9</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bc93e2a8585520365007.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a22c4a8766b73614527b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6aba2c3e2c94d68fc36d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3b7883ead066962c7ad8.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9e37a21c94710171d305.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b748f72e18966dc6c9c9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6e6b438c968b74ee3e0d.jpg</picture>
+                <vendorCode>P3-1724953398</vendorCode>
+                <vendor />
+                <keywords>барсетка, Stone Island, 1000d, синяя, аксессуар, стиль, размер 24 х 20 х 7 см, фурнитура, полиэстер, карман</keywords>
+                <description><![CDATA[<p><strong>Барсетка Stone Island</strong> - идеальный аксессуар для стильного мужчины. </p><p>Размер: <strong>24 х 20 х 7 см</strong>.</p><ul><li>Материал: <strong>Поліестер 1000д</strong>.</li><li>Регульована довжина ремінця для комфортного носіння.</li><li>Фірмова фурнітура, обеспечивающая высокое качество.</li><li>Одно большое отделение на молнии сверху для удобного хранения вещей.</li><li>Кишеня на молнии на задней стороне барсетки для мелочей.</li><li>Спереду карман без молнии для быстрого доступа.</li></ul><p>Логотип - нашивка.</p><p>Більше фото можна знайти за посиланням: <a href='https://drive.google.com/drive/folders/1Nrd5OIAgVeWlLx_bTnqdDR2xzB-ziSKu' target='_blank'>перейти</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Stone Island</strong> - ідеальний аксесуар для стильного чоловіка. </p><p>Розмір: <strong>24 х 20 х 7 см</strong>.</p><ul><li>Матеріал: <strong>Поліестер 1000д</strong>.</li><li>Регульована довжина ремінця для комфортного носіння.</li><li>Фірмова фурнітура, що забезпечує високу якість.</li><li>Одне велике відділення на змійці зверху для зручного зберігання речей.</li><li>Кишеня на змійці на задній стороні барсетки для дрібниць.</li><li>Спереду кишеня без змійки для швидкого доступу.</li></ul><p>Логотип - нашивка.</p><p>Більше фото можна знайти за посиланням: <a href='https://drive.google.com/drive/folders/1Nrd5OIAgVeWlLx_bTnqdDR2xzB-ziSKu' target='_blank'>перейти</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-2216651" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Adidas темно-сірий меланж из полиэстера 24x20x7 см</name>
+                <name_ua>Барсетка Adidas темно-сірий меланж з поліестеру 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>94</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5c39ed7bdab7a249c3c2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a2b10e550812aa872c41.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0b2f213680be0a8bafda.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a055cfc9263041326503.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4075394f5b1bef949549.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ef79f97e96f836c9d033.jpg</picture>
+                <vendorCode>P3-5050686199</vendorCode>
+                <vendor />
+                <keywords>барсетка, Adidas, темно-сірий, меланж, поліестер, 24x20x7 см, стиль, удобство, мужская сумка, повседневное использование</keywords>
+                <description><![CDATA[<p><strong>Барсетка Adidas</strong> — идеальный выбор для современных пользователей, ценящих стиль и удобство.</p> <h3>Характеристики:</h3> <ul> <li><strong>Размер:</strong> 24 х 20 х 7 см</li> <li><strong>Материал:</strong> Полиэстер 600д</li> <li><strong>Фурнитура:</strong> Фирменная</li> <li><strong>Ремень:</strong> Регулируемая длина</li> <li><strong>Отделения:</strong> Одно большое отделение на змеевике сверху</li> <li><strong>Карманы:</strong> Задний карман на змеевике, передний карман без змеевика</li> <li><strong>Логотип:</strong> Накатка</li> </ul> <p>Эта барсетка удобна для повседневного использования и отлично дополнит ваш стиль.</p> <p>Больше фото: <a href="https://drive.google.com/drive/folders/1BzEc9fZTbb6Sy0TixXGGQa8_cLbpMxN7" target="_blank">Смотреть здесь</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Adidas</strong> — ідеальний вибір для сучасних користувачів, що цінують стиль та зручність.</p> <h3>Характеристики:</h3> <ul> <li><strong>Розмір:</strong> 24 х 20 х 7 см</li> <li><strong>Матеріал:</strong> Поліестер 600д</li> <li><strong>Фурнітура:</strong> Фірмова</li> <li><strong>Ремінь:</strong> Регульована довжина</li> <li><strong>Відділення:</strong> Одне велике відділення на змійці зверху</li> <li><strong>Кишені:</strong> Задня кишеня на змійці, передня кишеня без змійки</li> <li><strong>Логотип:</strong> Накатка</li> </ul> <p>Ця барсетка зручна для повсякденного використання і чудово доповнить ваш стиль.</p> <p>Більше фото: <a href="https://drive.google.com/drive/folders/1BzEc9fZTbb6Sy0TixXGGQa8_cLbpMxN7" target="_blank">Дивитися тут</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-920733" available="true" in_stock="true">
+                <url />
+                <name>Барсетка Nike черная 1000d с черным логотипом, регулируемая длина ремень</name>
+                <name_ua>Барсетка Nike чорна 1000d з чорним логотипом, регульована довжина ремінця</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>14</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ee5a6f9d3897851eaa33.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0718d295e955fa7e04ee.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/872045b178779e4ff3a9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/72e6c6514a39ae2077c3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5fae0911c528082f604b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/faa23c7517bc9b890a10.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ecba38c048047030e73b.jpg</picture>
+                <vendorCode>P3-1881862137</vendorCode>
+                <vendor />
+                <keywords>барсетка, Nike, черная барсетка, аксессуары, регулируемая длина, карман на молнии, мужская сумка, стильный аксессуар, повседневное использование, travel bag</keywords>
+                <description><![CDATA[<p><strong>Барсетка Nike</strong> — идеальный аксессуар для стильного и удобного хранения ваших вещей.</p><h3>Основные характеристики:</h3><ul><li>Регулируемая длина ремешка;</li><li>Одно большое отделение на молнии;</li><li>Карман на молнии спереди;</li><li>Карман на молнии сзади;</li><li>Фирменная фурнитура.</li></ul><p>Эта барсетка — отличный выбор для повседневного использования и путешествий!</p><p>Для просмотра дополнительных фотографий перейдите по <a href='https://drive.google.com/drive/folders/1DbErB5o9AUYe10_9u4Dymg8ZFow1rPqX'>ссылке</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка Nike</strong> — ідеальний аксесуар для стильного та зручного зберігання ваших речей.</p><h3>Основні характеристики:</h3><ul><li>Регульована довжина ремінця;</li><li>Одне велике відділення на змійці;</li><li>Кишеня на змійці спереду;</li><li>Кишеня на змійці ззаду;</li><li>Фірмова фурнітура.</li></ul><p>Ця барсетка — чудовий вибір для повсякденного використання та подорожей!</p><p>Для перегляду додаткових фото перейдіть за <a href='https://drive.google.com/drive/folders/1DbErB5o9AUYe10_9u4Dymg8ZFow1rPqX'>посиланням</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-336456" available="true" in_stock="true">
+                <url />
+                <name>Барсетка / Сумки для мужчин NIKE черная, полиэстер 600д, 23x28x5 см</name>
+                <name_ua>Барсетка / Сумки для чоловіків NIKE чорна, поліестер 600д, 23x28x5 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>1455</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8f1d3efcfb443cc299db.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e5f24f8c49c6fd06a423.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2c7e3e7ec29d42854fe8.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3f41f79ce4e94f4ee006.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e0a990212410c73e64f3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ffb141c099ce7f801846.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9f3a1c75e76cd980d094.jpg</picture>
+                <vendorCode>P3-1591039322</vendorCode>
+                <vendor />
+                <keywords>барсетка, NIKE, черная барсетка, сумка, полиэстер 600д, аксессуары для мужчин, мужская барсетка, сумка через плечо, стильная сумка, вместительная барсетка</keywords>
+                <description><![CDATA[<h3>Барсетка NIKE черная</h3><p>Размер: 23 х 28 х 5 см</p><ul><li><strong>Материал:</strong> Полиэстер 600d</li><li><strong>Логотип:</strong> Вышитый</li><li><strong>Регулируемая длина ремешка</strong></li><li><strong>Фирменная фурнитура</strong></li><li><strong>Одно большое отделение на змейке сверху</strong></li><li><strong>Кармашек на змейке с задней стороны</strong></li><li><strong>Спереди карман без змейки</strong></li></ul><p>Больше фото: <a href='https://drive.google.com/drive/folders/1r3wNA8p6_qHp-vT8X5DNVPGsvwz7dVvy'>Фото 1</a>, <a href='https://drive.google.com/drive/folders/16Cq0RWi_5Jvcp4EVTk7-p6jY5YOxx9Az'>Фото 2</a></p>]]></description>
+                <description_ua><![CDATA[<h3>Барсетка NIKE чорна</h3><p>Розмір: 23 х 28 х 5 см</p><ul><li><strong>Матеріал:</strong> Поліестер 600d</li><li><strong>Логотип:</strong> Вишитий</li><li><strong>Регульована довжина ремінця</strong></li><li><strong>Фірмова фурнітура</strong></li><li><strong>Одне велике відділення на змійці зверху</strong></li><li><strong>Кишеня на змійці на задній стороні</strong></li><li><strong>Спереду кишеня без змійки</strong></li></ul><p>Більше фото: <a href='https://drive.google.com/drive/folders/1r3wNA8p6_qHp-vT8X5DNVPGsvwz7dVvy'>Фото 1</a>, <a href='https://drive.google.com/drive/folders/16Cq0RWi_5Jvcp4EVTk7-p6jY5YOxx9Az'>Фото 2</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-336647" available="true" in_stock="true">
+                <url />
+                <name>Барсетка / Сумки Nike черная, полиэстер, 24 х 20 х 7 см</name>
+                <name_ua>Барсетка / Сумки Nike чорна, поліестер, 24 х 20 х 7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>406</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9b1dbfb9b53b743b2e7a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6143eb9da01135428128.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c844f41b8c2c37f3003d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8a28d6838032a1c66153.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/830dad91b784e02af1b7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/071def8d5b0009a0e837.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7b54cf4afb7a7687d381.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5e38563d3f8a39a2490d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9dcfdb2102006ee034fe.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ef154311945d40735e76.jpg</picture>
+                <vendorCode>P3-1595515125</vendorCode>
+                <vendor />
+                <keywords>барсетка, сумка, Nike, черная, полиэстер, аксессуары, мужская сумка, стильные сумки, рюкзаки, сумки через плечо</keywords>
+                <description><![CDATA[<p><strong>Размер:</strong> 24 х 20 х 7 см</p><p><strong>Материал:</strong> Поліестер 600д</p><h3>Описание товара:</h3><ul><li>Регулируемая длина ремешка</li><li>Фирменная фурнитура</li><li>Одно большое отделение на молнии сверху</li><li>Кармашек на молнии на задней стороне</li><li>Кармашек спереди без молнии</li></ul><p>Больше фото: <a href="https://drive.google.com/drive/folders/1r3wNA8p6_qHp-vT8X5DNVPGsvwz7dVvy">ссылка</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Розмір:</strong> 24 х 20 х 7 см</p><p><strong>Матеріал:</strong> Поліестер 600д</p><h3>Опис товару:</h3><ul><li>Регульована довжина ремінця</li><li>Фірмова фурнітура</li><li>Одне велике відділення на змійці зверху</li><li>Кишеня на змійці на задній стороні</li><li>Кишеня спереду без змійки</li></ul><p>Більше фото: <a href="https://drive.google.com/drive/folders/1r3wNA8p6_qHp-vT8X5DNVPGsvwz7dVvy">посилання</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-828128" available="true" in_stock="true">
+                <url />
+                <name>Барсетка черная 600д Поліестер 24 х 20 х 7 см</name>
+                <name_ua>Барсетка чорна 600д Поліестер 24 х 20 х 7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>27</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/592853db94051a3bbe63.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5e0b410a780e24479222.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f2fcc52f431990ee65fb.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/07373c8669907f2800e0.jpg</picture>
+                <vendorCode>P3-1210022887</vendorCode>
+                <vendor />
+                <keywords>барсетка, черная барсетка, барсетка из полиэстера, черная сумка, мужская барсетка, сумка на ремне, стильная барсетка, качественная барсетка, барсетка с карманами, барсетка без лого</keywords>
+                <description><![CDATA[<p><strong>Барсетка черного цвета из качественного материала</strong></p><p>Размер: <strong>24 х 20 х 7 см</strong>.</p><ul><li>Материал: Поліестер 600д</li><li>Регулируемая длина ремня</li><li>Фирменная фурнитура</li><li>Одно большое отделение на змейке сверху</li><li>На задней стороне барсетки есть карман на змейке</li><li>Спереди - карман без змейки</li></ul><p>Больше фото: <a href='https://drive.google.com/drive/folders/1G2oWMMoSv38aAeh5LqIAfmwlqT7p0Tgt'>Ссылка на фотографии</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка чорного кольору з якісного матеріалу</strong></p><p>Розмір: <strong>24 х 20 х 7 см</strong>.</p><ul><li>Матеріал: Поліестер 600д</li><li>Регульована довжина ремінця</li><li>Фірмова фурнітура</li><li>Одне велике відділення на змійці зверху</li><li>На задній стороні барсетки є кишеня на змійці</li><li>Спереду - кишеня без змійки</li></ul><p>Більше фото: <a href='https://drive.google.com/drive/folders/1G2oWMMoSv38aAeh5LqIAfmwlqT7p0Tgt'>Посилання на фотографії</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-515810" available="true" in_stock="true">
+                <url />
+                <name>Барсетка черная Under Armour 24х20х7 см, полиэстер, с карманами</name>
+                <name_ua>Барсетка чорна Under Armour 24х20х7 см, поліестер, з кишенями</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>720</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a7c7aa586291ebbe323e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/11394d05822e8d031d74.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6deec9b950de77f8d5bd.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/12cbb773823290514d6e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c86856a8fdbfb7b5641d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/35540c55c65bd11d843d.jpg</picture>
+                <vendorCode>P3-1562629035</vendorCode>
+                <vendor />
+                <keywords>барсетка, Under Armour, черная барсетка, рюкзак, полиэстер, переноска, стильная сумка, мужская барсетка, унисекс сумка, аксессуары</keywords>
+                <description><![CDATA[<p><strong>Барсетка черного цвета</strong> от <strong>Under Armour</strong> — идеальный выбор для стильных и активных людей.</p><h3>Характеристики:</h3><ul><li>Размер: 24 х 20 х 7 см</li><li>Материал: Полиэстер 600д</li><li>Регулируемая длина ремня</li><li>Фирменная фурнитура</li><li>Одно большое отделение на змейке сверху</li><li>Карманы: один на задней стороне и один спереди без змейки</li></ul><p>Больше фото можно посмотреть <a href="https://drive.google.com/drive/u/2/folders/1RKRiYkcJECuaQKjvs49lObjQcRrfrrEo">здесь</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка чорного кольору</strong> від <strong>Under Armour</strong> — ідеальний вибір для стильних і активних людей.</p><h3>Характеристики:</h3><ul><li>Розмір: 24 х 20 х 7 см</li><li>Матеріал: Поліестер 600д</li><li>Регульована довжина ремінця</li><li>Фірмова фурнітура</li><li>Одне велике відділення на змійці зверху</li><li>Кишені: одна на задній стороні та одна спереду без змійки</li></ul><p>Більше фото можна переглянути <a href="https://drive.google.com/drive/u/2/folders/1RKRiYkcJECuaQKjvs49lObjQcRrfrrEo">тут</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-336289" available="true" in_stock="true">
+                <url />
+                <name>Барсетка TNF черная из полиэстера 600д размер 24х20х7 см</name>
+                <name_ua>Барсеткет TNF чорна з поліестеру 600д розмір 24х20х7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>31</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/882ad0c24319a24a10f5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8ee4e2f5cf545a5a9ecf.jpg</picture>
+                <vendorCode>P3-1591784793</vendorCode>
+                <vendor />
+                <keywords>барсетка, TNF, черная, полиэстер, размер 24х20х7 см, аксессуар, удобная, карманы, вишитый логотип, фурнітура</keywords>
+                <description><![CDATA[<p>Представляем вашему вниманию барсетку TNF в черном цвете, изготовленную из высококачественного полиэстера 600д.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 24 х 20 х 7 см</li><li><strong>Материал:</strong> Поліестер 600д</li><li><strong>Логотип:</strong> Вишитий</li><li><strong>Регульована довжина ремінця</strong></li><li><strong>Фірмова фурнітура</strong></li><li><strong>Одне велике відділення на змійці зверху</strong></li><li><strong>Кишеня на змійці на задній стороні</strong></li><li><strong>Спереду кишеня без змійки</strong></li></ul><p>Эта барсетка является идеальным аксессуаром для повседневного использования. Удобные карманы обеспечивают легкий доступ к вашим вещам.</p><p>Більше фото: <a href="https://drive.google.com/drive/u/3/folders/1tyD3qFuYlGFwVgOCivCesnk5m_cnzbYR">перейти за посиланням</a>.</p>]]></description>
+                <description_ua><![CDATA[<p>Пропонуємо вашій увазі барсетку TNF чорного кольору, виготовлену з високоякісного поліестеру 600д.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 24 х 20 х 7 см</li><li><strong>Матеріал:</strong> Поліестер 600д</li><li><strong>Логотип:</strong> Вишитий</li><li><strong>Регульована довжина ремінця</strong></li><li><strong>Фірмова фурнітура</strong></li><li><strong>Одне велике відділення на змійці зверху</strong></li><li><strong>Кишеня на змійці на задній стороні</strong></li><li><strong>Спереду кишеня без змійки</strong></li></ul><p>Ця барсетця є ідеальним аксесуаром для повсякденного використання. Зручні кишені забезпечують легкий доступ до ваших речей.</p><p>Більше фото: <a href="https://drive.google.com/drive/u/3/folders/1tyD3qFuYlGFwVgOCivCesnk5m_cnzbYR">перейти за посиланням</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-425210" available="true" in_stock="true">
+                <url />
+                <name>Барсетка черная Поліестер 600д 24x20x7 см</name>
+                <name_ua>Барсетка чорна Поліестер 600д 24x20x7 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>349</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>17</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6a8762e5cc35763bdca1.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/dd9ba265264bdf4c90d1.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/caa12120f17379c972ce.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/325b8cecd1e7bc5e8177.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/df9a879f04d7962af427.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0deb9a7f5d84d7674113.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b5368a55ab2a8cabfbf5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e0d48975e9fb32bd545b.jpg</picture>
+                <vendorCode>P3-9702243246</vendorCode>
+                <vendor />
+                <keywords>барсетка, черная барсетка, полистерная барсетка, аксессуары, стильная барсетка, мужская барсетка, женская барсетка, компактная сумка, барсетка на змейке, барсетка с карманами</keywords>
+                <description><![CDATA[<p><strong>Барсетка черная</strong> - это стильный и практичный аксессуар для мужчин и женщин. </p><h3>Характеристики:</h3><ul><li>Розмір: 24 х 20 х 7 см;</li><li>Матеріал: Поліестер 600д;</li><li>Регульована довжина ремінця;</li><li>Фірмова фурнітура;</li><li>Одно великое відділення на змійці зверху;</li><li>Кишеня на змійці на задній стороні;</li><li>Спереду кишеня без змійки.</li></ul><p>Для замовлення та більшої інформації, дивіться <a href="https://drive.google.com/drive/folders/1QSDF6BzDDBpj3WP1BZUYVb0J2U0gptFG">тут</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Барсетка чорна</strong> - це стильний та практичний аксесуар для чоловіків та жінок.</p><h3>Характеристики:</h3><ul><li>Розмір: 24 х 20 х 7 см;</li><li>Матеріал: Поліестер 600д;</li><li>Регульована довжина ремінця;</li><li>Фірмова фурнітура;</li><li>Одне велике відділення на змійці зверху;</li><li>Кишеня на змійці на задній стороні;</li><li>Спереду кишеня без змійки.</li></ul><p>Для замовлення та більше інформації дивіться <a href="https://drive.google.com/drive/folders/1QSDF6BzDDBpj3WP1BZUYVb0J2U0gptFG">тут</a>.</p>]]></description_ua>
             </offer>
         </offers>
     </shop>
