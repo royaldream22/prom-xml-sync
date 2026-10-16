@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-16 06:52">
+<yml_catalog date="2026-10-16 15:18">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -182,7 +182,7 @@
                 <portal_category_id />
                 <price>300</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>2</quantity_in_stock>
+                <quantity_in_stock>3</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/aeba6336bad45a95e673.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f24fd696ccb0691abee6.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f659e4b7ba81b8abf2d3.jpg</picture>
@@ -680,7 +680,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>57</quantity_in_stock>
+                <quantity_in_stock>58</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f23eb3374d75dbe7bfe8.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
@@ -699,7 +699,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>43</quantity_in_stock>
+                <quantity_in_stock>42</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45ac86adc15c8f507ddb.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1271f3e6f5db912a3b98.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
@@ -741,7 +741,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>19</quantity_in_stock>
+                <quantity_in_stock>18</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/afca78e85198d8b90f3c.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/97e3360c57b56d520f80.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/16d104f11cb841a99644.png</picture>
@@ -806,7 +806,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>16</quantity_in_stock>
+                <quantity_in_stock>17</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/769e224f82044b815afc.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/28b0c6b57e5b9909796d.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0f5b17e01e30b6716cba.png</picture>
@@ -935,7 +935,7 @@
                 <portal_category_id />
                 <price>589</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>437</quantity_in_stock>
+                <quantity_in_stock>436</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e39c106bddc3841240e3.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/992b33d0a4b8223ffb4b.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/14c329b587207b628582.jpg</picture>
@@ -1018,7 +1018,7 @@
                 <portal_category_id />
                 <price>599</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>710</quantity_in_stock>
+                <quantity_in_stock>709</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/66c817726ef042174a0f.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/da03c05b9a20064d1e3e.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/85da8e464fdc8537efc6.jpg</picture>
@@ -1040,7 +1040,7 @@
                 <param name="Застібка/відділення">Змійка (з двома бігунками)</param>
                 <param name="Властивості">Водостійкий, Міцний</param>
             </offer>
-            <offer id="P3-4394823" available="false" in_stock="false">
+            <offer id="P3-4394823" available="true" in_stock="true">
                 <url />
                 <name>Рюкзак Nike черный с большим белым лого 21 л.</name>
                 <name_ua>Рюкзак Nike чорний з великим білим лого 21 л, водостійкий</name_ua>
@@ -1048,7 +1048,7 @@
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
+                <quantity_in_stock>42</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7799022f9b49fee16e58.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d8889795962cdc46dfaa.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0e6863e1710aa555c670.png</picture>
@@ -1135,7 +1135,7 @@
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>47</quantity_in_stock>
+                <quantity_in_stock>46</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c3d215796f649421d731.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/eb12d43d1c1e9ba208b3.png</picture>
                 <vendorCode>P3-1835101854</vendorCode>
@@ -1180,7 +1180,7 @@
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>46</quantity_in_stock>
+                <quantity_in_stock>47</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f8c85f4c82b8706dc7ba.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f51de468d665261a8ba1.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/26d9f3b82066aac364a2.png</picture>
@@ -1615,7 +1615,7 @@
                 <portal_category_id />
                 <price>449</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>25</quantity_in_stock>
+                <quantity_in_stock>24</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f528f6f41c43b84f7029.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c4710af9cdc01c5bd7c8.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ee3ec930c65b25719cd0.jpg</picture>
@@ -2182,7 +2182,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>301</quantity_in_stock>
+                <quantity_in_stock>303</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb67d26a3611fdf684cb.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6282cbee080b6ce30cc5.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0830e4f3afbb79150942.jpg</picture>
@@ -2359,7 +2359,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>14</quantity_in_stock>
+                <quantity_in_stock>13</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ee5a6f9d3897851eaa33.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0718d295e955fa7e04ee.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/872045b178779e4ff3a9.jpg</picture>
@@ -2381,7 +2381,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1454</quantity_in_stock>
+                <quantity_in_stock>1446</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8f1d3efcfb443cc299db.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e5f24f8c49c6fd06a423.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2c7e3e7ec29d42854fe8.jpg</picture>
@@ -2447,7 +2447,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>720</quantity_in_stock>
+                <quantity_in_stock>721</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a7c7aa586291ebbe323e.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/11394d05822e8d031d74.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6deec9b950de77f8d5bd.jpg</picture>
@@ -2499,6 +2499,294 @@
                 <keywords>барсетка, черная барсетка, полистерная барсетка, аксессуары, стильная барсетка, мужская барсетка, женская барсетка, компактная сумка, барсетка на змейке, барсетка с карманами</keywords>
                 <description><![CDATA[<p><strong>Барсетка черная</strong> - это стильный и практичный аксессуар для мужчин и женщин. </p><h3>Характеристики:</h3><ul><li>Розмір: 24 х 20 х 7 см;</li><li>Матеріал: Поліестер 600д;</li><li>Регульована довжина ремінця;</li><li>Фірмова фурнітура;</li><li>Одно великое відділення на змійці зверху;</li><li>Кишеня на змійці на задній стороні;</li><li>Спереду кишеня без змійки.</li></ul><p>Для замовлення та більшої інформації, дивіться <a href="https://drive.google.com/drive/folders/1QSDF6BzDDBpj3WP1BZUYVb0J2U0gptFG">тут</a>.</p>]]></description>
                 <description_ua><![CDATA[<p><strong>Барсетка чорна</strong> - це стильний та практичний аксесуар для чоловіків та жінок.</p><h3>Характеристики:</h3><ul><li>Розмір: 24 х 20 х 7 см;</li><li>Матеріал: Поліестер 600д;</li><li>Регульована довжина ремінця;</li><li>Фірмова фурнітура;</li><li>Одне велике відділення на змійці зверху;</li><li>Кишеня на змійці на задній стороні;</li><li>Спереду кишеня без змійки.</li></ul><p>Для замовлення та більше інформації дивіться <a href="https://drive.google.com/drive/folders/1QSDF6BzDDBpj3WP1BZUYVb0J2U0gptFG">тут</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-3125551" available="false" in_stock="false">
+                <url />
+                <name>Сумка-бананка Nike черная из полиэстера, 34 х 14 см</name>
+                <name_ua>Сумка-бананка Nike чорна з поліестеру, 34 х 14 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c4845257b7a3c15ffbb5.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/02a506048dcd29836e45.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/41634fda81fbafbf7cf7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/394275a5158e39b72d47.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/28df5d20dcef16f39565.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fbc0dd072c41168a21b2.jpg</picture>
+                <vendorCode>P3-8414447740</vendorCode>
+                <vendor />
+                <keywords>бананка, Nike, сумка, черная, полиэстер, водоотталкивающая, размеры, спортивные аксессуары, стильные сумки, повседневное использование</keywords>
+                <description><![CDATA[<p><strong>Сумка-бананка Nike</strong> – идеальный аксессуар для активного отдыха и повседневного использования. Она выполнена в <strong>черном цвете</strong> с <strong>белым логотипом</strong>, что придает стильный и современный вид.</p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 34 х 14 см</li><li><strong>Материал:</strong> полиэстер с водоотталкивающей пропиткой</li><li><strong>Отделения:</strong> два основных на змейке</li><li><strong>Ремень:</strong> регулируется по длине</li></ul><p>Это удобно и практично для хранения ваших вещей на прогулках, занятиях спортом или путешествиях.</p><p>Больше фото: <a href="https://drive.google.com/drive/folders/1EGG6iW0raXMVgFr8auXdcPl-XVnk_VzA">Нажмите здесь</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Сумка-бананка Nike</strong> – ідеальний аксесуар для активного відпочинку та повсякденного використання. Вона виконана в <strong>чорному кольорі</strong> з <strong>білим логотипом</strong>, що надає стильний та сучасний вигляд.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 34 х 14 см</li><li><strong>Матеріал:</strong> поліестер з водовідштовхуючим просоченням</li><li><strong>Відділення:</strong> два основні на змійці</li><li><strong>Ремінь:</strong> регулюється по довжині</li></ul><p>Це зручно та практично для зберігання ваших речей під час прогулянок, занять спортом або подорожей.</p><p>Більше фото: <a href="https://drive.google.com/drive/folders/1EGG6iW0raXMVgFr8auXdcPl-XVnk_VzA">Натисніть тут</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-756636" available="true" in_stock="true">
+                <url />
+                <name>Бананка Nike черная с белым логотипом, Oxford, 34 х 14 см</name>
+                <name_ua>Бананка Nike чорна з білим логотипом, Oxford, 34 х 14 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>108</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/23199176a868affc6de1.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0eee59d51b51c1e25796.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9ac125b28cdf5df7ca58.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6882d79634d978e07e21.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a5d2a14a5cead2df877a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8f4f5441b1381d78b765.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/edd9f1323165eef6dc2a.jpg</picture>
+                <vendorCode>P3-1992757734</vendorCode>
+                <vendor />
+                <keywords>бананка, Nike, черная, белый логотип, Oxford, размеры, стильный, спортивный, аксессуар, регулируемый ремень, два отделения, удобная бананка</keywords>
+                <description><![CDATA[<p><strong>Бананка Nike</strong> - идеальный аксессуар для активных людей!</p><p>Характеристики:</p><ul><li><strong>Размер:</strong> 34 х 14 см;</li><li><strong>Материал:</strong> Oxford;</li><li><strong>Два отделения</strong> на змейке;</li><li><strong>Регулируемый ремень</strong> по длине;</li></ul><p>Станьте владельцем стильной и удобной бананки от Nike!</p><p>Больше фото: <a href='https://drive.google.com/drive/u/1/folders/1vnT5PKBm6qVRz_5poe5o7dB-ztCMwdsK'>ссылка</a></p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка Nike</strong> - ідеальний аксесуар для активних людей!</p><p>Характеристики:</p><ul><li><strong>Розмір:</strong> 34 х 14 см;</li><li><strong>Матеріал:</strong> Oxford;</li><li><strong>Два відділення</strong> на змійці;</li><li><strong>Регульований ремінь</strong> по довжині;</li></ul><p>Станьте власником стильної та зручної бананки від Nike!</p><p>Більше фото: <a href='https://drive.google.com/drive/u/1/folders/1vnT5PKBm6qVRz_5poe5o7dB-ztCMwdsK'>посилання</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-336468" available="false" in_stock="false">
+                <url />
+                <name>Сумка на пояс Nike Бананка черная Oxford, размер 34х10 см</name>
+                <name_ua>Сумка на пояс Nike Бананка чорна Oxford, розмір 34х10 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0a5ec1661cc1e85cce69.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1b83e2dda08809afced6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/93fed327450f162aaa25.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/badd9e8eeb6b874c691f.jpg</picture>
+                <vendorCode>P3-1591880692</vendorCode>
+                <vendor />
+                <keywords>бананка, сумка на пояс, Nike, черная сумка, Oxford, спортивный аксессуар, сумка с логотипом, стильное решение, размер 34х10 см</keywords>
+                <description><![CDATA[<p><strong>Сумка на пояс Nike</strong> — идеальный аксессуар для активных людей. Эта бананка выполнена из прочного материала Oxford и имеет стильный черный логотип.</p><h3>Характеристики:</h3><ul><li>Материал: Oxford</li><li>Два отделения на змейке</li><li>Регулируемый по длине ремень</li><li>Размер: 34х10 см</li></ul><p>Не забудьте ознакомиться с дополнительными фото по <a href="https://drive.google.com/drive/u/1/folders/10ysNDG2os7P-m0Y-_R8pf4CT3OYkXZaf">ссылке</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Сумка на пояс Nike</strong> — ідеальний аксесуар для активних людей. Ця бананка виконана з міцного матеріалу Oxford та має стильний чорний логотип.</p><h3>Характеристики:</h3><ul><li>Матеріал: Oxford</li><li>Два відділення на змійці</li><li>Регульований по довжині ремінь</li><li>Розмір: 34х10 см</li></ul><p>Не забудьте ознайомитися з додатковими фото за <a href="https://drive.google.com/drive/u/1/folders/10ysNDG2os7P-m0Y-_R8pf4CT3OYkXZaf">посиланням</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-521881" available="false" in_stock="false">
+                <url />
+                <name>Бананка / Сумка черная Nike из Oxford 35 х 15 см с 2 отделениями</name>
+                <name_ua>Бананка / Сумка чорна Nike з Oxford 35 х 15 см з 2 відділеннями</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>0</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2a17aa3711df6292ee44.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/33c5ef3df22bd49e4955.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a1704b5640c2de505f12.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ebf42af972370b82bd72.jpg</picture>
+                <vendorCode>P3-1059196131</vendorCode>
+                <vendor />
+                <keywords>бананка Nike, сумка черная, Oxford, сумка на пояс, спортивная сумка, аксессуары для спорта, размер 35 х 15 см, регульований ремінь, 2 отделения на молнии, сумка для щоденного використання</keywords>
+                <description><![CDATA[<h3>Бананка черная Nike</h3><p>Эта бананка станет отличным выбором для активного отдыха и повседневного использования. В ней удобно хранить все необходимые вещи.</p><ul><li><strong>Размер:</strong> 35 х 15 см</li><li><strong>Материал:</strong> Oxford</li><li><strong>Отделения:</strong> 2 с застежками на молнии</li><li><strong>Ремень:</strong> регулируется по длине</li></ul><p>Больше фото:<br /><a href='https://drive.google.com/drive/u/3/folders/1EGG6iW0raXMVgFr8auXdcPl-XVnk_VzA'>Посмотреть фото</a></p>]]></description>
+                <description_ua><![CDATA[<h3>Бананка чорна Nike</h3><p>Ця бананка стане відмінним вибором для активного відпочинку та повсякденного використання. В ній зручно зберігати всі необхідні речі.</p><ul><li><strong>Розмір:</strong> 35 х 15 см</li><li><strong>Матеріал:</strong> Oxford</li><li><strong>Відділення:</strong> 2 на блискавці</li><li><strong>Ремінь:</strong> регулюється за довжиною</li></ul><p>Більше фото:<br /><a href='https://drive.google.com/drive/u/3/folders/1EGG6iW0raXMVgFr8auXdcPl-XVnk_VzA'>Переглянути фото</a></p>]]></description_ua>
+            </offer>
+            <offer id="P3-336513" available="true" in_stock="true">
+                <url />
+                <name>Бананка / Сумки для активного отдыха Under Armour черная Oxford 34 х 14 см</name>
+                <name_ua>Бананка / Сумки для активного відпочинку Under Armour чорна Oxford 34 х 14 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>60</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/71c31166510f23e56b3c.jpg</picture>
+                <vendorCode>P3-1594481224</vendorCode>
+                <vendor />
+                <keywords>бананка, сумка, Under Armour, черная, Oxford, активный отдых, аксессуар, размеры, регулируемый ремень, стиль</keywords>
+                <description><![CDATA[<p><strong>Бананка черная Under Armour</strong> — идеальный аксессуар для активного образа жизни.</p><h3>Характеристики:</h3><ul><li>Размер: 34 х 14 см;</li><li>Материал: Oxford;</li><li>Два отделения на застежке-замке;</li><li>Регулируемый ремень для удобства;</li><li>Логотип – принт.</li></ul><p>Эта бананка сочетает в себе качество и стиль, отлично подходит как для повседневного использования, так и для активных выходов на природу.</p><p>Подробности и дополнительные фото доступны по <a href="https://drive.google.com/drive/folders/10ysNDG2os7P-m0Y-_R8pf4CT3OYkXZaf">ссылке</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка чорна Under Armour</strong> — ідеальний аксесуар для активного способу життя.</p><h3>Характеристики:</h3><ul><li>Розмір: 34 х 14 см;</li><li>Матеріал: Oxford;</li><li>Два відділення на змійці;</li><li>Регульований ремінь для зручності;</li><li>Логотип – принт.</li></ul><p>Ця бананка поєднує в собі якість та стиль, чудово підходить як для повсякденного використання, так і для активних виходів на природу.</p><p>Докладні деталі та додаткові фото доступні за <a href="https://drive.google.com/drive/folders/10ysNDG2os7P-m0Y-_R8pf4CT3OYkXZaf">посиланням</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-847894" available="true" in_stock="true">
+                <url />
+                <name>Поясная сумка adidas черная Oxford маленькая 34х10 см</name>
+                <name_ua>Бананка adidas чорна Oxford маленька 34х10 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>136</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5a5db8a9803617045506.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ba51946abe576359ed8e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ab9d4fc530e6dd69b6ef.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1676fd85d6f23155a413.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4a66b3a75c4c277fdbb4.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/935331c4cf24fda17fd4.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/aa8c7b171b9e13360a4d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f456169f471fd343b41e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d4d5bb8910466d8cbd80.jpg</picture>
+                <vendorCode>P3-1425599977</vendorCode>
+                <vendor />
+                <keywords>бананка, поясная сумка, adidas, черная сумка, Oxford, маленькая сумка, спортивная сумка, стильный аксессуар, сумка на пояс, 34х10 см</keywords>
+                <description><![CDATA[<p><strong>Поясная сумка adidas</strong> в черном цвете с белым логотипом - идеальное решение для активного образа жизни.</p><p>Основные характеристики:</p><ul><li><strong>Материал:</strong> Oxford;</li><li><strong>Два отделения:</strong> на змейке;</li><li><strong>Регулируемый ремень:</strong> по длине;</li><li><strong>Размер:</strong> 34х10 см;</li></ul><p>Удобная и стильная сумка станет отличным аксессуаром для прогулок и тренировок.</p><p>Больше фото: <a href='https://drive.google.com/drive/folders/19EqV25dWXLVVmZkABfTGEPGXzt9TywS7'>по ссылке</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка adidas</strong> в чорному кольорі з білим логотипом - ідеальне рішення для активного способу життя.</p><p>Основні характеристики:</p><ul><li><strong>Матеріал:</strong> Oxford;</li><li><strong>Два відділення:</strong> на змійці;</li><li><strong>Регульований ремінь:</strong> по довжині;</li><li><strong>Розмір:</strong> 34х10 см;</li></ul><p>Зручна та стильна сумка стане чудовим аксесуаром для прогулянок та тренувань.</p><p>Більше фото: <a href='https://drive.google.com/drive/folders/19EqV25dWXLVVmZkABfTGEPGXzt9TywS7'>по посиланню</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-1820200" available="true" in_stock="true">
+                <url />
+                <name>Бананка adidas серая, Oxford, 34 х 14 см, черное лого</name>
+                <name_ua>Бананка adidas сірого кольору, Oxford, 34 х 14 см, чорне лого</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>19</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/42347e9117fc51b0949e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/18db7ad9fae2e1e81c76.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bc392dd1dfa38dc87d73.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/def3799684774e928eac.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5aa773a1a8d5b4d8b870.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/da856eee835743f22782.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5d1430df93a492d521e6.jpg</picture>
+                <vendorCode>P3-1584114771</vendorCode>
+                <vendor />
+                <keywords>бананка, adidas, серая бананка, Oxford, бананка с черным логотипом, для спорта, аксессуары, мужская бананка, женская бананка, стильная бананка</keywords>
+                <description><![CDATA[<p><strong>Бананка adidas</strong> — идеальный аксессуар для активных людей!</p><h3>Характеристики:</h3><ul><li>Размер: 34 х 14 см;</li><li>Материал: Oxford;</li><li>2 отделения на молнии;</li><li>Регулируемый ремень по длине;</li><li>Для быстрого застегивания используется механизм фаст;</li><li>Логотип: накатка.</li></ul><p>Эта бананка отлично подходит для повседневного использования и спорта. Зафиксируйте необходимые вещи на себе — и вперед к новым приключениям!</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка adidas</strong> — ідеальний аксесуар для активних людей!</p><h3>Характеристики:</h3><ul><li>Розмір: 34 х 14 см;</li><li>Матеріал: Oxford;</li><li>2 відділення на блискавці;</li><li>Регульований ремінь по довжині;</li><li>Для швидкого застіблення використовується механізм фаст;</li><li>Логотип: накатка.</li></ul><p>Ця бананка ідеально підходить для повсякденного використання та спорту. Зафіксуйте необхідні речі на собі — і вперед до нових пригод!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-868194" available="true" in_stock="true">
+                <url />
+                <name>Бананка adidas синяя меланж с черным логотипом, Oxford, 34х10 см</name>
+                <name_ua>Бананка adidas синя меланж з чорним логотипом, Oxford, 34х10 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>56</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/28de72fb37fc61b3b6c6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/dbc15faae36a9fe3eb6d.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/19e8bb584dcfb1f9baba.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3316c62e181c40ac3bb4.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4ee36e43cd29bcfaeebb.jpg</picture>
+                <vendorCode>P3-1529999977</vendorCode>
+                <vendor />
+                <keywords>бананка, adidas, синяя бананка, меланж, Oxford, удобная бананка, стильная бананка, размер 34х10 см, регулируемый ремень, аксессуары</keywords>
+                <description><![CDATA[<p><strong>Бананка adidas</strong> - идеальный выбор для активных людей, которым важна удобность и стиль.</p><ul><li><strong>Материал:</strong> Oxford</li><li><strong>Два отделения:</strong> на змейке</li><li><strong>Регулируемый ремень:</strong> для комфортной носки</li><li><strong>Размер:</strong> 34х10 см</li></ul><p>Преобразите свой образ с помощью этой удобной и стильно выполненной бананки!</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка adidas</strong> - ідеальний вибір для активних людей, яким важливі зручність і стиль.</p><ul><li><strong>Матеріал:</strong> Oxford</li><li><strong>Два відділення:</strong> на змійці</li><li><strong>Регульований ремінь:</strong> для комфортної носки</li><li><strong>Розмір:</strong> 34х10 см</li></ul><p>Перетворіть свій образ за допомогою цієї зручної та стильно виконаної бананки!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-843166" available="true" in_stock="true">
+                <url />
+                <name>Бананка Adidas Серая / Oxford 34 х 14 см с белым логотипом</name>
+                <name_ua>Бананка Adidas Сіра / Oxford 34 х 14 см з білим логотипом</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>43</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f39b210ba5c5d3059263.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/97ffcd7e5a9abdc9ee70.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5a6a5f9e2e2c35e5d894.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9ad1be1d715615bf320b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/edcff0fae1d04239724e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/dc312f620e73180c7f2f.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5d855820677291717ec6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/fc3806c7cccdfbe464fc.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4f496dd0edc6f386273d.jpg</picture>
+                <vendorCode>P3-44335122688</vendorCode>
+                <vendor />
+                <keywords>бананка Adidas, бананка серая, сумка Adidas, Oxford, аксессуары, стиль, функциональность, бананка на молнии, модные аксессуары, регульований ремінь</keywords>
+                <description><![CDATA[<p><strong>Бананка Adidas</strong> — идеальный аксессуар для тех, кто ценит стиль и функциональность. </p><h3>Характеристики:</h3><ul><li><strong>Размер:</strong> 34 х 14 см;</li><li><strong>Материал:</strong> Oxford;</li><li><strong>Отделения:</strong> 2 на молнии;</li><li><strong>Регулируемый ремень;</strong></li><li><strong>Механизм фаст;</strong> для быстрого застегивания;</li><li><strong>Логотип:</strong> накатка.</li></ul><p>Эта бананка станет отличным спутником в повседневной жизни, практичным и стильным решением для хранения ваших вещей.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка Adidas</strong> — ідеальний аксесуар для тих, хто цінує стиль і функціональність.</p><h3>Характеристики:</h3><ul><li><strong>Розмір:</strong> 34 х 14 см;</li><li><strong>Матеріал:</strong> Oxford;</li><li><strong>Відділення:</strong> 2 на блискавці;</li><li><strong>Регульований ремінь;</strong></li><li><strong>Механізм фаст;</strong> для швидкого застібання;</li><li><strong>Логотип:</strong> накатка.</li></ul><p>Ця бананка стане чудовим супутником у повсякденному житті, практичним і стильним рішенням для зберігання ваших речей.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-387823" available="true" in_stock="true">
+                <url />
+                <name>Бананка Nike с черным логотипом, серая, Oxford, 34x14 см</name>
+                <name_ua>Бананка Nike з чорним логотипом, сіра, Oxford, 34x14 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>19</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bcde8fe790d326d25dae.jpg</picture>
+                <vendorCode>P3-9532374567</vendorCode>
+                <vendor />
+                <keywords>бананка, Nike, аксессуар, Oxford, серый цвет, размер 34x14 см, спортивный стиль, японский логотип, модные аксессуары, стильные сумки</keywords>
+                <description><![CDATA[<p><strong>Бананка Nike</strong> – идеальный аксессуар для активного образа жизни.</p><p>Основные характеристики:</p><ul><li><strong>Размер:</strong> 34 х 14 см</li><li><strong>Материал:</strong> Oxford</li><li><strong>Отделения:</strong> два с застежкой на молнии</li><li><strong>Ремень:</strong> регулируется по длине</li></ul><p>Эта бананка не только стильная, но и очень практичная. Модель отличается уникальным дизайном с черным логотипом, что делает ее универсальным аксессуаром для любого образа.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка Nike</strong> – ідеальний аксесуар для активного способу життя.</p><p>Основні характеристики:</p><ul><li><strong>Розмір:</strong> 34 х 14 см</li><li><strong>Матеріал:</strong> Oxford</li><li><strong>Відділення:</strong> два на змійці</li><li><strong>Ремінь:</strong> регулюється по довжині</li></ul><p>Ця бананка не тільки стильна, але й дуже практична. Модель вирізняється унікальним дизайном з чорним логотипом, що робить її універсальним аксесуаром для будь-якого образу.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-541936" available="true" in_stock="true">
+                <url />
+                <name>Бананка / Сумки для активного отдыха без лого, серая, Oxford, 35 х 15 см</name>
+                <name_ua>Бананка / Сумки для активного відпочинку без лого, сіра, Oxford, 35 х 15 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>47</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ce508f4b7d02f0323794.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9be8e675b20534f1bdd0.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e2c32869f05bd97bb02b.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c4b35c67bd95e645335a.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4c373a433959f82f30e0.jpg</picture>
+                <vendorCode>P3-1847731478</vendorCode>
+                <vendor />
+                <keywords>бананка, сумка, аксесуар, активний відпочинок, Oxford, зручність, прогулянки, спортивні заходи, подорожі, регульований ремінь, 35х15 см</keywords>
+                <description><![CDATA[<p><strong>Бананка сіра без лого</strong> — це стильний та функціональний аксесуар, який підійде для активного відпочинку та повсякденного використання.</p> <h3>Основні характеристики:</h3> <ul> <li><strong>Розмір:</strong> 35 х 15 см</li> <li><strong>Матеріал:</strong> Oxford</li> <li><strong>Відділення:</strong> 2 на блискавці</li> <li><strong>Ремінь:</strong> регулюється за довжиною</li> </ul> <p>Ця бананка забезпечить зручність та комфорт під час прогулянок, спортивних заходів та подорожей. Використовуйте її для зберігання важливих речей!</p> <p>Більше фото можна подивитися <a href='https://drive.google.com/drive/u/2/folders/1CAaKEzzY7ZqAfkcrm_Xr-MwTW2mz7EMP'>тут</a> та <a href='https://drive.google.com/drive/folders/1FeMyS3LAarZ5YbE_w04EniivYnrrsm-R'>тут</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка сіра без лого</strong> — це стильний та функціональний аксесуар, ідеальний для активного відпочинку та повсякденного використання.</p> <h3>Основні характеристики:</h3> <ul> <li><strong>Розмір:</strong> 35 х 15 см</li> <li><strong>Матеріал:</strong> Oxford</li> <li><strong>Відділення:</strong> 2 на блискавці</li> <li><strong>Ремінь:</strong> регулюється за довжиною</li> </ul> <p>Ця бананка забезпечить зручність та комфорт під час прогулянок, спортивних заходів та подорожей. Використовуйте її для зберігання важливих речей!</p> <p>Більше фото можна подивитися <a href='https://drive.google.com/drive/u/2/folders/1CAaKEzzY7ZqAfkcrm_Xr-MwTW2mz7EMP'>тут</a> та <a href='https://drive.google.com/drive/folders/1FeMyS3LAarZ5YbE_w04EniivYnrrsm-R'>тут</a>.</p>]]></description_ua>
+            </offer>
+            <offer id="P3-336648" available="true" in_stock="true">
+                <url />
+                <name>Бананка Intruder сірий камуфляж 34х15 см</name>
+                <name_ua>Бананка Intruder сірий камуфляж 34х15 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>399</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>268</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d12e71f34be9e6fa3b69.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/15ef74f6e12bb8bf8004.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d1fa03d57e69c2befc94.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/399874cebc8f98ae3955.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e6e906a5814050c760b3.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ed37a49c55d64524fd1c.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ea192cbd61e2913fbaf7.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5a23bc81b301f5e887c9.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c0793301f06bf139708e.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cd21b38ff8fc1c12daa3.jpg</picture>
+                <vendorCode>P3-1595586750</vendorCode>
+                <vendor />
+                <keywords>бананка, Intruder, сірий камуфляж, сумка на пояс, компактна сумка, стильна сумка, регульований пояс, два відділення, зручна у використанні, подорожі</keywords>
+                <description><![CDATA[<p>Бананка Intruder в стильному сірому камуфляжі — це ідеальне рішення для тих, хто цінує зручність і стиль.</p><h3>Основні характеристики:</h3><ul><li>Розмір: <strong>34х15 см</strong>; </li><li>Компактна сумка, яку можна носити на поясі або на грудях;</li><li>Містить всі необхідні дрібниці та документи;</li><li>Зручна у використанні та займає мало місця;</li><li>Ідеально підходить для подорожей та повсякденного використання;</li><li>Регульований пояс для максимальної зручності;</li><li>Якісна фурнітура;</li><li>Фірмовий логотип Intruder: пришивний;</li><li>2 відділення на блискавці для зручного зберігання.</li></ul><p>Маєте питання? Залишайте заявки!</p>]]></description>
+                <description_ua><![CDATA[<p>Бананка Intruder у стильному сірому камуфляжі — це ідеальне рішення для тих, хто цінує зручність і стиль.</p><h3>Основні характеристики:</h3><ul><li>Розмір: <strong>34х15 см</strong>; </li><li>Компактна сумка, яку можна носити на поясі або на грудях;</li><li>Містить всі необхідні дрібниці та документи;</li><li>Зручна у використанні та займає мало місця;</li><li>Ідеально підходить для подорожей та повсякденного використання;</li><li>Регульований пояс для максимальної зручності;</li><li>Якісна фурнітура;</li><li>Фірмовий логотип Intruder: пришивний;</li><li>2 відділення на блискавці для зручного зберігання.</li></ul><p>Маєте питання? Залишайте заявки!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-336787" available="true" in_stock="true">
+                <url />
+                <name>Бананка текстиль черная унисекс 34x14 см Oxford</name>
+                <name_ua>Бананка текстиль чорна унісекс 34x14 см Oxford</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>220</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>186</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/4ba0bfcc4cb3606383f6.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/85bab6e0826439c4eaf8.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f26e048dff9919d31278.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5e801bc4d8ef206dabe2.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cf39ebb0d3eefca94f66.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f4e01edeafed18d823ec.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/95b1be6bf8a29e22b784.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/dd65fc6d0e9291384e68.jpg</picture>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e59cb92db8e90f5e8eca.jpg</picture>
+                <vendorCode>P3-1611328139</vendorCode>
+                <vendor />
+                <keywords>бананка, текстиль, унисекс, черная бананка, Oxford, рюкзак, стильная, удобная, аксессуары, повседневная сумка</keywords>
+                <description><![CDATA[<p><strong>Элегантная бананка в черном цвете!</strong></p><p>Идеальное сочетание стиля и удобства для любого случая. Основные характеристики:</p><ul><li><strong>Размеры:</strong> 34 х 14 см;</li><li><strong>Материал:</strong> Oxford;</li><li><strong>Цвет:</strong> черный;</li><li><strong>Регулируемый ремень:</strong> удобство в носке;</li><li><strong>Два отделения:</strong> на змейке для вашей безопасности.</li></ul><p>Не упустите шанс приобрести эту стильную бананку!</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Елегантна бананка чорного кольору!</strong></p><p>Ідеальне поєднання стилю та зручності для будь-якого випадку. Основні характеристики:</p><ul><li><strong>Розміри:</strong> 34 х 14 см;</li><li><strong>Матеріал:</strong> Oxford;</li><li><strong>Колір:</strong> чорний;</li><li><strong>Регульований ремінь:</strong> зручність у носінні;</li><li><strong>Два відділення:</strong> на змійці для вашої безпеки.</li></ul><p>Не втратьте шанс придбати цю стильну бананку!</p>]]></description_ua>
+            </offer>
+            <offer id="P3-336226" available="true" in_stock="true">
+                <url />
+                <name>Бананка Tommy Hilfiger шкірозамінник 24x11x9 см</name>
+                <name_ua>Бананка Tommy Hilfiger шкірозамінник 24x11x9 см</name_ua>
+                <categoryId>2400</categoryId>
+                <portal_category_id />
+                <price>290</price>
+                <currencyId>UAH</currencyId>
+                <quantity_in_stock>98</quantity_in_stock>
+                <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2d426e8fcbd6be1c31cb.jpg</picture>
+                <vendorCode>P3-1589871678</vendorCode>
+                <vendor />
+                <keywords>бананка, Tommy Hilfiger, шкірозамінник, аксесуар, стильний, практичний, розмір 24x11x9, регулювання, відділення, логотип</keywords>
+                <description><![CDATA[<p><strong>Бананка Tommy Hilfiger</strong> - стильний і практичний аксесуар для активного відпочинку.</p><ul><li><strong>Розмір:</strong> 24*11*9 см;</li><li><strong>Матеріал:</strong> шкірозамінник;</li><li><strong>Ремінь:</strong> з можливістю регулювання по ширині;</li><li><strong>Логотип:</strong> видавлений з тисненням;</li><li><strong>Відділення:</strong> два на змійці.</li></ul><p>Ця бананка поєднує в собі комфорт, стиль та функціональність. Вона чудово підходить для використання в повсякденному житті, на прогулянках або під час подорожей.</p><p>Детальніше ви можете переглянути тут: <a href="https://drive.google.com/drive/u/1/folders/1-Hn9DIE7ppwjw7-BxM7jw3q0cuJ5Qs4w">більше фото</a>.</p>]]></description>
+                <description_ua><![CDATA[<p><strong>Бананка Tommy Hilfiger</strong> - стильний і практичний аксесуар для активного відпочинку.</p><ul><li><strong>Розмір:</strong> 24*11*9 см;</li><li><strong>Матеріал:</strong> шкірозамінник;</li><li><strong>Ремінь:</strong> з можливістю регулювання по ширині;</li><li><strong>Логотип:</strong> видавлений з тисненням;</li><li><strong>Відділення:</strong> два на змійці.</li></ul><p>Ця бананка поєднує в собі комфорт, стиль та функціональність. Вона чудово підходить для використання в повсякденному житті, на прогулянках або під час подорожей.</p><p>Детальніше ви можете переглянути тут: <a href="https://drive.google.com/drive/u/1/folders/1-Hn9DIE7ppwjw7-BxM7jw3q0cuJ5Qs4w">більше фото</a>.</p>]]></description_ua>
             </offer>
         </offers>
     </shop>
