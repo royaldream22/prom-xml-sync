@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-09 09:24">
+<yml_catalog date="2026-11-09 21:20">
     <shop>
         <categories>
             <category id="1000" portal_id="380601" portal_url="https://prom.ua/ua/Ryukzaki">Рюкзаки</category>
@@ -680,7 +680,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>57</quantity_in_stock>
+                <quantity_in_stock>59</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f23eb3374d75dbe7bfe8.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c735e07b622d1f7571ff.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3dc2212dc98f16540bdb.png</picture>
@@ -699,7 +699,7 @@
                 <portal_category_id />
                 <price>799</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>24</quantity_in_stock>
+                <quantity_in_stock>23</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/45ac86adc15c8f507ddb.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1271f3e6f5db912a3b98.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9133171ae63dc916cafd.png</picture>
@@ -961,7 +961,7 @@
                 <portal_category_id />
                 <price>599</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>366</quantity_in_stock>
+                <quantity_in_stock>364</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b5f0c6c316ae3c67f29b.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1e134cf7a5cd1021d8c9.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/7ae3a838af018b6f2b4d.jpg</picture>
@@ -991,7 +991,7 @@
                 <portal_category_id />
                 <price>599</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>441</quantity_in_stock>
+                <quantity_in_stock>439</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/508347718bdb45744e10.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/72d16d549d5d3b2abd5d.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b427ef634da6c08705a2.png</picture>
@@ -1078,7 +1078,7 @@
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>47</quantity_in_stock>
+                <quantity_in_stock>46</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/5d09c50ebf835b2acbe4.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1c7fd244a6e68ed82a46.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/655500aa12f48b30ab08.png</picture>
@@ -1180,7 +1180,7 @@
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>29</quantity_in_stock>
+                <quantity_in_stock>27</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f8c85f4c82b8706dc7ba.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f51de468d665261a8ba1.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/26d9f3b82066aac364a2.png</picture>
@@ -1254,7 +1254,7 @@
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>33</quantity_in_stock>
+                <quantity_in_stock>32</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/afd2303b023be1357af0.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8f01792e333978f9e46c.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9170cef314ba20c3f4ae.png</picture>
@@ -1347,7 +1347,7 @@
                 <portal_category_id />
                 <price>619</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>176</quantity_in_stock>
+                <quantity_in_stock>175</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/db8a0c8c1059f0bc6291.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/01a10b91e075cac6f8b8.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/50e5a39b03b66f7218c5.jpg</picture>
@@ -1503,7 +1503,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>20</quantity_in_stock>
+                <quantity_in_stock>19</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ffa6a1a41043edad54f6.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1d5916a14fe6722b541a.png</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2adb93c50d6281f46b76.jpg</picture>
@@ -1745,7 +1745,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>33</quantity_in_stock>
+                <quantity_in_stock>32</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/998bf0bef309f75f6a72.jpg</picture>
                 <vendorCode>P3-3321044549</vendorCode>
                 <vendor />
@@ -1764,7 +1764,7 @@
                 <portal_category_id />
                 <price>269</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>31</quantity_in_stock>
+                <quantity_in_stock>30</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ee192d9d994cf508838c.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/36ae0fd195a1f825b802.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d6d5ac771a584aa44cb5.jpg</picture>
@@ -1887,7 +1887,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>83</quantity_in_stock>
+                <quantity_in_stock>81</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3ad91ca782b3223bfce5.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a67f93a07019fe6872bd.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b40e20927ab942c2dc0c.jpg</picture>
@@ -1908,7 +1908,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>41</quantity_in_stock>
+                <quantity_in_stock>40</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a6423a1277226909ba8c.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/f9ab01d93b54708075ba.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/1b18fd16244ac5becf9b.jpg</picture>
@@ -1929,7 +1929,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>215</quantity_in_stock>
+                <quantity_in_stock>210</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8c89a0d266e2f6615304.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/b3f79f7b6a2fa2eb59f2.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/13b33777f1d65d5ecad5.jpg</picture>
@@ -1950,7 +1950,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>66</quantity_in_stock>
+                <quantity_in_stock>65</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/d0cdd4439af85b75701d.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/49dbe3561c528c5359a5.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/04ae3c07673b6e7b3c93.jpg</picture>
@@ -1964,7 +1964,7 @@
                 <description><![CDATA[<p><strong>Барсетка Under Armour</strong> выполнена в стильном темном меланже и станет отличным компаньоном для любой активной жизни. Размеры барсетки составляют <strong>24 х 20 х 7 см</strong>, что делает ее компактной и удобной для ношения.</p><p>Изготовлена из прочного <strong>полиэстера 600д</strong>, она гарантирует долговечность и защиту ваших вещей. Особенности дизайна:</p><ul><li>регулируемая длина ремешка;</li><li>одно большое отделение на молнии сверху;</li><li>задний карман на молнии;</li><li>передний карман без молнии.</li></ul><p>Не упустите возможность дополнить свой образ стильной и функциональной барсеткой от Under Armour!</p>]]></description>
                 <description_ua><![CDATA[<p><strong>Барсетка Under Armour</strong> виконана у стильному темному меланжі і стане чудовим компаньйоном для будь-якого активного життя. Розміри барсетки становлять <strong>24 х 20 х 7 см</strong>, що робить її компактною та зручною для носіння.</p><p>Виготовлена з міцного <strong>поліестеру 600д</strong>, вона гарантує довговічність і захист ваших речей. Особливості дизайну:</p><ul><li>регульована довжина ремінця;</li><li>одне велике відділення на змійці зверху;</li><li>задній кишеня на змійці;</li><li>передня кишеня без змійки.</li></ul><p>Не втрачайте можливість доповнити свій образ стильним і функціональним барсетом від Under Armour!</p>]]></description_ua>
             </offer>
-            <offer id="P3-745790" available="true" in_stock="true">
+            <offer id="P3-745790" available="false" in_stock="false">
                 <url />
                 <name>Барсетка Nike сірий меланж, поліестер, 24 х 20 х 7 см</name>
                 <name_ua>Барсетка Nike сірий меланж, поліестер, 24 х 20 х 7 см</name_ua>
@@ -1972,7 +1972,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1</quantity_in_stock>
+                <quantity_in_stock>0</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/09e3a42143cb1c52ba03.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0d6427a74d24b7df0379.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/3efee8fd6d2183cbd28a.jpg</picture>
@@ -2046,7 +2046,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>72</quantity_in_stock>
+                <quantity_in_stock>71</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e563cd341fcbc8b969ab.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ad56b678b5c0a4d9eefd.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cadb43b3ac50e822e3f3.jpg</picture>
@@ -2071,7 +2071,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>270</quantity_in_stock>
+                <quantity_in_stock>262</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/35735cb6733847d82500.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/a9f47d4fea8f152da1fe.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/205bfe0b11861c05d4b6.jpg</picture>
@@ -2140,7 +2140,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>266</quantity_in_stock>
+                <quantity_in_stock>264</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8ac24cf5ed67b5500dd4.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/253bf135c12696f53f38.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/bd3713d5b0ecc1cd7442.jpg</picture>
@@ -2182,7 +2182,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>295</quantity_in_stock>
+                <quantity_in_stock>296</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/cb67d26a3611fdf684cb.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6282cbee080b6ce30cc5.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0830e4f3afbb79150942.jpg</picture>
@@ -2351,7 +2351,7 @@
                 <description><![CDATA[<p><strong>Барсетка Adidas</strong> — идеальный выбор для современных пользователей, ценящих стиль и удобство.</p> <h3>Характеристики:</h3> <ul> <li><strong>Размер:</strong> 24 х 20 х 7 см</li> <li><strong>Материал:</strong> Полиэстер 600д</li> <li><strong>Фурнитура:</strong> Фирменная</li> <li><strong>Ремень:</strong> Регулируемая длина</li> <li><strong>Отделения:</strong> Одно большое отделение на змеевике сверху</li> <li><strong>Карманы:</strong> Задний карман на змеевике, передний карман без змеевика</li> <li><strong>Логотип:</strong> Накатка</li> </ul> <p>Эта барсетка удобна для повседневного использования и отлично дополнит ваш стиль.</p> <p>Больше фото: <a href="https://drive.google.com/drive/folders/1BzEc9fZTbb6Sy0TixXGGQa8_cLbpMxN7" target="_blank">Смотреть здесь</a></p>]]></description>
                 <description_ua><![CDATA[<p><strong>Барсетка Adidas</strong> — ідеальний вибір для сучасних користувачів, що цінують стиль та зручність.</p> <h3>Характеристики:</h3> <ul> <li><strong>Розмір:</strong> 24 х 20 х 7 см</li> <li><strong>Матеріал:</strong> Поліестер 600д</li> <li><strong>Фурнітура:</strong> Фірмова</li> <li><strong>Ремінь:</strong> Регульована довжина</li> <li><strong>Відділення:</strong> Одне велике відділення на змійці зверху</li> <li><strong>Кишені:</strong> Задня кишеня на змійці, передня кишеня без змійки</li> <li><strong>Логотип:</strong> Накатка</li> </ul> <p>Ця барсетка зручна для повсякденного використання і чудово доповнить ваш стиль.</p> <p>Більше фото: <a href="https://drive.google.com/drive/folders/1BzEc9fZTbb6Sy0TixXGGQa8_cLbpMxN7" target="_blank">Дивитися тут</a></p>]]></description_ua>
             </offer>
-            <offer id="P3-920733" available="false" in_stock="false">
+            <offer id="P3-920733" available="true" in_stock="true">
                 <url />
                 <name>Барсетка Nike черная 1000d с черным логотипом, регулируемая длина ремень</name>
                 <name_ua>Барсетка Nike чорна 1000d з чорним логотипом, регульована довжина ремінця</name_ua>
@@ -2359,7 +2359,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>0</quantity_in_stock>
+                <quantity_in_stock>1</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/ee5a6f9d3897851eaa33.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0718d295e955fa7e04ee.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/872045b178779e4ff3a9.jpg</picture>
@@ -2381,7 +2381,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>1331</quantity_in_stock>
+                <quantity_in_stock>1327</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/8f1d3efcfb443cc299db.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/e5f24f8c49c6fd06a423.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2c7e3e7ec29d42854fe8.jpg</picture>
@@ -2403,7 +2403,7 @@
                 <portal_category_id />
                 <price>349</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>122</quantity_in_stock>
+                <quantity_in_stock>119</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9b1dbfb9b53b743b2e7a.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/6143eb9da01135428128.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/c844f41b8c2c37f3003d.jpg</picture>
@@ -2529,7 +2529,7 @@
                 <portal_category_id />
                 <price>220</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>105</quantity_in_stock>
+                <quantity_in_stock>104</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/23199176a868affc6de1.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/0eee59d51b51c1e25796.jpg</picture>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/9ac125b28cdf5df7ca58.jpg</picture>
@@ -2780,7 +2780,7 @@
                 <portal_category_id />
                 <price>290</price>
                 <currencyId>UAH</currencyId>
-                <quantity_in_stock>98</quantity_in_stock>
+                <quantity_in_stock>99</quantity_in_stock>
                 <picture>https://backend.mydrop.com.ua/vendor/products/uploads/2d426e8fcbd6be1c31cb.jpg</picture>
                 <vendorCode>P3-1589871678</vendorCode>
                 <vendor />
